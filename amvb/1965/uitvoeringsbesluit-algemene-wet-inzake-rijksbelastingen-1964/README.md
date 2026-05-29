@@ -5,7 +5,7 @@ type: amvb
 title: Besluit van 18 december 1964, houdende uitvoering van de Algemene wet inzake rijksbelastingen
 ministry: Financiën
 abbreviation: Uitv besl  AWR
-latest_state: "2014-01-06"
+latest_state: "2026-01-01"
 state_count: 6
 ---
 
@@ -17,15 +17,15 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Uitv besl  AWR
-**ELI:** [/eli/nl/amvb/1965/uitvoeringsbesluit-algemene-wet-inzake-rijksbelastingen-1964](https://wetten.ai/eli/nl/amvb/1965/uitvoeringsbesluit-algemene-wet-inzake-rijksbelastingen-1964)
+**ELI:** [/eli/nl/amvb/1965/uitvoeringsbesluit-algemene-wet-inzake-rijksbelastingen-1964](https://wettenbank.online/eli/nl/amvb/1965/uitvoeringsbesluit-algemene-wet-inzake-rijksbelastingen-1964)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2014-01-06 | heden | [2014-01-06.md](./2014-01-06.md) |
 | 2011-01-01 | 2014-01-05 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2009-01-01 | 2010-10-09 | [2009-01-01.md](./2009-01-01.md) |
 | 2001-01-01 | 2008-12-31 | [2001-01-01.md](./2001-01-01.md) |

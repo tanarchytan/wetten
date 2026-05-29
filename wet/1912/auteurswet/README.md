@@ -5,8 +5,8 @@ type: wet
 title: Wet van 23 september 1912, houdende nieuwe regeling van het auteursrecht
 ministry: Veiligheid en Justitie
 abbreviation: Aw
-latest_state: "2025-07-01"
-state_count: 27
+latest_state: "2026-01-01"
+state_count: 28
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 27
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Aw
-**ELI:** [/eli/nl/wet/1912/auteurswet](https://wetten.ai/eli/nl/wet/1912/auteurswet)
+**ELI:** [/eli/nl/wet/1912/auteurswet](https://wettenbank.online/eli/nl/wet/1912/auteurswet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-02-04 | 2025-06-30 | [2025-02-04.md](./2025-02-04.md) |
 | 2022-10-01 | 2025-02-03 | [2022-10-01.md](./2022-10-01.md) |

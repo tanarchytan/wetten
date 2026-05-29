@@ -1,0 +1,25 @@
+---
+bwb_id: BWBV0003947
+eli: /eli/nl/verdrag/1975/bwbv0003947
+type: verdrag
+title: Notawisseling tussen de Nederlandse Regering en de Regering van Fidji inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken
+ministry: Buitenlandse Zaken
+abbreviation: null
+latest_state: "1975-11-18"
+state_count: 1
+---
+
+
+# Notawisseling tussen de Nederlandse Regering en de Regering van Fidji inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken
+
+**BWB-id:** BWBV0003947
+**Citeertitel:** Notawisseling tussen de Nederlandse Regering en de Regering van Fidji inzake de toepassing van het op 31 mei 1932 te Londen tussen Nederland en Groot-Brittannië gesloten Verdrag, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken
+**Type:** verdrag
+**Verantwoordelijk ministerie:** Buitenlandse Zaken
+**ELI:** [/eli/nl/verdrag/1975/bwbv0003947](https://wettenbank.online/eli/nl/verdrag/1975/bwbv0003947)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1975-11-18 | heden | [1975-11-18.md](./1975-11-18.md) |

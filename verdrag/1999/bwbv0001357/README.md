@@ -1,0 +1,25 @@
+---
+bwb_id: BWBV0001357
+eli: /eli/nl/verdrag/1999/bwbv0001357
+type: verdrag
+title: Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de afbakening van de territoriale zee
+ministry: Buitenlandse Zaken
+abbreviation: null
+latest_state: "1999-01-01"
+state_count: 1
+---
+
+
+# Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de afbakening van de territoriale zee
+
+**BWB-id:** BWBV0001357
+**Citeertitel:** Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België inzake de afbakening van de territoriale zee
+**Type:** verdrag
+**Verantwoordelijk ministerie:** Buitenlandse Zaken
+**ELI:** [/eli/nl/verdrag/1999/bwbv0001357](https://wettenbank.online/eli/nl/verdrag/1999/bwbv0001357)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1999-01-01 | heden | [1999-01-01.md](./1999-01-01.md) |

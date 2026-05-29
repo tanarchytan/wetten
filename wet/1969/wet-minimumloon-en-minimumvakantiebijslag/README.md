@@ -5,8 +5,8 @@ type: wet
 title: Wet van 27 november 1968, houdende regelen inzake een minimumloon en een minimumvakantiebijslag
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: WML
-latest_state: "2025-07-01"
-state_count: 59
+latest_state: "2026-02-04"
+state_count: 58
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 59
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** WML
-**ELI:** [/eli/nl/wet/1969/wet-minimumloon-en-minimumvakantiebijslag](https://wetten.ai/eli/nl/wet/1969/wet-minimumloon-en-minimumvakantiebijslag)
+**ELI:** [/eli/nl/wet/1969/wet-minimumloon-en-minimumvakantiebijslag](https://wettenbank.online/eli/nl/wet/1969/wet-minimumloon-en-minimumvakantiebijslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-04 | heden | [2026-02-04.md](./2026-02-04.md) |
+| 2026-01-01 | 2026-02-03 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -48,11 +50,8 @@ state_count: 59
 | 2016-01-01 | 2016-06-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-12-11 | 2015-12-31 | [2015-12-11.md](./2015-12-11.md) |
 | 2015-07-01 | 2015-12-10 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2015-12-10 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-01-01 | 2014-06-30 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-06-30 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |

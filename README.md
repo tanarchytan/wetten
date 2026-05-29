@@ -6,14 +6,18 @@ Auto-gegenereerd door [Wettenbank.online](https://wettenbank.online) uit het KOO
 
 ## Databronnen + actualiteit
 
-> ⚠️ **De huidige snapshot is van 3 september 2025**. Wijzigingen daarna zijn nog niet doorgevoerd.
-
-| Bron | Bestand / endpoint | Snapshot tot | Volgende verversing |
+| Bron | Endpoint / bestand | Coverage | Frequentie |
 |---|---|---|---|
-| KOOP BWB initial dump | `BWB_20250903_102559.7z` | 2025-09-03 | éénmalig — geen periodieke vervanging |
-| KOOP SRU delta-feed | `xml.overheid.nl/sru/bwb` (CQL `dt.modified>=…`) | nog niet aangezet | dagelijks zodra cron actief is in [wettenbank-online](https://github.com/tanarchytan/wettenbank) |
+| KOOP BWB initial dump | `BWB_20250903_102559.7z` | 2025-09-03 baseline | éénmalig |
+| **KOOP FRBR feed** | `repository.officiele-overheidspublicaties.nl/bwb/<BWBR>` | doorlopend t/m laatste KOOP-publicatie | **elke 12u via `bin/koop-bwb-sync.ts`** |
 
-De drift tussen 2025-09-03 en vandaag wordt ingehaald via `bin/sync-delta.ts` in de wettenbank repo.
+Deze corpus wordt automatisch bijgewerkt door [tanarchytan/wettenbank](https://github.com/tanarchytan/wettenbank) — twice-daily wordt per BWB-id `manifest.xml` opgevraagd met `If-Modified-Since`, en alleen gewijzigde regelingen + nieuwe states worden gedownload via:
+
+```
+https://repository.officiele-overheidspublicaties.nl/bwb/<BWBR>/<YYYY-MM-DD>_<rev>/xml/<file>.xml
+```
+
+Tier-based scheduling (12u/3d/14d/30d op basis van wijzigings-activiteit) minimaliseert de load op de KOOP-servers. Discovery van dit endpoint en de werkende grammar staat gedocumenteerd in de wettenbank-repo onder `docs/koop-bwb-feed-discovery.md`.
 
 ## Coverage
 

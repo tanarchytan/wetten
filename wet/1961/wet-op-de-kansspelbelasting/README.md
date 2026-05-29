@@ -5,8 +5,8 @@ type: wet
 title: Wet van 14 september 1961, houdende regelen inzake de belastingheffing met betrekking tot kansspelen
 ministry: Financiën
 abbreviation: WKB
-latest_state: "2025-01-01"
-state_count: 12
+latest_state: "2026-01-01"
+state_count: 13
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 12
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** WKB
-**ELI:** [/eli/nl/wet/1961/wet-op-de-kansspelbelasting](https://wetten.ai/eli/nl/wet/1961/wet-op-de-kansspelbelasting)
+**ELI:** [/eli/nl/wet/1961/wet-op-de-kansspelbelasting](https://wettenbank.online/eli/nl/wet/1961/wet-op-de-kansspelbelasting)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

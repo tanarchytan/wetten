@@ -1,0 +1,25 @@
+---
+bwb_id: BWBV0004880
+eli: /eli/nl/verdrag/0000/bwbv0004880
+type: verdrag
+title: Overeenkomst inzake de vaststelling van een gemeenschappelijk douanetarief voor de produkten voorkomende op lijst A1 van bijlage IV van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)
+ministry: Buitenlandse Zaken
+abbreviation: null
+latest_state: "1959-01-01"
+state_count: 1
+---
+
+
+# Overeenkomst inzake de vaststelling van een gemeenschappelijk douanetarief voor de produkten voorkomende op lijst A1 van bijlage IV van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)
+
+**BWB-id:** BWBV0004880
+**Citeertitel:** Overeenkomst inzake de vaststelling van een gemeenschappelijk douanetarief voor de produkten voorkomende op lijst A1 van bijlage IV van het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM)
+**Type:** verdrag
+**Verantwoordelijk ministerie:** Buitenlandse Zaken
+**ELI:** [/eli/nl/verdrag/0000/bwbv0004880](https://wettenbank.online/eli/nl/verdrag/0000/bwbv0004880)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1959-01-01 | heden | [1959-01-01.md](./1959-01-01.md) |

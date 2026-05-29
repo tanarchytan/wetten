@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 26 november 1969, tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 244 van Boek 1 van het Burgerlijk Wetboek
 ministry: Veiligheid en Justitie
 abbreviation: Bgr
-latest_state: "2023-01-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bgr
-**ELI:** [/eli/nl/amvb/1970/besluit-gezagsregisters](https://wetten.ai/eli/nl/amvb/1970/besluit-gezagsregisters)
+**ELI:** [/eli/nl/amvb/1970/besluit-gezagsregisters](https://wettenbank.online/eli/nl/amvb/1970/besluit-gezagsregisters)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
 | 2018-08-01 | 2022-12-31 | [2018-08-01.md](./2018-08-01.md) |
 | 2015-01-01 | 2018-07-31 | [2015-01-01.md](./2015-01-01.md) |

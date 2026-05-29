@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 3 december 2008, nr. 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-07-12"
-state_count: 38
+state_count: 34
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 38
 **Citeertitel:** Subsidieregeling starten, groeien en overdragen van ondernemingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-starten-groeien-en-overdragen-van-ondernemi](https://wetten.ai/eli/nl/ministeriele-regeling/2009/subsidieregeling-starten-groeien-en-overdragen-van-ondernemi)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-starten-groeien-en-overdragen-van-ondernemi](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/subsidieregeling-starten-groeien-en-overdragen-van-ondernemi)
 
 ## Versies
 
@@ -32,16 +32,12 @@ state_count: 38
 | 2012-07-01 | 2012-10-19 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-06-27 | 2012-06-30 | [2012-06-27.md](./2012-06-27.md) |
 | 2012-03-01 | 2012-06-26 | [2012-03-01.md](./2012-03-01.md) |
-| 2012-03-01 | 2012-06-26 | [2012-03-01.md](./2012-03-01.md) |
-| 2012-01-01 | 2012-02-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-02-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-12-29 | 2010-12-31 | [2010-12-29.md](./2010-12-29.md) |
 | 2010-12-14 | 2010-12-28 | [2010-12-14.md](./2010-12-14.md) |
 | 2010-11-05 | 2010-12-13 | [2010-11-05.md](./2010-11-05.md) |
-| 2010-11-05 | 2010-12-13 | [2010-11-05.md](./2010-11-05.md) |
-| 2010-11-01 | 2010-11-04 | [2010-11-01.md](./2010-11-01.md) |
 | 2010-11-01 | 2010-11-04 | [2010-11-01.md](./2010-11-01.md) |
 | 2010-10-01 | 2010-10-31 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-05-22 | 2010-09-30 | [2010-05-22.md](./2010-05-22.md) |

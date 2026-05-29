@@ -1,0 +1,26 @@
+---
+bwb_id: BWBV0003014
+eli: /eli/nl/verdrag/2008/bwbv0003014
+type: verdrag
+title: Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een verdrag tot wijziging van het Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor de Nederlandse Antillen en de Verenigde Staten van Amerika inzake het luchtvervoer tussen de Nederlandse Antillen en de Verenigde Staten van Amerika
+ministry: Buitenlandse Zaken
+abbreviation: null
+latest_state: "2008-04-28"
+state_count: 2
+---
+
+
+# Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een verdrag tot wijziging van het Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor de Nederlandse Antillen en de Verenigde Staten van Amerika inzake het luchtvervoer tussen de Nederlandse Antillen en de Verenigde Staten van Amerika
+
+**BWB-id:** BWBV0003014
+**Citeertitel:** Notawisseling tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika houdende een verdrag tot wijziging van het Luchtvaartverdrag tussen het Koninkrijk der Nederlanden voor de Nederlandse Antillen en de Verenigde Staten van Amerika inzake het luchtvervoer tussen de Nederlandse Antillen en de Verenigde Staten van Amerika
+**Type:** verdrag
+**Verantwoordelijk ministerie:** Buitenlandse Zaken
+**ELI:** [/eli/nl/verdrag/2008/bwbv0003014](https://wettenbank.online/eli/nl/verdrag/2008/bwbv0003014)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2008-04-28 | heden | [2008-04-28.md](./2008-04-28.md) |
+| 2007-11-27 | 2008-04-27 | [2007-11-27.md](./2007-11-27.md) |

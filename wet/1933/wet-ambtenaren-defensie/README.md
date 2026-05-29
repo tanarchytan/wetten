@@ -5,7 +5,7 @@ type: wet
 title: Wet van den 19den December 1931, houdende regelen betreffende den rechtstoestand van de militaire ambtenaren
 ministry: Defensie
 abbreviation: MAW
-latest_state: "2023-02-18"
+latest_state: "2026-01-01"
 state_count: 21
 ---
 
@@ -17,19 +17,19 @@ state_count: 21
 **Type:** wet
 **Verantwoordelijk ministerie:** Defensie
 **Afkorting:** MAW
-**ELI:** [/eli/nl/wet/1933/wet-ambtenaren-defensie](https://wetten.ai/eli/nl/wet/1933/wet-ambtenaren-defensie)
+**ELI:** [/eli/nl/wet/1933/wet-ambtenaren-defensie](https://wettenbank.online/eli/nl/wet/1933/wet-ambtenaren-defensie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-02-18 | heden | [2023-02-18.md](./2023-02-18.md) |
 | 2023-01-01 | 2023-02-17 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-01-01 | 2022-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-07-01 | 2018-05-24 | [2016-07-01.md](./2016-07-01.md) |
 | 2014-06-28 | 2016-06-30 | [2014-06-28.md](./2014-06-28.md) |

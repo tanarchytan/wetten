@@ -5,7 +5,7 @@ type: wet
 title: Wet van 12 februari 1969, houdende een nieuwe regeling met betrekking tot de kosten van vervolging inzake rijksbelastingen
 ministry: Financiën
 abbreviation: Kw Inv. Rb
-latest_state: "2025-01-01"
+latest_state: "2026-01-01"
 state_count: 26
 ---
 
@@ -17,16 +17,16 @@ state_count: 26
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Kw Inv. Rb
-**ELI:** [/eli/nl/wet/1969/kostenwet-invordering-rijksbelastingen](https://wetten.ai/eli/nl/wet/1969/kostenwet-invordering-rijksbelastingen)
+**ELI:** [/eli/nl/wet/1969/kostenwet-invordering-rijksbelastingen](https://wettenbank.online/eli/nl/wet/1969/kostenwet-invordering-rijksbelastingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
-| 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |

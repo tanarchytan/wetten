@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 18 januari 1969, houdende uitvoering van artikel 2, eerste lid van de Wet van 23 april 1879, Stb. 72, tot regeling der heffing van regten wegens de verrigtingen van den ambtenaar van den burgerlijken stand
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 26
+latest_state: "2026-01-01"
+state_count: 27
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 26
 **Citeertitel:** Legesbesluit akten burgerlijke stand
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1969/legesbesluit-akten-burgerlijke-stand](https://wetten.ai/eli/nl/amvb/1969/legesbesluit-akten-burgerlijke-stand)
+**ELI:** [/eli/nl/amvb/1969/legesbesluit-akten-burgerlijke-stand](https://wettenbank.online/eli/nl/amvb/1969/legesbesluit-akten-burgerlijke-stand)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

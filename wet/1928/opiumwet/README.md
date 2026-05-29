@@ -5,8 +5,8 @@ type: wet
 title: Wet van 12 mei 1928, tot vaststelling van bepalingen betreffende het opium en andere verdoovende middelen
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Opw
-latest_state: "2025-07-01"
-state_count: 43
+latest_state: "2026-01-28"
+state_count: 45
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 43
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Opw
-**ELI:** [/eli/nl/wet/1928/opiumwet](https://wetten.ai/eli/nl/wet/1928/opiumwet)
+**ELI:** [/eli/nl/wet/1928/opiumwet](https://wettenbank.online/eli/nl/wet/1928/opiumwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-28 | heden | [2026-01-28.md](./2026-01-28.md) |
+| 2026-01-01 | 2026-01-27 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2024-04-16 | 2025-06-30 | [2024-04-16.md](./2024-04-16.md) |
 | 2023-09-12 | 2024-04-15 | [2023-09-12.md](./2023-09-12.md) |

@@ -6,7 +6,7 @@ title: Fiscale tegemoetkomingen naar aanleiding van de coronacrisis; (Besluit no
 ministry: Financiën
 abbreviation: null
 latest_state: "2022-01-21"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Besluit noodmaatregelen coronacrisis
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/beleidsregel/2021/besluit-noodmaatregelen-coronacrisis-bwbr0046071](https://wetten.ai/eli/nl/beleidsregel/2021/besluit-noodmaatregelen-coronacrisis-bwbr0046071)
+**ELI:** [/eli/nl/beleidsregel/2021/besluit-noodmaatregelen-coronacrisis-bwbr0046071](https://wettenbank.online/eli/nl/beleidsregel/2021/besluit-noodmaatregelen-coronacrisis-bwbr0046071)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 16
 |---|---|---|
 | 2022-01-21 | 2022-01-31 | [2022-01-21.md](./2022-01-21.md) |
 | 2021-12-25 | 2022-01-20 | [2021-12-25.md](./2021-12-25.md) |
-| 2021-12-25 | 2022-01-20 | [2021-12-25.md](./2021-12-25.md) |
-| 2021-11-28 | 2021-12-24 | [2021-11-28.md](./2021-11-28.md) |
 | 2021-11-28 | 2021-12-24 | [2021-11-28.md](./2021-11-28.md) |
 | 2021-10-01 | 2021-11-27 | [2021-10-01.md](./2021-10-01.md) |
 | 2021-05-19 | 2021-09-30 | [2021-05-19.md](./2021-05-19.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 12 februari 1970, houdende regelen met betrekking tot de loonvorming
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: LV
-latest_state: "2021-07-01"
-state_count: 6
+latest_state: "2026-01-01"
+state_count: 7
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 6
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** LV
-**ELI:** [/eli/nl/wet/1969/wet-op-de-loonvorming](https://wetten.ai/eli/nl/wet/1969/wet-op-de-loonvorming)
+**ELI:** [/eli/nl/wet/1969/wet-op-de-loonvorming](https://wettenbank.online/eli/nl/wet/1969/wet-op-de-loonvorming)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2021-07-01 | heden | [2021-07-01.md](./2021-07-01.md) |
 | 2020-01-01 | 2021-06-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-11-01 | 2019-12-31 | [2019-11-01.md](./2019-11-01.md) |
