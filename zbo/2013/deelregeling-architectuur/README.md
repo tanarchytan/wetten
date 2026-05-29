@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0032561
+eli: /eli/nl/zbo/2013/deelregeling-architectuur
+type: zbo
+title: Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van architectuur in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten
+ministry: Stichting Stimuleringsfonds Creatieve Industrie
+abbreviation: null
+latest_state: "2013-01-01"
+state_count: 1
+---
+
+
+# Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van architectuur in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten
+
+**BWB-id:** BWBR0032561
+**Citeertitel:** Deelregeling Architectuur
+**Type:** zbo
+**Verantwoordelijk ministerie:** Stichting Stimuleringsfonds Creatieve Industrie
+**ELI:** [/eli/nl/zbo/2013/deelregeling-architectuur](https://wetten.ai/eli/nl/zbo/2013/deelregeling-architectuur)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |

@@ -1,0 +1,7 @@
+# Rijkswet — 2017
+
+ELI: `/eli/nl/rijkswet/2017/*`
+
+- [BWBR0038345 — Rijkswet van 13 juli 2016, houdende aanpassing van Rijkswetten in verband met de invoering van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht en van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering in verband met vereenvoudiging en digitalisering van het procesrecht in hoger beroep en cassatie alsmede in verband met de uitbreiding van prejudiciële vragen aan de Hoge Raad (Invoeringsrijkswet vereenvoudiging en digitalisering procesrecht en uitbreiding prejudiciële vragen)](invoeringsrijkswet-vereenvoudiging-en-digitalisering-procesr/README.md) · 1 versie
+- [BWBR0038211 — Rijkswet van 15 juni 2016, houdende bepalingen omtrent de toepassing in Aruba, Curaçao en Sint Maarten van beperkende maatregelen met het oog op de handhaving of het herstel van de internationale vrede en veiligheid of de bevordering van de internationale rechtsorde dan wel de bestrijding van terrorisme, vastgesteld in het kader van het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie (Rijkssanctiewet)](rijkssanctiewet/README.md) · 1 versie
+- [BWBR0039575 — Rijkswet van 21 april 2017, houdende wijziging van de Rijkswet goedkeuring en bekendmaking verdragen in verband met het informeren van de Staten-Generaal over een ieder verbindende bepalingen van verdragen](wijzigingswet-rijkswet-goedkeuring-en-bekendmaking-verdragen/README.md) · 1 versie

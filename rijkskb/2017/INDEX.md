@@ -1,0 +1,7 @@
+# Rijkskb — 2017
+
+ELI: `/eli/nl/rijkskb/2017/*`
+
+- [BWBR0038334 — Besluit van 13 juli 2016, houdende aanpassing van het Besluit termijnen Rijkswet cassatierechtspraak voor Aruba, Curaçao, Sint Maarten en voor Bonaire, Sint Eustatius en Saba in verband met de invoering van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht en van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering in verband met vereenvoudiging en digitalisering van het procesrecht in hoger beroep en cassatie (Aanpassingsrijksbesluit vereenvoudiging en digitalisering procesrecht)](aanpassingsrijksbesluit-vereenvoudiging-en-digitalisering-pr/README.md) · 1 versie
+- [BWBR0038815 — Besluit van 15 november 2016 tot wijziging van het Rijksbesluit uitvoeringsbepalingen militair straf- en tuchtrecht in verband met de wijziging van artikel 59 Wetboek van Militair Strafrecht en enkele andere bepalingen](wijzigingsbesluit-rijksbesluit-uitvoeringsbepalingen-militai/README.md) · 1 versie
+- [BWBR0039420 — Besluit van 3 april 2017, houdende de overdracht van de bevoegdheden in het kader van de organisatie en de uitvoering van de verkiezingen van de Staten van Curaçao, bedoeld in het landsbesluit van 12 februari 2017, houdende de ontbinding van de Staten](besluit-overdracht-bevoegdheden-in-het-kader-van-organisatie/README.md) · 1 versie

@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0032785
+eli: /eli/nl/pbo/2012/verordening-bestemmingsheffing-schoenherstellersbedrijf-ople
+type: pbo
+title: Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 7 november 2012, houdende regels terzake van de aan de ondernemers die het schoenherstellersbedrijf uitoefenen op te leggen bestemmingsheffing voor het jaar 2013 (Verordening bestemmingsheffing schoenherstellersbedrijf opleiding 2013)
+ministry: Hoofdbedrijfschap Ambachten
+abbreviation: null
+latest_state: "2012-12-22"
+state_count: 1
+---
+
+
+# Verordening van het bestuur van het Hoofdbedrijfschap Ambachten van 7 november 2012, houdende regels terzake van de aan de ondernemers die het schoenherstellersbedrijf uitoefenen op te leggen bestemmingsheffing voor het jaar 2013 (Verordening bestemmingsheffing schoenherstellersbedrijf opleiding 2013)
+
+**BWB-id:** BWBR0032785
+**Citeertitel:** Verordening bestemmingsheffing schoenherstellersbedrijf opleiding 2013
+**Type:** pbo
+**Verantwoordelijk ministerie:** Hoofdbedrijfschap Ambachten
+**ELI:** [/eli/nl/pbo/2012/verordening-bestemmingsheffing-schoenherstellersbedrijf-ople](https://wetten.ai/eli/nl/pbo/2012/verordening-bestemmingsheffing-schoenherstellersbedrijf-ople)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2012-12-22 | 2019-10-15 | [2012-12-22.md](./2012-12-22.md) |

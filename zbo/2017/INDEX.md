@@ -1,0 +1,265 @@
+# Zbo — 2017
+
+ELI: `/eli/nl/zbo/2017/*`
+
+- [BWBR0039504 — Addendum Model Jaarverslaggeving 2016 CAK](addendum-model-jaarverslaggeving-2016-cak/README.md) · 1 versie
+- [BWBR0039503 — Addendum Protocol Accountantsonderzoek 2016](addendum-protocol-accountantsonderzoek-2016/README.md) · 1 versie
+- [BWBR0038798 — Algemeen Reglement Mondriaan Fonds 2017](algemeen-reglement-mondriaan-fonds-2017/README.md) · 1 versie
+- [BWBR0038764 — Algemeen Reglement van de Stichting Nederlands Fonds voor de Film](algemeen-reglement-van-de-stichting-nederlands-fonds-voor-de/README.md) · 1 versie
+- [BWBR0039127 — Algemeen Subsidiereglement Fonds voor Cultuurparticipatie](algemeen-subsidiereglement-fonds-voor-cultuurparticipatie/README.md) · 1 versie
+- [BWBR0040302 — Beëindiging NWO Stimuleringsfondsen Open Access Publicaties en Conferenties per 1 januari 2018](be-indiging-nwo-stimuleringsfondsen-open-access-publicaties-/README.md) · 1 versie
+- [BWBR0039590 — Beleid beoordeling verzoeken notarissen om een ontheffing van de verplichting om een samenstellingsverklaring te verstrekken bij het indienen van kwartaalcijfers over het eerste tot en met het vierde kwartaal 2018](beleid-beoordeling-verzoeken-notarissen-om-een-ontheffing-va/README.md) · 1 versie
+- [BWBR0040135 — Beleidsregel ACM beoordeling doelmatige kosten van niet-reguliere uitbreidingsinvesteringen](beleidsregel-acm-beoordeling-doelmatige-kosten-van-niet-regu/README.md) · 1 versie
+- [BWBR0039100 — Beleidsregel boete werkgevers ZW](beleidsregel-boete-werkgevers-zw/README.md) · 2 versies
+- [BWBR0038653 — Beleidsregel boete werknemer 2017](beleidsregel-boete-werknemer-2017/README.md) · 1 versie
+- [BWBR0038994 — Beleidsregel CAK betaling bestuurlijke boete onverzekerden Zorgverzekeringswet 2017](beleidsregel-cak-betaling-bestuurlijke-boete-onverzekerden-z/README.md) · 1 versie
+- [BWBR0039200 — Beleidsregel criteria voor afwijkingen EU Aansluitverordeningen](beleidsregel-criteria-voor-afwijkingen-eu-aansluitverordenin/README.md) · 1 versie
+- [BWBR0039057 — Beleidsregel last onder dwangsom van de NIWO](beleidsregel-last-onder-dwangsom-van-de-niwo/README.md) · 1 versie
+- [BWBR0039791 — Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies](beleidsregel-ontheffingverlening-voertuigen-met-geautomatise/README.md) · 1 versie
+- [BWBR0039015 — Beleidsregel terugvordering bestuursrechtelijke geldsommen door de NZa](beleidsregel-terugvordering-bestuursrechtelijke-geldsommen-d/README.md) · 1 versie
+- [BWBR0040319 — Beleidsregel toekenning en intrekking informatienummers](beleidsregel-toekenning-en-intrekking-informatienummers/README.md) · 1 versie
+- [BWBR0039152 — Beleidsregel UWV normbedragen voorzieningen 2017](beleidsregel-uwv-normbedragen-voorzieningen-2017/README.md) · 10 versies
+- [BWBR0039034 — Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de toepassing van regels van verordening 1071/2009/EG, Wet wegvervoer goederen en het Besluit wegvervoer goederen houdende bepalingen in verband met de uitvoering van de evenredigheidstoets en het sanctioneren van de vervoerder en de vervoersmanager bij verlies van de betrouwbaarheid in het goederenvervoer over de weg (Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg)](beleidsregel-evenredigheidstoets-en-sanctionering-bij-verlie/README.md) · 1 versie
+- [BWBR0039061 — Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen en verordening 1071/2009/EG ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)](beleidsregel-vergunningverlening-van-de-niwo-bwbr0039061/README.md) · 1 versie
+- [BWBR0040349 — Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen en verordening 1071/2009/EG ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)](beleidsregel-vergunningverlening-van-de-niwo-bwbr0040349/README.md) · 1 versie
+- [BWBR0039046 — Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)](beleidsregel-toetsing-vergunningen-beroepsgoederenvervoer-ov/README.md) · 1 versie
+- [BWBR0039820 — Beleidsregel van De Nederlandsche Bank N.V. inzake de reikwijdte en uitvoering van het depositogarantiestelsel als bedoeld in artikel 3:259, lid 2 van de Wft (Beleidsregel Reikwijdte en Uitvoering Depositogarantiestelsel)](beleidsregel-reikwijdte-en-uitvoering-depositogarantiestelse/README.md) · 6 versies
+- [BWBR0039826 — Beleidsregel van De Nederlandsche Bank N.V. van 10 juli 2017 houdende regels met betrekking tot het samenstellen door banken van individuele klantbeelden ten behoeve van het depositogarantiestelsel en het afwikkelinstrumentarium (Beleidsregel Individueel Klantbeeld)](beleidsregel-individueel-klantbeeld-wft-2017/README.md) · 8 versies
+- [BWBR0038957 — Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2017](beleidsregels-cak-inning-bestuursrechtelijke-premie-zorgverz/README.md) · 1 versie
+- [BWBR0039018 — Beleidsregels CAK verstrekking bijdrage aan zorgverzekeraars voor het verzekerd houden van wanbetalers van de nominale premie Zorgverzekeringswet 2017](beleidsregels-cak-verstrekking-bijdrage-aan-zorgverzekeraars/README.md) · 2 versies
+- [BWBR0038976 — Beleidsregels indicatiestelling Wlz 2017](beleidsregels-indicatiestelling-wlz-2017/README.md) · 1 versie
+- [BWBR0039600 — Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz 2017 voor de Sociale Verzekeringsbank](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039600/README.md) · 5 versies
+- [BWBR0039324 — Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2017](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039324/README.md) · 5 versies
+- [BWBR0039323 — Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgkantoren Wlz 2017](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039323/README.md) · 14 versies
+- [BWBR0039248 — Beleidsregels toetsing eindtermen praktijkopleiding](beleidsregels-toetsing-eindtermen-praktijkopleiding/README.md) · 1 versie
+- [BWBR0040098 — Beleidsregels vereveningsbijdrage zorgverzekering 2018](beleidsregels-vereveningsbijdrage-zorgverzekering-2018/README.md) · 5 versies
+- [BWBR0039004 — Beschikking individueel mbi-omzetplafond 2017](beschikking-individueel-mbi-omzetplafond-2017/README.md) · 1 versie
+- [BWBR0039001 — Beschikking landelijk mbi-omzetplafond 2017](beschikking-landelijk-mbi-omzetplafond-2017/README.md) · 1 versie
+- [BWBR0038854 — Beschikking TB/REG-17637-01 Macrobeheersinstrument huisartsenzorg 2017](beschikking-tb-reg-17637-01-macrobeheersinstrument-huisartse/README.md) · 1 versie
+- [BWBR0038855 — Beschikking vaststelling omzetgrens Macrobeheersinstrument multidisciplinaire zorg 2017](beschikking-vaststelling-omzetgrens-macrobeheersinstrument-m/README.md) · 1 versie
+- [BWBR0038845 — Beschikking vaststelling omzetgrens Macrobeheersinstrument verpleging en verzorging 2017](beschikking-vaststelling-omzetgrens-macrobeheersinstrument-v/README.md) · 1 versie
+- [BWBR0038714 — Besluit Aanmeldprocedure Staatsexamens NT2 2018](besluit-aanmeldprocedure-staatsexamens-nt2-2018/README.md) · 1 versie
+- [BWBR0039223 — Besluit aanwijzing medewerkers Bureau Financieel Toezicht 2017](besluit-aanwijzing-medewerkers-bft-2017/README.md) · 3 versies
+- [BWBR0039735 — Besluit afnameperiodes vaststelling rekentoets voortgezet onderwijs, schooljaar 2017–2018](besluit-afnameperiodes-vaststelling-rekentoets-voortgezet-on/README.md) · 1 versie
+- [BWBR0039315 — Besluit beantwoordingstermijn voor verzoeken om toegang tot, en levering van diensten in een dienstvoorziening](besluit-beantwoordingstermijn-voor-verzoeken-om-toegang-tot-/README.md) · 1 versie
+- [BWBR0040045 — Besluit beperking openbaarheid – Bureau Certificatie](besluit-beperking-openbaarheid-bureau-certificatie/README.md) · 1 versie
+- [BWBR0040093 — Besluit beperking openbaarheid archief Nederlandsche Bank N.V., Commissie van Advies inzake Zuivering Personeel, 1945 – 1946](besluit-beperking-openbaarheid-archief-nederlandsche-bank-n-/README.md) · 1 versie
+- [BWBR0040400 — Besluit beperking openbaarheid archief Stimuleringsfonds Nederlandse Culturele Omroepproducties](besluit-beperking-openbaarheid-archief-stimuleringsfonds-ned/README.md) · 1 versie
+- [BWBR0040092 — Besluit beperking openbaarheid archief van De Nederlandsche Bank N.V., Stichting Voorzieningsfonds voor Personeelsleden en Pensioentrekkenden, 1914–2008](besluit-beperking-openbaarheid-archief-van-de-nederlandsche-/README.md) · 1 versie
+- [BWBR0039039 — Besluit CAK ondermandaat broninhouding bijdrage voor verdragsgerechtigden](besluit-cak-ondermandaat-broninhouding-bijdrage-voor-verdrag/README.md) · 1 versie
+- [BWBR0039048 — Besluit CAK verder ondermandaat en machtiging overgangsregeling WLZ zorg in het buitenland](besluit-cak-verder-ondermandaat-en-machtiging-overgangsregel/README.md) · 1 versie
+- [BWBR0038470 — Besluit gedifferentieerde premie Whk 2017](besluit-gedifferentieerde-premie-whk-2017/README.md) · 1 versie
+- [BWBR0039322 — Besluit inschrijvingsvoorwaarden mediators 2017](besluit-inschrijvingsvoorwaarden-mediators-2017/README.md) · 1 versie
+- [BWBR0038946 — Besluit mandaat, volmacht en machtiging CAK](besluit-mandaat-volmacht-en-machtiging-cak-bwbr0038946/README.md) · 1 versie
+- [BWBR0039858 — Besluit mandaat, volmacht en machtiging CAK](besluit-mandaat-volmacht-en-machtiging-cak-bwbr0039858/README.md) · 1 versie
+- [BWBR0039047 — Besluit ondermandaat en ondervolmacht overgangsregeling Missionarissen CAK](besluit-ondermandaat-en-ondervolmacht-overgangsregeling-miss/README.md) · 1 versie
+- [BWBR0039874 — Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep](besluit-ondermandaat-volmacht-en-machtiging-afdeling-bezwaar-bwbr0039874/README.md) · 1 versie
+- [BWBR0039085 — Besluit ondermandaat, volmacht en machtiging afdeling Bezwaar & Beroep CAK](besluit-ondermandaat-volmacht-en-machtiging-afdeling-bezwaar-bwbr0039085/README.md) · 1 versie
+- [BWBR0039890 — Besluit ondermandaat, volmacht en machtiging afdeling Buitenland](besluit-ondermandaat-volmacht-en-machtiging-afdeling-buitenl/README.md) · 1 versie
+- [BWBR0039159 — Besluit ondermandaat, volmacht en machtiging afdeling Informatie Centrum Burgers](besluit-ondermandaat-volmacht-en-machtiging-afdeling-informa-bwbr0039159/README.md) · 1 versie
+- [BWBR0039889 — Besluit ondermandaat, volmacht en machtiging afdeling Informatie Centrum Burgers](besluit-ondermandaat-volmacht-en-machtiging-afdeling-informa-bwbr0039889/README.md) · 1 versie
+- [BWBR0039161 — Besluit ondermandaat, volmacht en machtiging afdeling Verzekering Burgers](besluit-ondermandaat-volmacht-en-machtiging-afdeling-verzeke-bwbr0039161/README.md) · 1 versie
+- [BWBR0039873 — Besluit ondermandaat, volmacht en machtiging afdeling Verzekering Burgers](besluit-ondermandaat-volmacht-en-machtiging-afdeling-verzeke-bwbr0039873/README.md) · 1 versie
+- [BWBR0039137 — Besluit ondermandaat, volmacht en machtiging CAK afdeling Buitenland](besluit-ondermandaat-volmacht-en-machtiging-cak-afdeling-bui/README.md) · 1 versie
+- [BWBR0039610 — Besluit ondermandaat, volmacht en machtiging inzake Subsidieregeling medisch noodzakelijke zorg aan onverzekerden](besluit-ondermandaat-volmacht-en-machtiging-inzake-subsidier/README.md) · 2 versies
+- [BWBR0038837 — Besluit premievaststelling vrijwillige verzekering WAO 2017](besluit-premievaststelling-vrijwillige-verzekering-wao-2017/README.md) · 1 versie
+- [BWBR0038840 — Besluit premievaststelling vrijwillige verzekering WIA 2017](besluit-premievaststelling-vrijwillige-verzekering-wia-2017/README.md) · 1 versie
+- [BWBR0038842 — Besluit premievaststelling vrijwillige verzekering ZW 2017](besluit-premievaststelling-vrijwillige-verzekering-zw-2017/README.md) · 1 versie
+- [BWBR0038838 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2017](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0040408 — Besluit tot vaststelling van de factoren L en r voor het boekjaar 2018](besluit-vaststelling-factoren-l-en-r-boekjaar-2018/README.md) · 1 versie
+- [BWBR0039158 — Besluit UWV Onderzoekssubsidie 2017 ’Duurzaam aan het werk’](besluit-uwv-onderzoekssubsidie-2017-duurzaam-aan-het-werk/README.md) · 1 versie
+- [BWBR0039352 — Besluit UWV Onderzoekssubsidie 2017 ‘Financiële problematiek en een arbeidsbeperking’](besluit-uwv-onderzoekssubsidie-2017-financi-le-problematiek-/README.md) · 1 versie
+- [BWBR0039897 — Besluit van 1 augustus 2017 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2017/8563, houdende de aanwijzing van inspecteurs die zijn belast met het toezicht op de naleving van de Kernenergiewet (Besluit aanwijzing ANVS-toezichthouders Kernenergiewet)](besluit-aanwijzing-anvs-toezichthouders-kernenergiewet/README.md) · 3 versies
+- [BWBR0039853 — Besluit van 1 augustus 2017 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2017/8564, houdende verlening van mandaat, ondermandaat, volmacht en machtiging aan leden, afdelingshoofden en inspecteurs van de ANVS (Besluit mandaat en ondermandaat, volmacht en machtiging Autoriteit Nucleaire Veiligheid en Stralingsbescherming)](besluit-mandaat-en-ondermandaat-volmacht-en-machtiging-autor-bwbr0039853/README.md) · 1 versie
+- [BWBR0040232 — Besluit van 13 november 2017 tot beperking openbaarheid – Afdeling Export- en Importgaranties en opvolger](besluit-beperking-openbaarheid-afdeling-export-en-importgara/README.md) · 1 versie
+- [BWBR0040188 — Besluit van 31 oktober 2017 van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming, nr. ANVS-2017/12712, houdende verlening van mandaat, ondermandaat, volmacht en machtiging aan leden, afdelingshoofden en inspecteurs van de ANVS (Besluit mandaat en ondermandaat, volmacht en machtiging Autoriteit Nucleaire Veiligheid en Stralingsbescherming 2017)](besluit-mandaat-en-ondermandaat-volmacht-en-machtiging-autor-bwbr0040188/README.md) · 4 versies
+- [BWBR0039984 — Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming van 24 augustus 2017, nr. ANVS-2017/8574, tot vaststelling van een bestuursreglement (Bestuursreglement ANVS)](bestuursreglement-anvs/README.md) · 6 versies
+- [BWBR0039187 — Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)](beleidsregels-meldingen-in-het-kader-van-een-projectvergunni-bwbr0039187/README.md) · 1 versie
+- [BWBR0039251 — Besluit van de Centrale Commissie Dierproeven van 28 oktober 2016, ref CCD 16-15-09, houdende regels inzake meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven (Besluit Meldingen in het kader van een projectvergunning van de Centrale Commissie Dierproeven CCD 2016)](beleidsregels-meldingen-in-het-kader-van-een-projectvergunni-bwbr0039251/README.md) · 1 versie
+- [BWBR0040464 — Besluit van de directeur van de Autoriteit Persoonsgegevens, houdende verlening van volmacht en machtiging ten behoeve van beheerstaken aan functionarissen van het secretariaat (Besluit volmacht en machtiging beheer functionarissen Autoriteit Persoonsgegevens)](besluit-volmacht-en-machtiging-beheer-functionarissen-autori/README.md) · 2 versies
+- [BWBR0039055 — Besluit van de directeur- generaal van de statistiek van 9 december 2016 tot vaststelling van een bestuursreglement (Bestuursreglement CBS)](bestuursreglement-cbs/README.md) · 2 versies
+- [BWBR0039068 — Besluit van de directie van de Nationale en Internationale Wegvervoer Organisatie (NIWO) houdende verlening van ondertekeningsmandaat (Mandaatbesluit van de NIWO)](mandaatbesluit-van-de-niwo/README.md) · 1 versie
+- [BWBR0039045 — Besluit van de Kamer van Koophandel inhoudende de verlening van mandaat, volmacht en machtiging aan diverse functionarissen van de Kamer van Koophandel (Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2017)](besluit-mandaat-volmacht-en-machtiging-diverse-functionariss/README.md) · 2 versies
+- [BWBR0040106 — Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 28 oktober 2016, 2016-0000228339, tot goedkeuring van de door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde lastenplafonds sectorfondsen 2017](besluit-vaststelling-lastenplafonds-sectorfondsen-2017/README.md) · 1 versie
+- [BWBR0039940 — Besluit van de Pensioen- en Uitkeringsraad van 12 juli 2017, houdende de bekendmaking van de beleidsregels 2017 (Besluit Beleidsregels PUR 2017)](besluit-beleidsregels-pur-2017/README.md) · 1 versie
+- [BWBR0039818 — Besluit van de raad van bestuur van de kansspelautoriteit van 29 juni 2017, kenmerk 10389, inzake de verlening van een vergunning tot het organiseren van de totalisator (Vergunning totalisator 2017–2022)](besluit-verlening-vergunning-organiseren-totalisator-2017-20/README.md) · 2 versies
+- [BWBR0040311 — Besluit van de Referendumcommissie van 1 december 2017 tot vaststelling van de eerste dag waarop een aanvraag voor subsidie kan worden ingediend voor activiteiten die tot doel hebben het publieke debat in Nederland te bevorderen over de aan het referendum onderworpen Wet van 26 juli 2017, houdende regels met betrekking tot de inlichtingen- en veiligheidsdiensten alsmede wijziging van enkele wetten (Wet op de inlichtingen- en veiligheidsdiensten 2017) (Stb. 2017, nr. 317)](besluit-vaststelling-eerste-dag-aanvraag-subsidies-ter-bevor/README.md) · 1 versie
+- [BWBR0038582 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering ter bevordering van talentontwikkeling op het gebied van architectuur, vormgeving en digitale cultuur](deelregeling-talentontwikkeling-creatieve-industrie-bwbr0038582/README.md) · 1 versie
+- [BWBR0038577 — Besluit van het Bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter versterking van de internationale positie op het gebied van architectuur, vormgeving en digitale cultuur](deelregeling-internationalisering-creatieve-industrie-bwbr0038577/README.md) · 1 versie
+- [BWBR0039049 — Besluit van het CAK tot mandaat en machtiging aan het CJIB voor de inning van bestuurlijke boete en bestuursrechtelijke premie Zorgverzekeringswet](besluit-cak-mandaat-en-machtiging-aan-het-cjib-voor-de-innin/README.md) · 1 versie
+- [BWBR0039097 — Besluit van het College voor de Rechten van de Mens met betrekking tot digitale vervanging van personele archiefbescheiden](vervangingsbesluit-personele-archiefbescheiden-veiligheid-en/README.md) · 1 versie
+- [BWBR0039506 — Besluit van het College voor Toetsen en Examens van 18 april 2017 tot hernieuwde vaststelling tijdvakken centrale examinering mbo, studiejaar 2017–2018](besluit-hernieuwde-vaststelling-tijdvakken-centrale-examiner/README.md) · 1 versie
+- [BWBR0039752 — Besluit vaststelling afnameperiode Centrale Eindtoets po, schooljaar 2018–2019](besluit-vaststelling-afnameperiode-centrale-eindtoets-po-sch/README.md) · 2 versies
+- [BWBR0039069 — Besluit vaststelling factoren L en r boekjaar 2017](besluit-vaststelling-factoren-l-en-r-boekjaar-2017/README.md) · 2 versies
+- [BWBR0039104 — Besluit vaststelling sectorpremies 2017](besluit-vaststelling-sectorpremies-2017/README.md) · 1 versie
+- [BWBR0040065 — Besluit vaststelling subsidieplafond voor subsidiëring ex Reglement Stimuleringsmaatregel Filmproductie in Nederland](besluit-vaststelling-subsidieplafond-voor-subsidi-ring-ex-re/README.md) · 2 versies
+- [BWBR0040312 — Besluit vaststelling termijnen voor de klachtenprocedure van artikel 71 van de Spoorwegwet](besluit-vaststelling-termijnen-voor-de-klachtenprocedure-van/README.md) · 1 versie
+- [BWBR0039059 — Besluit vergunning BankGiro Loterij 2017–2021](besluit-vergunning-bankgiro-loterij-2017-2021/README.md) · 2 versies
+- [BWBR0039063 — Besluit vergunning Beter Lot 2017 – 2021](besluit-vergunning-beter-lot-2017-2021/README.md) · 3 versies
+- [BWBR0039044 — Besluit vergunning instantloterij 2017–2021](besluit-vergunning-instantloterij-2017-2021/README.md) · 1 versie
+- [BWBR0039051 — Besluit vergunning Lotto 2017–2021](besluit-vergunning-lotto-2017-2021/README.md) · 1 versie
+- [BWBR0039058 — Besluit vergunning nationale postcode loterij 2017 – 2021](besluit-vergunning-nationale-postcode-loterij-2017-2021/README.md) · 2 versies
+- [BWBR0039038 — Besluit vergunning Samenwerkende Non-profit Loterijen 2017–2021](besluit-vergunning-samenwerkende-non-profit-loterijen-2017-2/README.md) · 2 versies
+- [BWBR0039060 — Besluit vergunning vriendenloterij 2017-2021](besluit-vergunning-vriendenloterij-2017-2021/README.md) · 2 versies
+- [BWBR0039999 — Besluit vervanging archiefbescheiden RDW 2017](besluit-vervanging-archiefbescheiden-rdw-2017/README.md) · 1 versie
+- [BWBR0040426 — Besluit vervanging van analoge archiefbescheiden Nederlandse Zorgautoriteit 2017](besluit-vervanging-analoge-archiefbescheiden-nederlandse-zor/README.md) · 1 versie
+- [BWBR0038879 — Besluit werkgebieden UWV 2017](besluit-werkgebieden-uwv-2017/README.md) · 1 versie
+- [BWBR0039135 — Besluit wijziging eindtermen accountantsopleidingen 2016](besluit-wijziging-eindtermen-accountantsopleidingen-2016/README.md) · 2 versies
+- [BWBR0039246 — Bestuursreglement NWO 2017](bestuursreglement-nwo-2017/README.md) · 2 versies
+- [BWBR0039859 — Bevoegdhedenregeling COA](bevoegdhedenregeling-coa/README.md) · 1 versie
+- [BWBR0038966 — Bevoegdhedenregeling NWO 2017](bevoegdhedenregeling-nwo-2017-bwbr0038966/README.md) · 2 versies
+- [BWBR0039247 — Bevoegdhedenregeling NWO 2017](bevoegdhedenregeling-nwo-2017-bwbr0039247/README.md) · 2 versies
+- [BWBR0039847 — Call for proposals – Complexity – Programmable Self-organisation – ENW](call-for-proposals-complexity-programmable-self-organisation/README.md) · 1 versie
+- [BWBR0039842 — Call for proposals Stichting Van Moorsel en Rijnierse – SGW](call-for-proposals-stichting-van-moorsel-en-rijnierse-sgw/README.md) · 1 versie
+- [BWBR0039734 — Call for proposals Take-off fase 1 – Haalbaarheidsstudies TO2 – Ronde 1 – Najaar 2017](call-for-proposals-take-off-fase-1-haalbaarheidsstudies-to2-/README.md) · 1 versie
+- [BWBR0039729 — Call for proposals Take-off fase 1 Haalbaarheidsstudies WO Ronde 7 – Najaar 2017](call-for-proposals-take-off-fase-1-haalbaarheidsstudies-wo-r/README.md) · 1 versie
+- [BWBR0039737 — Call for proposals Take-off fase 2 Vroegefasetrajecten WO, HBO & TO2 Ronde 7 – Najaar 2017](call-for-proposals-take-off-fase-2-vroegefasetrajecten-wo-hb/README.md) · 1 versie
+- [BWBR0039776 — Call for proposals Take-off HBO – fase 1: haalbaarheidsstudies – Ronde 3 – Juni 2017 – Regieorgaan SIA](call-for-proposals-take-off-hbo-fase-1-haalbaarheidsstudies-/README.md) · 1 versie
+- [BWBR0039682 — Call for proposals, Investeringen NWO-groot 2017/2018](call-for-proposals-investeringen-nwo-groot-2017-2018/README.md) · 1 versie
+- [BWBR0039867 — Call for proposals, Onderzoekstalent 2018](call-for-proposals-onderzoekstalent-2018/README.md) · 1 versie
+- [BWBR0039772 — Call for research proposals on assumptions underlying Dialogue & Dissent](call-for-research-proposals-on-assumptions-underlying-dialog/README.md) · 1 versie
+- [BWBR0039432 — Controleprotocol nacalculatie 2016 Wlz-zorgaanbieders](controleprotocol-nacalculatie-2016-wlz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0039282 — Cusumsysteem Erkenninghouder APK 2017](cusumsysteem-erkenninghouder-apk-2017/README.md) · 2 versies
+- [BWBR0039281 — Cusumsysteem Erkenninghouder Gasinstallaties 2017](cusumsysteem-erkenninghouder-gasinstallaties-2017/README.md) · 2 versies
+- [BWBR0039291 — Cusumsysteem Keurmeester APK 2017](cusumsysteem-keurmeester-apk-2017/README.md) · 2 versies
+- [BWBR0039280 — Cusumsysteem tachografen 2017](cusumsysteem-tachografen-2017/README.md) · 1 versie
+- [BWBR0038998 — Declaratievoorschrift Verkeerde bed Wlz](regeling-declaratievoorschrift-verkeerde-bed-wlz-bwbr0038998/README.md) · 1 versie
+- [BWBR0039559 — Declaratievoorschriften Wlz-zorg](declaratievoorschriften-wlz-zorg/README.md) · 2 versies
+- [BWBR0037502 — Deelregeling Architectuur](deelregeling-architectuur/README.md) · 1 versie
+- [BWBR0038820 — Deelregeling Beschermd Cultuurgoed of Beschermde Verzameling](deelregeling-beschermd-cultuurgoed-of-beschermde-verzameling/README.md) · 1 versie
+- [BWBR0038799 — Deelregeling Bijdrage Projectinvestering Kunstenaar en Bemiddelaar](deelregeling-bijdrage-projectinvestering-kunstenaar-en-bemid/README.md) · 2 versies
+- [BWBR0038823 — Deelregeling Collectiemobiliteit 2017](deelregeling-collectiemobiliteit-2017/README.md) · 1 versie
+- [BWBR0038832 — Deelregeling Collectieprogramma’s 2017](deelregeling-collectieprogramma-s-2017/README.md) · 2 versies
+- [BWBR0039283 — Deelregeling Cultuureducatie in het vmbo en het praktijkonderwijs](deelregeling-cultuureducatie-in-het-vmbo-en-het-praktijkonde/README.md) · 1 versie
+- [BWBR0037499 — Deelregeling Digitale Cultuur](deelregeling-digitale-cultuur/README.md) · 1 versie
+- [BWBR0037498 — Deelregeling Eénjarige Activiteitenprogramma’s Creatieve Industrie](deelregeling-e-njarige-activiteitenprogramma-s-creatieve-ind/README.md) · 1 versie
+- [BWBR0037508 — Deelregeling Festivals Creatieve Industrie](deelregeling-festivals-creatieve-industrie/README.md) · 1 versie
+- [BWBR0038827 — Deelregeling Gastateliers](deelregeling-gastateliers/README.md) · 1 versie
+- [BWBR0039441 — Deelregeling Herdenking Slavernijverleden 2017](deelregeling-herdenking-slavernijverleden-2017/README.md) · 2 versies
+- [BWBR0038824 — Deelregeling Incidentele Aankopen 2017](deelregeling-incidentele-aankopen-2017/README.md) · 2 versies
+- [BWBR0038825 — Deelregeling Internationale Samenwerking Erfgoedinstellingen 2017](deelregeling-internationale-samenwerking-erfgoedinstellingen/README.md) · 1 versie
+- [BWBR0037506 — Deelregeling Internationalisering Creatieve Industrie](deelregeling-internationalisering-creatieve-industrie-bwbr0037506/README.md) · 1 versie
+- [BWBR0038833 — Deelregeling Kunstbeurzen 2017](deelregeling-kunstbeurzen-2017/README.md) · 1 versie
+- [BWBR0038826 — Deelregeling Meerjarenprogramma’s Erfgoedinstellingen en Tijdschriften 2020](deelregeling-meerjarenprogramma-s-erfgoedinstellingen-en-tij/README.md) · 2 versies
+- [BWBR0039359 — Deelregeling Mobiel Erfgoed](deelregeling-mobiel-erfgoed/README.md) · 2 versies
+- [BWBR0038803 — Deelregeling Opdrachtgeverschap 2017](deelregeling-opdrachtgeverschap-2017/README.md) · 1 versie
+- [BWBR0038805 — Deelregeling Presentaties Buitenland 2017](deelregeling-presentaties-buitenland-2017/README.md) · 1 versie
+- [BWBR0038804 — Deelregeling Projectinvestering Presentatie- en Erfgoedinstellingen 2017](deelregeling-projectinvestering-presentatie-en-erfgoedinstel/README.md) · 1 versie
+- [BWBR0038794 — Deelregeling Publicaties 2017](deelregeling-publicaties-2017/README.md) · 2 versies
+- [BWBR0037505 — Deelregeling Talentontwikkeling Creatieve Industrie](deelregeling-talentontwikkeling-creatieve-industrie-bwbr0037505/README.md) · 1 versie
+- [BWBR0039482 — Deelregeling theaterteksten Fonds Podiumkunsten](deelregeling-theaterteksten-fonds-podiumkunsten/README.md) · 1 versie
+- [BWBR0037503 — Deelregeling Vormgeving](deelregeling-vormgeving/README.md) · 1 versie
+- [BWBR0038807 — Deelregeling Werkbijdrage Bewezen Talent 2017](deelregeling-werkbijdrage-bewezen-talent-2017/README.md) · 1 versie
+- [BWBR0038802 — Deelregeling Werkbijdrage Jong Talent 2017](deelregeling-werkbijdrage-jong-talent-2017/README.md) · 1 versie
+- [BWBR0038759 — Deelreglement Distributie van de Stichting Nederlands Fonds voor de film](deelreglement-distributie-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0038767 — Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de Film](deelreglement-filmactiviteiten-van-de-stichting-nederlands-f/README.md) · 1 versie
+- [BWBR0038762 — Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film](deelreglement-ontwikkeling-van-de-stichting-nederlands-fonds/README.md) · 1 versie
+- [BWBR0038761 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film](deelreglement-realisering-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0040592 — Domeinreglement Exacte en Natuurwetenschappen 2017](domeinreglement-exacte-en-natuurwetenschappen-2017/README.md) · 2 versies
+- [BWBR0040593 — Domeinreglement Sociale en Geesteswetenschappen 2017](domeinreglement-sociale-en-geesteswetenschappen-2017/README.md) · 2 versies
+- [BWBR0040591 — Domeinreglement Toegepaste en Technische Wetenschappen 2017](domeinreglement-ttw-2017/README.md) · 2 versies
+- [BWBR0039125 — Experimenteerreglement kunstenaarshonorarium](regeling-kunstenaarshonorarium/README.md) · 6 versies
+- [BWBR0039011 — Het Handhavingsbeleid van het Bureau Financieel Toezicht](het-handhavingsbeleid-van-het-bureau-financieel-toezicht/README.md) · 1 versie
+- [BWBR0038209 — Informatieverstrekking definitieve vaststelling aanvaardbare kosten Wlz 2017](informatieverstrekking-definitieve-vaststelling-aanvaardbare/README.md) · 1 versie
+- [BWBR0039329 — Inschrijvingsvoorwaarden advocatuur 2017](inschrijvingsvoorwaarden-advocatuur-2017/README.md) · 1 versie
+- [BWBR0040221 — Maatregelbeleid Rechtsbijstand inzake de rechtsbijstandverlening asiel en vreemdelingenbewaring 2017](maatregelbeleid-rechtsbijstand-inzake-de-rechtsbijstandverle/README.md) · 1 versie
+- [BWBR0039193 — Mandaat Autoriteit Financiële Markten per 15 februari 2017](mandaat-autoriteit-financi-le-markten-per-15-februari-2017/README.md) · 1 versie
+- [BWBR0039651 — Mandaatbesluit bevoegdheid beëdiging getuigen en tolken](mandaatbesluit-bevoegdheid-tot-be-diging-getuigen-en-tolken/README.md) · 1 versie
+- [BWBR0039777 — Mandaatbesluit NVAO 2017](mandaatbesluit-nvao-2017/README.md) · 1 versie
+- [BWBR0038319 — Nadere regel ‘Dbbc’s, zzp’s en extramurale parameters forensische zorg’](nadere-regel-dbbc-s-zzp-s-en-extramurale-parameters-forensis/README.md) · 1 versie
+- [BWBR0038195 — Nadere regel ‘Eerstelijnsverblijf’](nadere-regel-eerstelijnsverblijf/README.md) · 1 versie
+- [BWBR0038433 — Nadere regel ‘Gespecialiseerde geestelijke gezondheidszorg'](nadere-regel-gespecialiseerde-geestelijke-gezondheidszorg-bwbr0038433/README.md) · 1 versie
+- [BWBR0038747 — Nadere regel ‘Gespecialiseerde geestelijke gezondheidszorg’](nadere-regel-gespecialiseerde-geestelijke-gezondheidszorg-bwbr0038747/README.md) · 1 versie
+- [BWBR0038305 — Nadere regel ‘Verplichte aanlevering minimale dataset forensische zorg', kenmerk NR/REG-1708](nadere-regel-verplichte-aanlevering-minimale-dataset-forensi/README.md) · 1 versie
+- [BWBR0038299 — Nadere regel ‘Verplichte aanlevering minimale dataset gespecialiseerde ggz’, kenmerk NR/REG-1707](nadere-regel-verplichte-aanlevering-minimale-dataset-gespeci/README.md) · 1 versie
+- [BWBR0038285 — Nadere Regel Macrobeheersinstrument huisartsenzorg 2017](nadere-regel-macrobeheersinstrument-huisartsenzorg-2017/README.md) · 1 versie
+- [BWBR0038291 — Nadere regel Macrobeheersinstrument multidisciplinaire zorg 2017](nadere-regel-macrobeheersinstrument-multidisciplinaire-zorg-/README.md) · 1 versie
+- [BWBR0038464 — Nadere regel Macrobeheersinstrument verpleging en verzorging 2017](nadere-regel-macrobeheersinstrument-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0038304 — Nadere regel Verpleging en verzorging](nadere-regel-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0039531 — NWO Subsidieregeling 2017](nwo-subsidieregeling-2017/README.md) · 6 versies
+- [BWBR0039844 — Oproep nominaties Athenaprijs 2017 – ENW](oproep-nominaties-athenaprijs-2017-enw/README.md) · 1 versie
+- [BWBR0038818 — Prestatie- en tariefbeschikking medisch-specialistische zorg 2017](prestatie-en-tariefbeschikking-medisch-specialistische-zorg-/README.md) · 1 versie
+- [BWBR0039439 — Protocol accountantsonderzoek Wlz-uitvoerders 2016](protocol-accountantsonderzoek-wlz-uitvoerders-2016/README.md) · 2 versies
+- [BWBR0039707 — Raamwerk Nascholingscursussen Code 95 en ADR](raamwerk-nascholingscursussen-code-95-en-adr/README.md) · 1 versie
+- [BWBR0039074 — Raamwerk nascholingscursussen Code 95 en ADR (2017)](raamwerk-nascholingscursussen-code-95-en-adr-2017/README.md) · 1 versie
+- [BWBR0038977 — Regeling ‘Declaratievoorschriften Wlz-zorg’](regeling-declaratievoorschriften-wlz-zorg-bwbr0038977/README.md) · 1 versie
+- [BWBR0039218 — Regeling ‘Declaratievoorschriften Wlz-zorg’](regeling-declaratievoorschriften-wlz-zorg-bwbr0039218/README.md) · 2 versies
+- [BWBR0038999 — Regeling ‘Macrobeheersinstrument geriatrische revalidatiezorg en eerstelijnsverblijf’](regeling-macrobeheersinstrument-geriatrische-revalidatiezorg/README.md) · 1 versie
+- [BWBR0038237 — Regeling Administratie en declaratievoorschriften ZZP-meerzorg Wlz](regeling-administratie-en-declaratievoorschriften-zzp-meerzo/README.md) · 1 versie
+- [BWBR0038203 — Regeling Administratieve Organisatie en Interne Controle Wlz-zorgaanbieders 2017](regeling-administratieve-organisatie-en-interne-controle-wlz-bwbr0038203/README.md) · 2 versies
+- [BWBR0039566 — Regeling Administratieve Organisatie en Interne Controle Wlz-zorgaanbieders 2017](regeling-administratieve-organisatie-en-interne-controle-wlz-bwbr0039566/README.md) · 2 versies
+- [BWBR0040073 — Regeling Age Friendly Cultural Cities](regeling-age-friendly-cultural-cities/README.md) · 1 versie
+- [BWBR0038293 — Regeling declaratievoorschriften en declaratiebepalingen Integrale geboortezorg](regeling-declaratievoorschriften-en-declaratiebepalingen-int/README.md) · 1 versie
+- [BWBR0039010 — Regeling elektronisch gegevensverkeer Zorgverzekeringswet 2017](regeling-elektronisch-gegevensverkeer-zorgverzekeringswet-20/README.md) · 1 versie
+- [BWBR0038399 — Regeling generalistische basis-ggz](regeling-generalistische-basis-ggz-bwbr0038399/README.md) · 1 versie
+- [BWBR0038743 — Regeling generalistische basis-ggz](regeling-generalistische-basis-ggz-bwbr0038743/README.md) · 1 versie
+- [BWBR0039875 — Regeling informatieverstrekking ziektekostenverzekeraars aan consumenten](regeling-informatieverstrekking-ziektekostenverzekeraars-aan/README.md) · 1 versie
+- [BWBR0039062 — Regeling innovatie voor kleinschalige experimenten](regeling-innovatie-voor-kleinschalige-experimenten/README.md) · 1 versie
+- [BWBR0039129 — Regeling Jij Maakt Het Mee 2017–2020](regeling-jij-maakt-het-mee-2017-2020/README.md) · 2 versies
+- [BWBR0039024 — Regeling literaire manifestaties en activiteiten, incidenteel en tweejarig](regeling-literaire-manifestaties-en-activiteiten-incidenteel/README.md) · 2 versies
+- [BWBR0039025 — Regeling literaire tijdschriften](regeling-literaire-tijdschriften/README.md) · 2 versies
+- [BWBR0039014 — Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg 2017](regeling-macrobeheersinstrument-geneeskundige-geestelijke-ge/README.md) · 1 versie
+- [BWBR0038307 — Regeling Macrobeheersinstrument zintuiglijk gehandicaptenzorg](regeling-macrobeheersinstrument-zintuiglijk-gehandicaptenzor/README.md) · 1 versie
+- [BWBR0038808 — Regeling medisch-specialistische zorg](regeling-medisch-specialistische-zorg/README.md) · 3 versies
+- [BWBR0038350 — Regeling medisch-specialistische zorg met kenmerk NR/REG-1713](regeling-medisch-specialistische-zorg-met-kenmerk-nr-reg-171/README.md) · 1 versie
+- [BWBR0039279 — Regeling modellen keuringsrapport 2017](regeling-modellen-keuringsrapport-2017/README.md) · 6 versies
+- [BWBR0039561 — Regeling Monitoring beschikkingen Persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2017](regeling-monitoring-beschikkingen-persoonsgebonden-budget-en/README.md) · 2 versies
+- [BWBR0039563 — Regeling monitoring experiment persoonsvolgende inkoop 2017](regeling-monitoring-experiment-persoonsvolgende-inkoop-2017-bwbr0039563/README.md) · 2 versies
+- [BWBR0039911 — Regeling monitoring experiment persoonsvolgende inkoop 2017](regeling-monitoring-experiment-persoonsvolgende-inkoop-2017-bwbr0039911/README.md) · 2 versies
+- [BWBR0038692 — Regeling Monitoring experiment persoonsvolgende inkoop 2017](regeling-monitoring-experiment-persoonsvolgende-inkoop-2017-bwbr0038692/README.md) · 1 versie
+- [BWBR0038346 — Regeling Monitoring Persoonsgebonden budget en individueel aangepaste Wlz-hulpmiddelen 2017](regeling-monitoring-persoonsgebonden-budget-en-individueel-a/README.md) · 1 versie
+- [BWBR0039390 — Regeling Professionalisering Muziekonderwijs op pabo’s](regeling-professionalisering-muziekonderwijs-op-pabo-s/README.md) · 3 versies
+- [BWBR0039180 — Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg](regeling-registratie-en-aanlevering-kostprijzen-zorgproducte/README.md) · 1 versie
+- [BWBR0039684 — Regeling structurele aanlevering gegevens Zorgverzekeringswet 2017](regeling-structurele-aanlevering-gegevens-zorgverzekeringswe/README.md) · 2 versies
+- [BWBR0039925 — Regeling subsidievoorwaarden rechts- en wetswinkels 2017](regeling-subsidievoorwaarden-rechts-en-wetswinkels-2017/README.md) · 1 versie
+- [BWBR0038889 — Regeling Tarieven CBR 2017, Stichting Centraal Bureau Rijvaardigheidsbewijzen](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20/README.md) · 1 versie
+- [BWBR0038881 — Regeling tarieven Dienst Wegverkeer 2017](regeling-tarieven-dienst-wegverkeer-2017/README.md) · 3 versies
+- [BWBR0038238 — Regeling transparantie contracteerproces Wlz](regeling-transparantie-contracteerproces-wlz-bwbr0038238/README.md) · 2 versies
+- [BWBR0039565 — Regeling transparantie contracteerproces Wlz](regeling-transparantie-contracteerproces-wlz-bwbr0039565/README.md) · 2 versies
+- [BWBR0039760 — Regeling Uitvoeringsverslag en financieel verslag Wlz-uitvoerder](regeling-uitvoeringsverslag-en-financieel-verslag-wlz-uitvoe/README.md) · 1 versie
+- [BWBR0039613 — Regeling van de Directie van de RDW (Dienst Wegverkeer) houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW, 16 mei 2017, JBZ2017/12240](mandaatregeling-rdw/README.md) · 2 versies
+- [BWBR0038943 — Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)](regeling-financieel-mandaat-rdw/README.md) · 1 versie
+- [BWBR0039031 — Regeling van De Nederlandsche Bank N.V. van 12 december 2016 houdende regels ingevolge artikel 108, derde lid, en artikel 111, zesde lid, van het Besluit prudentiële regels Wft met betrekking tot de posten van de vereiste en de aanwezige liquiditeit voor kredietunies en de weging daarvan (Regeling liquiditeit kredietunies Wft 2017)](regeling-liquiditeit-kredietunies-wft-2017/README.md) · 1 versie
+- [BWBR0040320 — Regeling van De Nederlandsche Bank N.V. van 28 november 2017 houdende regels met betrekking tot het beheerst beloningsbeleid van banken, beleggingsondernemingen en premiepensioeninstellingen (Regeling beheerst beloningsbeleid Wft 2017)](regeling-beheerst-beloningsbeleid-wft-2017/README.md) · 2 versies
+- [BWBR0040292 — Regeling van de Referendumcommissie van 27 november 2017, houdende nadere regels over de verstrekking van subsidies voor activiteiten die tot doel hebben het publieke debat in Nederland over een aan een referendum te onderwerpen wet te bevorderen (Subsidieregeling raadgevend referendum 2017)](subsidieregeling-raadgevend-referendum-2017/README.md) · 2 versies
+- [BWBR0039510 — Regeling van het College voor Toetsen en Examens van 18 april 2017, nummer CvTE-17.00735 houdende vaststelling van het Programma van Toetsing en Afsluiting staatsexamens vo en staatsexamens vo BES 2018 (Regeling PTA staatsexamens vo 2018)](regeling-pta-staatsexamens-vo-2018/README.md) · 1 versie
+- [BWBR0039619 — Regeling van het College voor Toetsen en Examens van 18 april 2017, nummer CvTE-17.00736, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B1 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B1)](regeling-syllabus-centraal-examen-mbo-engels-referentienivea-bwbr0039619/README.md) · 1 versie
+- [BWBR0039505 — Regeling van het College voor Toetsen en Examens van 18 april 2017, nummer CvTE-17.00739, houdende vaststelling van toegestane hulpmiddelen bij centrale examinering in het mbo (Regeling toegestane hulpmiddelen bij centrale examinering mbo (2017))](regeling-toegestane-hulpmiddelen-bij-centrale-examinering-mb/README.md) · 1 versie
+- [BWBR0039724 — Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01275, houdende vaststelling van toetsreglement van de Centrale Eindtoets primair onderwijs schooljaar 2017–2018 (Regeling toetsreglement van de Centrale Eindtoets po schooljaar 2017–2018)](regeling-toetsreglement-van-de-centrale-eindtoets-po-schoolj/README.md) · 1 versie
+- [BWBR0039851 — Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01276, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2019, nadere vaststelling van enkele eerder vastgestelde syllabi (Regeling syllabi centrale examens vo 2019)](regeling-syllabi-centrale-examens-vo-2019/README.md) · 4 versies
+- [BWBR0039913 — Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01280 houdende vaststelling van het examenreglement staatsexamens vo en examenreglement staatsexamens vo BES 2018 (Regeling examenreglement staatsexamens vo 2018)](regeling-examenreglement-staatsexamens-vo-2018/README.md) · 1 versie
+- [BWBR0039798 — Regeling van het College voor Toetsen en Examens van 26 juni 2017, nummer CvTE-17.01281, houdende vaststelling van de syllabus centraal examen Engels referentieniveau B2 bij centrale examinering in het mbo (Regeling syllabus centraal examen mbo Engels referentieniveau B2)](regeling-syllabus-centraal-examen-mbo-engels-referentienivea-bwbr0039798/README.md) · 1 versie
+- [BWBR0038217 — Regeling van het College voor Toetsen en Examens van 27 juni 2016, nummer CvTE-16.01424, houdende vaststelling van toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vo in 2018 (Regeling toegestane hulpmiddelen voor de centrale examens vo 2018)](regeling-toegestane-hulpmiddelen-voor-de-centrale-examens-vo/README.md) · 2 versies
+- [BWBR0038432 — Regeling van het College voor Toetsen en Examens van 27 juni 2016, nummer CvTE-16.01427, houdende vaststelling van het examenreglement staatsexamens Nederlands als tweede taal 2017 (Regeling examenreglement staatsexamens NT2 2017)](regeling-examenreglement-staatsexamens-nt2-2017/README.md) · 1 versie
+- [BWBR0037359 — Regeling van het College voor Toetsen en Examens van 5 oktober 2015 CvTE-15.01895, houdende vaststelling van het examenprogramma Staatsexamens Nederlands als tweede taal 2017 (Regeling examenprogramma Staatsexamens NT2 2017)](regeling-examenprogramma-staatsexamens-nt2-2017/README.md) · 1 versie
+- [BWBR0039224 — Regeling van het College voor Toetsen en Examens van 6 februari 2017, nummer CvTE-17.00018, houdende regels voor het aanwijzen van vakken waarin het centraal examen vo in het tweede tijdvak wordt afgenomen door het College voor Toetsen en Examens (Regeling aangewezen vakken tweede tijdvak centrale examens vo 2017)](regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-v/README.md) · 1 versie
+- [BWBR0039027 — Regeling van het stimuleringsfonds voor de journalistiek van 9 december 2016, nr. 26377, tot vaststelling van een tijdelijke subsidieregeling journalistieke innovatie 2017](regeling-vaststelling-tijdelijke-subsidieregeling-journalist/README.md) · 2 versies
+- [BWBR0038941 — Regeling vaststelling subsidieplafonds Stimuleringsfonds voor de journalistiek 2017](regeling-vaststelling-subsidieplafonds-stimuleringsfonds-voo/README.md) · 1 versie
+- [BWBR0039652 — Regeling verantwoording bbaz 2017 nieuwe systematiek](regeling-verantwoording-bbaz-2017-nieuwe-systematiek/README.md) · 3 versies
+- [BWBR0039730 — Regeling verpleegkundige dagopvang en verblijf bij intensieve kindzorg](regeling-verpleegkundige-dagopvang-en-verblijf-bij-intensiev-bwbr0039730/README.md) · 1 versie
+- [BWBR0038487 — Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)](regeling-verplichte-aanlevering-minimale-dataset-medisch-spe/README.md) · 1 versie
+- [BWBR0038309 — Regeling verplichte publicatie wachttijden somatische zorg](regeling-verplichte-publicatie-wachttijden-somatische-zorg/README.md) · 1 versie
+- [BWBR0039134 — Regeling voor subsidiëring van projecten in het kader van het programma Lang Leve Kunst. Op weg naar Age Friendly Cities](regeling-subsidi-ring-projecten-programma-lang-leve-kunst-op/README.md) · 2 versies
+- [BWBR0038541 — Regeling Zintuiglijk gehandicaptenzorg](regeling-zintuiglijk-gehandicaptenzorg/README.md) · 1 versie
+- [BWBR0039513 — Reglement CAK Cliëntenraad](reglement-cak-cli-ntenraad/README.md) · 2 versies
+- [BWBR0039765 — Reglement erkenning leerbedrijven SBB](reglement-erkenning-leerbedrijven-sbb/README.md) · 1 versie
+- [BWBR0039302 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2016–2017](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039302/README.md) · 3 versies
+- [BWBR0039758 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2017–2018](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039758/README.md) · 6 versies
+- [BWBR0039524 — Reglement Piket Raad voor Rechtsbijstand](reglement-piket-raad-voor-rechtsbijstand/README.md) · 1 versie
+- [BWBR0038709 — Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs](reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h/README.md) · 29 versies
+- [BWBR0039066 — Reglement werkwijze NIWO](reglement-werkwijze-niwo/README.md) · 1 versie
+- [BWBR0039552 — Richtlijn van de Centrale Commissie Mensgebonden Onderzoek, de CCMO, krachtens artikel 24 van de Wet medisch-wetenschappelijk onderzoek met mensen (WMO), ter nadere uitwerking van het bepaalde in artikel 16, tweede lid, onder b van de WMO, inzake de vaststelling van eisen betreffende de deskundigheid en geschiktheid van leden van Medisch-Ethische Toetsingscommissies in de zin van artikel 16, eerste lid, van de WMO](richtlijn-deskundigheidseisen-wmo-leden-metc-s-2017/README.md) · 1 versie
+- [BWBR0039841 — Richtlijnen voor het aanvragen van financiering voor wetenschappelijk onderzoek in het kader van het doorlopend Open Technologieprogramma (OTP)](richtlijnen-aanvragen-financiering-wetenschappelijk-onderzoe/README.md) · 1 versie
+- [BWBR0038791 — Samenwerking Musea 2017](samenwerking-musea-2017/README.md) · 1 versie
+- [BWBR0039022 — Subsidieplafond 2017 Reglement Stimuleringsmaatregel Filmproductie in Nederland](subsidieplafond-2017-reglement-stimuleringsmaatregel-filmpro/README.md) · 1 versie
+- [BWBR0040122 — Subsidieregeling uitelkaar.nl](subsidieregeling-uitelkaar-nl-bwbr0040122/README.md) · 2 versies
+- [BWBR0040466 — Subsidieregeling uitelkaar.nl](subsidieregeling-uitelkaar-nl-bwbr0040466/README.md) · 3 versies
+- [BWBR0039009 — Tariefbesluit Centrale Commissie Dierproeven per 1 januari 2017](tariefbesluit-centrale-commissie-dierproeven-per-1-januari-2/README.md) · 1 versie
+- [BWBR0039019 — Tarievenbesluit 2017 Raad voor Accreditatie](tarievenbesluit-2017-raad-voor-accreditatie/README.md) · 1 versie
+- [BWBR0039012 — Tarievenbesluit Ctgb 2017](tarievenbesluit-ctgb-2017/README.md) · 1 versie
+- [BWBR0039328 — Toezichtbeleid erkenninghouders RDW 2017](toezichtbeleidsbrief-erkenninghouders-rdw-2017/README.md) · 1 versie
+- [BWBR0038729 — Transparantieregeling zorgaanbieders ggz](transparantieregeling-zorgaanbieders-ggz/README.md) · 1 versie
+- [BWBR0039056 — Vergunning sportprijsvragen 2017-2021](vergunning-sportprijsvragen-2017-2021/README.md) · 1 versie
+- [BWBR0039082 — Volmacht en machtiging diverse functionarissen Kamer van Koophandel inzake het beheer van het digitaal ondernemersplein 2017](volmacht-en-machtiging-diverse-functionarissen-kamer-van-koo/README.md) · 1 versie
+- [BWBR0039988 — Werkwijze informanten ACM 2017](werkwijze-informanten-acm-2017/README.md) · 1 versie
+- [BWBR0039371 — Ziekengeldreglement 2017](ziekengeldreglement-2017/README.md) · 1 versie

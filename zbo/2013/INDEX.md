@@ -1,0 +1,241 @@
+# Zbo — 2013
+
+ELI: `/eli/nl/zbo/2013/*`
+
+- [BWBR0032258 — 'Regeling Declaratiebepalingen DBBC’s FZ', NR/FZ-001](regeling-declaratiebepalingen-dbbc-s-fz-nr-fz-001/README.md) · 1 versie
+- [BWBR0032259 — 'Regeling Declaratiebepalingen prestaties ZZP’s en extramurale parameters FZ', NR/FZ-002](regeling-declaratiebepalingen-prestaties-zzp-s-en-extramural/README.md) · 1 versie
+- [BWBR0032276 — 'Regeling Instructie DBBC-registratie FZ', NR/FZ-004](regeling-instructie-dbbc-registratie-fz-nr-fz-004/README.md) · 1 versie
+- [BWBR0032261 — 'Regeling verplichte aanlevering minimale dataset FZ', NR/FZ-003](regeling-verplichte-aanlevering-minimale-dataset-fz-nr-fz-00/README.md) · 1 versie
+- [BWBR0034467 — Aanmelding staatsexamens Nederlands als tweede taal 2015](aanmelding-staatsexamens-nederlands-als-tweede-taal-2015/README.md) · 1 versie
+- [BWBR0035729 — Aanvraagprocedure diploma-erkenning derde leerweg voor bekostigde en niet-bekostigde instellingen](aanvraagprocedure-diploma-erkenning-derde-leerweg-voor-bekos/README.md) · 1 versie
+- [BWBR0033557 — Aanvraagprocedure diploma-erkenning voor niet-bekostigde educatie](aanvraagprocedure-diploma-erkenning-voor-niet-bekostigde-edu/README.md) · 1 versie
+- [BWBR0033059 — Aanvraagprocedure exameninstellingen betreffende recht op examinering mbo](aanvraagprocedure-exameninstellingen-betreffende-recht-op-ex/README.md) · 1 versie
+- [BWBR0032717 — Algemeen reglement Mondriaan Fonds](algemeen-reglement-mondriaan-fonds/README.md) · 4 versies
+- [BWBR0032735 — Algemeen reglement Nederlands Letterenfonds](algemeen-reglement-nederlands-letterenfonds/README.md) · 1 versie
+- [BWBR0032470 — Algemeen Reglement van de Stichting Nederlands Fonds voor de Film](algemeen-reglement-van-de-stichting-nederlands-fonds-voor-de/README.md) · 1 versie
+- [BWBR0033283 — Archiefbeheersregeling voor het CAK](archiefbeheersregeling-voor-het-cak/README.md) · 1 versie
+- [BWBR0034326 — Archiefbeheersregeling voor het CAK 2014](archiefbeheersregeling-voor-het-cak-2014/README.md) · 1 versie
+- [BWBR0034152 — Beheersmodel honoraria vrijgevestigd medisch specialisten](regeling-beheersmodel-honoraria-vrijgevestigd-medisch-specia/README.md) · 1 versie
+- [BWBR0033212 — Beleidskader Aanvraag na afwijzing](beleidskader-aanvraag-na-afwijzing/README.md) · 1 versie
+- [BWBR0033444 — Beleidskader intrekken erkenning als Jobcoachorganisatie](beleidskader-intrekken-erkenning-als-jobcoachorganisatie/README.md) · 2 versies
+- [BWBR0034292 — Beleidsregel boete werknemer 2013](beleidsregel-boete-werknemer-2013/README.md) · 2 versies
+- [BWBR0033752 — Beleidsregel CAK inning eigen bijdrage AWBZ en WMO](beleidsregel-cak-inning-eigen-bijdrage-awbz-en-wmo/README.md) · 1 versie
+- [BWBR0034385 — Beleidsregel Document Omlijning 003.0 Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek – versie 1](beleidsregel-document-omlijning-003-0-forensische-psychiatri/README.md) · 1 versie
+- [BWBR0034396 — Beleidsregel Document registratie-eisen en toetsingsprocedure 003 Forensische Psychiatrie, Forensische Psychologie en Forensische Orthopedagogiek](beleidsregel-document-registratie-eisen-en-toetsingsprocedur/README.md) · 1 versie
+- [BWBR0033909 — Beleidsregel Informatieverstrekking](beleidsregel-informatieverstrekking/README.md) · 1 versie
+- [BWBR0032533 — Beleidsregel keuring en ontheffingverlening LZV](beleidsregel-keuring-en-ontheffingverlening-lzv/README.md) · 10 versies
+- [BWBR0032639 — Beleidsregel kosten aanvraag deskundigenoordeel 2013](beleidsregel-kosten-aanvraag-deskundigenoordeel-2013/README.md) · 2 versies
+- [BWBR0034464 — Beleidsregel Netting bij een activa en passiva overdracht op grond van artikel 3:159c Wft](beleidsregel-netting-bij-een-activa-en-passiva-overdracht-op/README.md) · 1 versie
+- [BWBR0032805 — Beleidsregel ontheffing gerelateerde voertuigdocumenten](beleidsregel-ontheffing-gerelateerde-voertuigdocumenten/README.md) · 2 versies
+- [BWBR0033052 — Beleidsregel Ontheffingverlening exceptionele transporten RDW 2013](beleidsregel-ontheffingverlening-exceptionele-transporten-rd/README.md) · 1 versie
+- [BWBR0033968 — Beleidsregel van De Nederlandsche Bank N.V. van 19 september 2013 tot toepassing van richtsnoeren van de Europese toezichthoudende autoriteiten in verband met het prudentieel toezicht bij of krachtens de Wet op het financieel toezicht (Beleidsregel toepassing richtsnoeren ESA’s Wft)](beleidsregel-toepassing-richtsnoeren-esa-s-wft/README.md) · 5 versies
+- [BWBR0033615 — Beleidsregel van de Stichting Autoriteit Financiële Markten aangaande de definitie en de berekening van een shortpositie in de zin van de Wft](beleidsregel-aangaande-de-definitie-en-de-berekening-van-een/README.md) · 1 versie
+- [BWBR0034077 — Beleidsregel van de Stichting Autoriteit Financiële Markten inzake het aanbieden van beleggingsinstellingen of icbe’s onder verschillende namen (Beleidsregel Aanbieden beleggingsinstellingen of icbe’s onder verschillende namen 2013)](beleidsregel-aanbieden-beleggingsinstellingen-onder-verschil/README.md) · 1 versie
+- [BWBR0034078 — Beleidsregel van de Stichting Autoriteit Financiële Markten inzake het actief zijn door beheerders van beleggingsinstellingen dan wel icbe’s of beleggingsinstellingen dan wel icbe’s in Nederland (Beleidsregel Actief zijn in Nederland 2013)](beleidsregel-actief-zijn-in-nederland-2013/README.md) · 1 versie
+- [BWBR0033620 — Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de toepassing van regels van verordening 1071/2009/EG, Wet wegvervoer goederen en het Besluit wegvervoer goederen houdende bepalingen in verband met de uitvoering van de evenredigheidstoets en het sanctioneren van de vervoerder en de vervoersmanager bij verlies van de betrouwbaarheid in het goederenvervoer over de weg (Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg)](beleidsregel-evenredigheidstoets-en-sanctionering-bij-verlie/README.md) · 1 versie
+- [BWBR0033642 — Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen en verordening 1071/2009/EG ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)](beleidsregel-vergunningverlening-van-de-niwo/README.md) · 1 versie
+- [BWBR0032885 — Beleidsregel vervreemding onroerende zaken](beleidsregel-vervreemding-onroerende-zaken/README.md) · 1 versie
+- [BWBR0033282 — Beleidsregels aanvraag verklaring van vakbekwaamheid](beleidsregels-aanvraag-verklaring-van-vakbekwaamheid/README.md) · 1 versie
+- [BWBR0033299 — Beleidsregels aanwijzen accountantsopleidingen](beleidsregels-aanwijzen-accountantsopleidingen-bwbr0033299/README.md) · 1 versie
+- [BWBR0033312 — Beleidsregels aanwijzen accountantsopleidingen](beleidsregels-aanwijzen-accountantsopleidingen-bwbr0033312/README.md) · 1 versie
+- [BWBR0034173 — Beleidsregels actieve openbaarmaking door het CBP](beleidsregels-actieve-openbaarmaking-door-het-cbp/README.md) · 1 versie
+- [BWBR0033202 — Beleidsregels artikel 5 Besluit Interoperabiliteit, Onafhankelijke Post en Telecommunicatieautoriteit (OPTA)](beleidsregels-artikel-5-besluit-interoperabiliteit/README.md) · 1 versie
+- [BWBR0032408 — Beleidsregels proefplaatsing UWV 2013](beleidsregels-proefplaatsing-uwv-2013/README.md) · 1 versie
+- [BWBR0033501 — Beleidsregels tegemoetkoming faunaschade](beleidsregels-tegemoetkoming-faunaschade/README.md) · 1 versie
+- [BWBR0032883 — Beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2013](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0032883/README.md) · 3 versies
+- [BWBR0032882 — Beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2013](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0032882/README.md) · 2 versies
+- [BWBR0032872 — Beleidsregels UWV normbedragen voorzieningen 2013](beleidsregels-uwv-normbedragen-voorzieningen-2013/README.md) · 3 versies
+- [BWBR0034059 — Beleidsregels UWV Onderzoekssubsidies 2013](beleidsregels-uwv-onderzoekssubsidies-2013/README.md) · 1 versie
+- [BWBR0032997 — Beleidsregels vereveningsbijdrage zorgverzekering 2013](beleidsregels-vereveningsbijdrage-zorgverzekering-2013/README.md) · 6 versies
+- [BWBR0034019 — Beleidsregels vereveningsbijdrage zorgverzekering 2014](beleidsregels-vereveningsbijdrage-zorgverzekering-2014/README.md) · 2 versies
+- [BWBR0032489 — Beschikking individueel MBI-omzetplafond](beschikking-individueel-mbi-omzetplafond/README.md) · 1 versie
+- [BWBR0032496 — Beschikking individueel MBI-omzetplafond 2013](beschikking-individueel-mbi-omzetplafond-2013/README.md) · 1 versie
+- [BWBR0032497 — Beschikking Landelijk MBI-omzetplafond 2013](beschikking-landelijk-mbi-omzetplafond-2013/README.md) · 1 versie
+- [BWBR0032527 — Beschikking landelijk MBI-omzetplafond Macrobeheersmodel geriatrische revalidatiezorg](beschikking-landelijk-mbi-omzetplafond-macrobeheersmodel-ger/README.md) · 1 versie
+- [BWBR0033746 — Beschikking totalisator 2013](beschikking-totalisator-2013/README.md) · 1 versie
+- [BWBR0033799 — Besluit aanvulling Tarievenbesluit Ctgb 2013 biociden in verband met de inwerkingtreding van verordening 528/2012/EU betreffende het op de markt aanbieden en het gebruik van biociden](aanvulling-tarievenbesluit-ctgb-2013-biociden/README.md) · 2 versies
+- [BWBR0033381 — Besluit Aanwijzing medewerkers BFT](besluit-aanwijzing-medewerkers-bft/README.md) · 3 versies
+- [BWBR0033252 — Besluit Aanwijzing medewerkers BFT in het kader van de Wna](besluit-aanwijzing-medewerkers-bft-in-het-kader-van-de-wna/README.md) · 1 versie
+- [BWBR0033219 — Besluit aanwijzing toezichthouders OPTA 2013](besluit-aanwijzing-toezichthouders-opta-2013/README.md) · 2 versies
+- [BWBR0033631 — Besluit Adviescommissie bezwaarschriften Kansspelautoriteit](besluit-adviescommissie-bezwaarschriften-kansspelautoriteit/README.md) · 2 versies
+- [BWBR0039493 — Besluit Beleidsregels PUR 2013](besluit-beleidsregels-pur-2013/README.md) · 1 versie
+- [BWBR0031949 — Besluit gedifferentieerde premie WGA 2013](besluit-gedifferentieerde-premie-wga-2013/README.md) · 1 versie
+- [BWBR0033352 — Besluit Inkoopkader Individuele Re-integratieovereenkomst UWV 2013](besluit-inkoopkader-individuele-re-integratieovereenkomst-uw/README.md) · 3 versies
+- [BWBR0033581 — Besluit inschrijving Rbtv](besluit-inschrijving-rbtv/README.md) · 1 versie
+- [BWBR0033454 — Besluit mandaat, volmacht en machtiging CAK](besluit-mandaat-volmacht-en-machtiging-cak/README.md) · 1 versie
+- [BWBR0034564 — Besluit mandaat, volmacht en machtiging Centraal Bureau Voor de Statistiek 2012](besluit-mandaat-volmacht-en-machtiging-centraal-bureau-voor-/README.md) · 1 versie
+- [BWBR0033579 — Besluit PE](besluit-pe/README.md) · 1 versie
+- [BWBR0032320 — Besluit premievaststelling vrijwillige verzekering WAO 2013](besluit-premievaststelling-vrijwillige-verzekering-wao-2013/README.md) · 1 versie
+- [BWBR0032321 — Besluit premievaststelling vrijwillige verzekering WIA 2013](besluit-premievaststelling-vrijwillige-verzekering-wia-2013/README.md) · 1 versie
+- [BWBR0032318 — Besluit premievaststelling vrijwillige verzekering ZW 2013](besluit-premievaststelling-vrijwillige-verzekering-zw-2013/README.md) · 1 versie
+- [BWBR0032322 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2013](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0034457 — Besluit tot intrekking van nadere regels en beleidsregel](besluit-tot-intrekking-van-nadere-regels-en-beleidsregel/README.md) · 1 versie
+- [BWBR0033582 — Besluit Uitwijklijst](besluit-uitwijklijst/README.md) · 1 versie
+- [BWBR0034518 — Besluit van 12 december 2013 tot vaststelling van subsidieplafond 2014 voor de rondes in de regeling projectsubsidies publicaties van de Stichting Nederlands Letterenfonds](besluit-vaststelling-subsidieplafond-2014-regeling-projectsu/README.md) · 1 versie
+- [BWBR0034517 — Besluit van 12 december 2013 tot vaststelling van subsidieplafonds 2014 voor enkele deelregelingen van de Stichting Nederlands Letterenfonds (Subsidieplafonds geldend voor 2014)](besluit-vaststelling-subsidieplafonds-2014-enkele-deelregeli/README.md) · 1 versie
+- [BWBR0033508 — Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200833, houdende regels inzake organisatie, mandaat, volmacht en machtiging van de Autoriteit Consument en Markt (Besluit organisatie, mandaat, volmacht en machtiging ACM 2013)](besluit-organisatie-mandaat-volmacht-en-machtiging-acm-2013/README.md) · 30 versies
+- [BWBR0033227 — Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200834, tot aanwijzing van toezichthouders van de Autoriteit Consument en Markt (Besluit aanwijzing toezichthouders ACM)](besluit-aanwijzing-toezichthouders-acm/README.md) · 12 versies
+- [BWBR0033207 — Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200835, tot instelling van een Adviescommissie bezwaarschriften (Besluit instelling Adviescommissie bezwaarschriften ACM)](besluit-instelling-adviescommissie-bezwaarschriften-acm/README.md) · 2 versies
+- [BWBR0033165 — Besluit van de Autoriteit Consument en Markt van 2 april 2013, ACM/DJZ/2013/200837, tot vaststelling van archiefbeheersregels (Archiefbeheersregeling ACM 2013)](archiefbeheersregeling-acm-2013/README.md) · 3 versies
+- [BWBR0033506 — Besluit van de Autoriteit Consument en Markt van 2 mei 2013, ACM/DJZ/2013/200952, tot vaststelling van nadere regels voor de behandeling van klachten (Klachtenregeling ACM)](klachtenregeling-acm/README.md) · 2 versies
+- [BWBR0033328 — Besluit van de Autoriteit Consument en Markt van 23 april 2013, ACM/DJZ/2013/200999, tot vaststelling van een bestuursreglement (Bestuursreglement ACM)](bestuursreglement-acm/README.md) · 2 versies
+- [BWBR0033459 — Besluit van de directeur Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen van 2 maart 2013, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen 2013)](besluit-ondermandaat-volmacht-en-machtiging-stichting-nederl-bwbr0033459/README.md) · 2 versies
+- [BWBR0033455 — Besluit van de directeur Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw van 2 maart 2013, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw (Besluit ondermandaat, volmacht en machtiging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw 2013)](besluit-ondermandaat-volmacht-en-machtiging-stichting-nederl-bwbr0033455/README.md) · 2 versies
+- [BWBR0032967 — Besluit van de directeur van de Stichting Bloembollenkeuringsdienst van 2 maart 2013, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Bloembollenkeuringsdienst (Besluit ondermandaat, volmacht en machtiging Stichting Bloembollenkeuringsdienst 2013)](besluit-ondermandaat-volmacht-en-machtiging-stichting-bloemb/README.md) · 2 versies
+- [BWBR0034462 — Besluit van de Directeur/bestuurder van het Nederlands Fonds voor de Film van 20 november 2013 tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Deelreglement Filmactiviteiten, het Deelreglement Suppletie en het Deelreglement Distributie](besluit-vaststelling-subsidieplafonds-subsidi-ring-op-grond-/README.md) · 1 versie
+- [BWBR0033798 — Besluit van de manager divisie CCV van het CBR houdende vaststelling van beleidsregels betreffende het afgeven, schorsen en intrekken van erkenningen van opleidingsinstituten en certificeringen van nascholingscursussen (Raamwerk nascholingscursussen Code 95 en ADR/ADN)](raamwerk-nascholingscursussen-code-95-en-adr-adn/README.md) · 1 versie
+- [BWBR0034205 — Besluit van De Nederlandsche Bank N.V. van 13 november 2013, houdende ontheffing van het bepaalde in artikel 6, eerste en tweede lid, van Verordening (EU) nr. 260/2012 van 14 maart 2012 tot vaststelling van technische en bedrijfsmatige vereisten voor overmakingen en automatische afschrijvingen in euro en tot wijziging van Verordening (EU) nr. 942/2009 (Besluit ontheffing niet-storneerbare incasso voor kansspelen)](besluit-ontheffing-niet-storneerbare-incasso-voor-kansspelen/README.md) · 1 versie
+- [BWBR0033315 — Besluit van de raad van bestuur van de kansspelautoriteit van 19 december 2012, met kenmerk 00.005.593, inzake verlening van vergunning tot het organiseren van de postcodeloterij (Vergunning Nationale Postcode Loterij 2013/2014)](vergunning-nationale-postcode-loterij-2013-2014/README.md) · 5 versies
+- [BWBR0032932 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 18 februari 2013, houdende de bekendmaking van de Beleidsregels Wet werk en bijstand 2012 (Besluit SVB Beleidsregels WWB 2012)](besluit-svb-beleidsregels-wwb-2012/README.md) · 1 versie
+- [BWBR0034065 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 18 september 2013, houdende regels omtrent de betaling van een periodieke bijdrage ten laste van het Ouderdomsfonds ten gunste van het Zorgverzekeringsfonds](besluit-betalingsregels-periodieke-bijdrage-zorgverzekerings/README.md) · 2 versies
+- [BWBR0032958 — Besluit van de technisch directeur Stichting Kwaliteits-Controle-Bureau van 2 maart 2013, houdende verlening van ondermandaat, volmacht en machtiging voor de Stichting Kwaliteits-Controle-Bureau (Besluit ondermandaat, volmacht en machtiging Stichting Kwaliteits-Controle-Bureau 2013)](besluit-ondermandaat-volmacht-en-machtiging-stichting-kwalit/README.md) · 2 versies
+- [BWBR0033678 — Besluit van het bestuur van de huurcommissie, van 3 juli 2013 nr. MA/2013/027/UP, houdende de organisatie-inrichting van administratieve ondersteuning van de Huurcommissie aan te duiden als Dienst van de Huurcommissie (Organisatiebesluit dienst van de huurcommissie 2013)](organisatiebesluit-dienst-van-de-huurcommissie-2013/README.md) · 2 versies
+- [BWBR0033677 — Besluit van het bestuur van de huurcommissie, van 3 juli 2013 nr. MA/2013/028/UP, houdende de verlening van ondermandaat, volmacht en machtiging aan functionarissen van de administratieve ondersteuning van de huurcommissie (Besluit ondermandaat, volmacht en machtiging huurcommissie 2013)](besluit-ondermandaat-volmacht-en-machtiging-huurcommissie-20/README.md) · 2 versies
+- [BWBR0032563 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van programmasubsidies, die de kwaliteit van architectuur, vormgeving en e-cultuur bevorderen en vanuit een culturele invalshoek hun maatschappelijke en economische meerwaarde vergroten](deelregeling-activiteitenprogramma-s/README.md) · 1 versie
+- [BWBR0033523 — Besluit van het Bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de internationale reputatie en marktverruiming van de Nederlandse creatieve industrie op het gebied van architectuur, vormgeving en e-cultuur](deelregeling-internationalisering-creatieve-industrie/README.md) · 2 versies
+- [BWBR0032561 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van architectuur in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten](deelregeling-architectuur/README.md) · 1 versie
+- [BWBR0032579 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van architectuur, vormgeving en e-cultuur in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten](deelregeling-talentontwikkeling/README.md) · 1 versie
+- [BWBR0032560 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van e-cultuur in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten](deelregeling-e-cultuur/README.md) · 1 versie
+- [BWBR0032557 — Besluit van het bestuur van de Stichting Stimuleringsfonds Creatieve Industrie tot vaststelling van een deelregeling, houdende regels voor het verstrekken van subsidie ter bevordering van de kwaliteit van vormgeving in brede zin en vanuit een culturele invalshoek haar maatschappelijke en economische meerwaarde te vergroten](deelregeling-vormgeving/README.md) · 1 versie
+- [BWBR0033290 — Besluit van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, onderscheidenlijk de voorzitter van het college, onderscheidenlijk de afdelingshoofden van de Onafhankelijke Post en Telecommunicatie Autoriteit, houdende mandatering, ondermandatering, volmacht en machtiging van bevoegdheden van het college aan de voorzitter van het college en de ambtenaren in dienst van het college](mandaatregister-opta-2013/README.md) · 2 versies
+- [BWBR0032776 — Besluit vaststelling factoren L en r boekjaar 2013](besluit-vaststelling-factoren-l-en-r-boekjaar-2013/README.md) · 2 versies
+- [BWBR0032166 — Besluit vaststelling lastenplafonds sectorfondsen 2013](besluit-vaststelling-lastenplafonds-sectorfondsen-2013/README.md) · 1 versie
+- [BWBR0032170 — Besluit vaststelling sectorpremies 2013](besluit-vaststelling-sectorpremies-2013/README.md) · 1 versie
+- [BWBR0033065 — Besluit verlenging inschrijving Rbtv](besluit-verlenging-inschrijving-rbtv/README.md) · 1 versie
+- [BWBR0032374 — Besluit werkgebieden UWV 2013](besluit-werkgebieden-uwv-2013/README.md) · 2 versies
+- [BWBR0033422 — Bestuursreglement Commissie eindtermen accountantsopleiding (CEA)](bestuursreglement-commissie-eindtermen-accountantsopleiding-/README.md) · 1 versie
+- [BWBR0033087 — Bestuursreglement Raad voor plantenrassen](bestuursreglement-raad-voor-plantenrassen-bwbr0033087/README.md) · 2 versies
+- [BWBR0034441 — Bestuursreglement van de Raad voor plantenrassen](bestuursreglement-raad-voor-plantenrassen-bwbr0034441/README.md) · 5 versies
+- [BWBR0034160 — Bevoegdhedenregeling NWO 2013](bevoegdhedenregeling-nwo-2013/README.md) · 4 versies
+- [BWBR0034375 — Biografieregeling Nederlands Letterenfonds](biografieregeling-nederlands-letterenfonds/README.md) · 3 versies
+- [BWBR0033572 — CBP richtsnoeren: beveiliging van persoonsgegevens](cbp-richtsnoeren-beveiliging-van-persoonsgegevens/README.md) · 1 versie
+- [BWBR0032682 — Deelregeling Beurzen Praktijkverdieping](deelregeling-beurzen-praktijkverdieping/README.md) · 1 versie
+- [BWBR0032689 — Deelregeling Collectiemobiliteit](deelregeling-collectiemobiliteit/README.md) · 1 versie
+- [BWBR0032694 — Deelregeling Collectieprogramma’s](deelregeling-collectieprogramma-s/README.md) · 2 versies
+- [BWBR0032683 — Deelregeling Flexibele Bijdrage Projectinvestering](deelregeling-flexibele-bijdrage-projectinvestering/README.md) · 1 versie
+- [BWBR0032691 — Deelregeling Flexibele Projectinvestering Presentatie en Erfgoed Instellingen](deelregeling-flexibele-projectinvestering-presentatie-en-erf/README.md) · 1 versie
+- [BWBR0032686 — Deelregeling gast- en buitenlandateliers](deelregeling-gast-en-buitenlandateliers/README.md) · 2 versies
+- [BWBR0032697 — Deelregeling Incidentele Aankopen](deelregeling-incidentele-aankopen/README.md) · 1 versie
+- [BWBR0032692 — Deelregeling Internationale Samenwerking Erfgoedinstellingen](deelregeling-internationale-samenwerking-erfgoedinstellingen/README.md) · 1 versie
+- [BWBR0034049 — Deelregeling Jij maakt het mee Fonds voor Cultuurparticipatie 2013–2016](deelregeling-jij-maakt-het-mee-fonds-voor-cultuurparticipati/README.md) · 1 versie
+- [BWBR0034136 — Deelregeling kunstbeurzen](deelregeling-kunstbeurzen/README.md) · 2 versies
+- [BWBR0032687 — Deelregeling Meerjarenprogramma’s Presentatie en Erfgoedinstellingen](deelregeling-meerjarenprogramma-s-presentatie-en-erfgoedinst/README.md) · 1 versie
+- [BWBR0032685 — Deelregeling Opdrachtgeverschap](deelregeling-opdrachtgeverschap/README.md) · 1 versie
+- [BWBR0032630 — Deelregeling pilot internationale promotie Fonds Podiumkunsten](deelregeling-pilot-internationale-promotie-fonds-podiumkunst/README.md) · 1 versie
+- [BWBR0032693 — Deelregeling Presentaties Buitenland](deelregeling-presentaties-buitenland/README.md) · 1 versie
+- [BWBR0032861 — Deelregeling stimulering cultuureducatie in het VMBO Fonds voor Cultuurparticipatie](deelregeling-stimulering-cultuureducatie-in-het-vmbo-fonds-v/README.md) · 3 versies
+- [BWBR0033760 — Deelregeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016](deelregeling-versterking-actieve-cultuurparticipatie-fonds-v/README.md) · 3 versies
+- [BWBR0032696 — Deelregeling WBT](deelregeling-wbt-bwbr0032696/README.md) · 2 versies
+- [BWBR0032695 — Deelregeling WBT+](deelregeling-wbt-bwbr0032695/README.md) · 2 versies
+- [BWBR0032631 — Deelregeling werkbeurzen compositie Fonds Podiumkunsten](deelregeling-werkbeurzen-compositie-fonds-podiumkunsten/README.md) · 1 versie
+- [BWBR0032690 — Deelregeling Werkbijdrage Jong Talent](deelregeling-werkbijdrage-jong-talent/README.md) · 2 versies
+- [BWBR0032681 — Deelregeling Werkbijdrage WJT+](deelregeling-werkbijdrage-wjt/README.md) · 1 versie
+- [BWBR0032688 — Deelregeling Wet Behoud Cultuurbezit](deelregeling-wet-behoud-cultuurbezit/README.md) · 1 versie
+- [BWBR0032477 — Deelreglement Distributie van de Stichting Nederlands Fonds voor de film](deelreglement-distributie-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0032475 — Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film](deelreglement-filmactiviteiten-van-de-stichting-nederlands-f/README.md) · 1 versie
+- [BWBR0032478 — Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film](deelreglement-ontwikkeling-van-de-stichting-nederlands-fonds/README.md) · 1 versie
+- [BWBR0032472 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film](deelreglement-realisering-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0033701 — Erkenningsregeling Beroepservaringperiode](erkenningsregeling-beroepservaringperiode/README.md) · 1 versie
+- [BWBR0033359 — Erkenningsreglement Aequor](erkenningsreglement-aequor/README.md) · 1 versie
+- [BWBR0033067 — Gewijzigde aanvraagprocedure diploma-erkenning](gewijzigde-aanvraagprocedure-diploma-erkenning/README.md) · 1 versie
+- [BWBR0032480 — Huishoudelijk reglement van het Nederlands Fonds voor de Film](huishoudelijk-reglement-van-het-nederlands-fonds-voor-de-fil/README.md) · 4 versies
+- [BWBR0032740 — Inschrijvingsvoorwaarden advocatuur 2013 krachtens de Wet op de Rechtsbijstand](inschrijvingsvoorwaarden-advocatuur-2013-krachtens-de-wet-op-bwbr0032740/README.md) · 2 versies
+- [BWBR0033825 — Inschrijvingsvoorwaarden advocatuur 2013 krachtens de Wet op de Rechtsbijstand, versie per 1 september 2013](inschrijvingsvoorwaarden-advocatuur-2013-krachtens-de-wet-op-bwbr0033825/README.md) · 1 versie
+- [BWBR0034580 — Inschrijvingsvoorwaarden advocatuur 2014 krachtens de Wet op de Rechtsbijstand, versie per 1 januari 2014](inschrijvingsvoorwaarden-advocatuur-2014-krachtens-de-wet-op/README.md) · 1 versie
+- [BWBR0032742 — Inschrijvingsvoorwaarden mediators 2013 krachtens de Wet op de Rechtsbijstand](inschrijvingsvoorwaarden-mediators-2013-krachtens-de-wet-op-/README.md) · 1 versie
+- [BWBR0034565 — Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)](besluit-inschrijvingsvoorwaarden-mediators-2013/README.md) · 1 versie
+- [BWBR0033017 — Instellingsbesluit Klachtenadviescommissie Wsnp](instellingsbesluit-klachtenadviescommissie-wsnp/README.md) · 1 versie
+- [BWBR0033913 — Macrobeheersinstrument curatieve geestelijke gezondheidszorg 2013](regeling-macrobeheersinstrument-curatieve-geestelijke-gezond-bwbr0033913/README.md) · 1 versie
+- [BWBR0032582 — Macrobeheersinstrument tweedelijns curatieve GGZ 2013](macrobeheersinstrument-tweedelijns-curatieve-ggz-2013/README.md) · 1 versie
+- [BWBR0033985 — Macrobeheersmodel](regeling-macrobeheers-model/README.md) · 1 versie
+- [BWBR0032646 — Mandaat Autoriteit Financiële Markten](mandaat-autoriteit-financi-le-markten-2013/README.md) · 1 versie
+- [BWBR0032747 — Mandaat CBR](mandaat-cbr/README.md) · 1 versie
+- [BWBR0034138 — Mondriaan fonds Prix de Rome](mondriaan-fonds-prix-de-rome/README.md) · 2 versies
+- [BWBR0032749 — Prestatiebeschrijvingsbeschikking](prestatiebeschrijvingsbeschikking-stoppen-met-rokenprogramma/README.md) · 1 versie
+- [BWBR0032753 — Prestatiebeschrijvingsbeschikking](prestatiebeschrijvingsbeschikking-dm-type-2-vrm-copd-2013/README.md) · 1 versie
+- [BWBR0032645 — Procuratieregeling Stichting Autoriteit Financiële Markten](procuratieregeling-stichting-autoriteit-financi-le-markten/README.md) · 1 versie
+- [BWBR0034153 — Procuratieregeling Stichting Autoriteit Financiële Markten per 1 november 2013](procuratieregeling-stichting-autoriteit-financi-le-markten-p/README.md) · 1 versie
+- [BWBR0034249 — Raad voor rechtsbijstand Maatregelbeleid](raad-voor-rechtsbijstand-maatregelbeleid/README.md) · 1 versie
+- [BWBR0031772 — Regeling administratie en declaratievoorschriften ZZP-meerzorg AWBZ](regeling-administratie-en-declaratievoorschriften-zzp-meerzo/README.md) · 1 versie
+- [BWBR0034422 — Regeling Administratieve Organisatie en Interne Controle AWBZ-zorgaanbieders 2013](regeling-administratieve-organisatie-en-interne-controle-awb/README.md) · 2 versies
+- [BWBR0032492 — Regeling controle en administratie zorgverzekeraars](regeling-controle-en-administratie-zorgverzekeraars/README.md) · 1 versie
+- [BWBR0031769 — Regeling declaratie AWBZ-zorg](regeling-declaratie-awbz-zorg/README.md) · 1 versie
+- [BWBR0031993 — Regeling Declaratiebepalingen DBC’s in de curatieve GGZ](regeling-declaratiebepalingen-dbc-s-in-de-curatieve-ggz/README.md) · 1 versie
+- [BWBR0031771 — Regeling declaratievoorschriften prestaties ketenzorg dementie en Nationaal Programma Ouderenzorg](regeling-declaratievoorschriften-prestaties-ketenzorg-dement/README.md) · 1 versie
+- [BWBR0032714 — Regeling digitale literaire projecten](regeling-digitale-literaire-projecten/README.md) · 1 versie
+- [BWBR0032750 — Regeling erkenning leer- en opleidingsbedrijven in de bouw, infra en gespecialiseerde aannemerij](regeling-erkenning-leer-en-opleidingsbedrijven-in-de-bouw-in/README.md) · 1 versie
+- [BWBR0034421 — Regeling informatieverstrekking definitieve vaststelling aanvaardbare kosten AWBZ 2013](regeling-informatieverstrekking-definitieve-vaststelling-aan/README.md) · 2 versies
+- [BWBR0032495 — Regeling informatieverstrekking gebudgetteerde zorgaanbieders van curatieve GGZ](regeling-informatieverstrekking-gebudgetteerde-zorgaanbieder/README.md) · 1 versie
+- [BWBR0032741 — Regeling Integrale bekostiging multidisciplinaire zorgverlening chronische aandoeningen (DM type 2, VRM, COPD)](regeling-integrale-bekostiging-multidisciplinaire-zorgverlen/README.md) · 1 versie
+- [BWBR0032708 — Regeling literaire projecten en manifestaties](regeling-literaire-projecten-en-manifestaties/README.md) · 1 versie
+- [BWBR0032490 — Regeling Macrobeheersinstrument curatieve geestelijke gezondheidszorg](regeling-macrobeheersinstrument-curatieve-geestelijke-gezond-bwbr0032490/README.md) · 1 versie
+- [BWBR0032498 — Regeling Macrobeheersmodel](regeling-macrobeheersmodel/README.md) · 1 versie
+- [BWBR0032339 — Regeling medisch specialistische zorg](regeling-medisch-specialistische-zorg/README.md) · 1 versie
+- [BWBR0032340 — Regeling mondzorg](regeling-mondzorg-bwbr0032340/README.md) · 1 versie
+- [BWBR0033938 — Regeling mondzorg](regeling-mondzorg-bwbr0033938/README.md) · 1 versie
+- [BWBR0032647 — Regeling projectsubsidies voor publicaties](regeling-projectsubsidies-voor-publicaties/README.md) · 2 versies
+- [BWBR0033906 — Regeling registratie en aanlevering kostprijzen zorgproducten medisch specialistische zorg](regeling-registratie-en-aanlevering-kostprijzen-zorgproducte/README.md) · 1 versie
+- [BWBR0032528 — Regeling reiskosten buitenland Nederlands Letterenfonds](regeling-reiskosten-buitenland-nederlands-letterenfonds/README.md) · 1 versie
+- [BWBR0032738 — Regeling Stoppen-met-rokenprogramma](regeling-stoppen-met-rokenprogramma/README.md) · 1 versie
+- [BWBR0032716 — Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2013](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20/README.md) · 1 versie
+- [BWBR0032592 — Regeling tarieven Dienst Wegverkeer 2013](regeling-tarieven-dienst-wegverkeer-2013/README.md) · 2 versies
+- [BWBR0032910 — Regeling toevoeging bewindvoerders Wsnp](regeling-toevoeging-bewindvoerders-wsnp/README.md) · 2 versies
+- [BWBR0032493 — Regeling transitie bekostigingsstructuur medisch specialistische zorg](regeling-transitie-bekostigingsstructuur-medisch-specialisti-bwbr0032493/README.md) · 1 versie
+- [BWBR0033125 — Regeling van de Besturen van de Stichting Stimuleringsfonds Creatieve Industrie en van de Stichting Stimuleringsfonds Nederlandse Culturele Mediaproducties houdende voorschriften over subsidieverstrekking aan beeldmakers en musici voor het in samenwerking produceren van videoclips (Regeling TAX-videoclipfonds)](tax-videoclipfonds/README.md) · 2 versies
+- [BWBR0033121 — Regeling van de Besturen van de Stichting Stimuleringsfonds Creatieve Industrie en van de Stichting Stimuleringsfonds Nederlandse Culturele Mediaproducties houdende voorschriften over subsidieverstrekking ten behoeve van het ontwikkelen of produceren van games (Regeling Gamefonds)](regeling-gamefonds/README.md) · 2 versies
+- [BWBR0033669 — Regeling van de Commissie Eindtermen Accountantsopleiding laatstelijk gewijzigd op 3 juli 2013 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen door de secretaris](regeling-mandaat-volmacht-en-machtiging-secretaris-cea/README.md) · 1 versie
+- [BWBR0033546 — Regeling van de Directie van de RDW (Dienst Wegverkeer) houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW, 6 juni 2013, kenmerk JBZ2013/10875](mandaatregeling-rdw/README.md) · 2 versies
+- [BWBR0033988 — Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)](regeling-financieel-mandaat-rdw/README.md) · 3 versies
+- [BWBR0036113 — Regeling van de Raad voor Rechtsbijstand, houdende verstrekking van subsidie aan de Stichting Juridisch Loket (Subsidieregeling Stichting het Juridisch Loket 2013)](subsidieregeling-stichting-het-juridisch-loket-2013/README.md) · 1 versie
+- [BWBR0032934 — Regeling van het College voor examens van 12 februari 2013, nummer Cve-13.00544, houdende regels voor het aanwijzen van vakken waarin het centraal examen in het tweede tijdvak wordt afgenomen door het College voor examens (Regeling aangewezen vakken tweede tijdvak centrale examens 2013)](regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-2/README.md) · 1 versie
+- [BWBR0033463 — Regeling van het College voor examens van 16 april 2013, nummer Cve-13.01219, houdende vaststelling van de syllabi voor de centrale examens in het v.w.o., h.a.v.o. en v.m.b.o. 2015, initiële vaststelling toetswijzer rekentoets VO 2014, tevens nadere vaststelling van enkele syllabi 2014 (Regeling syllabi centrale examens VO 2015)](regeling-syllabi-centrale-examens-vo-2015/README.md) · 3 versies
+- [BWBR0033991 — Regeling van het College voor Examens van 18 juni 2013, nummer CvE-13.01729 houdende vaststelling van het examenreglement en programma van toetsing en afsluiting staatsexamens VO en staatsexamens VO BES 2014 (Regeling examenreglement en PTA staatsexamens VO 2014)](regeling-examenreglement-en-pta-staatsexamens-vwo-havo-vmbo-/README.md) · 1 versie
+- [BWBR0032054 — Regeling van het College voor examens van 19 juni 2012, nummer CvE-12.01404, houdende vaststelling van het rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2014 (Regeling rooster en toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vwo, havo en vmbo in 2014)](regeling-rooster-en-toegestane-hulpmiddelen-voor-de-centrale/README.md) · 1 versie
+- [BWBR0031887 — Regeling van het College voor examens van 19 juni 2012, nummer CvE-12.01405, houdende vaststelling van het examenreglement staatsexamens Nederlands als tweede taal 2013 (Regeling examenreglement staatsexamens NT2 2013)](regeling-examenreglement-staatsexamens-nt2-2013/README.md) · 1 versie
+- [BWBR0030785 — Regeling van het College voor examens van 27 september 2011, nr. Cve-11.02143, houdende vaststelling van het examenprogramma Staatsexamen Nederlands als tweede taal 2013 (Regeling examenprogramma Staatsexamen NT2 2013)](regeling-examenprogramma-staatsexamen-nt2-2013/README.md) · 1 versie
+- [BWBR0034229 — Regeling van het Commissariaat voor de Media van 5 november 2013 houdende regels voor de landelijke publieke media-instellingen omtrent ledenvoordelen en ledenwerfactiviteiten als bedoeld in artikel 2.137, eerste lid, van de Mediawet 2008, en omtrent oproepen in het kader van ledenwerving als bedoeld in artikel 2.90 van de Mediawet 2008 (Regeling ledenvoordelen en ledenwerfactiviteiten)](regeling-ledenvoordelen-en-ledenwerfactiviteiten/README.md) · 2 versies
+- [BWBR0033706 — Regeling van het Stimuleringsfonds voor de pers van 10 juli 2013, nr. 23282, tot vaststelling van een tijdelijke subsidieregeling voor vernieuwende journalistiek 2013 (The Challenge: Reinventing Journalism)](regeling-vaststelling-tijdelijke-subsidieregeling-vernieuwen/README.md) · 1 versie
+- [BWBR0032951 — Regeling van het Stimuleringsfonds voor de pers van 20 februari 2013, nr. 22928, tot vaststelling van een Tijdelijke subsidieregeling Persinnovatie 2013](tijdelijke-subsidieregeling-persinnovatie-2013/README.md) · 1 versie
+- [BWBR0032713 — Regeling van het Stimuleringsfonds voor de pers van 21 december 2012, nr. 22765 tot vaststelling van subsidieplafonds voor het jaar 2013](regeling-vaststelling-subsidieplafonds-2013/README.md) · 1 versie
+- [BWBR0033969 — Regeling vaststelling constanten regressieformules en waarden gemiddelde CO2-uitstoot benzine- en dieselauto’s 2014 en 2015](regeling-vaststelling-constanten-regressieformules-en-waarde/README.md) · 1 versie
+- [BWBR0033525 — Regeling vergoedingen NIWO](regeling-vergoedingen-niwo/README.md) · 1 versie
+- [BWBR0033907 — Regeling verplichte aanlevering minimale dataset medisch specialistische zorg (MDS)](regeling-verplichte-aanlevering-minimale-dataset-medisch-spe/README.md) · 2 versies
+- [BWBR0032515 — Regeling Verplichte accountantscontrole kostprijzen forensische zorg](regeling-verplichte-accountantscontrole-kostprijzen-forensis/README.md) · 1 versie
+- [BWBR0032859 — Regeling Versterking Actieve Cultuurparticipatie Fonds voor Cultuurparticipatie 2013–2016](regeling-versterking-actieve-cultuurparticipatie-fonds-voor-/README.md) · 1 versie
+- [BWBR0032880 — Regeling voorschotverlening op uitkeringen AWBZ en vaststelling kosten van verstrekkingen en vergoedingen 2013](regeling-voorschotverlening-op-uitkeringen-en-vergoedingen-a/README.md) · 2 versies
+- [BWBR0033063 — Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen](regeling-voorwaarden-deelname-examen-keurmeester-lichte-en-z/README.md) · 2 versies
+- [BWBR0034412 — Reglement Erkenning BPV Leerbedrijven Carrosseriebranche](reglement-erkenning-bpv-leerbedrijven-carrosseriebranche/README.md) · 1 versie
+- [BWBR0033311 — Reglement erkenning leerbedrijven Stichting Kenniscentrum Handel](reglement-erkenning-leerbedrijven-stichting-kenniscentrum-ha/README.md) · 1 versie
+- [BWBR0032737 — Reglement erkenning leerbedrijven van KC PMLF](reglement-erkenning-leerbedrijven-van-kc-pmlf/README.md) · 1 versie
+- [BWBR0033470 — Reglement erkenning Mobiliteitsbranche](reglement-erkenning-mobiliteitsbranche-2013/README.md) · 1 versie
+- [BWBR0035008 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2013-2014](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0035008/README.md) · 3 versies
+- [BWBR0033245 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2013–2014](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0033245/README.md) · 1 versie
+- [BWBR0033623 — Reglement Raad van bestuur Sociale verzekeringsbank](reglement-raad-van-bestuur-sociale-verzekeringsbank/README.md) · 3 versies
+- [BWBR0034389 — Reglement Toetsing NRGD](reglement-toetsing-nrgd/README.md) · 1 versie
+- [BWBR0033449 — Reglement Vervangingsfonds voor het Primair Onderwijs voor het schooljaar 2013–2014](reglement-vervangingsfonds-voor-het-primair-onderwijs-voor-h/README.md) · 1 versie
+- [BWBR0034479 — Samenwerking Musea](samenwerking-musea/README.md) · 2 versies
+- [BWBR0034286 — Stichting Vervangingsfonds en bedrijfsgezondheidszorg voor het Onderwijs, vaststelling subsidieplafonds 2014](stichting-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h/README.md) · 1 versie
+- [BWBR0034135 — Stimuleringsregeling voor innovatie en promotie](stimuleringsregeling-voor-innovatie-en-promotie/README.md) · 1 versie
+- [BWBR0032555 — Subsidiereglement Creatieve Industrie](subsidiereglement-creatieve-industrie/README.md) · 1 versie
+- [BWBR0031813 — Suppletieregeling Filminvesteringen Nederland / Subsidieregeling van de Stichting Nederlands Fonds voor de Film](suppletieregeling-filminvesteringen-nederland/README.md) · 1 versie
+- [BWBR0032280 — Tariefbeschikking DBBC FZ](tariefbeschikking-dbbc-fz/README.md) · 1 versie
+- [BWBR0032890 — Tariefbeschikking kaakchirurgische hulp](tariefbeschikking-kaakchirurgische-hulp-bwbr0032890/README.md) · 1 versie
+- [BWBR0032539 — Tariefbeschikking orthodontische zorg](tariefbeschikking-orthodontische-zorg-bwbr0032539/README.md) · 1 versie
+- [BWBR0032279 — Tariefbeschikking overige producten FZ](tariefbeschikking-overige-producten-fz/README.md) · 1 versie
+- [BWBR0032360 — Tariefbeschikking Tandheelkundige zorg](tariefbeschikking-tandheelkundige-zorg/README.md) · 1 versie
+- [BWBR0032378 — Tariefbeschikking Tandheelkundige zorg AWBZ](tariefbeschikking-tandheelkundige-zorg-awbz/README.md) · 1 versie
+- [BWBR0032348 — Tariefbeschikking Tarievenlijst tandtechniek in eigen beheer](tariefbeschikking-tarievenlijst-tandtechniek-in-eigen-beheer/README.md) · 1 versie
+- [BWBR0032499 — Tariefbeschikking tweedelijns curatieve GGZ](tariefbeschikking-tweedelijns-curatieve-ggz/README.md) · 1 versie
+- [BWBR0032801 — Tariefbeschikking verloskunde](tariefbeschikking-verloskunde/README.md) · 1 versie
+- [BWBR0032281 — Tariefbeschikking ZZP's en extramurale parameters FZ](tariefbeschikking-zzp-s-en-extramurale-parameters-fz/README.md) · 1 versie
+- [BWBR0033239 — Tarievenbesluit 2013 Raad voor Accreditatie](tarievenbesluit-2013-raad-voor-accreditatie/README.md) · 1 versie
+- [BWBR0032746 — Tarievenbesluit Ctgb 2013](tarievenbesluit-ctgb-2013/README.md) · 2 versies
+- [BWBR0034274 — Tenderregeling Werkplezier 2013](tenderregeling-werkplezier-2013/README.md) · 3 versies
+- [BWBR0032668 — Tijdelijke Regeling Herinnering Slavernijverleden](tijdelijke-regeling-herinnering-slavernijverleden/README.md) · 1 versie
+- [BWBR0033911 — Transitie bekostigingsstructuur medisch specialistische zorg](regeling-transitie-bekostigingsstructuur-medisch-specialisti-bwbr0033911/README.md) · 2 versies
+- [BWBR0033762 — Uitgiftebeleid geografische nummers](uitgiftebeleid-geografische-nummers/README.md) · 1 versie
+- [BWBR0033424 — Vaststelling gewijzigde eindtermen theoretische accountantsopleiding 2008](beleidsregel-vaststelling-gewijzigde-eindtermen-theoretische/README.md) · 1 versie
+- [BWBR0033744 — Vergunning BankGiro Loterij 2013/2014](vergunning-bankgiro-loterij-2013-2014/README.md) · 4 versies
+- [BWBR0034191 — Verstrekkingsvoorwaarden inzake het Kentekenregister van de Dienst Wegverkeer 2014](verstrekkingsvoorwaarden-inzake-het-kentekenregister-van-de-/README.md) · 1 versie
+- [BWBR0033544 — Werkwijze (anonieme) informanten ACM](werkwijze-anonieme-informanten-acm/README.md) · 2 versies
+- [BWBR0033524 — Werkwijze Communicatie ACM](werkwijze-communicatie-acm/README.md) · 3 versies

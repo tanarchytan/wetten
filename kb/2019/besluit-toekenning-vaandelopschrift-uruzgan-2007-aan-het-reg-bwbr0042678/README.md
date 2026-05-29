@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0042678
+eli: /eli/nl/kb/2019/besluit-toekenning-vaandelopschrift-uruzgan-2007-aan-het-reg-bwbr0042678
+type: kb
+title: Besluit van 11 september 2019, tot toekenning van het vaandelopschrift «Uruzgan 2007» aan het Regiment Stoottroepen Prins Bernhard
+ministry: Defensie
+abbreviation: null
+latest_state: "2019-12-01"
+state_count: 1
+---
+
+
+# Besluit van 11 september 2019, tot toekenning van het vaandelopschrift «Uruzgan 2007» aan het Regiment Stoottroepen Prins Bernhard
+
+**BWB-id:** BWBR0042678
+**Citeertitel:** Besluit toekenning vaandelopschrift «Uruzgan 2007» aan het Regiment Stoottroepen Prins Bernhard
+**Type:** kb
+**Verantwoordelijk ministerie:** Defensie
+**ELI:** [/eli/nl/kb/2019/besluit-toekenning-vaandelopschrift-uruzgan-2007-aan-het-reg-bwbr0042678](https://wetten.ai/eli/nl/kb/2019/besluit-toekenning-vaandelopschrift-uruzgan-2007-aan-het-reg-bwbr0042678)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2019-12-01 | heden | [2019-12-01.md](./2019-12-01.md) |

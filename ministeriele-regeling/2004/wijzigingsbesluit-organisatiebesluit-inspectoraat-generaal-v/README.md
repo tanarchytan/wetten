@@ -1,0 +1,26 @@
+---
+bwb_id: BWBR0016925
+eli: /eli/nl/ministeriele-regeling/2004/wijzigingsbesluit-organisatiebesluit-inspectoraat-generaal-v
+type: ministeriele-regeling
+title: Wijzigingsbesluit Organisatiebesluit Inspectoraat-Generaal VROM 2004
+ministry: Infrastructuur en Milieu
+abbreviation: null
+latest_state: "2004-07-15"
+state_count: 2
+---
+
+
+# Wijzigingsbesluit Organisatiebesluit Inspectoraat-Generaal VROM 2004
+
+**BWB-id:** BWBR0016925
+**Citeertitel:** Wijzigingsbesluit Organisatiebesluit Inspectoraat-Generaal VROM 2004
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Infrastructuur en Milieu
+**ELI:** [/eli/nl/ministeriele-regeling/2004/wijzigingsbesluit-organisatiebesluit-inspectoraat-generaal-v](https://wetten.ai/eli/nl/ministeriele-regeling/2004/wijzigingsbesluit-organisatiebesluit-inspectoraat-generaal-v)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2004-07-15 | 2004-12-31 | [2004-07-15.md](./2004-07-15.md) |
+| 2004-07-01 | 2004-07-14 | [2004-07-01.md](./2004-07-01.md) |

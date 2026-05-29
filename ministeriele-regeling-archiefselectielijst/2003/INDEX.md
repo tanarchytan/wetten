@@ -1,0 +1,42 @@
+# Ministeriele-regeling-archiefselectielijst — 2003
+
+ELI: `/eli/nl/ministeriele-regeling-archiefselectielijst/2003/*`
+
+- [BWBR0015593 — Besluit van 18 september 2003, nr. 03.003838 houdende vaststelling van een selectielijst van de Raad van State in verband met de advisering door de Raad over wet- en regelgeving in hoogste en laatste instantie](selectielijst-raad-van-state-inzake-advisering-over-wet-en-r/README.md) · 1 versie
+- [BWBR0014813 — Selectielijst beleidsterrein Arbeidsverhoudingen vanaf 1945](selectielijst-beleidsterrein-arbeidsverhoudingen-vanaf-1945/README.md) · 1 versie
+- [BWBR0014801 — Selectielijst beleidsterrein Monumentenzorg 1945-1990](selectielijst-beleidsterrein-monumentenzorg-1945-1990/README.md) · 1 versie
+- [BWBR0015187 — Selectielijst Milieubeheer over de periode vanaf 1945](selectielijst-milieubeheer-over-de-periode-vanaf-1945/README.md) · 1 versie
+- [BWBR0015816 — Selectielijst neerslag handelingen Academisch Ziekenhuis UvA op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-academisch-ziekenhuis-uva/README.md) · 1 versie
+- [BWBR0015689 — Selectielijst neerslag handelingen AZG op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-azg-over-de-periode-1985-/README.md) · 1 versie
+- [BWBR0015685 — Selectielijst neerslag handelingen AZL op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-azl-over-de-periode-1985-/README.md) · 1 versie
+- [BWBR0015688 — Selectielijst neerslag handelingen AZM op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-azm-over-de-periode-1985-/README.md) · 1 versie
+- [BWBR0015687 — Selectielijst neerslag handelingen AZR op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-azr-over-de-periode-1985-/README.md) · 1 versie
+- [BWBR0015686 — Selectielijst neerslag handelingen AZU op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-azu-over-de-periode-1985-/README.md) · 1 versie
+- [BWBR0015690 — Selectielijst neerslag handelingen Commissie Medische Ethiek LUMC op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-commissie-medische-ethiek/README.md) · 1 versie
+- [BWBR0015418 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Landbouw, Natuur en Voedselkwaliteit](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015418/README.md) · 1 versie
+- [BWBR0015416 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Sociale Zaken en Werkgelegenheid](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015416/README.md) · 1 versie
+- [BWBR0015419 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Verkeer en Waterstaat](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015419/README.md) · 1 versie
+- [BWBR0015417 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Volksgezondheid, Welzijn en Sport](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015417/README.md) · 1 versie
+- [BWBR0015420 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015420/README.md) · 1 versie
+- [BWBR0015415 — Selectielijst neerslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965–heden, Financiën](selectielijst-neerslag-handelingen-m-b-t-emancipatie-en-geli-bwbr0015415/README.md) · 1 versie
+- [BWBR0015684 — Selectielijst neerslag handelingen Medisch Ethische Toetsingscommissie AZG en RuG op het beleidsterrein openbare en bijzondere academische ziekenhuizen over de periode 1985–2000](selectielijst-neerslag-handelingen-medisch-ethische-toetsing/README.md) · 2 versies
+- [BWBR0015421 — Selectielijst neerslag handelingen met betrekking tot Emancipatie en gelijke behandeling vanaf 1965-heden, Onderwijs, Cultuur en Wetenschappen](selectielijst-neerslag-handelingen-minister-m-b-t-emancipati/README.md) · 1 versie
+- [BWBR0015213 — Selectielijst neerslag handelingen Minister van EZ m.b.t. de SER 1970 - heden](selectielijst-neerslag-handelingen-minister-van-ez-m-b-t-de-/README.md) · 1 versie
+- [BWBR0015214 — Selectielijst neerslag handelingen Minister van SZW m.b.t. de SER 1970 - heden](selectielijst-neerslag-handelingen-minister-van-szw-m-b-t-de/README.md) · 1 versie
+- [BWBR0015338 — Selectielijst neerslag handelingen op het beleidsterrein adelsbeleid, adelsrecht en het decoratiestelsel (periode 1945-2000)](selectielijst-neerslag-handelingen-op-het-beleidsterrein-ade/README.md) · 2 versies
+- [BWBR0015422 — Selectielijst neeslag handelingen m.b.t. Emancipatie en gelijke behandeling vanaf 1965-heden, Defensie](selectielijst-neeslag-handelingen-m-b-t-emancipatie-en-gelij/README.md) · 1 versie
+- [BWBR0014821 — Vaststelling selectielijst beleidsterrein Nationaliteiten over de periode vanaf 1945](vaststelling-selectielijst-beleidsterrein-nationaliteiten-ov/README.md) · 1 versie
+- [BWBR0014822 — Vaststelling selectielijst beleidsterrein natuur- en landschapsbeheer Defensie](vaststelling-selectielijst-beleidsterrein-natuur-en-landscha/README.md) · 1 versie
+- [BWBR0015373 — Vaststelling selectielijst beleidsterrein overheidsinformatievoorziening over de periode 1945–1999](vaststelling-selectielijst-beleidsterrein-overheidsinformati/README.md) · 1 versie
+- [BWBR0015362 — Vaststelling selectielijst handelingen minister van BZK op beleidsterrein Nationale Ombudsman (1964) 1982-1997](vaststelling-selectielijst-handelingen-minister-van-bzk-op-b/README.md) · 2 versies
+- [BWBR0015066 — Vaststelling selectielijst Kanselarij der Nederlandse Orden](vaststelling-selectielijst-kanselarij-der-nederlandse-orden/README.md) · 1 versie
+- [BWBR0015370 — Vaststelling selectielijst OCW](vaststelling-selectielijst-ocw/README.md) · 1 versie
+- [BWBR0015364 — Vaststelling selectielijst OCW en BZK](vaststelling-selectielijst-ocw-en-bzk/README.md) · 1 versie
+- [BWBR0015368 — Vaststelling selectielijst OCW en Defensie](vaststelling-selectielijst-ocw-en-defensie/README.md) · 1 versie
+- [BWBR0015372 — Vaststelling selectielijst OCW en Economische Zaken](vaststelling-selectielijst-ocw-en-economische-zaken/README.md) · 1 versie
+- [BWBR0015363 — Vaststelling selectielijst OCW en Financiën](vaststelling-selectielijst-ocw-en-financi-n/README.md) · 1 versie
+- [BWBR0015371 — Vaststelling selectielijst OCW en LNV](vaststelling-selectielijst-ocw-en-lnv/README.md) · 1 versie
+- [BWBR0015369 — Vaststelling selectielijst OCW en SZW](vaststelling-selectielijst-ocw-en-szw/README.md) · 1 versie
+- [BWBR0015367 — Vaststelling selectielijst OCW en Verkeer en Waterstaat](vaststelling-selectielijst-ocw-en-verkeer-en-waterstaat/README.md) · 1 versie
+- [BWBR0015365 — Vaststelling selectielijst OCW en VROM](vaststelling-selectielijst-ocw-en-vrom/README.md) · 1 versie
+- [BWBR0015366 — Vaststelling selectielijst OCW en VWS](vaststelling-selectielijst-ocw-en-vws/README.md) · 1 versie

@@ -1,0 +1,27 @@
+---
+bwb_id: BWBR0024702
+eli: /eli/nl/ministeriele-regeling/2008/regeling-vaststelling-maatstaven-bedragen-bandbreedtes-en-ve
+type: ministeriele-regeling
+title: Regeling van de Minister van Financiën tot vaststelling voor 2008 van de maatstaven, bedragen, bandbreedtes en verdeelsleutels/tarieven Besluit bekostiging financieel toezicht
+ministry: Financiën
+abbreviation: null
+latest_state: "2011-08-31"
+state_count: 3
+---
+
+
+# Regeling van de Minister van Financiën tot vaststelling voor 2008 van de maatstaven, bedragen, bandbreedtes en verdeelsleutels/tarieven Besluit bekostiging financieel toezicht
+
+**BWB-id:** BWBR0024702
+**Citeertitel:** Regeling vaststelling maatstaven, bedragen, bandbreedtes en verdeelsleutels/tarieven Besluit bekostiging financieel toezicht 2008
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Financiën
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-maatstaven-bedragen-bandbreedtes-en-ve](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-maatstaven-bedragen-bandbreedtes-en-ve)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2011-08-31 | 2012-12-31 | [2011-08-31.md](./2011-08-31.md) |
+| 2009-04-01 | 2011-08-30 | [2009-04-01.md](./2009-04-01.md) |
+| 2008-11-21 | 2009-03-31 | [2008-11-21.md](./2008-11-21.md) |

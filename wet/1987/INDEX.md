@@ -1,0 +1,16 @@
+# Wet — 1987
+
+ELI: `/eli/nl/wet/1987/*`
+
+- [BWBR0004163 — Wet van 11 juni 1987, houdende het treffen van een inkomensvoorziening voor oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen van wie het inkomen duurzaam minder bedraagt dan het sociaal minimum en die als gevolg daarvan het bedrijf of beroep hebben beëindigd](wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongesc-bwbr0004163/README.md) · 127 versies
+- [BWBR0004158 — Wet van 14 mei 1987, houdende adviesorganen ten behoeve van de beleidsvoering inzake onderzoek en ontwikkeling op onderscheidene aandachtsgebieden](raamwet-sectorraden-onderzoek-en-ontwikkeling/README.md) · 1 versie
+- [BWBR0004130 — Wet van 18 maart 1987, houdende machtiging tot mede-oprichting van de Stichting Landelijke Organisatie Trauma Teams](wet-stichting-lott/README.md) · 1 versie
+- [BWBR0004129 — Wet van 18 maart 1987, houdende machtiging tot oprichting van de Stichting Nederlands Interdisciplinair Demografisch Instituut](wet-machtiging-tot-oprichting-stichting-nederlands-interdisc/README.md) · 1 versie
+- [BWBR0004089 — Wet van 24 december 1986, houdende het achterwege laten van de herziening van het wettelijk minimumloon, van de uitkeringen krachtens een aantal sociale verzekeringswetten en van een aantal uitkeringen en pensioenen krachtens enige andere wetten per 1 januari 1987 en per 1 juli 1987](wet-achterwege-laten-herziening-wettelijk-minimumloon-per-1-/README.md) · 1 versie
+- [BWBR0004224 — Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](wet-bescherming-oorspronkelijke-topografie-n-van-halfgeleide/README.md) · 7 versies
+- [BWBR0003994 — Wet van 3 juli 1986, houdende regelen inzake bescherming van de bodem](wet-bodembescherming/README.md) · 42 versies
+- [BWBR0004044 — Wet van 6 november 1986, houdende het treffen van een inkomensvoorziening voor oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers van wie het recht op een uitkering op grond van de Werkloosheidswet is geëindigd](wet-inkomensvoorziening-oudere-en-gedeeltelijk-arbeidsongesc-bwbr0004044/README.md) · 149 versies
+- [BWBR0004046 — Wet van 6 november 1986, houdende intrekking van de Werkloosheidswet, invoering van een nieuwe Werkloosheidswet en een aantal andere wetten, alsmede de in het kader van die intrekking en invoering te treffen overgangsregelingen en de daarmee verband houdende wijzigingen van een aantal wetten en regelingen](invoeringswet-stelselherziening-sociale-zekerheid/README.md) · 25 versies
+- [BWBR0004043 — Wet van 6 november 1986, houdende verlening van toeslagen tot het relevante sociaal minimum aan uitkeringsgerechtigden op grond van de Werkloosheidswet, de Ziektewet, de Algemene Arbeidsongeschiktheidswet, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsvoorziening militairen](toeslagenwet/README.md) · 76 versies
+- [BWBR0004045 — Wet van 6 november 1986, tot verzekering van werknemers tegen geldelijke gevolgen van werkloosheid](werkloosheidswet/README.md) · 173 versies
+- [BWBR0004188 — Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972](les-en-cursusgeldwet/README.md) · 47 versies

@@ -1,0 +1,196 @@
+# Zbo — 2020
+
+ELI: `/eli/nl/zbo/2020/*`
+
+- [BWBR0044459 — (Besluit van het bestuur van de Raad voor Rechtsbijstand van 28 oktober 2020 krachtens artikel 33b van de Wet op de Rechtsbijstand, goedgekeurd bij besluit van het Ministerie van Justitie en Veiligheid van 20 november 2020)](inschrijvingsvoorwaarden-mediators-2021/README.md) · 1 versie
+- [BWBR0043059 — Aanmeldprocedure Staatsexamens Nt2 2021](besluit-aanmeldprocedure-staatsexamens-nt2-2021/README.md) · 1 versie
+- [BWBR0044006 — Aanvullende tijdelijke regeling ontwikkelbeurzen voor literaire makers Nederlands Letterenfonds Covid-19](aanvullende-tijdelijke-regeling-ontwikkelbeurzen-voor-litera/README.md) · 1 versie
+- [BWBR0043465 — Accountantsprotocol verantwoording kosten gemaakt in Nederland t.b.v. ingeschreven tlv buitenland](accountantsprotocol-verantwoording-kosten-gemaakt-in-nederla/README.md) · 2 versies
+- [BWBR0042972 — ACM Beleidsregel over afspraken in het kader van de beweging ‘De juiste zorg op de juiste plek’](acm-beleidsregel-over-afspraken-in-het-kader-van-de-beweging/README.md) · 1 versie
+- [BWBR0044463 — Addendum bij het Reglement Stimuleringsmaatregel Filmproductie in Nederland (‘Reglement’) voor High End Series & Single Episodes](addendum-bij-het-reglement-stimuleringsmaatregel-filmproduct/README.md) · 1 versie
+- [BWBR0044472 — Algemeen boetetoemetingsbeleid DNB](algemeen-boetetoemetingsbeleid-dnb/README.md) · 2 versies
+- [BWBR0043110 — Beheersregeling documentaire informatieverzorging NWO](beheersregeling-documentaire-informatieverzorging-nwo/README.md) · 1 versie
+- [BWBR0043070 — Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)](beleidsregel-maatschappelijke-betamelijkheid-trustkantoren/README.md) · 1 versie
+- [BWBR0043005 — Beleidsregel van de raad voor rechtsbijstand over verstrekking van een tijdelijke aanvullende vergoeding voor verleende rechtsbijstand en verrichte mediation in de jaren 2020 en 2021](beleidsregel-raad-voor-rechtsbijstand-verstrekking-tijdelijk/README.md) · 3 versies
+- [BWBR0043403 — Beleidsregel van het Stimuleringsfonds voor de Journalistiek van 11 april 2020, nr. BSF01, tot instelling van een tijdelijk steunfonds ten behoeve van de continuïteit van de lokale informatievoorziening gedurende de Covid-19 crisis (Tijdelijk Steunfonds Lokale Informatievoorziening)](beleidsregel-instelling-tijdelijk-steunfonds-continu-teit-va/README.md) · 2 versies
+- [BWBR0043728 — Beleidsregel van het Stimuleringsfonds voor de Journalistiek van 15 juni 2020, nr BSF03, tot instelling van een nieuw tijdelijk steunfonds ten behoeve van huis-aan-huisbladen, lokale nieuwsbladen, lokale nieuwswebsites en lokale publieke media-instellingen in verband met de continuïteit van de lokale informatievoorziening gedurende de Covid-19 crisis (Derde tijdelijk steunfonds lokale informatievoorziening)](beleidsregel-instelling-nieuw-tijdelijk-steunfonds-huis-aan--bwbr0043728/README.md) · 2 versies
+- [BWBR0043556 — Beleidsregel van het stimuleringsfonds voor de journalistiek van 15 mei 2020, nr BSF02, tot instelling van een tijdelijk steunfonds ten behoeve van huis-aan-huiskranten die minder dan één keer per twee weken verschijnen, lokale nieuwsbladen en lokale nieuwswebsites in verband met de continuïteit van de lokale informatievoorziening gedurende de COVID-19 crisis (tijdelijk steunfonds lokale informatievoorziening)](beleidsregel-instelling-tijdelijk-steunfonds-huis-aan-huiskr/README.md) · 2 versies
+- [BWBR0044184 — Beleidsregel van het Stimuleringsfonds voor de Journalistiek van 21 september 2020, nr BSF04, tot instelling van een nieuw tijdelijk steunfonds ten behoeve van huis-aan-huisbladen, lokale nieuwsbladen, lokale nieuwswebsites en lokale publieke media-instellingen in verband met de continuïteit van de lokale informatievoorziening gedurende de Covid-19 crisis (Vierde beleidsregel tijdelijk steunfonds lokale informatievoorziening)](beleidsregel-instelling-nieuw-tijdelijk-steunfonds-huis-aan--bwbr0044184/README.md) · 2 versies
+- [BWBR0044241 — Beleidsregel vergoeding voor rechtsbijstand binnen de Wet Verplichte GGZ](beleidsregel-vergoeding-voor-rechtsbijstand-binnen-de-wet-ve/README.md) · 2 versies
+- [BWBR0043081 — Beleidsregel vervreemding onroerende zaken](beleidsregel-vervreemding-onroerende-zaken/README.md) · 1 versie
+- [BWBR0042826 — Beleidsregels CAK inkorten termijnen of niet verschuldigd zijn eigen bijdrage Wlz en Wmo 2015](beleidsregels-cak-inkorten-termijnen-of-niet-verschuldigd-zi/README.md) · 2 versies
+- [BWBR0044466 — Beleidsregels controle informatieverstrekkingen uit het kentekenregister](beleidsregels-controle-informatieverstrekkingen-uit-het-kent/README.md) · 1 versie
+- [BWBR0042899 — Beleidsregels indicatiestelling Wet langdurige zorg (Wlz) 2020](beleidsregels-indicatiestelling-wlz-2020/README.md) · 1 versie
+- [BWBR0043835 — Beleidsregels subsidie ondersteuning donorregistratie](beleidsregels-subsidie-ondersteuning-donorregistratie/README.md) · 1 versie
+- [BWBR0044256 — Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 13 oktober 2020, kenmerk 2020043936, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2021 (Beleidsregels vereveningsbijdrage zorgverzekering 2021)](beleidsregels-vereveningsbijdrage-zorgverzekering-2021/README.md) · 14 versies
+- [BWBR0043321 — Beleidsregels van de Raad van bestuur van Zorginstituut Nederland van 25 februari 2020, kenmerk 2019059528, ter verdeling besteedbare middelen beheerskosten Wlz 2020](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost/README.md) · 5 versies
+- [BWBR0043933 — Besluit beperking openbaarheid taak- en personeelsarchief Ziekenfondsraad 1949-1999 respectievelijk 1966-1999 van archiefblok P79](besluit-beperking-openbaarheid-taak-en-personeelsarchief-zie/README.md) · 1 versie
+- [BWBR0042514 — Besluit gedifferentieerde premie Whk 2020](besluit-gedifferentieerde-premie-whk-2020/README.md) · 1 versie
+- [BWBR0043759 — Besluit inschrijving Rbtv](besluit-inschrijving-rbtv-bwbr0043759/README.md) · 1 versie
+- [BWBR0044188 — Besluit inschrijving Rbtv](besluit-inschrijving-rbtv-bwbr0044188/README.md) · 2 versies
+- [BWBR0043119 — Besluit Normbedragen Voorzieningen UWV 2020](besluit-normbedragen-voorzieningen-uwv-2020/README.md) · 8 versies
+- [BWBR0043928 — Besluit permanente educatie Wbtv](besluit-permanente-educatie-wbtv/README.md) · 1 versie
+- [BWBR0042815 — Besluit premievaststelling vrijwillige verzekering WAO 2020](besluit-premievaststelling-vrijwillige-verzekering-wao-2020/README.md) · 1 versie
+- [BWBR0042816 — Besluit premievaststelling vrijwillige verzekering WIA 2020](besluit-premievaststelling-vrijwillige-verzekering-wia-2020/README.md) · 1 versie
+- [BWBR0042817 — Besluit premievaststelling vrijwillige verzekering Ziektewet 2020](besluit-premievaststelling-vrijwillige-verzekering-ziektewet/README.md) · 1 versie
+- [BWBR0042810 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2020](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0042233 — Besluit Tijdvakken centrale examinering mbo, studiejaar 2020–2021](besluit-tijdvakken-centrale-examinering-mbo-studiejaar-2020-/README.md) · 3 versies
+- [BWBR0044012 — Besluit uitvoeringsregels ontslagprocedure](besluit-uitvoeringsregels-ontslagprocedure/README.md) · 2 versies
+- [BWBR0043311 — Besluit UWV Onderzoekssubsidie 2020 ‘Afwegings- en analysekader bij re-integratie en jobcoaching’](besluit-uwv-onderzoekssubsidie-2020-afwegings-en-analysekade/README.md) · 1 versie
+- [BWBR0043004 — Besluit van de directie van de Nationale en Internationale Wegvervoer Organisatie (NIWO) houdende vaststelling van de tarieven van de vergoedingen aan de NIWO (Besluit vergoedingen NIWO)](besluit-vergoedingen-niwo/README.md) · 1 versie
+- [BWBR0043006 — Besluit van de Interim - bestuurder van het Nederlands Fonds voor de Film tot vaststelling van de subsidieplafonds voor subsidiëring op grond van het Reglement Stimuleringsmaatregel Filmproductie in Nederland, het Deelreglement Ontwikkeling, het Deelreglement Realisering, het Deelreglement Distributie en het Deelreglement Filmactiviteiten](besluit-vaststelling-subsidieplafonds-2020-stichting-nederla/README.md) · 1 versie
+- [BWBR0043096 — Besluit van de Pensioen- en Uitkeringsraad van 15 januari 2020, houdende de bekendmaking van de beleidsregels voorzieningen 2020 (Besluit wijziging Beleidsregels voorzieningen PUR 2020)](besluit-wijziging-beleidsregels-voorzieningen-pur-2020/README.md) · 3 versies
+- [BWBR0043226 — Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand en vaststelling Reglement Adviescommissie Subsidieregeling Stelselherziening rechtsbijstand](reglement-adviescommissie-subsidieregeling-stelselherziening/README.md) · 1 versie
+- [BWBR0044526 — Besluit van het bestuur van de Raad voor Rechtsbijstand van 01-12-2020 tot instelling van de Adviescommissie Toelating op Rechtwijzer.nl en vaststelling Reglement Adviescommissie Toelating op Rechtwijzer.nl](reglement-adviescommissie-toelating-op-rechtwijzer-nl/README.md) · 1 versie
+- [BWBR0043357 — Besluit van het bestuur van de raad voor rechtsbijstand, d.d. 31 maart 2020, houdende de bekendmaking van een tijdelijke beleidsregel ter bevoorschotting van de gesubsidieerde toevoegingenpraktijk van advocaten en mediators gedurende de COVID-19-crisis (Ondersteuningsregeling gesubsidieerde toevoegingenpraktijk van advocaten en mediators COVID-19-crisis)](ondersteuningsregeling-gesubsidieerde-toevoegingenpraktijk-v/README.md) · 1 versie
+- [BWBR0044332 — Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)](regeling-archiefbeheer-coa-2020/README.md) · 1 versie
+- [BWBR0043563 — Besluit van het College voor Toetsen en Examens van 18 mei 2020, nummer CvTE – 20.00936, houdende regels inzake de uitslag van het staatsexamen voortgezet onderwijs in het examenjaar 2020 (Besluit staatsexamens voortgezet onderwijs 2020)](besluit-staatsexamens-voortgezet-onderwijs-2020/README.md) · 2 versies
+- [BWBR0043780 — Besluit van het College voor toetsen en examens van 22 juni 2020, kenmerk CvTE-20.01239, houdende vaststelling van de afnameperiode centrale eindtoets po, schooljaar 2021–2022 (Besluit vaststelling afnameperiode centrale eindtoets po, schooljaar 2021–2022)](besluit-vaststelling-afnameperiode-centrale-eindtoets-po-sch/README.md) · 1 versie
+- [BWBR0043677 — Besluit van het college voor Toetsen en Examens van 8 juni 2020 nummer CvTE – 20.01006, houdende regels inzake de uitslag van het staatsexamen voortgezet onderwijs BES in het examenjaar 2020 (Besluit staatsexamens VO BES 2020)](besluit-staatsexamens-vo-bes-2020/README.md) · 2 versies
+- [BWBR0044759 — Besluit vaststellen (gewijzigde) Eindtermen accountantsopleidingen 2016](besluit-vaststellen-gewijzigde-eindtermen-accountantsopleidi/README.md) · 1 versie
+- [BWBR0042971 — Besluit vaststelling factoren L en r boekjaar 2020](besluit-vaststelling-factoren-l-en-r-boekjaar-2020/README.md) · 2 versies
+- [BWBR0043705 — Besluit vaststelling subsidieplafonds subsidiëring ex Deelreglement Ontwikkeling, Deelreglement Realisering en Deelreglement Distributie](besluit-vaststelling-subsidieplafonds-subsidi-ring-ex-deelre/README.md) · 2 versies
+- [BWBR0046327 — Besluit vergunning SnapChance 2020–2025](besluit-vergunning-snapchance-2020-2025/README.md) · 2 versies
+- [BWBR0043934 — Besluit Verlenging inschrijving in het Rbtv](besluit-verlenging-inschrijving-rbtv/README.md) · 1 versie
+- [BWBR0043168 — Besluit vervanging archiefbescheiden NVAO 2019](besluit-vervanging-archiefbescheiden-nvao-2019/README.md) · 1 versie
+- [BWBR0042813 — Besluit werkgebieden UWV 2020](besluit-werkgebieden-uwv-2020/README.md) · 1 versie
+- [BWBR0043369 — Bestuursreglement ACNL](bestuursreglement-acnl/README.md) · 2 versies
+- [BWBR0044045 — Bestuursreglement van de Koninklijke Bibliotheek](bestuursreglement-van-de-koninklijke-bibliotheek/README.md) · 1 versie
+- [BWBR0049828 — Bevoegdhedenregeling COA 2020](bevoegdhedenregeling-coa-2020/README.md) · 1 versie
+- [BWBR0043094 — Bevoegdhedenregeling NWO](bevoegdhedenregeling-nwo/README.md) · 1 versie
+- [BWBR0043333 — Bevoegdhedenregeling registerloodsen regio Noord](bevoegdhedenregeling-registerloodsen-regio-noord/README.md) · 1 versie
+- [BWBR0043335 — Bevoegdhedenregeling registerloodsen regio Rotterdam-Rijnmond](bevoegdhedenregeling-registerloodsen-regio-rotterdam-rijnmon/README.md) · 1 versie
+- [BWBR0043336 — Bevoegdhedenregeling registerloodsen regio Scheldemonden](bevoegdhedenregeling-registerloodsen-regio-scheldemonden/README.md) · 1 versie
+- [BWBR0044117 — Brochure Instandhoudingssubsidie 2019-2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek](brochure-instandhoudingssubsidie-2019-2020-nederlandse-organ/README.md) · 1 versie
+- [BWBR0043760 — Compensatieregeling Coronacrisis Musea 40.000–100.000](compensatieregeling-coronacrisis-musea-40-000-100-000/README.md) · 1 versie
+- [BWBR0044136 — Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers](compensatieregeling-coronacrisis-musea-7-500-en-meer-bezoeke/README.md) · 2 versies
+- [BWBR0043678 — Compensatieregeling Coronacrisis Musea meer dan 100.000 bezoekers](compensatieregeling-coronacrisis-musea-meer-dan-100-000-bezo/README.md) · 1 versie
+- [BWBR0043691 — Compensatieregeling Coronacrisis Presentatie-instellingen](compensatieregeling-coronacrisis-presentatie-instellingen/README.md) · 1 versie
+- [BWBR0043061 — Controleprotocol nacalculatie 2019 Wlz-zorgaanbieders](controleprotocol-nacalculatie-2019-wlz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0043626 — Controlevoorschriften Ziektewet 2020](controlevoorschriften-ziektewet-2020/README.md) · 1 versie
+- [BWBR0043401 — Coulanceregeling NIWO](coulanceregeling-niwo/README.md) · 1 versie
+- [BWBR0043819 — De regeling van het College voor Toetsen en Examens van 22 juni 2020 nummer CvTE-20.01233, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2022, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2021, tevens preliminaire vaststelling van een syllabus ten behoeve van het examenjaar 2023 (Regeling syllabi centrale examens vo 2022)](regeling-syllabi-centrale-examens-vo-2022/README.md) · 4 versies
+- [BWBR0044478 — Deelregeling Curator Beschouwer](deelregeling-curator-beschouwer/README.md) · 2 versies
+- [BWBR0044479 — Deelregeling Erfgoed Innovatie](deelregeling-erfgoed-innovatie/README.md) · 1 versie
+- [BWBR0044305 — Deelregeling extra budget meerjarige productiesubsidies Fonds Podiumkunsten 2021–2024](deelregeling-extra-budget-meerjarige-productiesubsidies-fond/README.md) · 1 versie
+- [BWBR0043507 — Deelregeling Kunstpodia 2020-2024](deelregeling-kunstpodia-2020-2024/README.md) · 1 versie
+- [BWBR0043163 — Deelregeling Talentontwikkeling Creatieve Industrie 2020](deelregeling-talentontwikkeling-creatieve-industrie-2020/README.md) · 2 versies
+- [BWBR0043713 — Deelreglement Distributie van de Stichting Nederlands Fonds voor de Film van 16 juni 2020](deelreglement-distributie-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0043710 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film - 16 juni 2020](deelreglement-realisering-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0044322 — Domeinreglement ENW 2020](domeinreglement-enw-2020/README.md) · 1 versie
+- [BWBR0044278 — Domeinreglement SGW 2020](domeinreglement-sgw-2020/README.md) · 1 versie
+- [BWBR0044289 — Domeinreglement TTW 2020](domeinreglement-ttw-2020/README.md) · 1 versie
+- [BWBR0043571 — Handleiding Impuls 2020, Nederlandse Organisatie voor Wetenschappelijk Onderzoek](handleiding-impuls-2020-nederlandse-organisatie-voor-wetensc/README.md) · 1 versie
+- [BWBR0044284 — Het handhavingsbeleid van de AFM en DNB](het-handhavingsbeleid-van-de-afm-en-dnb/README.md) · 1 versie
+- [BWBR0044007 — Huishoudelijk reglement van het Nederlands Fonds voor de Film](huishoudelijk-reglement-van-het-nederlands-fonds-voor-de-fil/README.md) · 1 versie
+- [BWBR0043878 — Inschrijvingsvoorwaarden advocatuur 2020, versie 1.1 (versie per 1-7-2020)](inschrijvingsvoorwaarden-advocatuur-2020-versie-1-1-per-1-ju/README.md) · 1 versie
+- [BWBR0044503 — Inschrijvingsvoorwaarden advocatuur 2021, versie 1.0](inschrijvingsvoorwaarden-advocatuur-2021-versie-1-0/README.md) · 1 versie
+- [BWBR0043441 — Klachtenregeling Centrale Commissie Mensgebonden Onderzoek](klachtenregeling-ccmo/README.md) · 1 versie
+- [BWBR0043772 — Klachtenregeling Toepassing taakuitoefening Beleidsregel CBS en Regeling werkzaamheden derden CBS](klachtenregeling-toepassing-taakuitoefening-beleidsregel-cbs/README.md) · 1 versie
+- [BWBR0044480 — Kunst Verbinding](kunst-verbinding/README.md) · 2 versies
+- [BWBR0043615 — Meerjarenregeling Samen Cultuurmaken 2021–2024](meerjarenregeling-samen-cultuurmaken-2021-2024/README.md) · 1 versie
+- [BWBR0043345 — Model Jaarverslaggeving CAK Bestuurlijke verantwoording 2019](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-2019/README.md) · 2 versies
+- [BWBR0043592 — Model jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2019](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-burg/README.md) · 2 versies
+- [BWBR0043808 — Monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2020](regeling-monitoring-beschikkingen-persoonsgebonden-budget-en-bwbr0043808/README.md) · 2 versies
+- [BWBR0043348 — Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2019](protocol-accountantsonderzoek-cak-bestuurlijke-verantwoordin/README.md) · 2 versies
+- [BWBR0043576 — Protocol accountantsonderzoek Wlz-uitvoerders 2019](protocol-accountantsonderzoek-wlz-uitvoerders-2019/README.md) · 2 versies
+- [BWBR0043462 — Protocol Voorzieningen UWV 2020](protocol-voorzieningen-uwv-2020/README.md) · 2 versies
+- [BWBR0043036 — Raamwerk Nascholingscursussen Code 95 en ADR (1 januari 2020)](raamwerk-nascholingscursussen-code-95-en-adr-1-januari-2020/README.md) · 1 versie
+- [BWBR0042866 — Rectificatie Tarievenbesluit Ctgb 2020](tarievenbesluit-ctgb-2020/README.md) · 1 versie
+- [BWBR0043932 — Regeling 1- en 2-jarig Activiteitenprogramma, Stimuleringsfonds Creatieve Industrie](regeling-1-en-2-jarig-activiteitenprogramma/README.md) · 3 versies
+- [BWBR0044482 — Regeling aanvullende ondersteuning incidentele literaire manifestaties en activiteiten Nederlands Letterenfonds Covid-19](regeling-aanvullende-ondersteuning-incidentele-literaire-man/README.md) · 1 versie
+- [BWBR0043815 — Regeling aanvullende ondersteuning meerjarig gesubsidieerde instellingen Nederlands Letterenfonds Covid-19](regeling-aanvullende-ondersteuning-meerjarig-gesubsidieerde--bwbr0043815/README.md) · 1 versie
+- [BWBR0043699 — Regeling aanvullende ondersteuning meerjarig gesubsidieerde instellingen Stimuleringsfonds Creatieve Industrie COVID-19](regeling-aanvullende-ondersteuning-meerjarig-gesubsidieerde--bwbr0043699/README.md) · 1 versie
+- [BWBR0043334 — Regeling bevoegdheden registerloodsen regio Amsterdam-IJmond](regeling-bevoegdheden-registerloodsen-regio-amsterdam-ijmond/README.md) · 1 versie
+- [BWBR0043171 — Regeling Brug voor Talent](regeling-brug-voor-talent/README.md) · 1 versie
+- [BWBR0043700 — Regeling Compensatie Coronacrisis](regeling-compensatie-coronacrisis/README.md) · 3 versies
+- [BWBR0043224 — Regeling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2020 en 2021](regeling-constanten-regressieformules-en-waarden-voor-de-gem/README.md) · 1 versie
+- [BWBR0043505 — Regeling continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus](regeling-continu-teitsbijdrage-en-meerkosten-in-verband-met-/README.md) · 3 versies
+- [BWBR0044392 — Regeling Cultuureducatie met Kwaliteit 2021–2024 Caribisch Nederland](regeling-cultuureducatie-met-kwaliteit-2021-2024-caribisch-n/README.md) · 1 versie
+- [BWBR0043546 — Regeling Cultuureducatie met Kwaliteit Fonds voor Cultuurparticipatie 2021–2024](regeling-cultuureducatie-met-kwaliteit-fonds-voor-cultuurpar/README.md) · 1 versie
+- [BWBR0042504 — Regeling dbbc’s, zzp’s en extramurale parameters forensische zorg](regeling-dbbc-s-zzp-s-en-extramurale-parameters-forensische--bwbr0042504/README.md) · 1 versie
+- [BWBR0043088 — Regeling dbbc’s, zzp’s en extramurale parameters forensische zorg](regeling-dbbc-s-zzp-s-en-extramurale-parameters-forensische--bwbr0043088/README.md) · 1 versie
+- [BWBR0043453 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2019](regeling-declaratievoorschriften-administratievoorschriften--bwbr0043453/README.md) · 2 versies
+- [BWBR0042982 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2020](regeling-declaratievoorschriften-administratievoorschriften--bwbr0042982/README.md) · 1 versie
+- [BWBR0043614 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2020](regeling-declaratievoorschriften-administratievoorschriften--bwbr0043614/README.md) · 2 versies
+- [BWBR0043913 — Regeling Each One Teach One](regeling-each-one-teach-one/README.md) · 1 versie
+- [BWBR0042802 — Regeling eerstelijnsverblijf](regeling-eerstelijnsverblijf/README.md) · 1 versie
+- [BWBR0042302 — Regeling gecombineerde leefstijlinterventie](regeling-gecombineerde-leefstijlinterventie/README.md) · 1 versie
+- [BWBR0042351 — Regeling geneeskundige zorg voor specifieke patiëntgroepen](regeling-geneeskundige-zorg-voor-specifieke-pati-ntgroepen/README.md) · 1 versie
+- [BWBR0042489 — Regeling generalistische basis-ggz](regeling-generalistische-basis-ggz/README.md) · 1 versie
+- [BWBR0042752 — Regeling gespecialiseerde geestelijke gezondheidszorg](regeling-gespecialiseerde-geestelijke-gezondheidszorg-bwbr0042752/README.md) · 1 versie
+- [BWBR0043051 — Regeling gespecialiseerde geestelijke gezondheidszorg](regeling-gespecialiseerde-geestelijke-gezondheidszorg-bwbr0043051/README.md) · 1 versie
+- [BWBR0043781 — Regeling Immaterieel erfgoed in stedelijke context](regeling-immaterieel-erfgoed-in-stedelijke-context/README.md) · 1 versie
+- [BWBR0044349 — Regeling informatieverstrekking vaststelling budget en bepalingen acute psychiatrische hulpverlening](regeling-informatieverstrekking-vaststelling-budget-en-bepal-bwbr0044349/README.md) · 1 versie
+- [BWBR0043810 — Regeling Informatieverstrekking vaststelling budget en bepalingen acute psychiatrische hulpverlening](regeling-informatieverstrekking-vaststelling-budget-en-bepal-bwbr0043810/README.md) · 1 versie
+- [BWBR0042790 — Regeling informatieverstrekking vaststelling budget regionale ambulancevoorzieningen](regeling-informatieverstrekking-vaststelling-budget-regional/README.md) · 1 versie
+- [BWBR0044335 — Regeling literaire tijdschriften 2021–2024](regeling-literaire-tijdschriften-2021-2024/README.md) · 2 versies
+- [BWBR0042749 — Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2020](regeling-macrobeheersinstrument-geneeskundige-geestelijke-ge/README.md) · 1 versie
+- [BWBR0042350 — Regeling macrobeheersinstrument geriatrische revalidatiezorg, eerstelijnsverblijf en geneeskundige zorg voor specifieke patiëntgroepen 2020](regeling-macrobeheersinstrument-geriatrische-revalidatiezorg/README.md) · 1 versie
+- [BWBR0042364 — Regeling macrobeheersinstrument huisartsenzorg 2020](regeling-macrobeheersinstrument-huisartsenzorg-2020/README.md) · 1 versie
+- [BWBR0042368 — Regeling macrobeheersinstrument multidisciplinaire zorg 2020](regeling-macrobeheersinstrument-multidisciplinaire-zorg-2020/README.md) · 1 versie
+- [BWBR0042354 — Regeling macrobeheersinstrument verpleging en verzorging 2020](regeling-macrobeheersinstrument-verpleging-en-verzorging-202/README.md) · 1 versie
+- [BWBR0042235 — Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg 2020](regeling-macrobeheersinstrument-zintuiglijk-gehandicaptenzor/README.md) · 1 versie
+- [BWBR0042574 — Regeling medisch-specialistische zorg](regeling-medisch-specialistische-zorg-bwbr0042574/README.md) · 6 versies
+- [BWBR0042751 — Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2020](regeling-monitoring-beschikkingen-persoonsgebonden-budget-en-bwbr0042751/README.md) · 1 versie
+- [BWBR0042334 — Regeling proeftuin kortdurende zorg](regeling-proeftuin-kortdurende-zorg/README.md) · 1 versie
+- [BWBR0044002 — Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg](regeling-registratie-en-aanlevering-kostprijzen-zorgproducte/README.md) · 1 versie
+- [BWBR0043052 — Regeling Samen cultuurmaken verbreden (Aanloopregeling) – Stimuleren van verbindingen tussen cultuur en sociaal domein](regeling-samen-cultuurmaken-verbreden-aanloopregeling-stimul/README.md) · 1 versie
+- [BWBR0043314 — Regeling subsidievoorwaarden rechts- en wetswinkels 2020](regeling-subsidievoorwaarden-rechts-en-wetswinkels-2020/README.md) · 1 versie
+- [BWBR0043370 — Regeling tarieven Airport Coordination Netherlands 2020](regeling-tarieven-airport-coordination-netherlands-2020/README.md) · 2 versies
+- [BWBR0042862 — Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2020](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20/README.md) · 1 versie
+- [BWBR0042873 — Regeling tarieven Dienst Wegverkeer 2020](regeling-tarieven-dienst-wegverkeer-2020/README.md) · 3 versies
+- [BWBR0044211 — Regeling tijdelijke ondersteuning programmering middelgrote en kleine podia Fonds Podiumkunsten (Podiumstartregeling)](regeling-tijdelijke-ondersteuning-programmering-middelgrote-/README.md) · 1 versie
+- [BWBR0042272 — Regeling transparantie contracteerproces Wlz](regeling-transparantie-contracteerproces-wlz/README.md) · 1 versie
+- [BWBR0043118 — Regeling transparantie zorgaanbieders](regeling-transparantie-zorgaanbieders/README.md) · 1 versie
+- [BWBR0043900 — Regeling tweejarige subsidies Nederlands Letterenfonds 2021–2024](regeling-tweejarige-subsidies-nederlands-letterenfonds-2021-/README.md) · 1 versie
+- [BWBR0043284 — Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder](regeling-uitvoeringsverslag-en-financieel-verslag-wlz-uitvoe/README.md) · 3 versies
+- [BWBR0042800 — Regeling van De Nederlandsche Bank N.V. van 18 november 2019 houdende wijziging van de Rapportagevoorschriften betalingsbalansrapportages 2003](regeling-wijziging-rapportagevoorschriften-betalingsbalansra/README.md) · 1 versie
+- [BWBR0044545 — Regeling van De Nederlandsche Bank N.V. van 28 november 2017 houdende regels met betrekking tot het beheerst beloningsbeleid van banken, beleggingsondernemingen en premiepensioeninstellingen (Regeling beheerst beloningsbeleid Wft 2017)](regeling-beheerst-beloningsbeleid-wft-2017/README.md) · 1 versie
+- [BWBR0043690 — Regeling van de Raad van Bestuur van Zorginstituut Nederland van 26 mei 2020, referentie 2020002168, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2020 en gegevens Wet langdurige zorg 2020 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2020)](regeling-structurele-aanlevering-gegevens-zorgverzekeringswe/README.md) · 3 versies
+- [BWBR0043436 — Regeling van het College voor Toetsen en Examens van 14 april 2020, nummer CvTE-20.00876 houdende vaststelling van het Programma van Toetsing en Afsluiting staatsexamens vo en staatsexamens vo BES 2021 (Regeling PTA staatsexamens VO 2021)](regeling-pta-staatsexamens-vo-2021/README.md) · 1 versie
+- [BWBR0043926 — Regeling van het College voor Toetsen en Examens van 22 juni 2020, nummer CvTE-20.01230, houdende vaststelling van het examenprotocol centrale examinering mbo (Regeling examenprotocol centrale examinering mbo)](regeling-examenprotocol-centrale-examinering-mbo/README.md) · 2 versies
+- [BWBR0043859 — Regeling van het College voor Toetsen en Examens van 22 juni 2020, nummer CvTE-20.01235 houdende vaststelling van het examenreglement staatsexamens vo en examenreglement staatsexamens vo BES 2021 (Regeling examenreglement staatsexamens vo 2021)](regeling-examenreglement-staatsexamens-vo-2021/README.md) · 4 versies
+- [BWBR0043836 — Regeling van het College voor Toetsen en Examens van 22 juni 2020, nummer CvTE-20.01238, houdende vaststelling van toetsreglement van de centrale eindtoets primair onderwijs schooljaar 2020–2021 (Regeling toetsreglement van de centrale eindtoets po schooljaar 2020–2021)](regeling-toetsreglement-van-de-centrale-eindtoets-po-schoolj/README.md) · 1 versie
+- [BWBR0042398 — Regeling van het College voor Toetsen en Examens van 24 juni 2019, nummer CvTE-19.00904, houdende vaststelling van toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vo in 2021 (Regeling toegestane hulpmiddelen voor de centrale examens vo 2021)](regeling-toegestane-hulpmiddelen-voor-de-centrale-examens-vo/README.md) · 2 versies
+- [BWBR0042510 — Regeling van het College voor Toetsen en Examens van 24 juni 2019, nummer CvTE-19.00906, houdende vaststelling van het examenreglement Staatsexamens Nederlands als tweede taal 2020 (Regeling examenreglement Staatsexamens Nt2 2020)](regeling-examenreglement-staatsexamens-nt2-2020/README.md) · 1 versie
+- [BWBR0041638 — Regeling van het College voor Toetsen en Examens van 24 september 2018, CvTE-18.01238, houdende vaststelling van het examenprogramma Staatsexamens Nederlands als tweede taal 2020 (Regeling examenprogramma Staatsexamens Nt2 2020)](regeling-examenprogramma-staatsexamens-nt2-2020/README.md) · 1 versie
+- [BWBR0043164 — Regeling van het College voor Toetsen en Examens van 3 februari 2020, nummer CvTE-20.00809, houdende regels voor het aanwijzen van vakken waarin het centraal examen vo in het tweede tijdvak wordt afgenomen door het College voor Toetsen en Examens (Regeling aangewezen vakken tweede tijdvak centrale examens vo 2020)](regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-v/README.md) · 1 versie
+- [BWBR0043715 — Regeling van het Commissariaat voor de Media houdende vaststelling van de vergoeding voor het uitbrengen van programmagidsen als bedoeld in artikel 2.139, zesde lid, van de Mediawet 2008 (Regeling tarieven Programmagegevens 2020)](regeling-tarieven-programmagegevens-2020/README.md) · 1 versie
+- [BWBR0043697 — Regeling van het Fonds Podiumkunsten voor meerjarige instellingen voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van de uitbraak van COVID-19 en de maatregelen ter bestrijding ervan](regeling-van-het-fonds-podiumkunsten-voor-meerjarige-instell/README.md) · 1 versie
+- [BWBR0043706 — Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen](regeling-van-het-fonds-podiumkunsten-voor-podia-voor-aanvull/README.md) · 1 versie
+- [BWBR0044281 — Regeling van het stimuleringsfonds voor de journalistiek van 19 oktober 2020 nr. LO2020 tot verlenging van de regeling van het stimuleringsfonds voor de journalistiek van 19 november 2019, nr. 1119, tot vaststelling van een tijdelijke subsidieregeling pilot journalistieke professionalisering lokale publieke mediadiensten](regeling-tot-verlenging-regeling-vaststelling-tijdelijke-sub/README.md) · 2 versies
+- [BWBR0044290 — Regeling van het Stimuleringsfonds voor de Journalistiek van 21 oktober 2020, nr TO2020, tot vaststelling van een tijdelijke subsidieregeling voor talentontwikkelingsprojecten uit de sector](regeling-vaststelling-tijdelijke-subsidieregeling-talentontw/README.md) · 3 versies
+- [BWBR0044181 — Regeling van het Stimuleringsfonds voor de Journalistiek van 22 september 2020, nr. oj2020, tot vaststelling van een tijdelijke subsidieregeling onderzoeksjournalistiek 2020](regeling-vaststelling-tijdelijke-subsidieregeling-onderzoeks/README.md) · 2 versies
+- [BWBR0043159 — Regeling van het Stimuleringsfonds voor de Journalistiek van 25 januari 2020, nr. Ac2020, tot vaststelling van een tijdelijke subsidieregeling journalistieke innovatie 2020](regeling-vaststelling-tijdelijke-subsidieregeling-journalist/README.md) · 2 versies
+- [BWBR0043211 — Regeling verantwoording bbaz 2019 nieuwe systematiek](regeling-verantwoording-bbaz-2019-nieuwe-systematiek/README.md) · 3 versies
+- [BWBR0042356 — Regeling verpleegkundige dagopvang en verblijf bij intensieve kindzorg](regeling-verpleegkundige-dagopvang-en-verblijf-bij-intensiev/README.md) · 1 versie
+- [BWBR0042360 — Regeling verpleging en verzorging](regeling-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0043161 — Regeling Vierjarige Instellingssubsidie Creatieve Industrie 2021–2024](regeling-vierjarige-instellingssubsidie-creatieve-industrie-/README.md) · 2 versies
+- [BWBR0043471 — Regeling Vind elkaar in erfgoed. Verken de Faro-werkwijze](regeling-vind-elkaar-in-erfgoed-verken-de-faro-werkwijze/README.md) · 1 versie
+- [BWBR0042242 — Regeling zintuiglijk gehandicaptenzorg](regeling-zintuiglijk-gehandicaptenzorg/README.md) · 1 versie
+- [BWBR0043882 — Reglement erkenning leerbedrijven SBB](reglement-erkenning-leerbedrijven-sbb/README.md) · 1 versie
+- [BWBR0043851 — Reglement organisatie Zorginstituut Nederland 2020](reglement-organisatie-zorginstituut-nederland-2020/README.md) · 3 versies
+- [BWBR0043831 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra 2020–2021](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0043831/README.md) · 5 versies
+- [BWBR0043828 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra 2020, versie 2](reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0043828/README.md) · 1 versie
+- [BWBR0043037 — Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film](reglement-stimuleringsmaatregel-filmproductie-in-nederland-v/README.md) · 1 versie
+- [BWBR0042774 — Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 2020](reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h/README.md) · 3 versies
+- [BWBR0042402 — Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2021](rooster-voor-de-centrale-examens-van-de-eindexamens-en-de-st/README.md) · 3 versies
+- [BWBR0043187 — Subsidieplafondbesluit Aangepast Lezen 2020 (bijdrage vrijwilligers en projecten), Koninklijke Bibliotheek](subsidieplafondbesluit-aangepast-lezen-2020-bijdrage-vrijwil/README.md) · 1 versie
+- [BWBR0043840 — Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2021](subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-/README.md) · 1 versie
+- [BWBR0044393 — Subsidieregeling beroepsopleiding sociaal advocaten](subsidieregeling-beroepsopleiding-sociaal-advocaten/README.md) · 1 versie
+- [BWBR0043544 — Subsidieregeling Cultuureducatie met Kwaliteit Extra](subsidieregeling-cultuureducatie-met-kwaliteit-extra/README.md) · 1 versie
+- [BWBR0043033 — Subsidieregeling Stelselherziening rechtsbijstand](subsidieregeling-stelselherziening-rechtsbijstand/README.md) · 1 versie
+- [BWBR0043109 — Subsidieregeling uitelkaar.nl 2020](subsidieregeling-uitelkaar-nl-2020/README.md) · 2 versies
+- [BWBR0043779 — Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand pilot Hillesluis](subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan/README.md) · 2 versies
+- [BWBR0042998 — Tarievenbesluit 2020 Raad voor Accreditatie](tarievenbesluit-2020-raad-voor-accreditatie/README.md) · 1 versie
+- [BWBR0043586 — Tijdelijke regeling Ontwikkelbeurzen voor literaire makers Nederlands Letterenfonds Covid-19](tijdelijke-regeling-ontwikkelbeurzen-voor-literaire-makers-n/README.md) · 1 versie
+- [BWBR0043538 — Tijdelijke regeling van het Fonds Podiumkunsten voor live-uitvoeringen tijdens de Covid-19crisis (Balkonscènes)](tijdelijke-regeling-van-het-fonds-podiumkunsten-voor-live-ui/README.md) · 5 versies
+- [BWBR0043588 — Tijdelijke stimuleringsregeling productiekostensubsidie vertaalde literaire uitgaven Covid-19](tijdelijke-stimuleringsregeling-productiekostensubsidie-lite/README.md) · 1 versie
+- [BWBR0043832 — Tijdelijke subsidieregels Aangepast Lezen 2020–2022](tijdelijke-subsidieregels-aangepast-lezen-2020-2022/README.md) · 2 versies
+- [BWBR0044244 — Tijdelijke subsidieregels Certificering Taalhuizen 2020-2023 Koninklijke Bibliotheek](tijdelijke-subsidieregels-certificering-taalhuizen-2020-2023/README.md) · 1 versie
+- [BWBR0044446 — Tijdelijke subsidieregels kwaliteitsimpuls laagtaalvaardige ouders](tijdelijke-subsidieregels-kwaliteitsimpuls-laagtaalvaardige-/README.md) · 2 versies
+- [BWBR0044177 — Tijdelijke subsidieregels Leesoffensief Koninklijke Bibliotheek](tijdelijke-subsidieregels-leesoffensief-koninklijke-biblioth/README.md) · 1 versie
+- [BWBR0043003 — Toezichtbeleidsbrief Erkenninghouders RDW 2020](toezichtbeleidsbrief-erkenninghouders-rdw-2020/README.md) · 1 versie
+- [BWBR0043246 — Werkwijze AFM inzien en kopiëren van digitale gegevens](werkwijze-afm-inzien-en-kopi-ren-van-digitale-gegevens/README.md) · 1 versie
+- [BWBR0044083 — Wijzigingsbesluit Besluit Normbedragen Voorzieningen UWV 2020](wijzigingsbesluit-besluit-normbedragen-voorzieningen-uwv-202/README.md) · 4 versies

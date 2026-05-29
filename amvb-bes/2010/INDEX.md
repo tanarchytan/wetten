@@ -1,0 +1,171 @@
+# Amvb-bes — 2010
+
+ELI: `/eli/nl/amvb-bes/2010/*`
+
+- [BWBR0028484 — Aanvullend rechtspositiebesluit eilandgedeputeerden BES](aanvullend-rechtspositiebesluit-eilandgedeputeerden-bes/README.md) · 13 versies
+- [BWBR0028326 — Arbeidsbesluit hotels, restaurants en casino’s 2000 BES](arbeidsbesluit-hotels-restaurants-en-casino-s-2000-bes/README.md) · 1 versie
+- [BWBR0028377 — Arbeidsbesluit jeugdigen BES](arbeidsbesluit-jeugdigen-bes/README.md) · 1 versie
+- [BWBR0028627 — Arbeidsveiligheidsbesluit I BES](arbeidsveiligheidsbesluit-i-bes/README.md) · 3 versies
+- [BWBR0028629 — Arbeidsveiligheidsbesluit II BES](arbeidsveiligheidsbesluit-ii-bes/README.md) · 1 versie
+- [BWBR0028426 — Arbeidsveiligheidsbesluit III BES](arbeidsveiligheidsbesluit-iii-bes/README.md) · 1 versie
+- [BWBR0028358 — Arbeidsvredebesluit II BES](arbeidsvredebesluit-ii-bes/README.md) · 1 versie
+- [BWBR0028445 — Archiefbesluit BES](archiefbesluit-bes/README.md) · 2 versies
+- [BWBR0028418 — Besluit aanwijzing diensten melding ongebruikelijke transacties BES](besluit-aanwijzing-diensten-melding-ongebruikelijke-transact/README.md) · 1 versie
+- [BWBR0028546 — Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES](besluit-aanwijzing-gevaarlijke-stoffen-beroepsziektes-en-let/README.md) · 3 versies
+- [BWBR0028329 — Besluit aanwijzing verenigingen als bedoeld in artikel 146, tweede lid, van het Wetboek van Strafrecht BES](besluit-aanwijzing-verenigingen-als-bedoeld-in-artikel-146-t/README.md) · 1 versie
+- [BWBR0028406 — Besluit additieven in levensmiddelen BES](besluit-additieven-in-levensmiddelen-bes/README.md) · 1 versie
+- [BWBR0028341 — Besluit administratieve boete assurantiebemiddelaars BES](besluit-administratieve-boete-assurantiebemiddelaars-bes/README.md) · 1 versie
+- [BWBR0028353 — Besluit administratieve boete bank- en kredietwezen BES](besluit-administratieve-boete-bank-en-kredietwezen-bes/README.md) · 1 versie
+- [BWBR0028342 — Besluit administratieve boete beleggingsinstellingen en administrateurs BES](besluit-administratieve-boete-beleggingsinstellingen-en-admi/README.md) · 1 versie
+- [BWBR0028344 — Besluit administratieve boete trustwezen BES](besluit-administratieve-boete-trustwezen-bes/README.md) · 1 versie
+- [BWBR0028626 — Besluit AVBZ-premie-inkomensgrens 2002 BES](besluit-avbz-premie-inkomensgrens-2002-bes/README.md) · 1 versie
+- [BWBR0028622 — Besluit basisadministraties persoonsgegevens BES](besluit-basisadministraties-persoonsgegevens-bes/README.md) · 5 versies
+- [BWBR0028417 — Besluit beoordeling ambtenaren BES](besluit-beoordeling-ambtenaren-bes/README.md) · 1 versie
+- [BWBR0028624 — Besluit beperking kring verzekerden AVBZ BES](besluit-beperking-kring-verzekerden-avbz-bes/README.md) · 1 versie
+- [BWBR0028356 — Besluit beperking tabaksgebruik BES](besluit-beperking-tabaksgebruik-bes/README.md) · 1 versie
+- [BWBR0028397 — Besluit beperking vestiging medische beroepsbeoefenaren BES](besluit-uitoefenen-medisch-beroep-bes/README.md) · 3 versies
+- [BWBR0028543 — Besluit betaalbaarstelling door andere organen volksverzekeringen BES](besluit-betaalbaarstelling-door-andere-organen-volksverzeker/README.md) · 1 versie
+- [BWBR0028456 — Besluit bevoegdheid apothekers en apothekersassistenten BES](besluit-bevoegdheid-apothekers-en-apothekersassistenten-bes/README.md) · 1 versie
+- [BWBR0028359 — Besluit bevoegdheid uitoefening van de tandheelkunst BES](besluit-bevoegdheid-uitoefening-van-de-tandheelkunst-bes/README.md) · 1 versie
+- [BWBR0028370 — Besluit bevoegdheid verloskundigen BES](besluit-bevoegdheid-verloskundigen-bes/README.md) · 1 versie
+- [BWBR0028647 — Besluit bevoegdheidsverklaring leraren BES](besluit-bevoegdheidsverklaring-leraren-bes/README.md) · 2 versies
+- [BWBR0028375 — Besluit bewaring inbeslaggenomen voorwerpen BES](besluit-bewaring-inbeslaggenomen-voorwerpen-bes/README.md) · 1 versie
+- [BWBR0028518 — Besluit bijzondere vergunningen verzekeringsbedrijf BES](besluit-bijzondere-vergunningen-verzekeringsbedrijf-bes/README.md) · 1 versie
+- [BWBR0028766 — Besluit buitengewone agenten van politie 1966 BES](besluit-buitengewone-agenten-van-politie-1966-bes/README.md) · 1 versie
+- [BWBR0028607 — Besluit burgerlijke stand BES](besluit-burgerlijke-stand-bes/README.md) · 2 versies
+- [BWBR0028649 — Besluit College van Beroep inzake Bijzondere Ziektekosten BES](besluit-college-van-beroep-inzake-bijzondere-ziektekosten-be/README.md) · 1 versie
+- [BWBR0028379 — Besluit curateleregister BES](besluit-curateleregister-bes/README.md) · 1 versie
+- [BWBR0028504 — Besluit draadomroep en kabelinrichtingen BES](besluit-draadomroep-en-kabelinrichtingen-bes/README.md) · 2 versies
+- [BWBR0028648 — Besluit eindexamens v.w.o., h.a.v.o., v.s.b.o. BES](besluit-eindexamens-v-w-o-h-a-v-o-v-s-b-o-bes/README.md) · 1 versie
+- [BWBR0028373 — Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES](besluit-elektronische-handtekeningen-certificaten-en-certifi/README.md) · 1 versie
+- [BWBR0028313 — Besluit etikettering van levensmiddelen BES](besluit-etikettering-van-levensmiddelen-bes/README.md) · 1 versie
+- [BWBR0028405 — Besluit extra beslaglegging dienstplichtigen BES](besluit-extra-beslaglegging-dienstplichtigen-bes/README.md) · 1 versie
+- [BWBR0028355 — Besluit financiële eisen verzekeringsbedrijf BES](besluit-financi-le-eisen-verzekeringsbedrijf-bes/README.md) · 1 versie
+- [BWBR0028385 — Besluit gegevens georganiseerde reizen BES](besluit-gegevens-georganiseerde-reizen-bes/README.md) · 1 versie
+- [BWBR0028352 — Besluit gegevensverstrekking ongebruikelijke transacties BES](besluit-gegevensverstrekking-ongebruikelijke-transacties-bes/README.md) · 1 versie
+- [BWBR0028449 — Besluit geneeskunde BES](besluit-geneeskunde-bes/README.md) · 2 versies
+- [BWBR0028527 — Besluit geregeld en ongeregeld luchtvervoer BES](besluit-geregeld-en-ongeregeld-luchtvervoer-bes/README.md) · 1 versie
+- [BWBR0028388 — Besluit geschillenbeslechting concessiehouders BES](besluit-geschillenbeslechting-concessiehouders-bes/README.md) · 1 versie
+- [BWBR0028386 — Besluit gezagsregisters BES](besluit-gezagsregisters-bes/README.md) · 1 versie
+- [BWBR0028522 — Besluit gezinsvoogdij-instelling Bonaire, Sint Eustatius en Saba](besluit-gezinsvoogdij-instelling-bonaire-sint-eustatius-en-s/README.md) · 1 versie
+- [BWBR0028384 — Besluit huwelijksgoederenregister BES](besluit-huwelijksgoederenregister-bes/README.md) · 1 versie
+- [BWBR0028419 — Besluit identificatie bij dienstverlening BES](besluit-identificatie-bij-dienstverlening-bes/README.md) · 1 versie
+- [BWBR0028517 — Besluit identiteitskaarten BES](besluit-identiteitskaarten-bes/README.md) · 1 versie
+- [BWBR0028610 — Besluit indicatoren ongebruikelijke transacties BES](besluit-indicatoren-ongebruikelijke-transacties-bes/README.md) · 1 versie
+- [BWBR0028464 — Besluit indicatoren ongebruikelijke transacties creditcards en money transfers BES](besluit-indicatoren-ongebruikelijke-transacties-creditcards-/README.md) · 1 versie
+- [BWBR0028525 — Besluit indicatoren ongebruikelijke transacties fiduciaire diensten BES](besluit-indicatoren-ongebruikelijke-transacties-fiduciaire-d/README.md) · 1 versie
+- [BWBR0028465 — Besluit indicatoren ongebruikelijke transacties hazardspellen BES](besluit-indicatoren-ongebruikelijke-transacties-hazardspelle/README.md) · 1 versie
+- [BWBR0028535 — Besluit inlichtingenverplichtingen werknemersverzekeringen BES](besluit-inlichtingenverplichtingen-werknemersverzekeringen-b/README.md) · 3 versies
+- [BWBR0028354 — Besluit instemming overbrenging veroordeelde BES](besluit-instemming-overbrenging-veroordeelde-bes/README.md) · 1 versie
+- [BWBR0028532 — Besluit intrekking, schorsing en opschorting Wet algemene ouderdomsverzekering BES](besluit-intrekking-schorsing-en-opschorting-wet-algemene-oud/README.md) · 2 versies
+- [BWBR0028443 — Besluit invoer kleine dieren BES](besluit-invoer-kleine-dieren-bes/README.md) · 1 versie
+- [BWBR0028346 — Besluit kleurstoffen in levensmiddelen BES](besluit-kleurstoffen-in-levensmiddelen-bes/README.md) · 1 versie
+- [BWBR0028642 — Besluit kwaliteit drinkwater BES](besluit-kwaliteit-drinkwater-bes/README.md) · 1 versie
+- [BWBR0028411 — Besluit leeftijdsgrens ambtenaren BES](besluit-leeftijdsgrens-ambtenaren-bes/README.md) · 1 versie
+- [BWBR0028336 — Besluit limitering aansprakelijkheid telecommunicatie BES](besluit-limitering-aansprakelijkheid-telecommunicatie-bes/README.md) · 1 versie
+- [BWBR0028360 — Besluit Lloyd’s Underwriters BES](besluit-lloyd-s-underwriters-bes/README.md) · 1 versie
+- [BWBR0028639 — Besluit Luchtverkeer BES](besluit-luchtverkeer-bes/README.md) · 1 versie
+- [BWBR0028530 — Besluit meldingsvereisten werknemersverzekeringen BES](besluit-meldingsvereisten-werknemersverzekeringen-bes/README.md) · 2 versies
+- [BWBR0028409 — Besluit militair keuringsreglement BES](besluit-militair-keuringsreglement-bes/README.md) · 1 versie
+- [BWBR0028351 — Besluit minimumtarieven koeriersdiensten BES](besluit-minimumtarieven-koeriersdiensten-bes/README.md) · 1 versie
+- [BWBR0028635 — Besluit modelformulieren strafvordering BES](besluit-modelformulieren-strafvordering-bes/README.md) · 1 versie
+- [BWBR0028295 — Besluit natura-uitvaartverzekeraars BES](besluit-natura-uitvaartverzekeraars-bes/README.md) · 1 versie
+- [BWBR0028325 — Besluit op basis van artikel 8, tweede lid, van de Wet minimumlonen BES](besluit-op-basis-van-artikel-8-tweede-lid-van-de-wet-minimum/README.md) · 1 versie
+- [BWBR0028722 — Besluit op de weerkorpsen BES](besluit-op-de-weerkorpsen-bes/README.md) · 1 versie
+- [BWBR0028416 — Besluit op het ter beschikking stellen arbeidskrachten BES](besluit-op-het-ter-beschikking-stellen-arbeidskrachten-bes/README.md) · 1 versie
+- [BWBR0028378 — Besluit opgedragen telecommunicatiediensten BES](besluit-opgedragen-telecommunicatiediensten-bes/README.md) · 2 versies
+- [BWBR0028297 — Besluit opkopersregisters BES](besluit-opkopersregisters-bes/README.md) · 1 versie
+- [BWBR0028537 — Besluit opleiding en examens administratieve ambtenaren belastingdienst BES](besluit-opleiding-en-examens-administratieve-ambtenaren-bela/README.md) · 2 versies
+- [BWBR0028492 — Besluit opleiding tot controleur der Belastingen BES](besluit-opleiding-tot-controleur-der-belastingen-bes/README.md) · 2 versies
+- [BWBR0028349 — Besluit postzendingen BES](besluit-postzendingen-bes/README.md) · 1 versie
+- [BWBR0028477 — Besluit proceskosten bestuursrecht BES](besluit-proceskosten-bestuursrecht-bes/README.md) · 1 versie
+- [BWBR0028702 — Besluit productie en uitvoer producten op basis van melk BES](besluit-productie-en-uitvoer-producten-op-basis-van-melk-bes/README.md) · 1 versie
+- [BWBR0028420 — Besluit programma van werkzaamheden verzekeringsbedrijf BES](besluit-programma-van-werkzaamheden-verzekeringsbedrijf-bes/README.md) · 1 versie
+- [BWBR0028621 — Besluit radio-elektrische inrichtingen BES](besluit-radio-elektrische-inrichtingen-bes/README.md) · 2 versies
+- [BWBR0028725 — Besluit radioamateurs BES](besluit-radioamateurs-bes/README.md) · 1 versie
+- [BWBR0028396 — Besluit randapparatuur BES](besluit-randapparatuur-bes/README.md) · 2 versies
+- [BWBR0028767 — Besluit rechtspositie korps politie BES](besluit-rechtspositie-korps-politie-bes/README.md) · 84 versies
+- [BWBR0028499 — Besluit rechtspositie Kustwacht BES](besluit-rechtspositie-kustwacht-bes/README.md) · 1 versie
+- [BWBR0028664 — Besluit scholen v.w.o., h.a.v.o., v.s.b.o. BES](besluit-scholen-v-w-o-h-a-v-o-v-s-b-o-bes/README.md) · 1 versie
+- [BWBR0028462 — Besluit slacht- en vleeskeuring BES](besluit-slacht-en-vleeskeuring-bes/README.md) · 1 versie
+- [BWBR0028485 — Besluit slachten en verkopen van vee op Sint Eustatius](besluit-slachten-en-verkopen-van-vee-op-sint-eustatius/README.md) · 1 versie
+- [BWBR0028335 — Besluit tarief gijzeling 2005 BES](besluit-tarief-gijzeling-2005-bes/README.md) · 1 versie
+- [BWBR0028534 — Besluit tarief justitiekosten strafzaken BES](besluit-tarief-justitiekosten-strafzaken-bes/README.md) · 1 versie
+- [BWBR0028448 — Besluit tarieven in burgerlijke zaken BES](besluit-tarieven-in-burgerlijke-zaken-bes/README.md) · 1 versie
+- [BWBR0028399 — Besluit telecommunicatie scheepvaart BES](besluit-telecommunicatie-scheepvaart-bes/README.md) · 1 versie
+- [BWBR0028414 — Besluit televisie- en radioreclame voor sterke drank BES](besluit-televisie-en-radioreclame-voor-sterke-drank-bes/README.md) · 2 versies
+- [BWBR0028357 — Besluit televisiereclame voor geneesmiddelen 2000 BES](besluit-televisiereclame-voor-geneesmiddelen-2000-bes/README.md) · 1 versie
+- [BWBR0028345 — Besluit ter uitvoering van art. 7, eerste en vierde lid, van de Wet voorkoming van verontreiniging door schepen BES](besluit-ter-uitvoering-van-art-7-eerste-en-vierde-lid-van-de/README.md) · 1 versie
+- [BWBR0028327 — Besluit ter uitvoering van artikel 16, tweede lid van de Faillissementswet BES](besluit-ter-uitvoering-van-artikel-16-tweede-lid-van-de-fail/README.md) · 1 versie
+- [BWBR0028381 — Besluit ter uitvoering van artikel 40 Begrafeniswet BES](besluit-ter-uitvoering-van-artikel-40-begrafeniswet-bes/README.md) · 1 versie
+- [BWBR0028334 — Besluit ter uitvoering van artikel 448, eerste lid, Wetboek van Burgerlijke Rechtsvordering BES](besluit-ter-uitvoering-van-artikel-448-eerste-lid-wetboek-va/README.md) · 1 versie
+- [BWBR0028299 — Besluit ter uitvoering van artikel 5, eerste lid, van de Faillissementswet BES](besluit-ter-uitvoering-van-artikel-5-eerste-lid-van-de-faill/README.md) · 1 versie
+- [BWBR0028337 — Besluit ter uitvoering van artikel 6 Wet winkelsluiting BES](besluit-ter-uitvoering-van-artikel-6-wet-winkelsluiting-bes/README.md) · 1 versie
+- [BWBR0028331 — Besluit ter uitvoering van artikel 862, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering BES](besluit-ter-uitvoering-van-artikel-862-eerste-lid-van-het-we/README.md) · 1 versie
+- [BWBR0028332 — Besluit ter uitvoering van artikel 878, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](besluit-ter-uitvoering-van-artikel-878-tweede-lid-van-het-we/README.md) · 1 versie
+- [BWBR0028333 — Besluit ter uitvoering van artikel 993, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering BES](besluit-ter-uitvoering-van-artikel-993-tweede-lid-van-het-we/README.md) · 1 versie
+- [BWBR0028410 — Besluit ter uitvoering van de artikelen 11 en 13 Begrafeniswet BES](besluit-ter-uitvoering-van-de-artikelen-11-en-13-begrafenisw/README.md) · 1 versie
+- [BWBR0028483 — Besluit ter uitvoering van de artikelen 16 en 19 van de Wet medisch tuchtrecht BES](besluit-ter-uitvoering-van-de-artikelen-16-en-19-van-de-wet-/README.md) · 3 versies
+- [BWBR0028599 — Besluit toelating en uitzetting BES](besluit-toelating-en-uitzetting-bes/README.md) · 1 versie
+- [BWBR0028374 — Besluit toevoeging in strafzaken BES](besluit-toevoeging-in-strafzaken-bes/README.md) · 1 versie
+- [BWBR0028721 — Besluit toezicht luchtvaart BES](besluit-toezicht-luchtvaart-bes/README.md) · 2 versies
+- [BWBR0028515 — Besluit tot regeling van het toezicht op krankzinnigen BES](besluit-tot-regeling-van-het-toezicht-op-krankzinnigen-bes/README.md) · 1 versie
+- [BWBR0028625 — Besluit uitbreiding AVBZ-zorg aan visueel en auditief gehandicapten BES](besluit-uitbreiding-avbz-zorg-aan-visueel-en-auditief-gehand/README.md) · 1 versie
+- [BWBR0028533 — Besluit uitbreiding en beperking kring verzekerden volksverzekeringen BES](besluit-uitbreiding-en-beperking-kring-verzekerden-volksverz/README.md) · 5 versies
+- [BWBR0028338 — Besluit uitzonderingen zeggenschap in ter beurze genoteerde vennootschappen BES](besluit-uitzonderingen-zeggenschap-in-ter-beurze-genoteerde-/README.md) · 1 versie
+- [BWBR0028606 — Besluit vakantie en vrijstelling van dienst ambtenaren BES](besluit-vakantie-en-vrijstelling-van-dienst-ambtenaren-bes/README.md) · 40 versies
+- [BWBR0028604 — Besluit vakantie en vrijstelling van dienst werknemers BES](besluit-vakantie-en-vrijstelling-van-dienst-werknemers-bes/README.md) · 1 versie
+- [BWBR0028779 — Besluit van 10 september 2010, houdende regels inzake de structuur van het overleg betreffende de rechtstoestand van ambtenaren (Besluit overlegstelsel BES)](besluit-overlegstelsel-bes/README.md) · 3 versies
+- [BWBR0028145 — Besluit van 13 augustus 2010, houdende nadere regels inzake de bij benoeming en herbenoeming van de gezaghebber te volgen procedure (Besluit benoemingsprocedure gezaghebber BES)](besluit-benoemingsprocedure-gezaghebber-bes/README.md) · 1 versie
+- [BWBR0028595 — Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)](besluit-onderstand-bes/README.md) · 30 versies
+- [BWBR0028016 — Besluit van 24 juli 2010 houdende regeling van de materiele rechtspositie van de Rijksvertegenwoordiger van de openbare lichamen Bonaire, Sint Eustatius en Saba (Rechtspositiebesluit Rijksvertegenwoordiger BES)](rechtspositiebesluit-rijksvertegenwoordiger-bes/README.md) · 46 versies
+- [BWBR0028231 — Besluit van 26 augustus 2010 tot uitvoering van de Wet arbeid vreemdelingen BES (Besluit uitvoering Wet arbeid vreemdelingen BES)](besluit-uitvoering-wet-arbeid-vreemdelingen-bes/README.md) · 4 versies
+- [BWBR0028659 — Besluit van 27 september 2010 tot aanpassing van algemene maatregelen van bestuur in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba)](aanpassingsbesluit-openbare-lichamen-bonaire-sint-eustatius-/README.md) · 2 versies
+- [BWBR0028611 — Besluit van 27 september 2010 tot aanpassing van algemene maatregelen van bestuur in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Tweede Aanpassingsbesluit openbare lichamen Bonaire, Sint Eustatius en Saba)](tweede-aanpassingsbesluit-openbare-lichamen-bonaire-sint-eus/README.md) · 1 versie
+- [BWBR0028556 — Besluit van 29 september 2010, houdende vaststelling van het openbaar lichaam waar de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba zijn zetel heeft (Besluit zetel Rijksvertegenwoordiger BES)](besluit-zetel-rijksvertegenwoordiger-bes/README.md) · 1 versie
+- [BWBR0028316 — Besluit van 30 augustus 2010, houdende de vaststelling van regels ter uitwerking van de Pensioenwet BES (Besluit Pensioenwet BES)](besluit-pensioenwet-bes/README.md) · 4 versies
+- [BWBR0028713 — Besluit van 30 september 2010, houdende bepalingen omtrent de door de gezaghebbers van Bonaire, Sint Eustatius en Saba te dragen ambtsketen (Besluit ambtsketen gezaghebbers BES)](besluit-ambtsketen-gezaghebbers-bes/README.md) · 1 versie
+- [BWBR0028717 — Besluit van 30 september 2010, houdende de ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewone agenten van politie en regels met betrekking tot de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen voor Bonaire, Sint Eustatius en Saba (Ambtsinstructie politie BES)](ambtsinstructie-politie-bes/README.md) · 1 versie
+- [BWBR0028795 — Besluit van 30 september 2010, houdende regels inzake bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba als bijdrage in de kosten voor de organisatie van de rampenbestrijding en de crisisbeheersing en voor de brandweerzorg, alsmede in de kosten die voor de openbare lichamen voortvloeien uit de daadwerkelijke bestrijding van een ramp en uit de gevolgen van die bestrijding (Kostenbesluit Veiligheidswet BES)](kostenbesluit-veiligheidswet-bes/README.md) · 1 versie
+- [BWBR0028581 — Besluit van 30 september 2010, houdende regels over het personeel en de organisatie van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit brandweer BES)](besluit-brandweer-bes/README.md) · 2 versies
+- [BWBR0028588 — Besluit van 30 september 2010, houdende regels voor de bewapening en overige uitrusting van de politie van Bonaire, Sint Eustatius en Saba (Besluit bewapening en overige uitrusting politie BES)](besluit-bewapening-en-overige-uitrusting-politie-bes/README.md) · 1 versie
+- [BWBR0028715 — Besluit van 30 september 2010, houdende vaststelling van de grenzen van de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit grenzen openbare lichamen Bonaire, Sint Eustatius en Saba)](besluit-grenzen-openbare-lichamen-bonaire-sint-eustatius-en-/README.md) · 1 versie
+- [BWBR0028780 — Besluit van 4 oktober 2010, houdende regels met betrekking tot de inrichting en organisatie van het politiekorps van Bonaire, Sint Eustatius en Saba (Besluit beheer politiekorps BES)](besluit-beheer-politiekorps-bes/README.md) · 1 versie
+- [BWBR0028330 — Besluit vaststelling van de vergoeding voor opiumverloven BES](besluit-vaststelling-van-de-vergoeding-voor-opiumverloven-be/README.md) · 1 versie
+- [BWBR0028458 — Besluit vergelijkend onderzoek celmateriaal BES](besluit-vergelijkend-onderzoek-celmateriaal-bes/README.md) · 2 versies
+- [BWBR0028663 — Besluit vergoeding kosten geneesmiddelen BES](besluit-vergoeding-kosten-geneesmiddelen-bes/README.md) · 4 versies
+- [BWBR0028511 — Besluit verklaring derdenbeslag BES](besluit-verklaring-derdenbeslag-bes/README.md) · 1 versie
+- [BWBR0028514 — Besluit verklaringen van overlijden BES](besluit-verklaringen-van-overlijden-bes/README.md) · 1 versie
+- [BWBR0028452 — Besluit verpakte geneesmiddelen BES](besluit-verpakte-geneesmiddelen-bes/README.md) · 2 versies
+- [BWBR0028480 — Besluit visserij producten 1999 BES](besluit-visserij-producten-1999-bes/README.md) · 1 versie
+- [BWBR0028315 — Besluit vogelgriep BES](besluit-vogelgriep-bes/README.md) · 1 versie
+- [BWBR0028430 — Besluit voogdijraden 1970 BES](besluit-voogdijraden-1970-bes/README.md) · 1 versie
+- [BWBR0028439 — Besluit voorlopige akten burgerlijke stand BES](besluit-voorlopige-akten-burgerlijke-stand-bes/README.md) · 1 versie
+- [BWBR0028646 — Besluit voorschriften onderwijsbevoegdheid vreemde diploma’s BES](besluit-voorschriften-onderwijsbevoegdheid-vreemde-diploma-s/README.md) · 1 versie
+- [BWBR0028427 — Besluit vrijstelling zendmachtiging overheidsinstanties BES](besluit-vrijstelling-zendmachtiging-overheidsinstanties-bes/README.md) · 1 versie
+- [BWBR0028339 — Besluit wettelijke rente BES](besluit-wettelijke-rente-bes/README.md) · 4 versies
+- [BWBR0028323 — Besluit zoetstoffen in levensmiddelen BES](besluit-zoetstoffen-in-levensmiddelen-bes/README.md) · 1 versie
+- [BWBR0028628 — Besluit zorg BES](besluit-zorg-bes/README.md) · 1 versie
+- [BWBR0028730 — Besluit, houdende algemene maatregelen van de 23ste december 1966 ter uitvoering van artikel 4 van de Wet Ongevallenverzekering BES](besluit-houdende-algemene-maatregelen-van-de-23ste-december--bwbr0028730/README.md) · 1 versie
+- [BWBR0028732 — Besluit, houdende algemene maatregelen, van de 21ste april 1966 ter uitvoering van artikel 4 leden 2 en 3 van de Wet Ziekteverzekering BES](besluit-houdende-algemene-maatregelen-van-de-21ste-april-196/README.md) · 1 versie
+- [BWBR0028731 — Besluit, houdende algemene maatregelen, van de 23ste december 1966 ter uitvoering van artikel 4, leden 2 en 3 van de Wet Ongevallenverzekering BES](besluit-houdende-algemene-maatregelen-van-de-23ste-december--bwbr0028731/README.md) · 1 versie
+- [BWBR0028491 — Bezoldigingsbesluit 1998 BES](bezoldigingsbesluit-1998-bes/README.md) · 45 versies
+- [BWBR0028521 — Bezoldigingsbesluit dienstplichtigen BES](bezoldigingsbesluit-dienstplichtigen-bes/README.md) · 2 versies
+- [BWBR0028723 — Dienst- en werktijdenbesluit brandweerkorps BES](dienst-en-werktijdenbesluit-brandweerkorps-bes/README.md) · 6 versies
+- [BWBR0028460 — Gegevensbesluit rechten van gebruik in deeltijd van onroerende zaken BES](gegevensbesluit-rechten-van-gebruik-in-deeltijd-van-onroeren/README.md) · 1 versie
+- [BWBR0028513 — Gevangenismaatregel 1999 BES](gevangenismaatregel-1999-bes/README.md) · 1 versie
+- [BWBR0028479 — Handelsregisterbesluit 2009 BES](handelsregisterbesluit-2009-bes/README.md) · 2 versies
+- [BWBR0028493 — Kiesbesluit voor de Kamers van Koophandel en Nijverheid BES](kiesbesluit-voor-de-kamers-van-koophandel-en-nijverheid-bes/README.md) · 3 versies
+- [BWBR0028476 — Lumpsumbesluit ambtenaren BES](lumpsumbesluit-ambtenaren-bes/README.md) · 6 versies
+- [BWBR0028574 — Mijnbesluit BES](mijnbesluit-bes/README.md) · 1 versie
+- [BWBR0028554 — Pensioenbesluit politieke gezagdragers BES](pensioenbesluit-politieke-gezagdragers-bes/README.md) · 35 versies
+- [BWBR0028423 — Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES](rechtspositiebesluit-eilandgedeputeerden-en-eilandsraadslede/README.md) · 32 versies
+- [BWBR0028526 — Rechtspositiebesluit gezaghebbers BES](rechtspositiebesluit-gezaghebbers-bes/README.md) · 20 versies
+- [BWBR0028398 — Reclasseringsbesluit 1953 BES](reclasseringsbesluit-1953-bes/README.md) · 1 versie
+- [BWBR0028421 — Stuwadoorsbesluit BES](stuwadoorsbesluit-bes/README.md) · 1 versie
+- [BWBR0028693 — Tijdelijk Besluit vrijstelling van dienst ambtenaren en werknemers BES](rechtspositiebesluit-ambtenaren-bes/README.md) · 89 versies
+- [BWBR0028591 — Uitvoeringsbesluit merken BES](uitvoeringsbesluit-merken-bes/README.md) · 2 versies
+- [BWBR0028645 — Uitvoeringsbesluit verdrag chemische wapens BES](uitvoeringsbesluit-verdrag-chemische-wapens-bes/README.md) · 1 versie
+- [BWBR0028413 — Visserijbesluit BES](visserijbesluit-bes/README.md) · 2 versies
+- [BWBR0028541 — Wachtgeldbesluit overheidsdienaren BES](wachtgeldbesluit-overheidsdienaren-bes/README.md) · 9 versies
+- [BWBR0028512 — Werktijdenbesluit ambtenaren BES](werktijdenbesluit-ambtenaren-bes/README.md) · 3 versies

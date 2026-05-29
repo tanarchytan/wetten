@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0018188
+eli: /eli/nl/ministeriele-regeling/2005/regeling-kostenverhaal-energie-2005
+type: ministeriele-regeling
+title: Regeling van de Minister van Economische Zaken van 8 april 2005, nr. WJZ 5020679, houdende uitvoering van artikel 4, eerste lid, van het Besluit kostenverhaal energie (Regeling kostenverhaal energie 2005)
+ministry: Economische Zaken
+abbreviation: null
+latest_state: "2005-04-14"
+state_count: 1
+---
+
+
+# Regeling van de Minister van Economische Zaken van 8 april 2005, nr. WJZ 5020679, houdende uitvoering van artikel 4, eerste lid, van het Besluit kostenverhaal energie (Regeling kostenverhaal energie 2005)
+
+**BWB-id:** BWBR0018188
+**Citeertitel:** Regeling kostenverhaal energie 2005
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Economische Zaken
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-kostenverhaal-energie-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-kostenverhaal-energie-2005)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2005-04-14 | 2006-04-13 | [2005-04-14.md](./2005-04-14.md) |

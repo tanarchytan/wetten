@@ -1,0 +1,27 @@
+---
+bwb_id: BWBR0023844
+eli: /eli/nl/pbo/2008/verordening-pdv-financieringsheffing-jaar-2008
+type: pbo
+title: Verordening van het Productschap Diervoeder van 7 november 2007, houdende regels ter zake van de aan de onder het Productschap Diervoeder ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening PDV financieringsheffing jaar 2008)
+ministry: Productschap Diervoeder
+abbreviation: null
+latest_state: "2008-07-01"
+state_count: 3
+---
+
+
+# Verordening van het Productschap Diervoeder van 7 november 2007, houdende regels ter zake van de aan de onder het Productschap Diervoeder ressorterende ondernemers op te leggen heffing voor het jaar 2008 (Verordening PDV financieringsheffing jaar 2008)
+
+**BWB-id:** BWBR0023844
+**Citeertitel:** Verordening PDV financieringsheffing jaar 2008
+**Type:** pbo
+**Verantwoordelijk ministerie:** Productschap Diervoeder
+**ELI:** [/eli/nl/pbo/2008/verordening-pdv-financieringsheffing-jaar-2008](https://wetten.ai/eli/nl/pbo/2008/verordening-pdv-financieringsheffing-jaar-2008)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2008-07-01 | 2019-10-18 | [2008-07-01.md](./2008-07-01.md) |
+| 2008-04-27 | 2008-06-30 | [2008-04-27.md](./2008-04-27.md) |
+| 2008-01-01 | 2008-04-26 | [2008-01-01.md](./2008-01-01.md) |

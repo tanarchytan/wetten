@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0028688
+eli: /eli/nl/ministeriele-regeling-bes/2010/regeling-van-9-juli-1956-ter-uitvoering-van-artikel-27-van-d
+type: ministeriele-regeling-bes
+title: Regeling van 9 juli 1956 ter uitvoering van artikel 27 van de IJkwet BES
+ministry: Economische Zaken
+abbreviation: null
+latest_state: "2010-10-10"
+state_count: 1
+---
+
+
+# Regeling van 9 juli 1956 ter uitvoering van artikel 27 van de IJkwet BES
+
+**BWB-id:** BWBR0028688
+**Citeertitel:** Regeling van 9 juli 1956 ter uitvoering van artikel 27 van de IJkwet BES
+**Type:** ministeriele-regeling-bes
+**Verantwoordelijk ministerie:** Economische Zaken
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-van-9-juli-1956-ter-uitvoering-van-artikel-27-van-d](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/regeling-van-9-juli-1956-ter-uitvoering-van-artikel-27-van-d)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2010-10-10 | 2016-12-31 | [2010-10-10.md](./2010-10-10.md) |

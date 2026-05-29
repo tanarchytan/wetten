@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0010522
+eli: /eli/nl/ministeriele-regeling/1999/vaststelling-meerjarenprogramma-ssz-1999-tot-en-met-2003-en-
+type: ministeriele-regeling
+title: Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999
+ministry: Infrastructuur en Milieu
+abbreviation: null
+latest_state: "1999-08-01"
+state_count: 1
+---
+
+
+# Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999
+
+**BWB-id:** BWBR0010522
+**Citeertitel:** Vaststelling meerjarenprogramma SSZ 1999 tot en met 2003 en het actieplan SSZ 1999
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Infrastructuur en Milieu
+**ELI:** [/eli/nl/ministeriele-regeling/1999/vaststelling-meerjarenprogramma-ssz-1999-tot-en-met-2003-en-](https://wetten.ai/eli/nl/ministeriele-regeling/1999/vaststelling-meerjarenprogramma-ssz-1999-tot-en-met-2003-en-)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1999-08-01 | heden | [1999-08-01.md](./1999-08-01.md) |

@@ -1,0 +1,48 @@
+# Zbo — 2001
+
+ELI: `/eli/nl/zbo/2001/*`
+
+- [BWBR0012392 — Aanwijzingsbesluit toezichthouders zorgverzekeringen](aanwijzingsbesluit-toezichthouders-zorgverzekeringen/README.md) · 1 versie
+- [BWBR0033433 — Beleidsregels leverplicht huurlijnen, artikel 13 Boht](beleidsregels-leverplicht-huurlijnen-artikel-13-boht/README.md) · 1 versie
+- [BWBR0033145 — Beleidsregels nummerhandel OPTA](beleidsregels-nummerhandel-opta/README.md) · 2 versies
+- [BWBR0033370 — Beleidsregels nummerportabiliteit mobiele telefonie](beleidsregels-nummerportabiliteit-mobiele-telefonie/README.md) · 1 versie
+- [BWBR0033089 — Beleidsregels ten aanzien van kwantitatieve eisen voor toekenning en handhaving van korte informatienummers](beleidsregels-ten-aanzien-van-kwantitatieve-eisen-voor-toeke/README.md) · 1 versie
+- [BWBR0033235 — Beleidsregels van de directeur DTe terzake de uitvoering van het opleggen van een last onder dwangsom](beleidsregels-van-de-raad-van-bestuur-van-de-mededingingsaut/README.md) · 2 versies
+- [BWBR0033031 — Beleidsregels van de directeur-generaal van de NMa en de directeur DTe met betrekking tot samenwerking bij de behandeling van verzoeken om geschillenbeslechting op grond van de Elektriciteitswet 1998 en de Gaswet](beleidsregels-samenwerking-behandeling-verzoeken-geschillenb/README.md) · 1 versie
+- [BWBR0012619 — Besluit aanpassing zaaksoort en bijbehorende bewindvoerdersubsidies Wsnp](besluit-aanpassing-zaaksoort-en-bijbehorende-bewindvoerdersu/README.md) · 1 versie
+- [BWBR0033224 — Besluit aanwijzing toezichthouders OPTA 2001](besluit-aanwijzing-toezichthouders-opta-2001/README.md) · 1 versie
+- [BWBR0033273 — Besluit klachtenfunctionaris NMa/DTe](besluit-klachtenfunctionaris-nma/README.md) · 3 versies
+- [BWBR0033452 — Besluit mandaat, volmacht en machtiging verkorte personeelsbeoordelingen CBS](besluit-mandaat-volmacht-en-machtiging-verkorte-personeelsbe/README.md) · 1 versie
+- [BWBR0033306 — Besluit organisatie, mandaat, volmacht en machtiging NMa](besluit-organisatie-mandaat-volmacht-en-machtiging-nma/README.md) · 1 versie
+- [BWBR0033380 — Besluit toerekeningssysteem postvervoer](besluit-toerekeningssysteem-postvervoer/README.md) · 1 versie
+- [BWBR0012515 — Besluit uitvoeringsregels financiering kinderopvang](besluit-uitvoeringsregels-financiering-kinderopvang/README.md) · 1 versie
+- [BWBR0012125 — Besluit van de Sociale Verzekeringsbank van 28 april 2000 houdende controlevoorschriften als bedoeld in artikel 8g van de Remigratiewet (Controlevoorschriften Remigratiewet)](controlevoorschriften-remigratiewet/README.md) · 1 versie
+- [BWBR0012620 — Besluit vergoeding reiskosten bewindvoerders Wsnp](besluit-vergoeding-reiskosten-bewindvoerders-wsnp/README.md) · 1 versie
+- [BWBR0012391 — Bestuursreglement CTZ](bestuursreglement-ctz/README.md) · 1 versie
+- [BWBR0012320 — Cusumsysteem erkenninghouders APK](cusumsysteem-erkenninghouders-apk/README.md) · 1 versie
+- [BWBR0012322 — Cusumsysteem Keurmeester-APK](cusumsysteem-keurmeester-apk/README.md) · 1 versie
+- [BWBR0012321 — Cusumsysteem LPG-Erkenningsregeling](cusumsysteem-lpg-erkenningsregeling/README.md) · 1 versie
+- [BWBR0033162 — Gezamenlijke aanleg en gebruik van UMTS-netwerkonderdelen](gezamenlijke-aanleg-en-gebruik-van-umts-netwerkonderdelen/README.md) · 1 versie
+- [BWBR0033139 — Klachtregeling OPTA 2001](klachtregeling-opta-2001/README.md) · 1 versie
+- [BWBR0012591 — Regeling aanvraagtermijnen Wet op de (re)integratie arbeidsgehandicapten 2001](regeling-aanvraagtermijnen-wet-op-de-re-integratie-arbeidsge/README.md) · 1 versie
+- [BWBR0013209 — Regeling achtergestelde lening opvanginstrument](regeling-achtergestelde-lening-opvanginstrument/README.md) · 1 versie
+- [BWBR0012128 — Regeling Basissubsidies voor beeldende kunstenaars en vrije vormgevers](regeling-basissubsidies/README.md) · 1 versie
+- [BWBR0012120 — Regeling Bemiddelaarssubsidies](regeling-bemiddelaarssubsidies/README.md) · 1 versie
+- [BWBR0012123 — Regeling projectwerkbeurzen voor literaire vertalers](regeling-projectwerkbeurzen-voor-literaire-vertalers/README.md) · 4 versies
+- [BWBR0012129 — Regeling reisbeurzen en verblijfbeurzen](regeling-reisbeurzen-en-verblijfbeurzen/README.md) · 1 versie
+- [BWBR0012127 — Regeling stimuleringssubsidies voor beeldende kunstenaars, vormgevers en beoefenaars van de bouwkunst](regeling-stimuleringssubsidies/README.md) · 1 versie
+- [BWBR0012121 — Regeling voor financiële ondersteuning van activiteitenprogramma's van kunstenaarsinitiatieven](regeling-voor-financi-le-ondersteuning-van-activiteitenprogr/README.md) · 1 versie
+- [BWBR0012453 — Regeling voor financiële ondersteuning van museale aankopen](regeling-voor-financi-le-ondersteuning-van-museale-aankopen/README.md) · 1 versie
+- [BWBR0012131 — Regeling voor financiële ondersteuning van presentaties van Nederlandse beeldende kunst of vormgeving in het buitenland](regeling-voor-financi-le-ondersteuning-van-presentaties-van-/README.md) · 1 versie
+- [BWBR0012119 — Regeling voor financiële ondersteuning van projecten op het gebied van beeldende kunst en vormgeving](regeling-voor-financi-le-ondersteuning-van-projecten-op-het-/README.md) · 1 versie
+- [BWBR0012130 — Regeling voor financiële ondersteuning van publicaties op het gebied van beeldende kunst of vormgeving](regeling-voor-financi-le-ondersteuning-van-publicaties-op-he/README.md) · 1 versie
+- [BWBR0012452 — Regeling voor financiële ondersteuning van tijdsschriften op het gebied van beeldende kunst of vormgeving](regeling-voor-financi-le-ondersteuning-van-tijdsschriften-op/README.md) · 1 versie
+- [BWBR0012122 — Regeling voor financiële ondersteuning voor museale aankopen moderne beeldende kunst of vormgeving](regeling-voor-financi-le-ondersteuning-voor-museale-aankopen/README.md) · 1 versie
+- [BWBR0032154 — Reglement voor financiële ondersteuning van projecten die betrekking hebben op beeldende kunsten, vormgeving en museale activiteiten](algemeen-reglement-financi-le-ondersteuning-projecten/README.md) · 2 versies
+- [BWBR0033434 — Richtsnoeren artikel 24 BOHT](richtsnoeren-artikel-24-boht/README.md) · 1 versie
+- [BWBR0033008 — Richtsnoeren boetetoemeting m.b.t. opleggen boetes Mededingingswet](richtsnoeren-boetetoemeting-m-b-t-opleggen-boetes-mededingin/README.md) · 2 versies
+- [BWBR0033140 — Richtsnoeren voor de beoordeling van samenwerking tussen bedrijven binnen en buiten brancheorganisaties](richtsnoeren-samenwerking-bedrijven/README.md) · 1 versie
+- [BWBR0033154 — Uitgiftebeleid carrierselectienummers](uitgiftebeleid-carrierselectienummers/README.md) · 2 versies
+- [BWBR0033153 — Uitgiftebeleid nummers](uitgiftebeleid-nummers/README.md) · 2 versies
+- [BWBR0012249 — Vaststelling voorwaarden deelname examen LPG-technicus](vaststelling-voorwaarden-deelname-examen-lpg-technicus/README.md) · 2 versies
+- [BWBR0011873 — Werkbeursregeling schrijvers (nieuwe stijl)](werkbeursregeling-schrijvers-nieuwe-stijl/README.md) · 1 versie

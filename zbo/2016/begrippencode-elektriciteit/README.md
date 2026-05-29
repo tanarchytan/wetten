@@ -1,0 +1,56 @@
+---
+bwb_id: BWBR0037938
+eli: /eli/nl/zbo/2016/begrippencode-elektriciteit
+type: zbo
+title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202149, houdende de vaststelling van de voorwaarden als bedoeld in artikel 27, 31 en 54, eerste lid, van de Elektriciteitswet 1998 (Begrippencode elektriciteit)
+ministry: Autoriteit Consument en Markt
+abbreviation: null
+latest_state: "2025-05-08"
+state_count: 32
+---
+
+
+# Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202149, houdende de vaststelling van de voorwaarden als bedoeld in artikel 27, 31 en 54, eerste lid, van de Elektriciteitswet 1998 (Begrippencode elektriciteit)
+
+**BWB-id:** BWBR0037938
+**Citeertitel:** Begrippencode elektriciteit
+**Type:** zbo
+**Verantwoordelijk ministerie:** Autoriteit Consument en Markt
+**ELI:** [/eli/nl/zbo/2016/begrippencode-elektriciteit](https://wetten.ai/eli/nl/zbo/2016/begrippencode-elektriciteit)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2025-05-08 | heden | [2025-05-08.md](./2025-05-08.md) |
+| 2025-04-26 | 2025-05-07 | [2025-04-26.md](./2025-04-26.md) |
+| 2025-01-01 | 2025-04-25 | [2025-01-01.md](./2025-01-01.md) |
+| 2024-08-27 | 2024-12-31 | [2024-08-27.md](./2024-08-27.md) |
+| 2024-04-19 | 2024-08-26 | [2024-04-19.md](./2024-04-19.md) |
+| 2024-03-21 | 2024-04-18 | [2024-03-21.md](./2024-03-21.md) |
+| 2023-04-01 | 2024-03-20 | [2023-04-01.md](./2023-04-01.md) |
+| 2022-11-25 | 2023-03-31 | [2022-11-25.md](./2022-11-25.md) |
+| 2022-10-25 | 2022-11-24 | [2022-10-25.md](./2022-10-25.md) |
+| 2022-10-01 | 2022-10-24 | [2022-10-01.md](./2022-10-01.md) |
+| 2022-05-18 | 2022-09-30 | [2022-05-18.md](./2022-05-18.md) |
+| 2022-04-05 | 2022-05-17 | [2022-04-05.md](./2022-04-05.md) |
+| 2022-03-19 | 2022-04-04 | [2022-03-19.md](./2022-03-19.md) |
+| 2021-06-19 | 2022-03-18 | [2021-06-19.md](./2021-06-19.md) |
+| 2021-02-06 | 2021-06-18 | [2021-02-06.md](./2021-02-06.md) |
+| 2020-11-14 | 2021-02-05 | [2020-11-14.md](./2020-11-14.md) |
+| 2020-01-01 | 2020-11-13 | [2020-01-01.md](./2020-01-01.md) |
+| 2019-10-22 | 2019-12-31 | [2019-10-22.md](./2019-10-22.md) |
+| 2019-07-10 | 2019-10-21 | [2019-07-10.md](./2019-07-10.md) |
+| 2019-06-18 | 2019-07-09 | [2019-06-18.md](./2019-06-18.md) |
+| 2019-03-16 | 2019-06-17 | [2019-03-16.md](./2019-03-16.md) |
+| 2019-02-01 | 2019-03-15 | [2019-02-01.md](./2019-02-01.md) |
+| 2018-12-22 | 2019-01-31 | [2018-12-22.md](./2018-12-22.md) |
+| 2018-10-31 | 2018-12-21 | [2018-10-31.md](./2018-10-31.md) |
+| 2018-10-02 | 2018-10-30 | [2018-10-02.md](./2018-10-02.md) |
+| 2018-06-13 | 2018-10-01 | [2018-06-13.md](./2018-06-13.md) |
+| 2018-04-11 | 2018-06-12 | [2018-04-11.md](./2018-04-11.md) |
+| 2018-03-24 | 2018-04-10 | [2018-03-24.md](./2018-03-24.md) |
+| 2018-02-28 | 2018-03-23 | [2018-02-28.md](./2018-02-28.md) |
+| 2018-02-20 | 2018-02-27 | [2018-02-20.md](./2018-02-20.md) |
+| 2016-09-14 | 2018-02-19 | [2016-09-14.md](./2016-09-14.md) |
+| 2016-05-12 | 2016-09-13 | [2016-05-12.md](./2016-05-12.md) |

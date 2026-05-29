@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0010689
+eli: /eli/nl/amvb/1999/wijzigingsbesluit-tariefbesluit-pachtwet-1995
+type: amvb
+title: Besluit van 30 augustus 1999, houdende wijziging van het Tariefbesluit Pachtwet 1995
+ministry: Economische Zaken
+abbreviation: null
+latest_state: "1999-11-01"
+state_count: 1
+---
+
+
+# Besluit van 30 augustus 1999, houdende wijziging van het Tariefbesluit Pachtwet 1995
+
+**BWB-id:** BWBR0010689
+**Citeertitel:** Wijzigingsbesluit Tariefbesluit Pachtwet 1995
+**Type:** amvb
+**Verantwoordelijk ministerie:** Economische Zaken
+**ELI:** [/eli/nl/amvb/1999/wijzigingsbesluit-tariefbesluit-pachtwet-1995](https://wetten.ai/eli/nl/amvb/1999/wijzigingsbesluit-tariefbesluit-pachtwet-1995)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1999-11-01 | 2005-02-24 | [1999-11-01.md](./1999-11-01.md) |

@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0010866
+eli: /eli/nl/ministeriele-regeling/1999/aanpassingsregeling-appa-pensioenen-1999-ii
+type: ministeriele-regeling
+title: Aanpassingsregeling Appa-pensioenen 1999-II
+ministry: Binnenlandse Zaken en Koninkrijksrelaties
+abbreviation: null
+latest_state: "1999-11-27"
+state_count: 1
+---
+
+
+# Aanpassingsregeling Appa-pensioenen 1999-II
+
+**BWB-id:** BWBR0010866
+**Citeertitel:** Aanpassingsregeling Appa-pensioenen 1999-II
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
+**ELI:** [/eli/nl/ministeriele-regeling/1999/aanpassingsregeling-appa-pensioenen-1999-ii](https://wetten.ai/eli/nl/ministeriele-regeling/1999/aanpassingsregeling-appa-pensioenen-1999-ii)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1999-11-27 | 2013-06-30 | [1999-11-27.md](./1999-11-27.md) |

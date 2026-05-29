@@ -1,0 +1,62 @@
+# Zbo — 2004
+
+ELI: `/eli/nl/zbo/2004/*`
+
+- [BWBR0033081 — Beleidsregel Procedure geschillen Energie](beleidsregel-procedure-geschillen-energie/README.md) · 2 versies
+- [BWBR0033117 — Beleidsregel procedure voor ontheffingen ex artikel 37a Elektriciteitswet](beleidsregel-procedure-voor-ontheffingen-ex-artikel-37a-elek/README.md) · 3 versies
+- [BWBR0033054 — Beleidsregel Regulatorische accountingregels 2004](beleidsregel-regulatorische-accountingregels-2004/README.md) · 2 versies
+- [BWBR0033122 — Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)](beleidsregel-van-de-stichting-nationale-en-internationale-we/README.md) · 1 versie
+- [BWBR0033198 — Beleidsregels boetetoemeting met betrekking tot het opleggen van boetes ingevolge artikel 15.4 van de Telecommunicatiewet (Boetebeleidsregels OPTA)](boetebeleidsregels-opta/README.md) · 1 versie
+- [BWBR0033298 — Beleidsregels lotingreglement](beleidsregels-lotingreglement/README.md) · 1 versie
+- [BWBR0033297 — Beleidsregels OPTA uitgifte van bedrijfsnummers](beleidsregels-opta-uitgifte-van-bedrijfsnummers/README.md) · 1 versie
+- [BWBR0016429 — Beleidsregels UWV normbedragen REA-voorzieningen 2004](beleidsregels-uwv-normbedragen-rea-voorzieningen-2004/README.md) · 1 versie
+- [BWBR0033294 — Beleidsregels veilingreglement voor bedrijfsnummers](beleidsregels-veilingreglement-voor-bedrijfsnummers/README.md) · 1 versie
+- [BWBR0026540 — Beleidsregels weigering ziekengeld bij bestaande of te verwachten ongeschiktheid](beleidsregels-weigering-ziekengeld-bij-bestaande-of-te-verwa/README.md) · 1 versie
+- [BWBR0017669 — Beschikking van de Minister van Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 december 2004, nr. L.O. 640/0073/0452482, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel](beschikking-sporttotalisator-2004/README.md) · 1 versie
+- [BWBR0016646 — Besluit Beleidsregels SVB 2004](besluit-beleidsregels-svb-2004/README.md) · 1 versie
+- [BWBR0017195 — Besluit beleidsregels uurloonschatting 2004](besluit-beleidsregels-uurloonschatting-2004/README.md) · 3 versies
+- [BWBR0033156 — Besluit informatiebeheer OPTA 2003](besluit-informatiebeheer-opta-2003/README.md) · 1 versie
+- [BWBR0033309 — Besluit mandaat, volmacht en machtiging Centraal Bureau voor de Statistiek](besluit-mandaat-volmacht-en-machtiging-centraal-bureau-voor-/README.md) · 1 versie
+- [BWBR0033260 — Besluit mandaat, volmacht en machtiging DTe 2004](besluit-mandaat-volmacht-en-machtiging-dte-2004/README.md) · 1 versie
+- [BWBR0017150 — Besluit maximum vergoeding overheidswerkgevers](besluit-maximum-vergoeding-overheidswerkgevers/README.md) · 1 versie
+- [BWBR0033265 — Besluit organisatie, mandaat, volmacht en machtiging NMa 2004](besluit-organisatie-mandaat-volmacht-en-machtiging-nma-2004/README.md) · 1 versie
+- [BWBR0033276 — Besluit van het college, onderscheidenlijk de voorzitter van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, houdende mandatering, volmacht en machtiging van bevoegdheden van het college aan de afzonderlijke leden van het college en de ambtenaren in dienst van het college](besluit-mandaat-volmacht-en-machtiging-opta-2004/README.md) · 1 versie
+- [BWBR0033032 — Controleprotocol gemeentelijke vervoerbedrijven](controleprotocol-gemeentelijke-vervoerbedrijven/README.md) · 2 versies
+- [BWBR0015967 — Controletarieven Skal 2004](controletarieven-skal-2004/README.md) · 1 versie
+- [BWBR0015931 — Financieel Reglement Eieren (op basis van Landbouwkwaliteitswet) van de Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten](financieel-reglement-eieren-op-basis-van-de-landbouwkwalitei/README.md) · 5 versies
+- [BWBR0016251 — Herziene regeling financiële ondersteuning activiteitenprogramma's kunstenaarsinitiatieven](herziene-regeling-financi-le-ondersteuning-activiteitenprogr/README.md) · 1 versie
+- [BWBR0033329 — Klachtenregeling Faunafonds](klachtenregeling-faunafonds/README.md) · 4 versies
+- [BWBR0017084 — Maatregelenbesluit UWV](maatregelenbesluit-uwv/README.md) · 9 versies
+- [BWBR0017329 — Mandaatbesluit 2004 CWI](mandaatbesluit-2004-cwi/README.md) · 18 versies
+- [BWBR0016044 — Nadere regeling gedragstoezicht beleggingsinstellingen](nadere-regeling-gedragstoezicht-beleggingsinstellingen/README.md) · 1 versie
+- [BWBR0033071 — Procedureoverzicht Boeteoplegging OPTA 2004](procedureoverzicht-boeteoplegging-opta-2004/README.md) · 1 versie
+- [BWBR0017143 — Regeling administratie en controle uitvoeringsorganen AWBZ](regeling-administratie-en-controle-uitvoeringsorganen-awbz/README.md) · 1 versie
+- [BWBR0032001 — Regeling adviescommissie bezwaarschriften uitgelote gegadigden](regeling-adviescommissie-bezwaarschriften-uitgelote-gegadigd/README.md) · 1 versie
+- [BWBR0027605 — Regeling archiefbeheer Kadaster](regeling-archiefbeheer-kadaster/README.md) · 2 versies
+- [BWBR0017177 — Regeling archiefbeheer UWV](regeling-archiefbeheer-uwv/README.md) · 1 versie
+- [BWBR0017578 — Regeling beleidsregels voor de toepassing van de Regeling beschikbare middelen beheerskosten Zfw 2005](regeling-beleidsregels-voor-de-toepassing-van-de-regeling-be-bwbr0017578/README.md) · 1 versie
+- [BWBR0017381 — Regeling beleidsregels voor de toepassing van de Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005](regeling-beleidsregels-voor-de-toepassing-van-de-regeling-be-bwbr0017381/README.md) · 1 versie
+- [BWBR0024727 — Regeling centraal examen 2006](regeling-centraal-examen-2006/README.md) · 1 versie
+- [BWBR0017292 — Regeling Festivals en Concoursen (RFC) van het Fonds voor Podiumprogrammering en Marketing](regeling-festivals-en-concoursen-rfc-van-het-fonds-voor-podi/README.md) · 1 versie
+- [BWBR0016213 — Regeling hulp in bijzondere omstandigheden AWBZ](regeling-hulp-in-bijzondere-omstandigheden-awbz/README.md) · 1 versie
+- [BWBR0033025 — Regeling inwerkingtreding Wet rechtstreeks beroep](regeling-inwerkingtreding-wet-rechtstreeks-beroep-bwbr0033025/README.md) · 1 versie
+- [BWBR0033024 — Regeling inwerkingtreding Wet rechtstreeks beroep](regeling-inwerkingtreding-wet-rechtstreeks-beroep-bwbr0033024/README.md) · 2 versies
+- [BWBR0016247 — Regeling inzake solvabiliteit bij securitisatie](solvabiliteitsregels-securitisatie/README.md) · 1 versie
+- [BWBR0016139 — Regeling toezichtkosten DNB Wet toezicht kredietwezen 1992](regeling-toezichtkosten-dnb-wet-toezicht-kredietwezen-1992/README.md) · 1 versie
+- [BWBR0014552 — Regeling van De Nederlandsche Bank N.V. en de Pensioen- & Verzekeringskamer ingevolge de artikelen 22a en 30ca Wet toezicht kredietwezen 1992, de artikelen 70a en 98a Wet toezicht verzekeringsbedrijf 1993 en artikel 31a Wet toezicht natura-uitvaartverzekeringsbedrijf in verband met artikel 3, derde lid, en artikel 7 van het Besluit van 10 oktober 2003 (Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars), Stb. 2003, 396, met betrekking tot de omgang met incidenten die een ernstig gevaar vormen voor een integere bedrijfsvoering](regeling-incidenten-kredietinstellingen-en-verzekeraars/README.md) · 1 versie
+- [BWBR0014551 — Regeling van De Nederlandsche Bank N.V. en de Pensioen- & Verzekeringskamer ingevolge de artikelen 22a en 30ca Wet toezicht kredietwezen 1992, de artikelen 70a en 98a Wet toezicht verzekeringsbedrijf 1993 en artikel 31a Wet toezicht natura-uitvaartverzekeringsbedrijf in verband met artikel 3, derde lid, en artikel 7 van het Besluit van 10 oktober 2003 (Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars), Stb. 2003, 396, met betrekking tot integriteitsgevoelige functies](regeling-integriteitsgevoelige-functies-kredietinstellingen-/README.md) · 1 versie
+- [BWBR0014550 — Regeling van De Nederlandsche Bank N.V. en de Pensioen- & Verzekeringskamer ingevolge de artikelen 22a en 30ca Wet toezicht kredietwezen 1992, de artikelen 70a en 98a Wet toezicht verzekeringsbedrijf 1993 en artikel 31a Wet toezicht natura-uitvaartverzekeringsbedrijf in verband met artikel 5, tweede lid, en artikel 3, derde lid jo. eerste lid, onder c, van het Besluit van 10 oktober 2003 (Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars), Stb. 2003, 396, met betrekking tot het opstellen en onderhouden van 'ken uw cliënt'-procedures.](regeling-cdd-kredietinstellingen-en-verzekeraars/README.md) · 1 versie
+- [BWBR0016424 — Regeling van De Nederlandsche Bank N.V. van 23 februari 2004, houdende regels met het oog op een integere bedrijfsvoering door trustkantoren (Regeling integere bedrijfsvoering Wet toezicht trustkantoren)](regeling-integere-bedrijfsvoering-wet-toezicht-trustkantoren/README.md) · 5 versies
+- [BWBR0016194 — Regeling van de Pensioen- & Verzekeringskamer van 18 december 2003, nr. 0.851.3/03-8451, houdende uitvoering van de artikelen 2 lid 2 en 3 lid 3 van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars (Regeling tegengaan van belangenverstrengeling en beheersing van integriteitsrisico's verzekeraars)](regeling-tegengaan-van-belangenverstrengeling-en-beheersing-/README.md) · 1 versie
+- [BWBR0016319 — Regeling van de Pensioen- & Verzekeringskamer van 22 januari 2004, nr. 0.1/2004-724, houdende uitvoering van de artikelen 70, tweede lid, en 98, tweede lid, van de Wet toezicht verzekeringsbedrijf 1993, artikel 31, tweede lid, van de Wet toezicht natura-uitvaartverzekeringsbedrijf, en de artikelen 2, tweede lid, en 3, derde lid, van het Besluit integere bedrijfsvoering kredietinstellingen en verzekeraars](regeling-uitbesteding-verzekeraars/README.md) · 1 versie
+- [BWBR0027603 — Regeling vaststelling legitimatiebewijs Kadasterwet](regeling-vaststelling-legitimatiebewijs-kadasterwet/README.md) · 1 versie
+- [BWBR0014549 — Reglement erkenning ECABO-leerbedrijven](reglement-erkenning-ecabo-leerbedrijven/README.md) · 1 versie
+- [BWBR0017636 — Reglement projectsubsidies Belvedere 2005 - 2008](reglement-projectsubsidies-belvedere-2005-2008/README.md) · 1 versie
+- [BWBR0033161 — Richtlijnen Gastransport 2005](richtlijnen-gastransport-2005/README.md) · 2 versies
+- [BWBR0033012 — Richtsnoeren Amicus Curiae](richtsnoeren-amicus-curiae/README.md) · 2 versies
+- [BWBR0015908 — Tarieven Centraal Bureau Rijvaardigheidsbewijzen](tarieven-centraal-bureau-rijvaardigheidsbewijzen/README.md) · 1 versie
+- [BWBR0016048 — Tarievenbesluit CTB 2004](tarievenbesluit-ctb-2004/README.md) · 1 versie
+- [BWBR0017316 — Tarievenbesluit CTB 2005](tarievenbesluit-ctb-2005/README.md) · 1 versie
+- [BWBR0016253 — Tijdelijk addendum Regeling financiële ondersteuning tijdschriften op het gebied van beeldende kunst en vormgeving](tijdelijk-addendum-regeling-financi-le-ondersteuning-tijdsch/README.md) · 1 versie
+- [BWBR0033391 — Uitgangspunten en beleidsregels werkwijze CBP](uitgangspunten-en-beleidsregels-werkwijze-cbp/README.md) · 1 versie
+- [BWBR0033074 — Werkafspraken OPTA/CBP uitoefening toezicht artikel 11.7 lid 1, lid 2 en lid 3 Telecommunicatiewet](werkafspraken-opta-cbp-uitoefening-toezicht-artikel-11-7-lid/README.md) · 1 versie

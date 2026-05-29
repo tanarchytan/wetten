@@ -1,0 +1,22 @@
+# Amvb — 1981
+
+ELI: `/eli/nl/amvb/1981/*`
+
+- [BWBR0003397 — Besluit van 1 mei 1981, tot uitvoering van het bepaalde in artikel 30 van de Wet toezicht kredietwezen met betrekking tot andere kapitaalmarktinstellingen dan hypotheekbanken](besluit-ondertoezichtstelling-overige-kapitaalmarktinstellin/README.md) · 1 versie
+- [BWBR0003422 — Besluit van 13 juli 1981, houdende een verbod aan de deurwaarders om exploiten te doen ter zake van beslagen op of vorderingen verband houdende met de aanwezigheid in Nederland van de fondsen bedoeld in de overeenkomst met de Verenigde Staten van 10 juli 1981 betreffende een garantiefonds](besluit-aanzegging-deurwaarders-in-verband-met-iraanse-tegoe/README.md) · 1 versie
+- [BWBR0003427 — Besluit van 14 augustus 1981, houdende regelen met betrekking tot het toekennen van ontslaguitkeringen aan buitenlandse onderwijzers](besluit-regelen-toekennen-van-ontslaguitkeringen-aan-buitenl/README.md) · 1 versie
+- [BWBR0003449 — Besluit van 16 oktober 1981, houdende nadere voorschriften met betrekking tot de omschrijving en aanduiding van het gebied als bedoeld in artikel 3 van de Wet agrarisch grondverkeer (Stb. 1981, 248)](besluit-omschrijving-en-aanduiding-van-het-gebied-als-bedoel/README.md) · 3 versies
+- [BWBR0003611 — Besluit van 17 augustus 1983, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van artikel 2, derde lid, van de Wet op de Zeevaartdiploma's 1935, Stb. 456](besluit-bijzondere-verkrijging-voorlopig-diploma-als-scheeps/README.md) · 1 versie
+- [BWBR0003404 — Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen](besluit-beperking-geluidhinder-luchtvaartuigen/README.md) · 3 versies
+- [BWBR0003438 — Besluit van 21 september 1981, houdende uitvoering van de artikelen 1, eerste lid, onder b, en vierde lid, 4, derde en vierde lid, en 4a van de IJkwet 1937 (Stb. 627)](eenhedenbesluit-1981/README.md) · 1 versie
+- [BWBR0003405 — Besluit van 22 mei 1981, houdende aanwijzing van toestellen, die geen luchtvaartuig zijn als bedoeld in artikel 1, onder b, van de Luchtvaartwet](besluit-aanwijzing-toestellen-die-geen-luchtvaartuig-zijn/README.md) · 1 versie
+- [BWBR0003416 — Besluit van 23 juni 1981, tot toepassing van artikel 14, zesde en zevende lid van de Wet minimumloon en minimumvakantiebijslag](besluit-vaststelling-bedragen-ex-artikel-8-wet-minimumloon-e/README.md) · 1 versie
+- [BWBR0003358 — Besluit van 24 november 1980, houdende regelen betreffende het technische en genetische peil van de produktie van bloembollen](landbouwkwaliteitsbesluit-bloembollen-en-snijbloemen/README.md) · 2 versies
+- [BWBR0003418 — Besluit van 25 juni 1981, houdende toepassing van artikel 74 van de Kernenergiewet](bijdragenbesluit-kernenergiewet-1981/README.md) · 4 versies
+- [BWBR0003408 — Besluit van 25 mei 1981, houdende vaststelling van het Besluit financiële toevoegingsgrenzen](besluit-financi-le-toevoegingsgrenzen/README.md) · 3 versies
+- [BWBR0003448 — Besluit van 26 augustus 1981, houdende regelen ten aanzien van de invoer van goederen, die van oorsprong zijn uit bepaalde landen en gebieden, dan wel een onbekende oorsprong hebben](invoerbesluit-landen-1981/README.md) · 2 versies
+- [BWBR0003453 — Besluit van 30 oktober 1981, houdende voorschriften betreffende de samenstelling en de werkwijze van de commissie beheer landbouwgronden](besluit-samenstelling-en-werkwijze-commissie-beheer-landbouw/README.md) · 3 versies
+- [BWBR0003398 — Besluit van 5 mei 1981, houdende uitvoering van artikel 7 van de Noodwet Geneeskundigen](besluit-ex-artikel-7-noodwet-geneeskundigen/README.md) · 2 versies
+- [BWBR0003693 — Besluit van 6 juli 1984, houdende vaststelling van een algemene maatregel van bestuur betreffende de bepaling van de financiële draagkracht ingevolge de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945, Stb. 1984, 94](besluit-draagkracht-burger-oorlogsslachtoffers/README.md) · 8 versies
+- [BWBR0003692 — Besluit van 6 juli 1984, houdende vaststelling van een algemene maatregel van bestuur inzake samenloop wettelijke regelingen als bedoeld in artikel 4 van de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945 (Stb. 1984, 94)](besluit-samenloop-wettelijke-regelingen/README.md) · 1 versie
+- [BWBR0003360 — Besluit van 9 december 1980, houdende regelen ten aanzien van de in- en uitvoer van bepaalde landbouwgoederen](in-en-uitvoerbesluit-landbouwgoederen-1980/README.md) · 1 versie

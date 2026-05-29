@@ -1,0 +1,26 @@
+---
+bwb_id: BWBR0016488
+eli: /eli/nl/ministeriele-regeling/2004/bijdrageplafond-silo-2004
+type: ministeriele-regeling
+title: Regeling Stimulans innovatieve leeromgevingen BVE 2001-2004
+ministry: Onderwijs, Cultuur en Wetenschap
+abbreviation: null
+latest_state: "2004-04-03"
+state_count: 2
+---
+
+
+# Regeling Stimulans innovatieve leeromgevingen BVE 2001-2004
+
+**BWB-id:** BWBR0016488
+**Citeertitel:** Bijdrageplafond silo 2004
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
+**ELI:** [/eli/nl/ministeriele-regeling/2004/bijdrageplafond-silo-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/bijdrageplafond-silo-2004)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2004-04-03 | 2004-12-31 | [2004-04-03.md](./2004-04-03.md) |
+| 2004-04-01 | 2004-04-02 | [2004-04-01.md](./2004-04-01.md) |

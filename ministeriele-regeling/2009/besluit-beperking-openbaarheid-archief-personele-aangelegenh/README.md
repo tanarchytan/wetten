@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0026331
+eli: /eli/nl/ministeriele-regeling/2009/besluit-beperking-openbaarheid-archief-personele-aangelegenh
+type: ministeriele-regeling
+title: Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Personele aangelegenheden onder het Ministerie van Justitie 1922–2000 (als bedoeld in artikel 10 van het Archiefbesluit 1995)
+ministry: Veiligheid en Justitie
+abbreviation: null
+latest_state: "2009-11-01"
+state_count: 1
+---
+
+
+# Besluit van de Minister van Justitie, houdende beperking van de openbaarheid van het archief betreffende Personele aangelegenheden onder het Ministerie van Justitie 1922–2000 (als bedoeld in artikel 10 van het Archiefbesluit 1995)
+
+**BWB-id:** BWBR0026331
+**Citeertitel:** Besluit beperking openbaarheid archief Personele aangelegenheden Ministerie van Justitie 1922–2000
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Veiligheid en Justitie
+**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-beperking-openbaarheid-archief-personele-aangelegenh](https://wetten.ai/eli/nl/ministeriele-regeling/2009/besluit-beperking-openbaarheid-archief-personele-aangelegenh)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2009-11-01 | heden | [2009-11-01.md](./2009-11-01.md) |

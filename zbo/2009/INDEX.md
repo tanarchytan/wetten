@@ -1,0 +1,166 @@
+# Zbo — 2009
+
+ELI: `/eli/nl/zbo/2009/*`
+
+- [BWBR0026928 — Algemeen reglement van de Stichting Fonds voor Cultuurparticipatie](algemeen-reglement-van-het-fonds-voor-cultuurparticipatie/README.md) · 1 versie
+- [BWBR0037744 — Autoriteit Financiële Markten. Lijst met minimaal te bewaren gegevens zoals bedoeld in artikel 35, vijfde lid van het Besluit gedragstoezicht financiële ondernemingen](regeling-lijst-minimaal-te-bewaren-gegevens-beleggingsondern/README.md) · 1 versie
+- [BWBR0026406 — Bekendmaking constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2010](regeling-bekendmaking-constanten-regressieformules-en-waarde/README.md) · 1 versie
+- [BWBR0033183 — Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 1 mei 2009 (Stcrt. 2009, nr. 81)](beleidsregel-beleid-niwo/README.md) · 1 versie
+- [BWBR0025730 — Beleidslijn sanctiemaatregelen vaste boekenprijs 2009](beleidslijn-sanctiemaatregelen-vaste-boekenprijs-2009/README.md) · 1 versie
+- [BWBR0026987 — Beleidsregel boete werknemer 2010](beleidsregel-boete-werknemer-2010/README.md) · 1 versie
+- [BWBR0033241 — Beleidsregel CBP richtsnoeren ANPR](beleidsregel-cbp-richtsnoeren-anpr/README.md) · 1 versie
+- [BWBR0033236 — Beleidsregel CBP richtsnoeren informatieplicht basisscholen onderwijskundig rapport](beleidsregel-cbp-richtsnoeren-informatieplicht-basisscholen-/README.md) · 1 versie
+- [BWBR0026390 — Beleidsregel ervaringsfase ontheffingverlening LZV 2009](beleidsregel-ervaringsfase-ontheffingverlening-lzv-2009/README.md) · 4 versies
+- [BWBR0026340 — Beleidsregel inning bestuursrechtelijke premie Zorgverzekeringswet 2009](beleidsregel-inning-bestuursrechtelijke-premie-zorgverzekeri/README.md) · 6 versies
+- [BWBR0025951 — Beleidsregel inzake vervreemding van onroerende zaken op basis van artikel 18 van de Wet toelating zorginstellingen, zoals vastgesteld door het College sanering op 8 mei 2009](beleidsregel-vervreemding-onroerende-zaken-ex-artikel-18-wet/README.md) · 1 versie
+- [BWBR0025602 — Beleidsregel van de Raad voor Rechtsbijstand tot verstrekking van een subsidie aan partijen die door de rechter verwezen zijn naar een conflictbemiddelaar (Beleidsregel stimuleringsbijdrage conflictbemiddeling) deze Beleidsregel is een verlenging van de reeds van kracht zijnde beleidsregel met dezelfde titel, met de looptijd van 1 april 2008 tot 1 april 2009](beleidsregel-stimuleringsbijdrage-conflictbemiddeling/README.md) · 2 versies
+- [BWBR0025835 — Beleidsregel van de Stichting Autoriteit Financiële Markten van 14 april 2009 inzake de tijdige verstrekking van het Uniform Pensioen Overzicht door een pensioenuitvoerder aan een deelnemer (Beleidsregel tijdigheid verstrekking Uniform Pensioen Overzichten)](beleidsregel-tijdigheid-verstrekking-uniforme-pensioen-overz/README.md) · 1 versie
+- [BWBR0033184 — Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de last onder dwangsom van 1 mei 2009 (Stcrt. 2009, nr. 81)](beleidsregel-toepassing-last-onder-dwangsom/README.md) · 1 versie
+- [BWBR0033193 — Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob), zoals laatstelijk gewijzigd bij bekendmaking van 1 mei 2009 (Stcrt. 2009, nr. 81)](beleidsregel-van-de-stichting-nationale-en-internationale-we/README.md) · 1 versie
+- [BWBR0026342 — Beleidsregels aanmelding stuwmeer wanbetalers van de nominale premie Zorgverzekeringswet 2009/2010](beleidsregels-aanmelding-stuwmeer-wanbetalers-van-de-nominal/README.md) · 2 versies
+- [BWBR0033171 — Beleidsregels actieve openbaarmaking door het CBP](beleidsregels-actieve-openbaarmaking-door-het-cbp/README.md) · 1 versie
+- [BWBR0033174 — Beleidsregels CBP handhaving protocolplicht Wet politiegegevens](beleidsregels-cbp-handhaving-protocolplicht-wet-politiegegev/README.md) · 1 versie
+- [BWBR0025247 — Beleidsregels gevoelige gegevens kentekenregister](beleidsregels-gevoelige-gegevens-kentekenregister/README.md) · 1 versie
+- [BWBR0033401 — Beleidsregels informatieplicht voor aanbieders over internetveiligheid (artikel 11.3 tweede lid van de Telecommunicatiewet)](beleidsregels-informatieplicht-voor-aanbieders-over-internet/README.md) · 2 versies
+- [BWBR0033428 — Beleidsregels NMa bestuurlijke boetes vervoerswetgeving](beleidsregels-nma-bestuurlijke-boetes-vervoerswetgeving/README.md) · 1 versie
+- [BWBR0033270 — Beleidsregels openbaarmaking OPTA](beleidsregels-openbaarmaking-opta/README.md) · 3 versies
+- [BWBR0033247 — Beleidsregels uitgifte en beheer van achtcijferige 0909 medianummers](beleidsregels-uitgifte-en-beheer-van-achtcijferige-0909-medi/README.md) · 1 versie
+- [BWBR0026139 — Beleidsregels UWV gebruik polisgegevens](beleidsregels-uwv-gebruik-polisgegevens/README.md) · 4 versies
+- [BWBR0025178 — Beleidsregels UWV normbedragen voorzieningen 2009](beleidsregels-uwv-normbedragen-voorzieningen-2009/README.md) · 5 versies
+- [BWBR0025797 — Beleidsregels vereveningsbijdrage zorgverzekering 2009](beleidsregels-vereveningsbijdrage-zorgverzekering-2009/README.md) · 6 versies
+- [BWBR0026341 — Beleidsregels verstrekking bijdrage aan zorgverzekeraars voor het verzekerd houden van wanbetalers van de nominale premie Zorgverzekeringswet](beleidsregels-verstrekking-bijdrage-aan-zorgverzekeraars-voo/README.md) · 2 versies
+- [BWBR0026265 — Beleidsregels voorschot bij inkomstenverrekening langdurig werklozen](beleidsregels-voorschot-bij-inkomstenverrekening-langdurig-w/README.md) · 2 versies
+- [BWBR0025581 — Beleidsregels wegingsfactoren kosten bestuurlijke voorprocedure](beleidsregels-wegingsfactoren-kosten-bestuurlijke-voorproced/README.md) · 1 versie
+- [BWBR0029705 — Beschikking van de Minister van Justitie van 11 december 2009, nr. 5634022/09/DSP, houdende verlening van een vergunning tot het organiseren van sportprijsvragen, de lotto en het cijferspel](beschikking-sporttotalisator-2009/README.md) · 1 versie
+- [BWBR0033220 — Besluit aanwijzing toezichthoudende ambtenaren OPTA 2009](besluit-aanwijzing-toezichthoudende-ambtenaren-opta-2009/README.md) · 1 versie
+- [BWBR0026104 — Besluit beleidsregels ontslagtaak UWV 2009](besluit-beleidsregels-ontslagtaak-uwv-2009/README.md) · 3 versies
+- [BWBR0026804 — Besluit beleidsregels ontslagtaak UWV 2010](besluit-beleidsregels-ontslagtaak-uwv-2010/README.md) · 9 versies
+- [BWBR0025127 — Besluit beoordelingskader loonkostensubsidie](besluit-beoordelingskader-loonkostensubsidie/README.md) · 3 versies
+- [BWBR0035441 — Besluit directeuren tot verlening ondermandaat, ondervolmacht en ondermachtiging personele aangelegenheden Kadaster](besluit-directeuren-tot-verlening-ondermandaat-ondervolmacht/README.md) · 1 versie
+- [BWBR0035379 — Besluit directeuren tot verlening ondervolmacht niet-personele aangelegenheden Kadaster](besluit-directeuren-tot-verlening-ondervolmacht-niet-persone/README.md) · 1 versie
+- [BWBR0024435 — Besluit gedifferentieerde premie Werkhervattingskas 2009](besluit-gedifferentieerde-premie-werkhervattingskas-2009/README.md) · 1 versie
+- [BWBR0026509 — Besluit Gedragscode Wbtv](besluit-gedragscode-wbtv/README.md) · 1 versie
+- [BWBR0026305 — Besluit inkoopkader re-integratiedienstverlening UWV 2009](besluit-inkoopkader-re-integratiedienstverlening-uwv-2009/README.md) · 2 versies
+- [BWBR0025662 — Besluit inschrijving Rbtv](besluit-inschrijving-rbtv/README.md) · 1 versie
+- [BWBR0024185 — Besluit intrekking UWV-beleid (recht op uitkering bij werkloosheid vanwege vorst en andere buitengewone natuurlijke omstandigheden in bepaalde sectoren)](besluit-intrekking-uwv-beleid-recht-op-uitkering-bij-werkloo/README.md) · 1 versie
+- [BWBR0026528 — Besluit mandaat en volmacht College sanering zorginstellingen](besluit-mandaat-en-volmacht-college-sanering-zorginstellinge/README.md) · 1 versie
+- [BWBR0025679 — Besluit ondermandatering Raad voor Rechtsbijstand in het kader van de Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers](besluit-ondermandatering-raad-voor-rechtsbijstand-in-het-kad-bwbr0025679/README.md) · 1 versie
+- [BWBR0025678 — Besluit ondermandatering Raad voor Rechtsbijstand in het kader van de Wet beëdigde tolken en vertalers](besluit-ondermandatering-raad-voor-rechtsbijstand-in-het-kad-bwbr0025678/README.md) · 1 versie
+- [BWBR0033310 — Besluit organisatie, mandaat, volmacht en machtiging NMa 2009](besluit-organisatie-mandaat-volmacht-en-machtiging-nma-2009/README.md) · 6 versies
+- [BWBR0024860 — Besluit premievaststelling vrijwillige verzekering WAO 2009](besluit-premievaststelling-vrijwillige-verzekering-wao-2009/README.md) · 1 versie
+- [BWBR0024843 — Besluit premievaststelling vrijwillige verzekering WIA 2009](besluit-premievaststelling-vrijwillige-verzekering-wia-2009/README.md) · 1 versie
+- [BWBR0024839 — Besluit premievaststelling vrijwillige verzekering ZW 2009](besluit-premievaststelling-vrijwillige-verzekering-zw-2009/README.md) · 1 versie
+- [BWBR0024851 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2009](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0025363 — Besluit registratie UWV 2009](besluit-registratie-uwv-2009/README.md) · 2 versies
+- [BWBR0024879 — Besluit sollicitatieplicht werknemers WW 2009](besluit-sollicitatieplicht-werknemers-ww-2009-bwbr0024879/README.md) · 3 versies
+- [BWBR0026326 — Besluit sollicitatieplicht werknemers WW 2009](besluit-sollicitatieplicht-werknemers-ww-2009-bwbr0026326/README.md) · 1 versie
+- [BWBR0025083 — Besluit tarieven Dienst Wegverkeer 2009](besluit-tarieven-dienst-wegverkeer-2009/README.md) · 5 versies
+- [BWBR0025917 — Besluit Uitwijklijst Wbtv](besluit-uitwijklijst-wbtv/README.md) · 1 versie
+- [BWBR0024555 — Besluit uniforme premie Arbeidsongeschiktheidskas 2009](besluit-uniforme-premie-arbeidsongeschiktheidskas-2009/README.md) · 1 versie
+- [BWBR0026691 — Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 17 november 2009, nr. IVV/FB/2009/25656, tot goedkeuring van de door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde gewijzigde lastenplafonds sectorfondsen 2009](besluit-vaststelling-gewijzigde-lastenplafonds-sectorfondsen/README.md) · 2 versies
+- [BWBR0026175 — Besluit van de Raad van Bestuur van de Dienst voor het kadaster en de openbare registers (het Kadaster) van 12 juni 2009 en corsanummer 09.028995 tot vermindering inschrijvingstarief](tarievenbesluit-geautomatiseerde-bijhouding-2009/README.md) · 2 versies
+- [BWBR0026088 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 10 juni 2009, houdende de bekendmaking van de beleidsregels 2009 (Besluit Beleidsregels SVB 2009)](besluit-beleidsregels-svb-2009/README.md) · 1 versie
+- [BWBR0025957 — Besluit van de Raad van Bestuur van Sociale verzekeringsbank te Amstelveen, houdende beperking van de openbaarheid van het archief van het FVP over de periode 1972–1998 (als bedoeld in artikel 10 van het Archiefbesluit 1995)](besluit-beperking-openbaarheid-archief-van-het-fvp-over-de-p/README.md) · 1 versie
+- [BWBR0025117 — Besluit van de Raad van bestuur van Stichting Nederlands fonds voor Podiumkunsten+ tot verhoging van plafonds voor subsidiëring op grond van de regeling vierjarige subsidies Podiumkunstinstellingen 2009–2012](besluit-verhoging-plafonds-subsidi-ring-ex-regeling-vierjari/README.md) · 2 versies
+- [BWBR0025191 — Besluit van de Sociale Verzekeringsbank, tot verlening van mandaat aan de Chefs de Postes met betrekking tot het in spoedgevallen uitkeren van bijzondere bijstand in het kader van de uitvoering van de WWB in het buitenland](besluit-mandaatverlening-spoedgevallen-bijzondere-bijstand-i/README.md) · 1 versie
+- [BWBR0033287 — Besluit van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, onderscheidenlijk de voorzitter van het college, onderscheidenlijk de afdelingshoofden van de Onafhankelijke Post en Telecommunicatie Autoriteit, houdende mandatering, ondermandatering, volmacht en machtiging van bevoegdheden van het college aan de voorzitter van het college en de ambtenaren in dienst van het college](mandaatregister-opta-2009/README.md) · 1 versie
+- [BWBR0033288 — Besluit van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, onderscheidenlijk de voorzitter van het college, onderscheidenlijk de afdelingshoofden van de Onafhankelijke Post en Telecommunicatie Autoriteit, houdende mandatering, ondermandatering, volmacht en machtiging van bevoegdheden van het college aan de voorzitter van het college en de ambtenaren in dienst van het college](mandaatregister-opta-2009-i/README.md) · 1 versie
+- [BWBR0025643 — Besluit van het Commissariaat voor de Media van 10 maart 2009 houdende beleidsregels omtrent lokaal publiek media-aanbod voor twee of meer gemeenten (Beleidsregels lokaal publiek media-aanbod voor twee of meer gemeenten 2009)](beleidsregels-lokale-omroep-voor-twee-of-meer-gemeenten-2009/README.md) · 1 versie
+- [BWBR0025272 — Besluit vaststelling factoren L en r boekjaar 2009](besluit-vaststelling-factoren-l-en-r-boekjaar-2009/README.md) · 2 versies
+- [BWBR0024671 — Besluit vaststelling lastenplafonds sectorfondsen 2009](besluit-vaststelling-lastenplafonds-sectorfondsen-2009/README.md) · 1 versie
+- [BWBR0024681 — Besluit vaststelling sectorpremies 2009](besluit-vaststelling-sectorpremies-2009/README.md) · 1 versie
+- [BWBR0026033 — Besluit vervanging archiefbescheiden UWV](besluit-vervanging-archiefbescheiden-uwv/README.md) · 1 versie
+- [BWBR0039442 — Bestuursreglement van de Koninklijke Bibliotheek](bestuursreglement-van-de-koninklijke-bibliotheek/README.md) · 1 versie
+- [BWBR0025672 — Bijdragereglement Stimuleringsfonds voor Architectuur](bijdragereglement-stimuleringsfonds-voor-architectuur-2009/README.md) · 1 versie
+- [BWBR0033173 — CBP Richtsnoeren](cbp-richtsnoeren/README.md) · 1 versie
+- [BWBR0025032 — Collectieregeling 2009](collectieregeling-2009/README.md) · 1 versie
+- [BWBR0025928 — Cusumsysteem Erkenninghouder APK](cusumsysteem-erkenninghouder-apk/README.md) · 6 versies
+- [BWBR0025918 — Cusumsysteem Erkenninghouders Snelheidsbegrenzer](cusumsysteem-erkenninghouders-snelheidsbegrenzer/README.md) · 2 versies
+- [BWBR0025926 — Cusumsysteem Keurmeester APK](cusumsysteem-keurmeester-apk/README.md) · 5 versies
+- [BWBR0025910 — Cusumsysteem LPG-Erkenninghouders](cusumsysteem-lpg-erkenninghouders/README.md) · 2 versies
+- [BWBR0029750 — De Stichting Stimuleringsfonds Nederlandse Culturele Omroepproducties (het Stimuleringsfonds en het de Stichting Fonds voor Beeldende Kunsten, Vormgeving en Bouwkunst (het Fonds BKVB) zullen onderstaande regeling in principe twee jaar uitvoeren](regeling-gamefonds/README.md) · 2 versies
+- [BWBR0025674 — Deelregeling HGIS-Cultuurmiddelen voor internationale projecten 2009](deelregeling-hgis-cultuurmiddelen-voor-internationale-projec/README.md) · 1 versie
+- [BWBR0026368 — Deelregeling Jaarprogramma Architectuurcentrum](deelregeling-jaarprogramma-architectuurcentrum/README.md) · 1 versie
+- [BWBR0025157 — Deelregeling Kleinschalige podia van het Nederlands Fonds voor Podiumkunsten+ 2009–2010](deelregeling-kleinschalige-podia-van-het-nederlands-fonds-vo/README.md) · 2 versies
+- [BWBR0025156 — Deelregeling Nederlands Popmuziek Plan 2009–2010 van het Nederlands Fonds voor Podiumkunsten+](deelregeling-nederlands-popmuziek-plan-2009-2010-van-het-ned/README.md) · 5 versies
+- [BWBR0025675 — Deelregeling Onderzoek en Ontwerp](deelregeling-onderzoek-en-ontwerp/README.md) · 1 versie
+- [BWBR0025161 — Deelregeling projectsubsidies Internationalisering van het Nederlands Fonds voor Podiumkunsten+ 2009](deelregeling-projectsubsidies-internationalisering-van-het-n/README.md) · 4 versies
+- [BWBR0025624 — Deelregeling voor Hedendaags gecomponeerde muziek, Jazz en geïmproviseerde muziek, Wereldmuziek en Popmuziek. van het Nederlands Fonds voor Podiumkunsten+ 2009–2010](deelregeling-voor-hedendaags-gecomponeerde-muziek-jazz-en-ge/README.md) · 2 versies
+- [BWBR0025255 — Experimenteerregeling UWV voor vergroten van de participatie van jongeren met beperkingen](experimenteerregeling-uwv-voor-vergroten-van-de-participatie/README.md) · 1 versie
+- [BWBR0033246 — Handhaving door de Nederlandse Mededingingsautoriteit](handhaving-door-de-nederlandse-mededingingsautoriteit/README.md) · 1 versie
+- [BWBR0027430 — Herziene regeling projectwerkbeurzen voor literaire vertalers](herziene-regeling-projectwerkbeurzen-voor-literaire-vertaler/README.md) · 1 versie
+- [BWBR0026366 — Huishoudelijk reglement van de Stichting Fonds voor Cultuurparticipatie](huishoudelijk-reglement-van-de-stichting-fonds-voor-cultuurp/README.md) · 1 versie
+- [BWBR0026647 — Klachtenregeling college sanering zorginstellingen](klachtenregeling-college-sanering-zorginstellingen/README.md) · 1 versie
+- [BWBR0033200 — Klachtenregeling van het Centraal bureau voor de statistiek voor klachten van externen](klachtenregeling-cbs/README.md) · 1 versie
+- [BWBR0024838 — Klachtenreglement UWV 2009](klachtenreglement-uwv-2009/README.md) · 1 versie
+- [BWBR0025163 — Klokkenluiderregeling Nederlands Fonds voor Podiumkunsten+](klokkenluiderregeling-nederlands-fonds-voor-podiumkunsten/README.md) · 1 versie
+- [BWBR0026393 — Mandaatbesluit bewaarders van het kadaster en de openbare registers](mandaatbesluit-bewaarders-van-het-kadaster-en-de-openbare-re/README.md) · 1 versie
+- [BWBR0025010 — Nieuwe Regeling stimuleringssubsidies 1 voor beeldend kunstenaars, vormgevers, beoefenaars van de bouwkunst en bemiddelaars](regeling-stimuleringssubsidies-1/README.md) · 1 versie
+- [BWBR0026335 — Overgangsregeling amateurkunst van de Stichting Fonds voor Cultuurparticipatie 2009](overgangsregeling-amateurkunst-van-de-stichting-fonds-voor-c/README.md) · 2 versies
+- [BWBR0026339 — Overgangsregeling Cultuureducatie van de Stichting Fonds voor Cultuurparticipatie 2009](overgangsregeling-cultuureducatie-van-de-stichting-fonds-voo/README.md) · 2 versies
+- [BWBR0026926 — Plusregeling Fonds voor Cultuurparticipatie [vastgesteld door het Bestuur van de Stichting Fonds voor Cultuurparticipatie op 9 december 2009]](plusregeling-fonds-voor-cultuurparticipatie/README.md) · 1 versie
+- [BWBR0033271 — Procedureregeling geschillen en handhaving OPTA (PGHO)](procedureregeling-geschillen-en-handhaving-post-en-telecommu/README.md) · 3 versies
+- [BWBR0025705 — Regeling administratie- en declaratievoorschrift prestatiebekostiging farmaceutische zorg](regeling-administratie-en-declaratievoorschrift-prestatiebek/README.md) · 1 versie
+- [BWBR0024820 — Regeling Administratieve Organisatie en Interne Controle AWBZ-zorgaanbieders](regeling-administratieve-organisatie-en-interne-controle-awb/README.md) · 1 versie
+- [BWBR0026904 — Regeling administratieve organisatie en interne controle registratie en facturering DBC’s GGZ](regeling-ao-ic-dbc-ggz/README.md) · 1 versie
+- [BWBR0025011 — Regeling beeldende kunst, vormgeving en cultureel erfgoed](regeling-beeldende-kunst-en-cultureel-erfgoed/README.md) · 2 versies
+- [BWBR0025242 — Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2009](regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0025242/README.md) · 5 versies
+- [BWBR0025239 — Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2009](regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0025239/README.md) · 5 versies
+- [BWBR0025858 — Regeling beoordeling centraal examen](regeling-beoordeling-centraal-examen/README.md) · 1 versie
+- [BWBR0025190 — Regeling cliëntenparticipatie UWV 2009](regeling-cli-ntenparticipatie-uwv-2009/README.md) · 3 versies
+- [BWBR0026491 — Regeling DBC GGZ Validatie](regeling-dbc-ggz-validatie-bwbr0026491/README.md) · 1 versie
+- [BWBR0026947 — Regeling DBC GGZ Validatie](regeling-dbc-ggz-validatie-bwbr0026947/README.md) · 1 versie
+- [BWBR0026132 — Regeling declaratie AWBZ-zorg](regeling-declaratie-awbz-zorg-bwbr0026132/README.md) · 1 versie
+- [BWBR0025699 — Regeling declaratievoorschriften en prestaties Ketenzorg Dementie en Nationaal Programma Ouderenzorg](regeling-declaratievoorschriften-en-prestaties-ketenzorg-dem-bwbr0025699/README.md) · 1 versie
+- [BWBR0026234 — Regeling declaratievoorschriften en prestaties Ketenzorg Dementie, Nationaal Programma Ouderenzorg en Transitieprogramma langdurige zorg](regeling-declaratievoorschriften-en-prestaties-ketenzorg-dem-bwbr0026234/README.md) · 1 versie
+- [BWBR0026133 — Regeling gezamenlijke aanlevering bovenregionale opgave 2010](regeling-gezamenlijke-aanlevering-bovenregionale-opgave-2010/README.md) · 1 versie
+- [BWBR0024821 — Regeling gezamenlijke aanlevering harmonisatie-opgave dagbesteding](regeling-gezamenlijke-aanlevering-harmonisatie-opgave-dagbes/README.md) · 1 versie
+- [BWBR0025031 — Regeling incidentele subsidies literaire manifestaties en projecten](regeling-incidentele-subsidies-literaire-manifestaties-en-pr/README.md) · 1 versie
+- [BWBR0026903 — Regeling informatieverstrekking vaststelling budgetten GGZ Zvw](regeling-informatieverstrekking-vaststelling-budgetten-ggz-z/README.md) · 1 versie
+- [BWBR0026493 — Regeling Instructie DBCregistratie](regeling-instructie-dbcregistratie/README.md) · 1 versie
+- [BWBR0025023 — Regeling internationale activiteiten beeldende kunst en vormgeving 2009](regeling-internationale-activiteiten-beeldende-kunst-en-vorm/README.md) · 1 versie
+- [BWBR0026231 — Regeling inzage- en correctierecht UWV](regeling-inzage-en-correctierecht-uwv/README.md) · 1 versie
+- [BWBR0025983 — Regeling model keuringsrapport](regeling-model-keuringsrapport/README.md) · 2 versies
+- [BWBR0026927 — Regeling Muziek in ieder kind [vastgesteld door het Bestuur van de Stichting Fonds voor Cultuurparticipatie op 9 december 2009]](muziek-in-ieder-kind-regeling-van-de-stichting-fonds-voor-cu/README.md) · 1 versie
+- [BWBR0025013 — Regeling ondersteuning uitwisseling Nederlandse Antillen en Aruba en Nederland en andere landen](regeling-ondersteuning-uitwisseling-nederlandse-antillen-en-/README.md) · 1 versie
+- [BWBR0026949 — Regeling publicatie wachttijden ambulante tweedelijns GGZ](regeling-publicatie-wachttijden-ambulante-tweedelijns-ggz/README.md) · 1 versie
+- [BWBR0025114 — Regeling publicatie wachttijden somatische zorg](regeling-publicatie-wachttijden-somatische-zorg/README.md) · 2 versies
+- [BWBR0027426 — Regeling schrijversbiografie](regeling-schrijversbiografie/README.md) · 1 versie
+- [BWBR0026114 — Regeling Snelloket](regeling-snelloket/README.md) · 1 versie
+- [BWBR0025142 — Regeling standaardprijslijst extramurale dieetadvisering](regeling-standaardprijslijst-extramurale-dieetadvisering/README.md) · 1 versie
+- [BWBR0027425 — Regeling stimuleringsbeurzen schrijvers](regeling-stimuleringsbeurzen-schrijvers/README.md) · 1 versie
+- [BWBR0025025 — Regeling subsidies buitenland voor beeldend kunstenaars, vormgevers, beoefenaars van de bouwkunst en bemiddelaars](regeling-subsidies-buitenland/README.md) · 2 versies
+- [BWBR0029748 — Regeling tijdelijke bijzondere projecten](regeling-tijdelijke-bijzondere-projecten/README.md) · 2 versies
+- [BWBR0025611 — Regeling tot wijziging van de Deelregeling Projectsubsidies voor podiumkunstinstellingen van het Nederlands Fonds voor Podiumkunsten+ 2009–2010](wijzigingsregeling-deelregeling-projectsubsidies-voor-podium/README.md) · 2 versies
+- [BWBR0033163 — Regeling van de directeur van het College bescherming persoonsgegevens van 7 juli 2009, houdende verlening van volmacht en machtiging ten behoeve van beheerszaken aan afdelingshoofden en andere functionarissen werkzaam bij het secretariaat van het College bescherming persoonsgegevens (Regeling volmacht en machtiging beheer afdelingshoofden en andere functionarissen CBP)](regeling-volmacht-en-machtiging-beheer-afdelingshoofden-en-a/README.md) · 1 versie
+- [BWBR0026060 — Regeling van de Directie van de RDW (Dienst Wegverkeer) houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW](mandaatregeling-rdw/README.md) · 1 versie
+- [BWBR0026486 — Regeling van de Directie van de RDW (Dienst Wegverkeer), houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW), 25 september 2009, nr. JBZ2009/2811](regeling-financieel-mandaat-rdw/README.md) · 3 versies
+- [BWBR0025920 — Regeling van de Raad voor Rechtsbijstand van 25 mei 2009, houdende de instelling van de klachtencommissie als bedoeld in artikel 16 van de Wet beëdigde tolken en vertalers (Instellingsbesluit klachtencommissie Wbtv)](instellingsbesluit-klachtencommissie-wet-be-digde-tolken-en-/README.md) · 2 versies
+- [BWBR0025784 — Regeling van het Commissariaat voor de Media van 10 april 2009, houdende beleidsregels omtrent nevenactiviteiten publieke media-instellingen (beleidsregels nevenactiviteiten 2009)](beleidsregels-nevenactiviteiten-2009/README.md) · 1 versie
+- [BWBR0026907 — Regeling verplichte aanlevering minimale dataset GGZ Zvw](regeling-verplichte-aanlevering-minimale-dataset-ggz-zvw/README.md) · 1 versie
+- [BWBR0025113 — Regeling verplichte aanlevering Minimale Dataset somatische zorg (MDS)](regeling-verplichte-aanlevering-minimale-dataset-somatische-/README.md) · 1 versie
+- [BWBR0025919 — Regeling voorwaarden deelname examen LPG-technicus](regeling-voorwaarden-deelname-examen-lpg-technicus/README.md) · 2 versies
+- [BWBR0025935 — Regeling voorwaarden deelname intredetoets en examen keurmeester lichte en zware (bedrijfs)voertuigen respectievelijk zware aanhangwagens](regeling-voorwaarden-deelname-intredetoets-en-examen-keurmee/README.md) · 3 versies
+- [BWBR0026950 — Regeling voorwaarden voor overeenkomsten inzake elektronische netwerken met betrekking tot zorg](regeling-voorwaarden-voor-overeenkomsten-inzake-elektronisch/README.md) · 1 versie
+- [BWBR0026119 — Regeling Vrijplaats voor bewezen scenariotalent](regeling-vrijplaats-voor-bewezen-scenariotalent/README.md) · 1 versie
+- [BWBR0025297 — Reglement behandeling bezwaarschriften UWV 2009](reglement-behandeling-bezwaarschriften-uwv-2009/README.md) · 2 versies
+- [BWBR0025619 — Reglement Matthijs Vermeulenprijs](reglement-matthijs-vermeulenprijs/README.md) · 1 versie
+- [BWBR0033249 — Spelregels bij concentratiezaken](spelregels-bij-concentratiezaken/README.md) · 4 versies
+- [BWBR0026944 — Stimulans voor Artistiek Succes](stimulans-voor-artistiek-succes/README.md) · 1 versie
+- [BWBR0026853 — Tariefbeschikking kraamzorg Nederlandse Zorgautoriteit](tariefbeschikking-kraamzorg-nederlandse-zorgautoriteit/README.md) · 1 versie
+- [BWBR0026852 — Tariefbeschikking Prestatiebekostiging farmaceutische zorg Nederlandse Zorgautoriteit](tariefbeschikking-prestatiebekostiging-farmaceutische-zorg-n/README.md) · 1 versie
+- [BWBR0024756 — Tarieven CBR-examens 2009](tarieven-cbr-examens-2009/README.md) · 1 versie
+- [BWBR0024995 — Tarievenbesluit Ctgb 2009](tarievenbesluit-ctgb-2009/README.md) · 1 versie
+- [BWBR0025600 — Tijdelijke beleidsregel van de raden voor rechtsbijstand houdende herzieningsprocedure vaststelling aangegeven verzamelinkomen minder draagkrachtige rechtzoekenden in verband met voor de aanspraak relevante wijzigingen (Tijdelijke beleidsregel herzieningsprocedure vaststelling aangegeven verzamelinkomen rechtzoekende)](tijdelijke-beleidsregel-herzieningsprocedure-vaststelling-aa/README.md) · 1 versie
+- [BWBR0026350 — Tijdelijke regeling dyslexie onder/in de DBC geestelijke gezondheidszorg](tijdelijke-regeling-dyslexie-onder-in-de-dbc-geestelijke-gez/README.md) · 1 versie
+- [BWBR0025893 — Tijdelijke Regeling Inzake Melding van Short Posities](tijdelijke-regeling-inzake-melding-van-short-posities-bwbr0025893/README.md) · 2 versies
+- [BWBR0026999 — Tijdelijke Regeling Inzake Melding van Short Posities](tijdelijke-regeling-inzake-melding-van-short-posities-bwbr0026999/README.md) · 2 versies
+- [BWBR0025810 — Tijdelijke regeling van de Raad van Bestuur van de Nederlandse Omroep Stichting, ook handelende onder de naam NPO van 25 maart 2009 over de toepasselijkheid van (nadere) bindende regelingen en overige brieven en schriftelijk vastgelegd beleid van de NPO in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid NPO onder de Mediawet 2008)](regeling-toepasselijkheid-beleid-npo-onder-de-mediawet-2008/README.md) · 2 versies
+- [BWBR0025205 — Tijdelijke regeling van het Commissariaat voor de Media van 13 januari 2009 houdende beleidsregels omtrent toepasselijkheid van de beleidsregels van het Commissariaat voor de Media in verband met de inwerkingtreding van de Mediawet 2008 (Regeling toepasselijkheid beleid onder de Mediawet 2008)](regeling-toepasselijkheid-beleid-onder-de-mediawet-2008/README.md) · 2 versies
+- [BWBR0024816 — Transparantie extramurale zorginkoop in regio 2009](regeling-gezamenlijke-aanlevering-bovenregionale-opgave/README.md) · 1 versie
+- [BWBR0026697 — Uitkeringsreglement IOW 2009](uitkeringsreglement-iow-2009/README.md) · 1 versie
+- [BWBR0025107 — Uitkeringsreglement WW 2009](uitkeringsreglement-ww-2009/README.md) · 2 versies
+- [BWBR0033396 — Uitvoeringsregel NMa pensioenfondsen](uitvoeringsregel-acm-pensioenfondsen/README.md) · 2 versies
+- [BWBR0025599 — Uitvoeringsregeling subsidie vertaaldiensten 2009](uitvoeringsregeling-subsidie-vertaaldiensten-2009/README.md) · 1 versie
+- [BWBR0024885 — UWV Beleidsregels uitvoering Wav](uwv-beleidsregels-uitvoering-wav/README.md) · 1 versie
+- [BWBR0033537 — Werkwijze voorlichting NMa](werkwijze-voorlichting-nma/README.md) · 2 versies

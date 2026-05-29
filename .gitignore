@@ -1,0 +1,10 @@
+# Pipeline-generated artefacten die niet bij de corpus-snapshot horen
+.type-filter-cache.json
+.conversion-log.jsonl
+errors.jsonl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp

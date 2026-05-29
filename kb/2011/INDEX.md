@@ -1,0 +1,20 @@
+# Kb — 2011
+
+ELI: `/eli/nl/kb/2011/*`
+
+- [BWBR0030356 — Besluit instelling Commissie integriteit publieke functionarissen en functioneren overheidsinstituties in Curaçao](besluit-instelling-commissie-integriteit-publieke-functionar/README.md) · 1 versie
+- [BWBR0029979 — Besluit van 10 mei 2011, houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro die in jaar 2011 worden uitgegeven met het thema «Nederland en schilderkunst»](besluit-vaststelling-bestanddelen-munten-van-vijf-en-tien-eu-bwbr0029979/README.md) · 1 versie
+- [BWBR0030153 — Besluit van 14 juni 2011 tot instelling van het Kabinet van de Gouverneur van Aruba (Instellingsbesluit Kabinet van de Gouverneur van Aruba)](instellingsbesluit-kabinet-van-de-gouverneur-van-aruba/README.md) · 2 versies
+- [BWBR0030699 — Besluit van 14 november 2011, nr. 11.002711 houdende vaststelling van een selectielijst van de Raad van State op het deelbeleidsterrein van bestuursrechtspraak en algemene taken en bedrijfsvoering](besluit-vaststelling-selectielijst-van-de-raad-van-state-dee/README.md) · 1 versie
+- [BWBR0030535 — Besluit van 14 oktober 2011, houdende herindeling van de ministeriële taak in verband met de benoeming van de eerstvolgende vice-president van de Raad van State](besluit-herindeling-ministeri-le-taak-i-v-m-benoeming-eerstv/README.md) · 1 versie
+- [BWBR0030151 — Besluit van 15 juni 2011, houdende vaststelling van de bestanddelen van de munten van vijf en de tien euro die in 2011 worden uitgegeven ter gelegenheid van 100 jaar Muntgebouw](besluit-vaststelling-bestanddelen-munten-van-vijf-en-tien-eu-bwbr0030151/README.md) · 1 versie
+- [BWBR0029825 — Besluit van 15 maart 2011, houdende de toekenning van een vaandel aan het Korps Militaire Administratie](besluit-toekenning-vaandel-korps-militaire-administratie/README.md) · 1 versie
+- [BWBR0030224 — Besluit van 16 juni 2011, nr. 11.001442, houdende instelling van Actal, adviescollege toetsing regeldruk (Instellingsbesluit Actal 2011)](instellingsbesluit-actal-2011/README.md) · 3 versies
+- [BWBR0029514 — Besluit van 20 januari 2011, houdende regeling inzake de bevoegdheden met betrekking tot de inrichting van de organisatie en bedrijfsvoering in de rijksdienst (Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011)](co-rdinatiebesluit-organisatie-bedrijfsvoering-en-informatie/README.md) · 3 versies
+- [BWBR0029528 — Besluit van 20 januari 2011, houdende verlenging tot 1 januari 2012 van de periode waarin verordeningen tot instelling van een BI-zone kunnen worden vastgesteld](besluit-verlenging-periode-waarin-verordeningen-tot-instelli/README.md) · 1 versie
+- [BWBR0029517 — Besluit van 24 januari 2011 houdende uitvoering van artikel 10, tweede lid, van de Schepenwet (Besluit terbeschikkingstelling scheepvaartinspecteurs Rijksdienst Caribisch Nederland aan de Scheepvaartinspectie)](besluit-terbeschikkingstelling-scheepvaartinspecteurs-rijksd/README.md) · 1 versie
+- [BWBR0029543 — Besluit van 24 januari 2011, nr. 11.000107, houdende vaststelling van de bestanddelen van de beeldenaar van de Nederlandse nationale zijde van de herdenkingsmunt van twee euro ‘Erasmus Laus Stultitiae’](besluit-vaststelling-bestanddelen-beeldenaar-nederlandse-nat/README.md) · 2 versies
+- [BWBR0030417 — Besluit van 26 augustus 2011 houdende vaststelling van de bestanddelen van de munten van vijf en tien euro die in 2011 worden uitgegeven ter gelegenheid van 50 jaar Wereld Natuur Fonds](besluit-vaststelling-bestanddelen-munten-van-vijf-en-tien-eu-bwbr0030417/README.md) · 1 versie
+- [BWBR0029713 — Besluit van 26 februari 2011 tot instelling van de voortgangscommissie Sint Maarten](besluit-instelling-voortgangscommissie-sint-maarten/README.md) · 1 versie
+- [BWBR0030347 — Besluit van 6 juli 2011 houdende instelling van het Nationaal Comité 200 jaar Koninkrijk](besluit-instelling-nationaal-comit-200-jaar-koninkrijk/README.md) · 2 versies
+- [BWBR0029994 — Besluit van 9 mei 2011 tot instelling van de voortgangscommissie Curaçao](besluit-instelling-voortgangscommissie-cura-ao/README.md) · 2 versies

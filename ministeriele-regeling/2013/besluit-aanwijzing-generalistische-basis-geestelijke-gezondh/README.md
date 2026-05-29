@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0033676
+eli: /eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-generalistische-basis-geestelijke-gezondh
+type: ministeriele-regeling
+title: Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2013, 129679-106375-MC, houdende de generalistische basis geestelijke gezondheidszorg en praktijkondersteuner huisartsenzorg geestelijke gezondheidszorg
+ministry: Volksgezondheid, Welzijn en Sport
+abbreviation: null
+latest_state: "2013-09-01"
+state_count: 1
+---
+
+
+# Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 8 juli 2013, 129679-106375-MC, houdende de generalistische basis geestelijke gezondheidszorg en praktijkondersteuner huisartsenzorg geestelijke gezondheidszorg
+
+**BWB-id:** BWBR0033676
+**Citeertitel:** Besluit aanwijzing generalistische basis geestelijke gezondheidszorg en praktijkondersteuner huisartsenzorg geestelijke gezondheidszorg
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
+**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-generalistische-basis-geestelijke-gezondh](https://wetten.ai/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-generalistische-basis-geestelijke-gezondh)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2013-09-01 | heden | [2013-09-01.md](./2013-09-01.md) |

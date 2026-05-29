@@ -1,0 +1,121 @@
+# Zbo — 2006
+
+ELI: `/eli/nl/zbo/2006/*`
+
+- [BWBR0019962 — Archiefbeheersregeling voor het college voor de toelating van bestrijdingsmiddelen 2006](archiefbeheersregeling-voor-het-college-voor-de-toelating-va/README.md) · 1 versie
+- [BWBR0033136 — Bekendmaking van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) van 15 mei 1996, (Stcrt. 1996, nr. 93), houdende bekendmaking beleid NIWO, in werking getreden op 1 juni 1996, zoals laatstelijk gewijzigd bij bekendmaking van 10 juli 2006 (Stcrt. 2006, nr. 131)](bekendmaking-beleid-stichting-nationale-en-internationale-we/README.md) · 1 versie
+- [BWBR0020118 — Beleidsregel intermediaire activiteiten](beleidsregel-intermediaire-activiteiten/README.md) · 2 versies
+- [BWBR0033407 — Beleidsregel inzake toezicht artikel 10a, lid 3 van de Gaswet](beleidsregel-inzake-toezicht-artikel-10a-lid-3-van-de-gaswet/README.md) · 2 versies
+- [BWBR0019101 — Beleidsregel ontheffingverlening exceptionele transporten RDW](beleidsregel-ontheffingverlening-exceptionele-transporten-rd/README.md) · 2 versies
+- [BWBR0019724 — Beleidsregel ontheffingverlening ten behoeve van de proef met langere of langere en zwaardere vrachtautocombinaties (Beleidsregel ontheffingverlening LZV 2006)](beleidsregel-ontheffingverlening-lzv-2006/README.md) · 2 versies
+- [BWBR0033053 — Beleidsregel Tarieventabel Handhaving Centraal Bureau voor de Statistiek](beleidsregel-tarieventabel-handhaving-centraal-bureau-voor-d/README.md) · 1 versie
+- [BWBR0019840 — Beleidsregel van de raden voor rechtsbijstand van 8 mei 2006, tot verstrekking van een subsidie aan partijen die door de rechter verwezen zijn naar een conflictbemiddelaar (Beleidsregel stimuleringsbijdrage conflictbemiddeling)](beleidsregel-stimuleringsbijdrage-conflictbemiddeling/README.md) · 2 versies
+- [BWBR0020318 — Beleidsregel van de Stichting Autoriteit Financiële Markten (hieronder te noemen: ‘de toezichthouder’) van 19 september 2006, voor het beoordelen van de betrouwbaarheid van personen ingevolge de Wet toezicht accountantsorganisaties (Wta) en het Besluit toezicht accountantsorganisaties (Bta), hieronder gezamenlijk dan wel ieder afzonderlijk te noemen: ‘de toezichtwet’](beleidsregel-06-01-betrouwbaarheid-personen-ex-wet-toezicht-/README.md) · 1 versie
+- [BWBR0019957 — Beleidsregels CWI inzake uitvoering WET sociale werkvoorziening (Beleidsregels WSW)](beleidsregels-wsw/README.md) · 3 versies
+- [BWBR0033079 — Beleidsregels invulling wijziging Regeling universele dienstverlening en eindgebruikersbelangen](beleidsregels-invulling-wijziging-regeling-universele-dienst/README.md) · 2 versies
+- [BWBR0019415 — Beleidsregels Protocol Jobcoach](beleidsregels-protocol-jobcoach/README.md) · 6 versies
+- [BWBR0020434 — Beleidsregels schorsing, opschorting, intrekking en herziening uitkeringen 2006](beleidsregels-schorsing-opschorting-intrekking-en-herziening/README.md) · 5 versies
+- [BWBR0019503 — Beleidsregels subsidiëring onderzoeksinstellingen/organisaties 2006](beleidsregels-subsidi-ring-onderzoeksinstellingen-organisati/README.md) · 3 versies
+- [BWBR0020336 — Beleidsregels toepassing artikel 16, derde lid en artikel 24, vijfde lid, WW 2006](beleidsregels-toepassing-artikel-16-derde-lid-en-artikel-24-/README.md) · 1 versie
+- [BWBR0020335 — Beleidsregels toepassing artikelen 24 en 27 WW 2006](beleidsregels-toepassing-artikelen-24-en-27-ww-2006/README.md) · 2 versies
+- [BWBR0033300 — Beleidsregels uitgifte van abonneeinformatienummers](beleidsregels-uitgifte-van-abonneeinformatienummers/README.md) · 2 versies
+- [BWBR0019552 — Beleidsregels UWV normbedragen voorzieningen 2006](beleidsregels-uwv-normbedragen-voorzieningen-2006/README.md) · 3 versies
+- [BWBR0033302 — Beleidsregels veilingreglement voor abonnee-informatienummers](beleidsregels-veilingreglement-voor-abonnee-informatienummer/README.md) · 1 versie
+- [BWBR0019398 — Beschikking van de Minister van Justitie van 23 december 2005, nr. L.O. 730/0002/5393381, tot afgifte van de Beschikking Sponsorloterij](beschikking-vriendenloterij-2006/README.md) · 5 versies
+- [BWBR0019812 — Beschikking van de Minister van Justitie van 28 april 2006, nr. L.O. 640/0073/0653168, tot afgifte van de Beschikking instantloterij](beschikking-instantloterij-2006/README.md) · 1 versie
+- [BWBR0035161 — Besluit aanwijzing toezichthouders Commissariaat voor de Media](besluit-aanwijzing-toezichthouders-commissariaat-voor-de-med/README.md) · 2 versies
+- [BWBR0019409 — Besluit aanwijzing toezichthouders zorgverzekeringen](besluit-aanwijzing-toezichthouders-zorgverzekeringen/README.md) · 2 versies
+- [BWBR0019357 — Besluit beoordelingskader individuele reïntegratieovereenkomst 2006](besluit-beoordelingskader-individuele-re-ntegratieovereenkom/README.md) · 3 versies
+- [BWBR0020250 — Besluit beperking van de openbaarheid van archieven bedrijfsverenigingen](besluit-beperking-van-de-openbaarheid-van-archieven-bedrijfs/README.md) · 1 versie
+- [BWBR0020400 — Besluit Erkenningsstop](besluit-erkenningsstop/README.md) · 1 versie
+- [BWBR0018815 — Besluit gedifferentieerde premie WAO, opslagen en kortingen 2006](besluit-gedifferentieerde-premie-wao-opslagen-en-kortingen-2/README.md) · 1 versie
+- [BWBR0020116 — Besluit loon- en inkomenssuppletie](besluit-loon-en-inkomenssuppletie/README.md) · 2 versies
+- [BWBR0020119 — Besluit loondispensatie Wajong](besluit-loondispensatie-wajong/README.md) · 5 versies
+- [BWBR0033526 — Besluit mandaat, volmacht en machtiging ConsumentenAutoriteit 2006](besluit-mandaat-volmacht-en-machtiging-consumentenautoriteit/README.md) · 2 versies
+- [BWBR0021770 — Besluit organisatie, mandaat, volmacht en machtiging NZa](besluit-organisatie-mandaat-volmacht-en-machtiging-nza/README.md) · 3 versies
+- [BWBR0019124 — Besluit premievaststelling vrijwillige verzekering WAO 2006](besluit-premievaststelling-vrijwillige-verzekering-wao-2006/README.md) · 1 versie
+- [BWBR0019404 — Besluit premievaststelling vrijwillige verzekering WIA 2006](besluit-premievaststelling-vrijwillige-verzekering-wia-2006/README.md) · 2 versies
+- [BWBR0019125 — Besluit premievaststelling vrijwillige verzekering ZW 2006](besluit-premievaststelling-vrijwillige-verzekering-zw-2006/README.md) · 1 versie
+- [BWBR0019123 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2006](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0019334 — Besluit tarieven Dienst Wegverkeer 2006](besluit-tarieven-dienst-wegverkeer-2006/README.md) · 1 versie
+- [BWBR0019485 — Besluit tot wijziging van de beleidsregels van de Centrale organisatie werk en inkomen inzake de uitvoering van de wet arbeid vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0019485/README.md) · 1 versie
+- [BWBR0020485 — Besluit tot wijziging van de beleidsregels van de Centrale Organisatie Werk en Inkomen inzake de uitvoering van de Wet Arbeid Vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0020485/README.md) · 1 versie
+- [BWBR0020638 — Besluit tot wijziging van de Beleidsregels van de Centrale organisatie Werk en Inkomen inzake de uitvoering van de wet arbeid vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0020638/README.md) · 1 versie
+- [BWBR0019403 — Besluit tot wijziging van de Beleidsregels van de Centrale Organisatie Werk en Inkomen inzake de Uitvoering van de Wet Arbeid Vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0019403/README.md) · 1 versie
+- [BWBR0033650 — Besluit van 11 september 2006 houdende de wijziging van het Kaderbesluit CCMS (Erkenning tot opleider en opleidingsinrichting)](wijzigingsbesluit-kaderbesluit-ccms-2006/README.md) · 1 versie
+- [BWBR0033420 — Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit als bedoeld in artikel 95m E-wet en 52b Gaswet van de Mededingingswet](beleidsregel-redelijke-opzegvergoedingen-vergunninghouders/README.md) · 1 versie
+- [BWBR0033023 — Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 19 december 2006 tot vaststelling van het Besluit vaststelling formulieren Mededingingswet 2006](besluit-vaststelling-formulieren-mededingingswet-2006/README.md) · 1 versie
+- [BWBR0019854 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 10 mei 2006, houdende de bekendmaking van de beleidsregels 2006 (Besluit Beleidsregels SVB 2006)](besluit-beleidsregels-svb-2006/README.md) · 1 versie
+- [BWBR0019853 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 10 mei 2006, houdende de vaststelling en bekendmaking van beleidsregels inzake het opleggen van maatregelen en terugvordering WWB (Besluit Beleidsregels SVB ter uitvoering van de mandaatbesluiten inzake de WWB)](besluit-beleidsregels-svb-ter-uitvoering-van-de-mandaatbeslu/README.md) · 2 versies
+- [BWBR0037196 — Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende vaststelling van de kadastrale tarieven (Tarievenregeling Kadaster)](tarievenregeling-kadaster/README.md) · 14 versies
+- [BWBR0033066 — Besluit van het College bescherming persoonsgegevens (CBP), houdende verlening van mandaat en machtiging aan de voorzitter, de twee andere leden en de buitengewone leden van het CBP (Besluit mandaat en machtiging voorzitter en andere leden CBP)](besluit-mandaat-en-machtiging-voorzitter-en-andere-leden-cbp/README.md) · 1 versie
+- [BWBR0033279 — Besluit van het college, onderscheidenlijk de voorzitter van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, onderscheidenlijk de afdelingshoofden van het college van de Onafhankelijke Post en Telecommunicatie Autoriteit, houdende mandatering, ondermandatering, volmacht en machtiging van bevoegdheden van het college aan de voorzitter van het college en de ambtenaren in dienst van het college](mandaatregister-opta-2006/README.md) · 1 versie
+- [BWBR0019354 — Besluit vaststelling factoren L en r boekjaar 2006](besluit-vaststelling-factoren-l-en-r-boekjaar-2006/README.md) · 1 versie
+- [BWBR0018999 — Besluit vaststelling lastenplafonds wachtgeldfondsen 2006](besluit-vaststelling-lastenplafonds-wachtgeldfondsen-2006/README.md) · 1 versie
+- [BWBR0020322 — Besluit vaststelling subsidieplafonds Fonds voor Podiumprogrammering en Marketing voor 2007](besluit-vaststelling-subsidieplafonds-fonds-voor-podiumprogr/README.md) · 1 versie
+- [BWBR0019000 — Besluit vaststelling wachtgeldpremies 2006](besluit-vaststelling-wachtgeldpremies-2006/README.md) · 2 versies
+- [BWBR0035439 — Besluit verlening mandaat en machtiging leden Raad van Bestuur Kadaster 2006](besluit-verlening-mandaat-en-machtiging-leden-raad-van-bestu/README.md) · 2 versies
+- [BWBR0019596 — Besluit Werknemersverklaring van geen bezwaar](besluit-werknemersverklaring-van-geen-bezwaar/README.md) · 1 versie
+- [BWBR0033167 — Besluit, inhoudende de besluiten van de voorzitter en elk van de twee andere leden van het College bescherming persoonsgegevens (CBP), houdende verlening van mandaat en machtiging aan functionarissen, werkzaam bij het secretariaat van het CBP (Besluit mandaat en machtiging secretariaat CBP)](besluit-mandaat-en-machtiging-secretariaat-cbp/README.md) · 4 versies
+- [BWBR0020115 — Controlevoorschriften arbeidsongeschiktheidswetten 2006](controlevoorschriften-arbeidsongeschiktheidswetten-2006/README.md) · 1 versie
+- [BWBR0020114 — Controlevoorschriften buitenland arbeidsongeschiktheidswetten 2006](controlevoorschriften-buitenland-arbeidsongeschiktheidswette/README.md) · 2 versies
+- [BWBR0020117 — Controlevoorschriften Wet arbeid en zorg 2006](controlevoorschriften-wet-arbeid-en-zorg-2006/README.md) · 1 versie
+- [BWBR0020521 — Intrekking beleidsregels Bidar en Raulin, alsmede uitstel invoering negatieve consequenties van implementatie van de Richtlijn 2004/38/EG](intrekking-beleidsregels-bidar-en-raulin-alsmede-uitstel-inv/README.md) · 2 versies
+- [BWBR0019408 — Keuringsreglement COKZ Boerenkaas 2006](keuringsreglement-cokz-boerenkaas-2006/README.md) · 1 versie
+- [BWBR0019255 — Klachtenregeling CWI 2006](klachtenregeling-cwi-2006/README.md) · 1 versie
+- [BWBR0039483 — Klachtenregeling TNO 2005](klachtenregeling-tno-2005/README.md) · 1 versie
+- [BWBR0033143 — Klachtregeling OPTA](klachtregeling-opta/README.md) · 2 versies
+- [BWBR0020712 — Mandaatregeling en volmacht Luchtverkeersleiding Nederland](mandaatregeling-en-volmacht-luchtverkeersleiding-nederland-2/README.md) · 2 versies
+- [BWBR0020924 — Nadere regel declaratiebepalingen DBC-bedragen en overige bedragen medisch specialistische zorg door of vanwege de zorginstelling](nadere-regel-declaratiebepalingen-dbc-bedragen-en-overige-be/README.md) · 1 versie
+- [BWBR0019755 — Nadere Regeling spreiding en behoefte MEE-organisaties](nadere-regeling-spreiding-en-behoefte-mee-organisaties/README.md) · 2 versies
+- [BWBR0019551 — Nadere Regeling van de Autoriteit Financiële Markten van 7 februari 2006, houdende regels voor de informatieverstrekking bij complexe producten (Nadere Regeling financiële dienstverlening)](nadere-regeling-financi-le-dienstverlening/README.md) · 3 versies
+- [BWBR0019505 — Nadere regels subsidie](nadere-regels-subsidie/README.md) · 2 versies
+- [BWBR0019506 — Nadere regels uitvoering negatief vermogen](nadere-regels-uitvoering-negatief-vermogen/README.md) · 2 versies
+- [BWBR0019499 — Nederlands Popmuziek Plan 2006–2008](nederlands-popmuziek-plan-2006-2008/README.md) · 1 versie
+- [BWBR0021870 — Organisatieregeling Kadaster 2006](organisatieregeling-kadaster-2006/README.md) · 4 versies
+- [BWBR0021772 — Regeling Aanlevering en verspreiding scoregegevens zorgzwaartepakketten (ZZP’s) ten behoeve van de Nederlands Zorgautoriteit](regeling-aanlevering-en-verspreiding-scoregegevens-zzp-s-ten/README.md) · 1 versie
+- [BWBR0024728 — Regeling aanwijzing niet c.e.-stof profielen 2008 en 2009](regeling-aanwijzing-niet-c-e-stof-profielen-2008-en-2009/README.md) · 1 versie
+- [BWBR0020761 — Regeling AO/IC AWBZ-zorgaanbieders](regeling-ao-ic-awbz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0020766 — Regeling AO/IC DBC GGZ](regeling-ao-ic-dbc-ggz/README.md) · 1 versie
+- [BWBR0020927 — Regeling AO/IC inzake DBC registratie en facturering](regeling-ao-ic-inzake-dbc-registratie-en-facturering/README.md) · 1 versie
+- [BWBR0022363 — Regeling bekendmaking constanten regressieformules en waarden voor gemiddelde CO2-uitstoot benzine- en dieselauto’s 2007](regeling-bekendmaking-constanten-regressieformules-en-waarde/README.md) · 1 versie
+- [BWBR0021098 — Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2006](regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0021098/README.md) · 10 versies
+- [BWBR0021099 — Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2006](regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0021099/README.md) · 2 versies
+- [BWBR0017869 — Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006](regeling-beleidsregels-vereveningsbijdrage-zorgverzekering-2/README.md) · 10 versies
+- [BWBR0020920 — Regeling bepalingen GGZ-prestaties 2007](regeling-bepalingen-ggz-prestaties-2007/README.md) · 2 versies
+- [BWBR0020760 — Regeling Controle en Administratie AWBZ-verzekeraars](regeling-controle-en-administratie-awbz-verzekeraars/README.md) · 1 versie
+- [BWBR0020768 — Regeling DBC GGZ Validatie](regeling-dbc-ggz-validatie/README.md) · 1 versie
+- [BWBR0020765 — Regeling Experiment kousenhulpmiddelen](regeling-experiment-kousenhulpmiddelen/README.md) · 1 versie
+- [BWBR0019204 — Regeling Film HGIS-Cultuurmiddelen](regeling-film-hgis-cultuurmiddelen/README.md) · 2 versies
+- [BWBR0019877 — Regeling film HGIS-cultuurmiddelen mei 2006](regeling-film-hgis-cultuurmiddelen-mei-2006/README.md) · 1 versie
+- [BWBR0020767 — Regeling Instructie DBC-registratie](regeling-instructie-dbc-registratie/README.md) · 1 versie
+- [BWBR0020923 — Regeling kostencalculatieprincipes en verplichte aanlevering verantwoordingskostprijzen](regeling-kostencalculatieprincipes-en-verplichte-aanlevering/README.md) · 1 versie
+- [BWBR0022258 — Regeling TAX-videoclipfonds](regeling-tax-videoclipfonds-bwbr0022258/README.md) · 1 versie
+- [BWBR0030857 — Regeling TAX-videoclipfonds](regeling-tax-videoclipfonds-bwbr0030857/README.md) · 1 versie
+- [BWBR0020851 — Regeling van 25 mei 2005, voor financiële ondersteuning van eCultuur-projecten (Interregeling)](regeling-financi-le-ondersteuning-ecultuur-projecten-interre/README.md) · 1 versie
+- [BWBR0033142 — Regeling van de directeur van het College bescherming persoonsgegevens, houdende verlening van volmacht en machtiging ten behoeve van beheerszaken aan hoofden van afdelingen, coördinatoren en de controller bij het secretariaat van het College bescherming persoonsgegevens (Regeling volmacht en machtiging beheer afdelingshoofden, coördinatoren en controller CBP)](regeling-volmacht-en-machtiging-beheer-afdelingshoofden-co-r/README.md) · 1 versie
+- [BWBR0019715 — Regeling van de Directie van de RDW (Dienst Wegverkeer) van 29 maart 2006, nr. VIZ 2006/1168, houdende mandatering bestuurlijke bevoegdheden van de Directie binnen de RDW](mandaatregeling-rdw/README.md) · 1 versie
+- [BWBR0019716 — Regeling van de Directie van de RDW (Dienst Wegverkeer) van 29 maart 2006, nr. VIZ 2006/1169, houdende mandatering en volmachtverlening van het vragen van prijsopgaven en het aangaan van financiële verplichtingen aan functionarissen van de RDW (Regeling Financieel Mandaat RDW)](regeling-financieel-mandaat-rdw/README.md) · 1 versie
+- [BWBR0019418 — Regeling van De Nederlandsche Bank N.V. van 5 januari 2006 tot vaststelling van de bedragen voor 2006, bedoeld in artikel 6 van de Regeling toezichtkosten DNB Wet toezicht kredietwezen 1992](vaststellingsregeling-2006-artikel-6-toezichtkosten-dnb-wet-/README.md) · 1 versie
+- [BWBR0019980 — Regeling van De Nederlandsche Bank NV van 20 juni 2006, tot vaststelling van de bedragen, verdeelsleutels en bandbreedtes voor 2006, bedoeld in de artikelen 7, eerste lid, 9, tweede lid en 11, eerste en tweede lid, van de Regeling toezichtkosten DNB Wet toezicht kredietwezen 1992](vaststellingsregeling-wtk-1992-bedragen-verdeelsleutels-en-b/README.md) · 1 versie
+- [BWBR0033133 — Regeling van de voorzitter van het College bescherming persoonsgegevens, houdende verlening van mandaat, volmacht en machtiging ten behoeve van beheerszaken aan de directeur, hoofd van het secretariaat van het College bescherming persoonsgegevens (Regeling mandaat beheer directeur CBP)](regeling-mandaat-beheer-directeur-cbp/README.md) · 2 versies
+- [BWBR0033386 — Regeling van het Bestuur van het Faunafonds van 1 december 2005, nr. FF2005/383, houdende wijziging van de Regeling vaststelling beleidsregels schadevergoeding Faunafonds](wijzigingsregeling-regeling-vaststelling-beleidsregels-schad/README.md) · 1 versie
+- [BWBR0020382 — Regeling van het Commissariaat voor de Media van 3 oktober 2006, houdende beleidsregels omtrent Europese, onafhankelijke, recente, Nederlandstalige of Friestalige programmaonderdelen en oorspronkelijk Nederlandstalige programmaonderdelen die voorzien zijn van ondertiteling ten behoeve van mensen met een auditieve beperking (Beleidsregels programmaquota)](beleidsregels-programmaquota/README.md) · 1 versie
+- [BWBR0020926 — Regeling verplichte aanlevering en verspreiding Minimale Dataset (MDS) voor Categorale instellingen](regeling-verplichte-aanlevering-en-verspreiding-minimale-dat/README.md) · 1 versie
+- [BWBR0019198 — Regeling voorschotverlening op uitkeringen AWBZ](regeling-voorschotverlening-op-uitkeringen-awbz/README.md) · 1 versie
+- [BWBR0020514 — Regels vrijwillige verzekering Wet WIA](regels-vrijwillige-verzekering-wet-wia/README.md) · 2 versies
+- [BWBR0020513 — Regels vrijwillige WAO-verzekering 2006](regels-vrijwillige-wao-verzekering-2006/README.md) · 2 versies
+- [BWBR0020511 — Regels vrijwillige werkloosheidsverzekering 2006](regels-vrijwillige-werkloosheidsverzekering-2006/README.md) · 2 versies
+- [BWBR0020512 — Regels vrijwillige ziekengeldverzekering 2006](regels-vrijwillige-ziekengeldverzekering-2006/README.md) · 2 versies
+- [BWBR0019172 — Reglement KCB tarieven kwaliteitscontrole](reglement-kcb-tarieven-kwaliteitscontrole/README.md) · 1 versie
+- [BWBR0018852 — Skal-Bijdragereglement](skal-bijdragereglement/README.md) · 1 versie
+- [BWBR0033075 — Statuten Stichting NAK](statuten-stichting-nak/README.md) · 1 versie
+- [BWBR0019174 — Subsidieregeling 2005–2006 van het Fonds voor Amateurkunst en Podiumkunsten](subsidieregeling-2005-2006-van-het-fonds-voor-amateurkunst-e/README.md) · 1 versie
+- [BWBR0019050 — Tarieven 2006 Centraal Bureau Rijvaardigheidsbewijzen](tarieven-2006-centraal-bureau-rijvaardigheidsbewijzen/README.md) · 1 versie
+- [BWBR0018860 — Tarievenbesluit CTB 2006](tarievenbesluit-ctb-2006/README.md) · 1 versie
+- [BWBR0019407 — Toezichtreglement Landbouwkwaliteitsregeling Kaas 2006](toezichtreglement-landbouwkwaliteitsregeling-kaas-2006/README.md) · 1 versie
+- [BWBR0019481 — Uitvoeringsreglement Distributie Buitenlandse Arthousefilm](uitvoeringsreglement-distributie-buitenlandse-arthousefilm/README.md) · 2 versies
+- [BWBR0019869 — Uitvoeringsreglement Publieksfilm voor de Beneluxmarkt](uitvoeringsreglement-publieksfilm-voor-de-beneluxmarkt/README.md) · 1 versie
+- [BWBR0019983 — Vaststelling van de bedragen, verdeelsleutels en bandbreedtes voor 2006, bedoeld in de artikelen 8, eerste lid, 11, tweede lid en 13, tweede lid van de Regeling toezichtkosten AFM Wet toezicht kredietwezen 1992](regeling-vaststelling-bedragen-enz-voor-2006-ex-artt-8-eerst/README.md) · 1 versie
+- [BWBR0019822 — Wijziging van de beleidsregels van de centrale organisatie werk en inkomen inzake de uitvoering van de wet arbeid vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0019822/README.md) · 2 versies
+- [BWBR0020100 — Wijziging van de beleidsregels van de centrale organisatie werk en inkomen inzake de uitvoering van de wet arbeid vreemdelingen](wijzigingsbesluit-beleidsregels-cwi-inzake-uitvoering-wet-ar-bwbr0020100/README.md) · 1 versie

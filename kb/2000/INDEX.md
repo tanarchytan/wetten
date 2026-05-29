@@ -1,0 +1,18 @@
+# Kb — 2000
+
+ELI: `/eli/nl/kb/2000/*`
+
+- [BWBR0010915 — Besluit van 1 december 1999, houdende het van toepassing zijn van het reglement betreffende het verlenen van radarpatenten (Besluit Reglement radarpatenten)](reglement-radarpatenten/README.md) · 5 versies
+- [BWBR0011144 — Besluit van 1 februari 2000, houdende hernieuwde vaststelling van het besluit tot instelling van de Herinneringsmedaille voor Humanitaire hulpverlening bij Rampen](besluit-herinneringsmedaille-humanitaire-hulpverlening-bij-r/README.md) · 15 versies
+- [BWBR0011701 — Besluit van 11 oktober 2000, ter uitvoering van artikel 11, eerste lid, van de Wet bestrijding ongevallen Noordzee](besluit-ex-artikel-11-eerste-lid-van-de-wet-bestrijding-onge/README.md) · 1 versie
+- [BWBR0011298 — Besluit van 12 april 2000, houdende de toekenning van een vaste beloning aan de (plaatsvervangend) voorzitter en de niet-ambtelijke leden van de commissie, bedoeld in artikel 2 van het Besluit V.W.S.-commissie bezwaarschriften Awb (Besluit vaste beloning V.W.S.-commissie bezwaarschriften Awb)](besluit-vaste-beloning-v-w-s-commissie-bezwaarschriften-awb/README.md) · 1 versie
+- [BWBR0011364 — Besluit van 19 mei 2000, houdende de overdracht van de zorg voor het quotumbeleid voor uitgenodigde vluchtelingen](besluit-houdende-overdracht-zorg-voor-het-quotumbeleid-voor-/README.md) · 1 versie
+- [BWBR0010580 — Besluit van 2 juli 1999, houdende herindeling van departementale taken](besluit-herindeling-van-departementale-taken/README.md) · 1 versie
+- [BWBR0011524 — Besluit van 22 juli 2000, houdende vaststelling in euro van het in artikel 178 lid 2 van boek 2 van het Burgerlijk Wetboek bedoelde bedrag van het minimumkapitaal van de besloten vennootschap met beperkte aansprakelijkheid](besluit-vaststelling-in-euro-van-het-in-artikel-178-lid-2-va/README.md) · 1 versie
+- [BWBR0011727 — Besluit van 23 oktober 2000 tot wijziging van het Besluit uitsluiting aftrek omzetbelasting 1968](wijzigingsbesluit-besluit-uitsluiting-aftrek-omzetbelasting-/README.md) · 1 versie
+- [BWBR0011379 — Besluit van 24 mei 2000, houdende overgang van de kernfysische dienst van het ministerie van Sociale Zaken en Werkgelegenheid naar het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer](besluit-overgang-kernfysische-dienst-van-ministerie-van-soci/README.md) · 3 versies
+- [BWBR0011539 — Besluit van 28 juli 2000, houdende de vergoedingen voor de leden van de Commissie voor Ondernemerschap en Onderwijs](vergoedingenbesluit-commissie-voor-ondernemerschap-en-onderw/README.md) · 1 versie
+- [BWBR0011267 — Besluit van 30 maart 2000, houdende instelling van een Adviescollege toetsing administratieve lasten](instellingsbesluit-adviescollege-toetsing-administratieve-la/README.md) · 3 versies
+- [BWBR0011460 — Besluit van 4 juli 2000, houdende verhoging van de in de artikelen 63b lid 2 onder a, 153 lid 2 onder a en 263 lid 2 onder a van boek 2 van het Burgerlijk Wetboek bedoelde grensbedragen alsmede omzetting in euro (financiële benedengrens verplichte structuurregeling)](besluit-houdende-verhoging-van-de-in-de-artikelen-63b-lid-2-/README.md) · 1 versie
+- [BWBR0011479 — Besluit van 8 juli 2000 tot instelling van een commissie auteursrecht als adviescollege van het Ministerie van Justitie ter advisering over het auteursrecht en naburige rechten](instellingsbesluit-commissie-auteursrecht-als-adviescollege-/README.md) · 1 versie
+- [BWBR0011692 — Besluit van 9 oktober 2000, houdende de opheffing van het Regiment Intendancetroepen en het Regiment Aan- en afvoertroepen en de oprichting van het Regiment Bevoorradings- en Transporttroepen](besluit-tot-opheffing-van-het-regiment-intendancetroepen-en-/README.md) · 1 versie

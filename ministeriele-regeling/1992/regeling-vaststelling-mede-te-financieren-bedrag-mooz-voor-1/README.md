@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0005655
+eli: /eli/nl/ministeriele-regeling/1992/regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1
+type: ministeriele-regeling
+title: Regeling vaststelling mede te financieren bedrag MOOZ voor 1991 en voor 1992
+ministry: Volksgezondheid, Welzijn en Sport
+abbreviation: null
+latest_state: "1993-10-15"
+state_count: 1
+---
+
+
+# Regeling vaststelling mede te financieren bedrag MOOZ voor 1991 en voor 1992
+
+**BWB-id:** BWBR0005655
+**Citeertitel:** Regeling vaststelling mede te financieren bedrag MOOZ voor 1991 en voor 1992
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
+**ELI:** [/eli/nl/ministeriele-regeling/1992/regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1](https://wetten.ai/eli/nl/ministeriele-regeling/1992/regeling-vaststelling-mede-te-financieren-bedrag-mooz-voor-1)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 1993-10-15 | 2004-08-27 | [1993-10-15.md](./1993-10-15.md) |

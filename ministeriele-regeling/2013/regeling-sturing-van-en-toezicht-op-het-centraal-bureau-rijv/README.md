@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0032466
+eli: /eli/nl/ministeriele-regeling/2013/regeling-sturing-van-en-toezicht-op-het-centraal-bureau-rijv
+type: ministeriele-regeling
+title: Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, IENM/BSK-2012/241273, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)
+ministry: Infrastructuur en Milieu
+abbreviation: null
+latest_state: "2013-01-01"
+state_count: 1
+---
+
+
+# Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, IENM/BSK-2012/241273, houdende vaststelling regels in verband met de implementatie van de Kaderwet zelfstandige bestuursorganen en de sturing van en het toezicht op het Centraal Bureau Rijvaardigheidsbewijzen (Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen)
+
+**BWB-id:** BWBR0032466
+**Citeertitel:** Regeling sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Infrastructuur en Milieu
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-sturing-van-en-toezicht-op-het-centraal-bureau-rijv](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-sturing-van-en-toezicht-op-het-centraal-bureau-rijv)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2013-01-01 | heden | [2013-01-01.md](./2013-01-01.md) |

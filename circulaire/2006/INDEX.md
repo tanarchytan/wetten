@@ -1,0 +1,45 @@
+# Circulaire — 2006
+
+ELI: `/eli/nl/circulaire/2006/*`
+
+- [BWBR0019540 — Aanvulling Circulaire functielijst buitengewoon opsporingsambtenaar](aanvulling-circulaire-functielijst-buitengewoon-opsporingsam/README.md) · 1 versie
+- [BWBR0019576 — Aanwijzing van de Minister van Justitie van 16 februari 2006, op grond van artikel 8 Vrijstellingsregeling afwijkend gebruik frequentieruimte Justitie](aanwijzingsbesluit-afwijkend-gebruik-frequentieruimte-justit/README.md) · 1 versie
+- [BWBR0019874 — Besluit beheer sociale-huursector (Bbsh)](circulaire-besluit-beheer-sociale-huursector-mei-2006/README.md) · 1 versie
+- [BWBR0019610 — Besluit verlening mandaat inzake internationale inlichtingenuitwisseling](besluit-verlening-mandaat-inzake-internationale-inlichtingen/README.md) · 1 versie
+- [BWBR0019611 — Besluit verlening ondermandaat inzake internationale inlichtingenuitwisseling](besluit-verlening-ondermandaat-inzake-internationale-inlicht/README.md) · 1 versie
+- [BWBR0020013 — Circulaire Aanpassing huurwaarde dienstwoningen per 1 juli 2006](circulaire-aanpassing-huurwaarde-dienstwoningen-per-1-juli-2/README.md) · 1 versie
+- [BWBR0019886 — Circulaire aanpassing voorschriften Besluit betaling emolumenten burgerlijk rijkspersoneel (2006)](circulaire-aanpassing-voorschriften-besluit-betaling-emolume/README.md) · 1 versie
+- [BWBR0019355 — Circulaire aanpassingsregeling pensioenen 2006, vaststelling franchise en inhoudingspercentages](circulaire-aanpassingsregeling-pensioenen-2006-vaststelling-/README.md) · 1 versie
+- [BWBR0020394 — Circulaire aanvulling dienstreizenproblematiek](circulaire-aanvulling-dienstreizenproblematiek/README.md) · 1 versie
+- [BWBR0019619 — Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006](circulaire-arbeidsvoorwaardenovereenkomst-sector-rijk-2005-2/README.md) · 1 versie
+- [BWBR0020087 — Circulaire beleidsregels bij verkoop van woongelegenheden door toegelaten instellingen](circulaire-beleidsregels-bij-verkoop-van-woongelegenheden-do/README.md) · 1 versie
+- [BWBR0019712 — Circulaire Besluit textielreinigingsbedrijven milieubeheer](circulaire-besluit-textielreinigingsbedrijven-milieubeheer/README.md) · 1 versie
+- [BWBR0020429 — Circulaire Bevorderen participatie in ondernemingsraden](circulaire-bevorderen-participatie-in-ondernemingsraden/README.md) · 1 versie
+- [BWBR0019158 — Circulaire bezoldiging commissaris van de Koningin, vergoeding en onkostenvergoeding statenleden, commissieleden, leden gedeputeerde staten en gevolgen Zorgverzekeringswet](circulaire-bezoldiging-commissaris-van-de-koningin-vergoedin/README.md) · 1 versie
+- [BWBR0019160 — Circulaire Bezoldiging, ambtstoelage, eindejaarsuitkering burgemeesters en gevolgen Zorgverzekeringswet](circulaire-bezoldiging-ambtstoelage-eindejaarsuitkering-burg/README.md) · 1 versie
+- [BWBR0019648 — Circulaire bezoldiging, eindejaarsuitkering en eenmalige uitkering cdK's en gedeputeerden, vergoeding werkzaamheden statenleden en vergoeding commissieleden](circulaire-bezoldiging-eindejaarsuitkering-en-eenmalige-uitk/README.md) · 1 versie
+- [BWBR0019647 — Circulaire bezoldiging, eindejaarsuitkering, eenmalige uitkering burgemeesters en wethouders, en vergoeding raadsleden en commissieleden](circulaire-bezoldiging-eindejaarsuitkering-eenmalige-uitkeri/README.md) · 1 versie
+- [BWBR0019801 — Circulaire bodemsanering 2006](circulaire-bodemsanering-2006/README.md) · 1 versie
+- [BWBR0020113 — Circulaire Dienstreizenproblematiek](circulaire-dienstreizenproblematiek/README.md) · 1 versie
+- [BWBR0019651 — Circulaire Gemeentefonds 10 maart 2006](circulaire-gemeentefonds-10-maart-2006/README.md) · 1 versie
+- [BWBR0020466 — Circulaire houtopslag](circulaire-houtopslag/README.md) · 1 versie
+- [BWBR0019760 — Circulaire Huurprijsbeleid periode 1 juli 2006 tot 1 januari 2007](circulaire-huurprijsbeleid-periode-1-juli-2006-tot-1-januari/README.md) · 1 versie
+- [BWBR0019820 — Circulaire legalisatie en verificatie buitenlandse bewijsstukken, alsmede toepassing DNA-onderzoek in gevallen waarin bewijsstukken ontbreken](circulaire-legalisatie-en-verificatie-buitenlandse-bewijsstu/README.md) · 1 versie
+- [BWBR0019911 — Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)](circulaire-nadere-uitleg-arbeidsvoorwaardenovereenkomst-sect/README.md) · 1 versie
+- [BWBR0019162 — Circulaire onkostenvergoeding, vergoeding en eindejaarsuitkering wethouders, raadsleden en commissieleden en de gevolgen Zorgverzekeringswet](circulaire-onkostenvergoeding-vergoeding-en-eindejaarsuitker/README.md) · 1 versie
+- [BWBR0020120 — Circulaire opslag ontplofbare stoffen voor civiel gebruik](circulaire-opslag-ontplofbare-stoffen-voor-civiel-gebruik/README.md) · 1 versie
+- [BWBR0019679 — Circulaire Provinciefonds 20 maart 2006](circulaire-provinciefonds-20-maart-2006/README.md) · 1 versie
+- [BWBR0035478 — Circulaire strafrechtelijke immuniteiten](circulaire-strafrechtelijke-immuniteiten/README.md) · 1 versie
+- [BWBR0020378 — Circulaire van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2006, inzake Gereinigd gas uit B-hout](circulaire-gelijke-behandeling-van-gereinigd-gas-uit-b-hout-/README.md) · 1 versie
+- [BWBR0019788 — Circulaire verklaring vakbekwaamheid buitenslands gediplomeerden volksgezondheid](circulaire-verklaring-vakbekwaamheid-buitenslands-gediplomee/README.md) · 1 versie
+- [BWBR0020409 — Circulaire Wijziging procesgang Functie Ongeschiktheids Advies (FOA)](circulaire-wijziging-procesgang-functie-ongeschiktheids-advi/README.md) · 1 versie
+- [BWBR0019602 — Circulaire wijziging van verschillende provinciale rechtspositiebesluiten en -regelingen](circulaire-wijziging-van-verschillende-provinciale-rechtspos/README.md) · 1 versie
+- [BWBR0020803 — Circulaire Wijzigingen op de Levensloopregeling rijkspersoneel](circulaire-wijzigingen-op-de-levensloopregeling-rijkspersone/README.md) · 1 versie
+- [BWBR0019356 — Fiscale behandeling gewezen gedeputeerden en wethouders](fiscale-behandeling-gewezen-gedeputeerden-en-wethouders/README.md) · 1 versie
+- [BWBR0019675 — Herziening Circulaire schietlawaai](herziening-circulaire-schietlawaai/README.md) · 1 versie
+- [BWBR0019815 — Inkomstenbelasting, lijfrenten, lijfrentepremieaftrek en bestaande rechten op periodieke uitkeringen](inkomstenbelasting-lijfrenten-lijfrentepremieaftrek-en-besta/README.md) · 3 versies
+- [BWBR0019510 — Regeling bijzondere opsporingsgelden](regeling-bijzondere-opsporingsgelden/README.md) · 1 versie
+- [BWBR0019311 — Sociaal Beleidskader regelende de gevolgen voor burgemeesters bij gemeentelijke herindeling](circulaire-sociaal-beleidskader-gevolgen-voor-burgemeesters-/README.md) · 1 versie
+- [BWBR0019105 — Toekenning politiebevoegdheden en geweldsmiddelen aan buitengewoon opsporingsambtenaren](toekenning-politiebevoegdheden-en-geweldsmiddelen-aan-buiten/README.md) · 1 versie
+- [BWBR0019256 — Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2006](wijziging-financi-le-arbeidsvoorwaarden-sector-rijk-per-1-ja/README.md) · 1 versie
+- [BWBR0019603 — Wijziging van verschillende gemeentelijke rechtspositiebesluiten en -regelingen](wijziging-van-verschillende-gemeentelijke-rechtspositiebeslu/README.md) · 1 versie

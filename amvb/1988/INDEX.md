@@ -1,0 +1,38 @@
+# Amvb — 1988
+
+ELI: `/eli/nl/amvb/1988/*`
+
+- [BWBR0004327 — Besluit van 11 maart 1988, houdende regels voor LPG-tankstations](besluit-lpg-tankstations-milieubeheer/README.md) · 8 versies
+- [BWBR0004415 — Besluit van 12 oktober 1988, tot vaststelling van een algemene maatregel van bestuur, houdende een Tijdelijke bijdrageregeling provinciale bevordering van beeldende kunst](tijdelijke-bijdrageregeling-provinciale-bevordering-van-beel/README.md) · 1 versie
+- [BWBR0004304 — Besluit van 14 maart 1988, houdende vaststelling van het Rechtspositiebesluit voorzitters huurcommissies](rechtspositiebesluit-voorzitters-huurcommissies/README.md) · 2 versies
+- [BWBR0004220 — Besluit van 14 oktober 1987, houdende regelen met betrekking tot de verpakking en aanduiding van milieugevaarlijke stoffen en bepaalde gevaarlijke preparaten](besluit-verpakking-en-aanduiding-milieugevaarlijke-stoffen-e/README.md) · 10 versies
+- [BWBR0004294 — Besluit van 15 februari 1988, houdende vervanging van het Reglement Spoorwegbruggen](besluit-spoorwegbruggen/README.md) · 2 versies
+- [BWBR0004401 — Besluit van 15 september 1988, houdende wijziging van a het Besluit herziening bezoldiging militairen zeemacht 1954 (Stb. 50) b de Regeling inkomsten militairen land- en luchtmacht 1969 (Stb. 1968, 523) c de Regeling betreffende de aanspraken van militairen der zeemacht op een jaarlijkse vakantie-uitkering (Stb. 1954, 607), in verband met de verhoging van de leeftijdsgrens van het volwassenensalaris en verscherping van de staffeling in de jeugdsalarissen](wijzigingsbesluit-besluit-herziening-bezoldiging-militairen-/README.md) · 1 versie
+- [BWBR0004196 — Besluit van 16 juli 1987, houdende bepalingen met betrekking tot de deugdelijkheid van schepen op binnenwateren, de inrichting en de uitrusting daarvan, alsmede ten aanzien van de arbeidsomstandigheden aan boord](binnenschepenbesluit/README.md) · 7 versies
+- [BWBR0004306 — Besluit van 17 maart 1988, houdende regelen ter voorkoming van verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](besluit-voorkoming-verontreiniging-door-met-schepen-in-bulk-/README.md) · 7 versies
+- [BWBR0004435 — Besluit van 17 november 1988, houdende de vaststelling van de brandweeropleidingen, welke worden afgesloten met een rijksexamen](besluit-rijksexamen-brandweeropleidingen/README.md) · 3 versies
+- [BWBR0004418 — Besluit van 17 oktober 1988, tot vaststelling van een algemene maatregel van bestuur krachtens artikel 59, vijfde lid, van de Woningwet](besluit-centraal-fonds-voor-de-volkshuisvesting/README.md) · 7 versies
+- [BWBR0004317 — Besluit van 18 april 1988, houdende regelen ten aanzien van de toekenning van vacatiegelden](vacatiegeldenbesluit-1988/README.md) · 1 versie
+- [BWBR0004390 — Besluit van 18 augustus 1988, betreffende bekendmaking van openbare ledenvergaderingen en ontwerpen van verordeningen van de corporatie](besluit-kennisgevingen-nederlandse-loodsencorporatie/README.md) · 3 versies
+- [BWBR0004393 — Besluit van 18 augustus 1988, houdende bepalingen inzake het register van registerloodsen](loodsenregisterbesluit/README.md) · 6 versies
+- [BWBR0004391 — Besluit van 18 augustus 1988, houdende bepalingen met betrekking tot adspirant-registerloodsen](besluit-adspirant-registerloodsen/README.md) · 8 versies
+- [BWBR0004392 — Besluit van 18 augustus 1988, houdende vaststelling van de regiogrenzen](besluit-regiogrenzen-loodsencorporaties/README.md) · 1 versie
+- [BWBR0004394 — Besluit van 18 augustus 1988, houdende voorschriften voor registerloodsen](voorschriftenbesluit-registerloodsen/README.md) · 2 versies
+- [BWBR0004072 — Besluit van 18 december 1986, tot uitvoering van artikel 58 van de Wet overdracht tenuitvoerlegging strafvonnissen](besluit-ex-artikel-58-wet-overdracht-tenuitvoerlegging-straf/README.md) · 1 versie
+- [BWBR0004237 — Besluit van 19 november 1987, houdende regelen ter uitvoering van de bepalingen van de Mediawet](mediabesluit/README.md) · 7 versies
+- [BWBR0004402 — Besluit van 19 september 1988, houdende een tijdelijke regeling met betrekking tot het beschikbaar stellen van bijdragen uit 's Rijks kas aan de regionale brandweren](besluit-bijdragen-regionale-brandweren-1988/README.md) · 1 versie
+- [BWBR0004469 — Besluit van 22 december 1988, houdende regelen ter voorkoming van verontreiniging door vuilnis van schepen](besluit-voorkoming-verontreiniging-door-vuilnis-van-schepen/README.md) · 4 versies
+- [BWBR0004373 — Besluit van 22 juli 1988, houdende vaststelling van het Besluit legbatterijen](besluit-legbatterijen/README.md) · 1 versie
+- [BWBR0004404 — Besluit van 22 september 1988, houdende aanwijzing van ministers, in overeenstemming met wie gehandeld moet worden ter zake van besluiten op grond van de Wet energiebesparing toestellen](besluit-aanwijzing-ministers-wet-energiebesparing-toestellen/README.md) · 1 versie
+- [BWBR0004403 — Besluit van 22 september 1988, tot vaststelling van een algemene maatregel van bestuur krachtens artikel 24 van de Wet milieugevaarlijke stoffen](dbb-besluit-milieubeheer/README.md) · 2 versies
+- [BWBR0004259 — Besluit van 23 december 1987, houdende intrekking van het Bekostigingsbesluit ISOVSO en vaststelling van het Bekostigingsbesluit ISOVSO/OISOVSO in verband met de invoering van het bekostigingsstelsel van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs](besluit-bekostiging-wec/README.md) · 78 versies
+- [BWBR0004354 — Besluit van 23 juni 1988, houdende regelen ter uitvoering van artikel 173 van de Mediawet](uitvoeringsbesluit-ex-artikel-173-mediawet/README.md) · 1 versie
+- [BWBR0004405 — Besluit van 23 september 1988, houdende vaststelling van de jaarlijkse registratievergoeding](besluit-jaarlijkse-registratievergoeding/README.md) · 1 versie
+- [BWBR0004321 — Besluit van 28 april 1988, houdende uitvoering van artikel 32, tweede en derde lid, van de Wet milieugevaarlijke stoffen](administratiebesluit-milieugevaarlijke-stoffen-en-preparaten/README.md) · 5 versies
+- [BWBR0004357 — Besluit van 28 juni 1988, houdende regelen betreffende de monsterneming bij vee](besluit-houdende-regelen-betreffende-de-monsterneming-bij-ve/README.md) · 1 versie
+- [BWBR0004227 — Besluit van 29 oktober 1987, houdende afbouw van de Querido-regeling voor wetenschappelijk personeel niet zijnde medisch specialist](besluit-afbouw-querido-regeling-wetenschappelijk-personeel-n/README.md) · 1 versie
+- [BWBR0004410 — Besluit van 30 september 1988, houdende Rechtspositieregeling voor deelnemers aan initiële opleidingen](rechtspositieregeling-voor-deelnemers-aan-initi-le-opleiding/README.md) · 2 versies
+- [BWBR0004583 — Besluit van 4 juli 1989, houdende vaststelling van een regeling betreffende het recht op aanspraken bij werkloosheid van rijkspersoneel in geval van privatisering](regeling-wachtgeld-en-uitkering-bij-privatisering/README.md) · 5 versies
+- [BWBR0004232 — Besluit van 4 november 1987, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 15, zesde lid, van de Ziekenfondswet alsmede wijziging van het Besluit beperking kring verzekerden Ziekenfondswet en het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet](besluit-premieheffing-ziekenfondsverzekering-bij-samenloop-v/README.md) · 1 versie
+- [BWBR0004347 — Besluit van 7 juni 1988, houdende vaststelling van het Besluit verhandeling teeltmateriaal boomkwekerijgewassen](besluit-verhandeling-teeltmateriaal-tuinbouwgewassen/README.md) · 1 versie
+- [BWBR0004301 — Besluit van 9 maart 1988, houdende opheffing van het bedrijfschap voor het Maatkledingbedrijf](besluit-opheffing-bedrijfschap-voor-het-maatkledingbedrijf/README.md) · 1 versie

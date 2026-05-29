@@ -1,0 +1,27 @@
+# Wet — 1988
+
+ELI: `/eli/nl/wet/1988/*`
+
+- [BWBR0004028 — Wet van 10 september 1986, houdende regelen betreffende de overname van de tenuitvoerlegging van buitenlandse strafrechtelijke beslissingen en de overdracht van de tenuitvoerlegging van Nederlandse strafrechtelijke beslissingen naar het buitenland](wet-overdracht-tenuitvoerlegging-strafvonnissen/README.md) · 18 versies
+- [BWBR0004400 — Wet van 15 september 1988, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap NV SDU v/h Staatsdrukkerij/Uitgeverij](wet-nv-sdu/README.md) · 1 versie
+- [BWBR0004434 — Wet van 17 november 1988, strekkende tot voltooiing van de provinciale indeling van het IJsselmeer](wet-strekkende-tot-voltooiing-van-de-provinciale-indeling-va/README.md) · 1 versie
+- [BWBR0004254 — Wet van 18 december 1987, tot het uitgeven en belenen van schatkistpapier en het aangaan van geldleningen ten laste van de Staat der Nederlanden in 1988](leningwet-1988/README.md) · 1 versie
+- [BWBR0005350 — Wet van 19 december 1991, houdende herziening van de Comptabiliteitswet 1976 met uitzondering van de bepalingen inzake de Algemene Rekenkamer (vierde wijziging van de Comptabiliteitswet 1976)](wijzigingswet-comptabiliteitswet-1976-vierde-wijziging/README.md) · 1 versie
+- [BWBR0004318 — Wet van 20 april 1988, houdende bepalingen betreffende de uitoefening van de vrijheid van godsdienst en levensovertuiging en van het recht tot vergadering en betoging](wet-openbare-manifestaties/README.md) · 2 versies
+- [BWBR0004149 — Wet van 21 april 1987, houdende regels betreffende de verzorging van radio- en televisieprogramma's, de omroepbijdrage en de steunverlening aan persorganen](mediawet/README.md) · 48 versies
+- [BWBR0040825 — Wet van 21 april 1988, tot wijziging van de Warenwet](wijzigingswet-1988-warenwet/README.md) · 2 versies
+- [BWBR0004910 — Wet van 21 november 1990, houdende machtiging tot deelneming van de Staat aan het geïntegreerd EEG-mechanisme voor financiële ondersteuning op middellange termijn van de betalingsbalansen van de Lid-Staten](wet-machtiging-tot-deelneming-staat-aan-ge-ntegreerd-eeg-mec/README.md) · 1 versie
+- [BWBR0005087 — Wet van 22 mei 1991, houdende verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Algemene burgerlijke pensioenwet over de jaren 1988, 1989 en 1990, alsmede verlaging van de verschuldigde wachtgeldtijdbijdrage over het jaar 1990](wet-verlaging-pensioenbijdrage-algemene-burgerlijke-pensioen/README.md) · 1 versie
+- [BWBR0004260 — Wet van 23 december 1987, houdende machtiging tot deelneming door Nederland in de Tweede Aanvulling der Middelen van het Internationale Fonds voor Agrarische Ontwikkeling (IFAD)](wet-machtiging-tot-deelneming-nederland-in-de-tweede-aanvull/README.md) · 1 versie
+- [BWBR0004257 — Wet van 23 december 1987, houdende regelen voor de indiening en behandeling van en de beschikking op verzoekschriften om gratie](gratiewet/README.md) · 14 versies
+- [BWBR0004262 — Wet van 24 december 1987, houdende het achterwege laten van de herziening van het wettelijk minimumloon, van de uitkeringen krachtens een aantal sociale zekerheidswetten en van een aantal uitkeringen en pensioenen krachtens enige andere wetten per 1 januari 1988 en per 1 juli 1988](wet-achterwege-laten-herziening-wettelijk-minimumloon-per-1-/README.md) · 1 versie
+- [BWBR0004308 — Wet van 24 maart 1988, houdende machtiging tot oprichting van de Stichting arbeidsmarkt- en opleidingsfonds voor de overheid](wet-machtiging-tot-oprichting-van-de-stichting-arbeidsmarkt-/README.md) · 1 versie
+- [BWBR0004422 — Wet van 26 oktober 1988, houdende regels met betrekking tot de oprichting van de naamloze vennootschap PTT Nederland NV](machtigingswet-koninklijke-ptt-nederland-nv/README.md) · 2 versies
+- [BWBR0005700 — Wet van 29 oktober 1992, tot vervanging van de Wet van 27 april 1884, Stb. 96, tot regeling van het Staatstoezicht op krankzinnigen](wet-bijzondere-opnemingen-in-psychiatrische-ziekenhuizen/README.md) · 24 versies
+- [BWBR0004244 — Wet van 3 december 1987 houdende regels betreffende de inlichtingen- en veiligheidsdiensten](wet-op-de-inlichtingen-en-veiligheidsdiensten/README.md) · 1 versie
+- [BWBR0004287 — Wet van 4 februari 1988, houdende regeling van de uitgifte van het Staatsblad en de Staatscourant en van de bekendmaking en de inwerkingtreding van wetten, algemene maatregelen van bestuur en vanwege het Rijk anders dan bij wet of algemene maatregel van bestuur vastgestelde algemeen verbindende voorschriften](bekendmakingswet/README.md) · 8 versies
+- [BWBR0004412 — Wet van 4 oktober 1988, tot verlaging van het tarief en het op nihil stellen van de vermogensaftrek in de Wet op de vennootschapsbelasting 1969](wet-tot-verlaging-tarief-en-op-nihil-stellen-vermogensaftrek/README.md) · 1 versie
+- [BWBR0004191 — Wet van 7 juli 1987, houdende herziene regeling van de Nederlandse organisatie voor zuiver-wetenschappelijk onderzoek](wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onde/README.md) · 19 versies
+- [BWBR0004189 — Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titels architect, stedebouwkundige, tuin- en landschapsarchitect en interieurarchitect](wet-op-de-architectentitel/README.md) · 23 versies
+- [BWBR0004364 — Wet van 7 juli 1988, houdende algemene regeling met betrekking tot het scheepvaartverkeer op de binnenwateren en op zee](scheepvaartverkeerswet/README.md) · 28 versies
+- [BWBR0004365 — Wet van 7 juli 1988, houdende regels betreffende loodsen](loodsenwet/README.md) · 30 versies

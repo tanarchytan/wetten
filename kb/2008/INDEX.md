@@ -1,0 +1,19 @@
+# Kb — 2008
+
+ELI: `/eli/nl/kb/2008/*`
+
+- [BWBR0023870 — Besluit houdende vaststelling beloning van de voorzitter en leden Taskforce DeeltijdPlus](besluit-vaststelling-beloning-voorzitter-en-leden-taskforce-/README.md) · 2 versies
+- [BWBR0024581 — Besluit van 1 september 2008, nr. 08.002570, houdende een hernieuwde toekenning van een vaste beloning aan de voorzitter en de andere leden van de beoordelingscommissie, bedoeld in artikel 3.4 van de Tijdelijke stimuleringsregeling leren en werken](besluit-hernieuwde-toekenning-vaste-beloning-voorzitter-en-a/README.md) · 2 versies
+- [BWBR0023698 — Besluit van 10 maart 2008, houdende vaststelling van het Besluit Patentreglement Rijn](patentreglement-rijn/README.md) · 1 versie
+- [BWBR0023454 — Besluit van 17 januari 2008, houdende instelling van een Adviescollege burgerluchtvaartveiligheid](besluit-instelling-adviescollege-burgerluchtvaartveiligheid/README.md) · 2 versies
+- [BWBR0024802 — Besluit van 2 december 2008 tot instelling van de Jos Brink homo-emancipatieprijs (Besluit instelling Jos Brink homo-emancipatieprijs)](besluit-instelling-jos-brinkprijs/README.md) · 3 versies
+- [BWBR0023972 — Besluit van 20 mei 2008, houdende vaststelling van de vergoeding van de leden van de Technische commissie bodembescherming (Vergoedingenbesluit Technische commissie bodembescherming)](vergoedingenbesluit-technische-commissie-bodembescherming/README.md) · 2 versies
+- [BWBR0024664 — Besluit van 20 oktober 2008, houdende de vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro die in 2008 worden uitgegeven met het thema «Nederland en Architectuur»](besluit-vaststelling-bestanddelen-beeldenaar-munten-van-vijf/README.md) · 1 versie
+- [BWBR0023939 — Besluit van 23 april 2008, nr. 08.001249, houdende vaststelling van een selectielijst voor de Algemene Rekenkamer over de periode vanaf 1945](besluit-vaststelling-selectielijst-algemene-rekenkamer-vanaf/README.md) · 1 versie
+- [BWBR0024578 — Besluit van 25 september 2008, nr. 08.002714, houdende toekenning van een vaste beloning aan de leden van de werkgroep bevordering diversiteit in het burgemeestersambt](besluit-toekenning-vaste-beloning-leden-werkgroep-bevorderin/README.md) · 2 versies
+- [BWBR0024467 — Besluit van 27 augustus 2008, nr. 08.002417, houdende toekenning van een vaste beloning aan de voorzitter en de leden commissie Onderwijstijd (Besluit vaste beloning commissie Onderwijstijd)](besluit-vaste-beloning-leden-commissie-onderwijstijd/README.md) · 2 versies
+- [BWBR0024813 — Besluit van 4 december 2008 houdende toestemming als bedoeld in artikel 9, aanhef en onder c, van de Bankwet 1998 met het oog op de eenmalige uitvoering van het IJslandse depositogarantiestelsel door De Nederlandsche Bank N.V.](besluit-ex-art-9-aanhef-en-onder-c-bankwet-1998-eenmalige-ui/README.md) · 1 versie
+- [BWBR0024248 — Besluit van 5 juli 2008, nr. 08.002018, houdende toekenning van een vaste beloning aan de leden van de Commissie Integraal Toezicht Terugkeer](besluit-toekenning-vaste-beloning-leden-commissie-integraal-/README.md) · 2 versies
+- [BWBR0023996 — Besluit van 5 juni 2008, nr. 08.001692, houdende de vaststelling van de toelagen voor de voorzitter en de leden van het College van Beroep voor het hoger onderwijs](besluit-vaststelling-toelagen-voorzitter-en-leden-college-va/README.md) · 2 versies
+- [BWBR0023855 — Besluit van 7 mei 2008 tot instelling van het Planbureau voor de Leefomgeving](besluit-tot-instelling-van-het-planbureau-voor-de-leefomgevi/README.md) · 1 versie
+- [BWBR0023492 — Besluit van 9 februari 2008, nr. 08.000428, houdende toekenning van een vaste beloning aan de voorzitter van de Stuurgroep Nationaal Historisch Museum (Besluit vaste beloning voorzitter Stuurgroep Nationaal Historisch Museum)](besluit-vaste-beloning-voorzitter-stuurgroep-nationaal-histo/README.md) · 2 versies

@@ -1,0 +1,69 @@
+# Pbo — 2000
+
+ELI: `/eli/nl/pbo/2000/*`
+
+- [BWBR0010837 — Besluit blindedarmmonstername 1999](besluit-blindedarmmonstername-1999/README.md) · 1 versie
+- [BWBR0011299 — Besluit correctiefactoren runderen A](besluit-correctiefactoren-runderen-a/README.md) · 1 versie
+- [BWBR0010839 — Besluit eindproductencontrole 1999](besluit-eindproductencontrole-1999/README.md) · 1 versie
+- [BWBR0010838 — Besluit houdende aanwijzing instanties en wijze toezending rapportage 1999](besluit-houdende-aanwijzing-instanties-en-wijze-toezending-r/README.md) · 2 versies
+- [BWBR0010209 — Besluit Protocollen hygiënevoorschriften kalkoenhouderij 1999](besluit-protocollen-hygi-nevoorschriften-kalkoenhouderij-199/README.md) · 3 versies
+- [BWBR0010848 — Besluit Protocollen hygiënevoorschriften pluimveehouderij 1999](besluit-protocollen-hygi-nevoorschriften-pluimveehouderij-19/README.md) · 4 versies
+- [BWBR0011106 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 19 januari 2000 tot instelling van een bedrijfscommissie voor de Reinigingsbedrijven](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-rei/README.md) · 1 versie
+- [BWBR0011107 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 19 januari 2000 tot instelling van een bedrijfscommissie voor Vervoer en Logistiek](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-ver/README.md) · 1 versie
+- [BWBR0011034 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Bouwnijverheid](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-bou/README.md) · 1 versie
+- [BWBR0011036 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Groothandel](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-gro/README.md) · 2 versies
+- [BWBR0011039 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Houtindustrie, de Industriële Groothandel in Hout en de Bosbouw](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-hou/README.md) · 1 versie
+- [BWBR0011038 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Industrie](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-ind/README.md) · 1 versie
+- [BWBR0011043 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Metaalindustrie en Elektrotechnische Industrie](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-met/README.md) · 1 versie
+- [BWBR0011042 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Voeding](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-voe/README.md) · 1 versie
+- [BWBR0011040 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Welzijnssector](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-wel/README.md) · 1 versie
+- [BWBR0011037 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor de Woningcorporaties](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-won/README.md) · 1 versie
+- [BWBR0011035 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor het Grafisch Bedrijf](besluit-tot-instelling-van-een-bedrijfscommissie-voor-het-gr/README.md) · 1 versie
+- [BWBR0011041 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 22 december 1999 tot instelling van een bedrijfscommissie voor het Wegvervoer](besluit-tot-instelling-van-een-bedrijfscommissie-voor-het-we/README.md) · 1 versie
+- [BWBR0011729 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 24 oktober 2000 tot instelling van een bedrijfscommissie voor de Dienstverlening](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-die/README.md) · 1 versie
+- [BWBR0011731 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 24 oktober 2000 tot instelling van een bedrijfscommissie voor de Handel in Vee, de Groothandel in Eieren en Eiproducten en de Eiproductenindustrie, en de Pluimveehandel en -industrie](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-han/README.md) · 1 versie
+- [BWBR0011730 — Besluit van de Bestuurskamer van de Sociaal-Economische Raad van 24 oktober 2000 tot instelling van een bedrijfscommissie voor Gesubsidieerde Arbeid](besluit-tot-instelling-van-een-bedrijfscommissie-voor-de-ges/README.md) · 1 versie
+- [BWBR0010210 — Besluit vaststelling retributiebedrag hygiënevoorschriften kalkoenhouderij 1999](besluit-vaststelling-retributiebedrag-hygi-nevoorschriften-k/README.md) · 1 versie
+- [BWBR0010833 — Besluit vaststelling retributiebedragen hygiënevoorschriften pluimveehouderij 1999](besluit-vaststelling-retributiebedragen-hygi-nevoorschriften-bwbr0010833/README.md) · 1 versie
+- [BWBR0010834 — Besluit vaststelling retributiebedragen hygiënevoorschriften pluimveeverwerkende industrie 1999](besluit-vaststelling-retributiebedragen-hygi-nevoorschriften-bwbr0010834/README.md) · 1 versie
+- [BWBR0010840 — Garnalenverordening 2000](garnalenverordening-2000/README.md) · 1 versie
+- [BWBR0010212 — Hygiënebesluit (opfok)vermeerderingsbedrijven 1999](hygi-nebesluit-opfok-vermeerderingsbedrijven-1999/README.md) · 2 versies
+- [BWBR0010211 — Hygiënebesluit kalkoenkuikenbroederijen 1999](hygi-nebesluit-kalkoenkuikenbroederijen-1999/README.md) · 1 versie
+- [BWBR0010213 — Hygiënebesluit vleeskalkoenbedrijven 1999](hygi-nebesluit-vleeskalkoenbedrijven-1999/README.md) · 2 versies
+- [BWBR0010846 — Hygiënebesluit vleeskuikenbedrijven 1999](hygi-nebesluit-vleeskuikenbedrijven-1999/README.md) · 2 versies
+- [BWBR0011962 — Meldingenbesluit slachting, weging en classificatiegegevens slachtrunderen 2000](meldingenbesluit-slachting-weging-en-classificatiegegevens-s/README.md) · 1 versie
+- [BWBR0010208 — Retributieverordening hygiënevoorschriften kalkoenhouderij 1999](retributieverordening-hygi-nevoorschriften-kalkoenhouderij-1/README.md) · 1 versie
+- [BWBR0010835 — Retributieverordening hygiënevoorschriften pluimveehouderij 1999](retributieverordering-hygi-nevoorschriften-pluimveehouderij-/README.md) · 1 versie
+- [BWBR0010832 — Retributieverordening hygiënevoorschriften pluimveeverwerkende industrie 1999](retributieverordening-hygi-nevoorschriften-pluimveeverwerken/README.md) · 1 versie
+- [BWBR0011434 — Stageverordening](stageverordening/README.md) · 2 versies
+- [BWBR0011433 — Verordening aktepapier](verordening-aktepapier/README.md) · 1 versie
+- [BWBR0011125 — Verordening Algemene Bepalingen Productschap Vis 2000](verordening-algemene-bepalingen-productschap-vis-2000/README.md) · 3 versies
+- [BWBR0011166 — Verordening benoeming notariële leden van de kamers van toezicht](verordening-benoeming-notari-le-leden-van-de-kamers-van-toez/README.md) · 1 versie
+- [BWBR0011435 — Verordening beroeps- en gedragsregels](verordening-beroeps-en-gedragsregels/README.md) · 3 versies
+- [BWBR0011165 — Verordening bevordering vakbekwaamheid](verordening-bevordering-vakbekwaamheid/README.md) · 1 versie
+- [BWBR0011164 — Verordening commissie van toezicht](verordening-commissie-van-toezicht/README.md) · 1 versie
+- [BWBR0011132 — Verordening gezondheidscontrole aangevoerde visserijproducten 2000](verordening-gezondheidscontrole-aangevoerde-visserijproducte/README.md) · 1 versie
+- [BWBR0011131 — Verordening gezondheidsvoorschriften visafslagen 2000](verordening-gezondheidsvoorschriften-visafslagen-2000/README.md) · 1 versie
+- [BWBR0011128 — Verordening gezondheidsvoorschriften vissersvaartuigen 2000](verordening-gezondheidsvoorschriften-vissersvaartuigen-2000/README.md) · 1 versie
+- [BWBR0011130 — Verordening gezondheidsvoorschriften visverwerkende bedrijven 2000](verordening-gezondheidsvoorschriften-visverwerkende-bedrijve/README.md) · 1 versie
+- [BWBR0010844 — Verordening HPA gedroogde voedergewassen 1999](verordening-hpa-gedroogde-voedergewassen-1999/README.md) · 3 versies
+- [BWBR0010331 — Verordening HPA zaaizaad 1999](verordening-hpa-zaaizaad-1999/README.md) · 2 versies
+- [BWBR0011073 — Verordening hygiënevoorschriften kalkoenhouderij 1999](verordening-hygi-nevoorschriften-kalkoenhouderij-1999/README.md) · 4 versies
+- [BWBR0010849 — Verordening hygiënevoorschriften pluimveehouderij 1999](verordening-hygi-nevoorschriften-pluimveehouderij-1999/README.md) · 4 versies
+- [BWBR0010836 — Verordening hygiënevoorschriften pluimveeverwerkende industrie 1999](verordening-hygi-nevoorschriften-pluimveeverwerkende-industr/README.md) · 3 versies
+- [BWBR0011168 — Verordening ledenraad](verordening-ledenraad/README.md) · 4 versies
+- [BWBR0010191 — Verordening op de Permanente Opleiding 2000](verordening-op-de-permanente-opleiding-2000/README.md) · 4 versies
+- [BWBR0011628 — Verordening opleiding kandidaat-notarissen](verordening-opleiding-kandidaat-notarissen/README.md) · 2 versies
+- [BWBR0011436 — Verordening overdracht protocol](verordening-overdracht-protocol/README.md) · 4 versies
+- [BWBR0011617 — Verordening PVis klachtenbehandeling](verordening-pvis-klachtenbehandeling/README.md) · 1 versie
+- [BWBR0011437 — Verordening PZ Reglement hoorprocedure bezwaarschriften](verordening-pz-reglement-hoorprocedure-bezwaarschriften/README.md) · 1 versie
+- [BWBR0011167 — Verordening ringen](verordening-ringen/README.md) · 1 versie
+- [BWBR0010944 — Verordening slachtpremie kalveren](verordening-slachtpremie-kalveren/README.md) · 6 versies
+- [BWBR0011153 — Verordening van het Bedrijfschap Natuursteenbedrijf houdende vaststelling van een bestemmingsheffing ten behoeve van de voorlichting over en voor de natuursteenbranche in het jaar 2000 (Verordening bestemmingsheffing Voorlichting 2000)](verordening-bestemmingsheffing-voorlichting-2000/README.md) · 1 versie
+- [BWBR0010608 — Verordening zelfcontrole runderen op het verbod gebruik van bepaalde stoffen](verordening-zelfcontrole-runderen-op-het-verbod-gebruik-van-/README.md) · 1 versie
+- [BWBR0010207 — Vrijstellingsbesluit hygiëne-onderzoek hanenstallen 1999](vrijstellingsbesluit-hygi-ne-onderzoek-hanenstallen-1999/README.md) · 1 versie
+- [BWBR0010845 — Vrijstellingsbesluit kleine koppels leghennen 1999](vrijstellingsbesluit-kleine-koppels-leghennen-1999/README.md) · 1 versie
+- [BWBR0010870 — Zuivelverordening 2000, Gewichtsbepaling boerderijmelk bij gebruik van rijdende melkontvangsten met volumemeetinrichting (Vb. Bo. d.d. 31 december 1999, nr. 75 PZ 15)](zuivelverordening-2000-gewichtsbepaling-bij-gebruik-van-rijd/README.md) · 2 versies
+- [BWBR0010869 — Zuivelverordening 2000, Handmatig nemen, transporteren en bewaren van monsters boerderijmelk](zuivelverordening-2000-handmatig-nemen-transporteren-en-bewa/README.md) · 3 versies
+- [BWBR0011076 — Zuivelverordening 2000, Steunverlening voor ondermelk die tot caseïne of caseïnaten wordt verwerkt](zuivelverordening-2000-steunverlening-voor-ondermelk-die-tot/README.md) · 2 versies
+- [BWBR0010719 — Zuivelverordening 2000, Uitbetaling van boerderijmelk naar kwaliteit, samenstelling en gewicht](zuivelverordening-2000-uitbetaling-van-boerderijmelk-naar-kw/README.md) · 1 versie

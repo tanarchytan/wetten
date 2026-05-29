@@ -1,0 +1,73 @@
+# Beleidsregel — 2000
+
+ELI: `/eli/nl/beleidsregel/2000/*`
+
+- [BWBR0011496 — Aanmeldingsprocedure diploma-erkenning niet bekostigde educatie opleidingen](aanmeldingsprocedure-diploma-erkenning-niet-bekostigde-educa/README.md) · 1 versie
+- [BWBR0011246 — Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs](aanpassing-rekenregels-zorgformatie-en-extra-vergoeding-mate/README.md) · 1 versie
+- [BWBR0012305 — Aanspraken op de stichting Goodwillfonds voor Huisartsen](aanspraken-op-de-stichting-goodwillfonds-voor-huisartsen/README.md) · 1 versie
+- [BWBR0021123 — Aanwijzing bemonstering en analyse milieudelicten](aanwijzing-bemonstering-en-analyse-milieudelicten/README.md) · 1 versie
+- [BWBR0021149 — Aanwijzing bestuurlijke transactie milieudelicten](aanwijzing-bestuurlijke-transactie-milieudelicten/README.md) · 1 versie
+- [BWBR0021260 — Aanwijzing coördinatie van dienstreizen naar de Nederlandse Antillen en Aruba](aanwijzing-co-rdinatie-van-dienstreizen-naar-de-nederlandse-/README.md) · 1 versie
+- [BWBR0021262 — Aanwijzing inverzekeringstelling](aanwijzing-inverzekeringstelling/README.md) · 1 versie
+- [BWBR0021590 — Aanwijzing invordering bewijzen van bevoegdheid in het kader van de Wet luchtvaart](aanwijzing-invordering-bewijzen-van-bevoegdheid-in-het-kader/README.md) · 1 versie
+- [BWBR0021300 — Aanwijzing onmiddellijke invrijheidstelling](aanwijzing-onmiddellijke-invrijheidstelling/README.md) · 1 versie
+- [BWBR0021471 — Aanwijzing paspoortsignalering](aanwijzing-paspoortsignalering/README.md) · 1 versie
+- [BWBR0021583 — Aanwijzing strafrechtelijk onderzoek bij zware ongevallen met gevaarlijke stoffen](aanwijzing-strafrechtelijk-onderzoek-bij-zware-ongevallen-me/README.md) · 1 versie
+- [BWBR0011271 — Affinanciering ouderdomspensioen op ingangsdatum prepensioen](affinanciering-ouderdomspensioen-op-ingangsdatum-prepensioen/README.md) · 1 versie
+- [BWBR0011253 — Belangstellingsregistratie applicatieopleidingen leraren svo-lom en svo-mlk](belangstellingsregistratie-applicatieopleidingen-leraren-svo/README.md) · 1 versie
+- [BWBR0011764 — Belasting zware motorrijtuigen, teruggaaf voor gecombineerd vervoer](belasting-zware-motorrijtuigen-teruggaaf-voor-gecombineerd-v/README.md) · 1 versie
+- [BWBR0011717 — Beleidsregel IGVO](beleidsregel-igvo/README.md) · 1 versie
+- [BWBR0011206 — Beleidsregels aanvraag ontheffing als bedoeld in de Wet particuliere beveiligingsorganisaties en recherchebureaus](beleidsregels-aanvraag-ontheffing-als-bedoeld-in-de-wet-part/README.md) · 1 versie
+- [BWBR0011197 — Beleidsregels effectentransacties medewerkers Senter](beleidsregels-effectentransacties-medewerkers-senter/README.md) · 1 versie
+- [BWBR0011071 — Beleidsregels handhaving termijn- en vormschriften](beleidsregels-handhaving-termijn-en-vormschriften/README.md) · 2 versies
+- [BWBR0011696 — Beleidsregels ontheffingen Wet op de Dierproeven](beleidsregels-ontheffingen-wet-op-de-dierproeven/README.md) · 1 versie
+- [BWBR0011683 — Beleidsregels van de Minister van Economische Zaken met betrekking tot de bevoegdheid inzake het verlenen van instemming met de aanwijzing van een netbeheerder bedoeld in artikel 4 van de Gaswet (Beleidsregels aanwijzing netbeheerders Gaswet)](beleidsregels-aanwijzing-netbeheerders-gaswet/README.md) · 1 versie
+- [BWBR0011486 — Beleidsregels vaststellen voorwaarden bedoeld in artikel 31 Elektriciteitswet 1998](beleidsregels-vaststellen-voorwaarden-bedoeld-in-artikel-31-/README.md) · 1 versie
+- [BWBR0011672 — Beleidsregels vaststelling subsidie Wet sociale werkvoorziening voor het jaar 2000](beleidsregels-vaststelling-subsidie-wet-sociale-werkvoorzien/README.md) · 1 versie
+- [BWBR0011215 — BTW-heffing bij terbeschikkingstelling personeel door sportservicebureaus](btw-heffing-bij-terbeschikkingstelling-personeel-door-sports/README.md) · 1 versie
+- [BWBR0011551 — BTW-tariefindeling van paardenbandages](btw-tariefindeling-van-paardenbandages/README.md) · 2 versies
+- [BWBR0012100 — Compenserende maatregelen vrachtvervoerssector](compenserende-maatregelen-vrachtvervoerssector/README.md) · 2 versies
+- [BWBR0011147 — Controlebevindingen zoeklichtactie Europees aanbesteden](resultaat-onderzoek-inzake-leidraad-voor-europees-aanbestede/README.md) · 1 versie
+- [BWBR0011252 — Elfde wijziging bepalingen en voorwaarden deelname CASO-systeem](elfde-wijziging-bepalingen-en-voorwaarden-deelname-caso-syst/README.md) · 1 versie
+- [BWBR0011870 — Geruisloze omzetting artikel 18 Wet IB 1964, artikel 3.65 Wet IB 2001, vervallen commerciële herwaardering, toepassing overgangsrecht](geruisloze-omzetting-artikel-18-wet-ib-1964-artikel-3-65-wet/README.md) · 1 versie
+- [BWBR0011711 — Gevolgen van de inwerkingtreding van de Wet IB 2001 voor besluiten die onder het regime van de Wet IB 1964 zijn vastgesteld](gevolgen-van-de-inwerkingtreding-van-de-wet-ib-2001-voor-bes/README.md) · 1 versie
+- [BWBR0011610 — Heffing van omzetbelasting met betrekking tot mixdranken](heffing-van-omzetbelasting-met-betrekking-tot-mixdranken/README.md) · 2 versies
+- [BWBR0011211 — Heffing van omzetbelasting ten aanzien van leasing](heffing-van-omzetbelasting-ten-aanzien-van-leasing/README.md) · 2 versies
+- [BWBR0011854 — Informeel kapitaal; aanzuiveren verlies voorperiode](informeel-kapitaal-aanzuiveren-verlies-voorperiode/README.md) · 1 versie
+- [BWBR0011713 — Infraroodapparatuur voor geluidsoverdracht aan slechthorenden](infraroodapparatuur-voor-geluidsoverdracht-aan-slechthorende/README.md) · 2 versies
+- [BWBR0011445 — Instandhouding van basischolen](instandhouding-van-basischolen/README.md) · 1 versie
+- [BWBR0011855 — Inwerkingtreding besluit opleidingseisen en deskundigheidsgebied optometrist](inwerkingtreding-besluit-opleidingseisen-en-deskundigheidsge/README.md) · 2 versies
+- [BWBR0011686 — Kapitaalsbelasting, toepassing van artikel 37, eerste lid, onderdeel a juncto artikel 37, tweede lid, onderdelen a, b en c, WBR, neveninbreng](kapitaalsbelasting-toepassing-van-artikel-37-eerste-lid-onde/README.md) · 1 versie
+- [BWBR0011311 — Motorrijtuigenbelasting: motorrijtuigen ingericht en uitsluitend bestemd voor het gebruik als vuilniswagen, belasting zware motorrijtuigen: huisvuilauto's](motorrijtuigenbelasting-motorrijtuigen-ingericht-en-uitsluit/README.md) · 1 versie
+- [BWBR0027996 — Ondernemerschap en gratis (gesponsorde) evenementen](ondernemerschap-en-gratis-gesponsorde-evenementen/README.md) · 1 versie
+- [BWBR0011425 — Opleiding coördinator onderbouw](opleiding-co-rdinator-onderbouw/README.md) · 1 versie
+- [BWBR0011657 — Opleiding leraar Nederlands als tweede taal in het basisonderwijs](opleiding-leraar-nederlands-als-tweede-taal-in-het-basisonde/README.md) · 1 versie
+- [BWBR0011265 — Ouderschapsverlof in het primair onderwijs](ouderschapsverlof-in-het-primair-onderwijs/README.md) · 1 versie
+- [BWBR0011577 — Overzicht normen studiefinanciering](overzicht-normen-studiefinanciering/README.md) · 1 versie
+- [BWBR0011532 — Plaatsing op landenlijst is geen voorwaarde voor toepassing van artikel 4a, derde lid, van de Wet op de dividendbelasting 1965](plaatsing-op-landenlijst-is-geen-voorwaarde-voor-toepassing-/README.md) · 1 versie
+- [BWBR0011769 — Pleitbaar standpunt en verzuimboete](pleitbaar-standpunt-en-verzuimboete/README.md) · 1 versie
+- [BWBR0011503 — Regeling getroffen voor de afhandeling van bezwaarschriften tijdens het wachten op de uitspraak in de proefprocedure](regeling-getroffen-voor-de-afhandeling-van-bezwaarschriften-/README.md) · 1 versie
+- [BWBR0011591 — Regeling suppletie FPU primair en voortgezet onderwijs en beroepsonderwijs en volwasseneneducatie](regeling-suppletie-fpu-primair-en-voortgezet-onderwijs-en-be/README.md) · 1 versie
+- [BWBR0021582 — Richtlijn voor strafvordering Bestuurlijke transactie milieudelicten](richtlijn-voor-strafvordering-bestuurlijke-transactie-milieu/README.md) · 2 versies
+- [BWBR0021422 — Richtlijn voor strafvordering vliegen onder invloed](richtlijn-voor-strafvordering-vliegen-onder-invloed/README.md) · 1 versie
+- [BWBR0011517 — Richtlijnen Financiële verslaggeving TNO](richtlijnen-financi-le-verslaggeving-tno/README.md) · 1 versie
+- [BWBR0011800 — Rulingbeleid ten aanzien van BV1/BV2 structuren](rulingbeleid-ten-aanzien-van-bv1-bv2-structuren/README.md) · 1 versie
+- [BWBR0012069 — Rulingbeleid; overgangsrecht](rulingbeleid-overgangsrecht/README.md) · 2 versies
+- [BWBR0011714 — Spuiten van papiercellulose op landbouwgrond](spuiten-van-papiercellulose-op-landbouwgrond/README.md) · 2 versies
+- [BWBR0011383 — Taak, werkwijze en samenstelling Coördinatiegroep Constructiebestrijding](taak-werkwijze-en-samenstelling-co-rdinatiegroep-constructie/README.md) · 1 versie
+- [BWBR0011520 — Tijdstip vrijwillige verbetering](tijdstip-vrijwillige-verbetering/README.md) · 1 versie
+- [BWBR0011891 — Toepassing nultarief op de levering en de verhuur van luchtvaartuigen aan een buitenlandse afnemer](toepassing-nultarief-op-de-levering-en-de-verhuur-van-luchtv/README.md) · 1 versie
+- [BWBR0011819 — Toepassing onderwijsvrijstelling op Reiki-cursussen](toepassing-onderwijsvrijstelling-op-reiki-cursussen/README.md) · 2 versies
+- [BWBR0011549 — Toepassing quota diplomatieke vrijstellingen](toepassing-quota-diplomatieke-vrijstellingen/README.md) · 1 versie
+- [BWBR0011303 — Toepassing van artikel 10 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989/artikel 12 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](toepassing-van-artikel-10-van-het-besluit-uitbreiding-en-bep/README.md) · 1 versie
+- [BWBR0011843 — Toepassing van artikel 14, lid 2, letter b, onderdeel i, van Verordening (EEG), nr. 1408/71, invulling begrip ‘werkzaamheden van ondergeschikte aard’](toepassing-van-artikel-14-lid-2-letter-b-onderdeel-i-van-ver/README.md) · 1 versie
+- [BWBR0011305 — Toepassing van artikel 22 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989/artikel 20 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 (buitenlandse studenten)](toepassing-van-artikel-22-van-het-besluit-uitbreiding-en-bep/README.md) · 1 versie
+- [BWBR0011861 — Toepassing verlaagde BTW-tarief op prestaties van discjockeys](toepassing-verlaagde-btw-tarief-op-prestaties-van-discjockey/README.md) · 2 versies
+- [BWBR0011540 — Uitstelbeleid in het kader van de invulling van het flankerend mestbeleid](uitstelbeleid-in-het-kader-van-de-invulling-van-het-flankere/README.md) · 1 versie
+- [BWBR0011842 — Verhoging flexibilisering arbeidsduur](verhoging-flexibilisering-arbeidsduur/README.md) · 1 versie
+- [BWBR0011827 — Verhoging van het algemene BTW-tarief, overgangsregeling](verhoging-van-het-algemene-btw-tarief-overgangsregeling/README.md) · 2 versies
+- [BWBR0011623 — Verhoging van het BTW-tarief, koop-/aanneemovereenkomsten](verhoging-van-het-btw-tarief-koop-aanneemovereenkomsten/README.md) · 2 versies
+- [BWBR0011614 — Verplichting CKV2,3 en examen CKV2 in 2001 en volgende jaren](verplichting-ckv2-3-en-examen-ckv2-in-2001-en-volgende-jaren/README.md) · 1 versie
+- [BWBR0011193 — Verzekeringspremies geen kosten van huishouding](verzekeringspremies-geen-kosten-van-huishouding/README.md) · 1 versie
+- [BWBR0011216 — Wijziging van het Formatiebesluit WPO per 1 augustus 2000](wijziging-van-het-formatiebesluit-wpo-per-1-augustus-2000/README.md) · 1 versie
+- [BWBR0011359 — Wijzigingen BRIN-mutatieprocedure en BRIN-mutatieformulier (BMF)](wijzigingen-brin-mutatieprocedure-en-brin-mutatieformulier-b/README.md) · 1 versie

@@ -1,0 +1,164 @@
+# Beleidsregel — 2006
+
+ELI: `/eli/nl/beleidsregel/2006/*`
+
+- [BWBR0019234 — Aanmeldings-, Transactie- en Vervolgingsrichtlijnen voor fiscale delicten en douanedelicten 2006](aanmeldings-transactie-en-vervolgingsrichtlijnen-voor-fiscal/README.md) · 1 versie
+- [BWBR0021256 — Aanwijzing bestrijding voetbalvandalisme en -geweld](aanwijzing-bestrijding-van-voetbalvandalisme-en-geweld/README.md) · 1 versie
+- [BWBR0021163 — Aanwijzing elektronisch toezicht](aanwijzing-elektronisch-toezicht/README.md) · 1 versie
+- [BWBR0021176 — Aanwijzing handelwijze geweldsaanwending (politie)ambtenaar](aanwijzing-handelwijze-geweldsaanwending-politie-ambtenaar/README.md) · 1 versie
+- [BWBR0021148 — Aanwijzing handhaving milieurecht](aanwijzing-handhaving-milieurecht/README.md) · 1 versie
+- [BWBR0021188 — Aanwijzing hoge transacties en bijzondere transacties](aanwijzing-hoge-transacties-en-bijzondere-transacties/README.md) · 1 versie
+- [BWBR0021184 — Aanwijzing inbeslagneming bij verkeersdelicten](aanwijzing-inbeslagneming-bij-verkeersdelicten/README.md) · 1 versie
+- [BWBR0021180 — Aanwijzing intellectuele-eigendomsfraude](aanwijzing-intellectuele-eigendomsfraude/README.md) · 1 versie
+- [BWBR0021287 — Aanwijzing inzake de invordering rijbewijzen](aanwijzing-inzake-de-invordering-rijbewijzen/README.md) · 3 versies
+- [BWBR0021408 — Aanwijzing mensenhandel](aanwijzing-mensenhandel/README.md) · 2 versies
+- [BWBR0021289 — Aanwijzing onderzoek rijden onder invloed](aanwijzing-onderzoek-rijden-onder-invloed/README.md) · 1 versie
+- [BWBR0037581 — Aanwijzing opsporing en vervolging bij melding van voorvallen in de burgerluchtvaart](aanwijzing-opsporing-en-vervolging-bij-melding-van-voorvalle/README.md) · 1 versie
+- [BWBR0021185 — Aanwijzing rechtshulpverzoeken voor grensoverschrijdende observatie](aanwijzing-rechtshulpverzoeken-voor-grensoverschrijdende-obs/README.md) · 1 versie
+- [BWBR0021210 — Aanwijzing strafrechtelijke aanpak schoolverzuim](aanwijzing-strafrechtelijke-aanpak-schoolverzuim/README.md) · 1 versie
+- [BWBR0021226 — Aanwijzing taken en inzet rijksrecherche](aanwijzing-taken-en-inzet-rijksrecherche/README.md) · 1 versie
+- [BWBR0021482 — Aanwijzing TBS met voorwaarden](aanwijzing-tbs-met-voorwaarden/README.md) · 1 versie
+- [BWBR0021474 — Aanwijzing toepassing opsporingsbevoegdheden en dwangmiddelen tegen advocaten](aanwijzing-toepassing-opsporingsbevoegdheden-en-dwangmiddele/README.md) · 1 versie
+- [BWBR0021203 — Aanwijzing toezeggingen aan getuigen in strafzaken](aanwijzing-toezeggingen-aan-getuigen-in-strafzaken/README.md) · 1 versie
+- [BWBR0021156 — Aanwijzing varen onder invloed](aanwijzing-varen-onder-invloed/README.md) · 1 versie
+- [BWBR0021291 — Aanwijzing vliegen onder invloed](aanwijzing-vliegen-onder-invloed/README.md) · 1 versie
+- [BWBR0019650 — Accijns, overgangsregeling in verband met de aanpassing van de accijnstarieven voor sigaretten en rooktabak met ingang van 1 april 2006](accijns-overgangsregeling-aanpassing-accijnstarieven-sigaret/README.md) · 2 versies
+- [BWBR0019714 — Accijns, rechtstreekse aflevering van goederen die onder schorsing van de accijns worden vervoerd](accijns-rechtstreekse-aflevering-van-goederen-die-onder-scho/README.md) · 2 versies
+- [BWBR0020463 — Algemeen, aspectgebied Formeel Recht, intrekking diverse beleidsbesluiten](algemeen-aspectgebied-formeel-recht-intrekking-diverse-belei/README.md) · 1 versie
+- [BWBR0020543 — Algemene wet inzake rijksbelastingen. Vaststelling modellen van uitnodigingen tot het doen van aangifte en andere formulieren (2004–2005)](algemene-wet-inzake-rijksbelastingen-vaststelling-modellen-v-bwbr0020543/README.md) · 2 versies
+- [BWBR0020542 — Algemene wet inzake rijksbelastingen. Vaststelling modellen van uitnodigingen tot het doen van aangifte en andere formulieren (2005–2006)](algemene-wet-inzake-rijksbelastingen-vaststelling-modellen-v-bwbr0020542/README.md) · 2 versies
+- [BWBR0019864 — Assurantiebelasting](assurantiebelasting/README.md) · 3 versies
+- [BWBR0019743 — Belasting op personenauto’s en motorrijwielen; afschrijvingslijn; mogelijkheid tot tegenbewijs](belasting-op-personenauto-s-en-motorrijwielen-afschrijvingsl/README.md) · 2 versies
+- [BWBR0020842 — Beleidslijn verklaringen van geen bezwaar markten in financiële instrumenten in Nederland](beleidslijn-verklaringen-van-geen-bezwaar-markten-in-financi/README.md) · 1 versie
+- [BWBR0019953 — Beleidsregel bekostiging personeelskosten bij bijzondere omstandigheden als gevolg van de invoering van de lumpsumfinanciering in het primair onderwijs](beleidsregel-bekostiging-personeelskosten-bij-bijzondere-oms/README.md) · 1 versie
+- [BWBR0019410 — Beleidsregel boeteoplegging Arbeidstijdenwet en Arbeidstijdenbesluit vervoer (wegvervoer)](beleidsregel-boeteoplegging-arbeidstijdenwet-en-arbeidstijde/README.md) · 1 versie
+- [BWBR0019991 — Beleidsregel doelmatigheid hoger onderwijs](beleidsregel-doelmatigheid-hoger-onderwijs/README.md) · 1 versie
+- [BWBR0020455 — Beleidsregel inzake de verstrekking van een tijdelijk bewijsschrift taxi ten behoeve van het verkorten van de procedure voor het verkrijgen van een chauffeurspas als bedoeld in artikel 75 van het Besluit personenvervoer 2000 (Beleidsregel tijdelijk bewijsschrift taxi)](beleidsregel-tijdelijk-bewijsschrift-taxi/README.md) · 1 versie
+- [BWBR0020292 — Beleidsregel tot vaststelling van voorwaarden die gelden tijdens de overgangsperiode na afloop van de proef met langere of langere en zwaardere vrachtautocombinaties voor ontheffingen verleend ten tijde van die proef (Beleidsregel overgangsperiode proef ontheffingverlening LZV)](beleidsregel-overgangsperiode-proef-ontheffingverlening-lzv/README.md) · 1 versie
+- [BWBR0019813 — Beleidsregel van de Minister van Economische Zaken van 28 april 2006, nr. WJZ 6032376, houdende vaststelling van de procedure en het afwegingskader voor indiening, behandeling en beoordeling van optimalisatievoorstellen van commerciële FM-vergunninghouders (Beleidsregel optimalisatie commerciële FM-vergunningen)](beleidsregel-optimalisatie-commerci-le-fm-vergunningen/README.md) · 4 versies
+- [BWBR0019641 — Beleidsregel van de Minister van Economische Zaken van 9 maart 2006, nr. WJZ 6018558, houdende de aanwijzing van een rechtspersoon als elektriciteitsbeurs en de goedkeuring van het beursreglement van een elektriciteitsbeurs](beleidsregel-aanwijzing-rechtspersoon-als-elektriciteitsbeur/README.md) · 1 versie
+- [BWBR0019248 — Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 december 2005, nr. TRCJZ/2005/3706, omtrent vaststelling van de hoogte van de ingevolge de Meststoffenwet op te leggen bestuurlijke boetes (Beleidsregel bestuurlijke boetes Meststoffenwet)](beleidsregel-bestuurlijke-boetes-meststoffenwet/README.md) · 3 versies
+- [BWBR0020139 — Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 7 augustus 2006, nr. VO/OK/2006/23591, houdende stimulering van meer sport en bewegen in het vmbo: het vak LO2 als onderdeel van het curriculum (Beleidsregel LO2 in het vmbo)](beleidsregel-lo2-in-het-vmbo/README.md) · 1 versie
+- [BWBR0018980 — Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap, van 3 november 2005, nr. AP/A&A/2005/46468 houdende ‘Tegemoetkoming kosten kinderopvang onderwijspersoneel’](tegemoetkoming-kosten-kinderopvang-onderwijspersoneel/README.md) · 1 versie
+- [BWBR0020469 — Beleidsregel van de Minister van Onderwijs,Cultuur en Wetenschap van 26 oktober 2006, nr. VO/B&B/2006/40663, houdende Criteria regionale arrangementen voor de schooljaren 2006–2007 en 2007–2008, het Toetsingskader Plan van Scholen voor de periode 2008–2010 en 2009–2011, alsmede houdende Criteria en procedures voor het verkrijgen van toestemming voor verplaatsing, omzetting, splitsing, nevenvestiging en het aanbieden van leerwegondersteunend onderwijs per 1 augustus 2007 en 1 augustus 2008 (Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008)](beleidsregel-scholenplanning-voortgezet-onderwijs-2007-en-20/README.md) · 5 versies
+- [BWBR0019976 — Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 16 juni 2006, nr. DK/AZ/2006/18843, houdende bepalingen over de wijze van uitoefening van de bevoegdheid tot lagere vaststelling of wijziging van subsidies aan cultuurinstellingen (Beleidsregel lagere vaststelling of wijziging van subsidies aan cultuurinstellingen)](beleidsregel-lagere-vaststelling-of-wijziging-van-subsidies-/README.md) · 2 versies
+- [BWBR0019691 — Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 maart 2006, nr. WJZ/2006/9035 (8187), betreffende het aanwijzen van organisaties voor monumentenbehoud, bedoeld in artikel 37 van het Besluit rijkssubsidiëring instandhouding monumenten (Beleidsregel aanwijzing organisaties voor monumentenbehoud)](beleidsregel-aanwijzing-organisaties-voor-monumentenbehoud/README.md) · 1 versie
+- [BWBR0019259 — Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 14 december 2005, nr. WJZ/2005/57236 (8180), betreffende de bevoegdheid tot het aanwijzen van onroerende monumenten als beschermd monument, bedoeld in artikel 3 van de Monumentenwet 1988 (Tijdelijke beleidsregel aanwijzing beschermde monumenten 2006)](tijdelijke-beleidsregel-aanwijzing-beschermde-monumenten-200/README.md) · 1 versie
+- [BWBR0019942 — Beleidsregels boeteoplegging wet arbeid vreemdelingen](beleidsregels-boeteoplegging-wet-arbeid-vreemdelingen-2006/README.md) · 1 versie
+- [BWBR0020580 — Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006](beleidsregels-kostenvergoeding-subsidie-milieukwaliteit-elek/README.md) · 1 versie
+- [BWBR0014570 — Beleidsregels opiumwetontheffing](beleidsregels-opiumwetontheffingen/README.md) · 1 versie
+- [BWBR0027641 — Beleidsregels toetsingkader Wet Bpf 2000](beleidsregels-toetsingkader-wet-bpf-2000/README.md) · 1 versie
+- [BWBR0020680 — Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 november 2006, nr. DGV/CB/BJZ, omtrent de uitvoering van het Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006 (Beleidsregels uitvoering Bijdragebesluit kosten opsporing en ruiming conventionele explosieven Tweede Wereldoorlog 2006)](beleidsregels-uitvoering-bijdragebesluit-kosten-opsporing-en/README.md) · 2 versies
+- [BWBR0020907 — Beleidsregels van de Minister van Economische Zaken betreffende de toepassing van artikel II van de wet van 28 juni 2006, houdende wijziging van de Elektriciteitswet 1998 in verband met enkele aanpassingen van de wijze van stimulering van de milieukwaliteit van de elektriciteitsvoorziening](beleidsregel-wijziging-elektriciteitswet-1998/README.md) · 1 versie
+- [BWBR0020232 — Besluit houdende beleidsregels omtrent openbaarmaking van controlegegevens door de VWA](besluit-houdende-beleidsregels-omtrent-openbaarmaking-van-co/README.md) · 9 versies
+- [BWBR0027946 — Besluit van 19 januari 2006, nr. CPP2006/73M](inkomstenbelasting-meewerkaftrek-meewerkbeloning/README.md) · 1 versie
+- [BWBR0020040 — Besluit van 4 juli 2006, nr. HDJZ/I&O/2006-948, Hoofddirectie Juridische Zaken, tot vaststelling van de Beleidsregels grote rivieren (Beleidsregels grote rivieren)](beleidsregels-grote-rivieren/README.md) · 19 versies
+- [BWBR0019802 — Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 april 2006, nr. TRCJZ/2006/1347, Directie Juridische Zaken, omtrent de wijze van openbaarmaking van de subsidiegegevens van het gemeenschappelijk landbouwbeleid (Beleidsregel openbaarmaking subsidiegegevens gemeenschappelijk landbouwbeleid)](beleidsregel-openbaarmaking-subsidiegegevens-gemeenschappeli/README.md) · 1 versie
+- [BWBR0019985 — Circulaire Internationaal Belastingrecht, inlichtingenuitwisseling BTW](internationaal-belastingrecht-inlichtingenuitwisseling-btw/README.md) · 2 versies
+- [BWBR0019770 — Douanerechten, rechtenvrije behandeling van geïntegreerde multichipschakelingen (MCP’s)](douanerechten-rechtenvrije-behandeling-van-ge-ntegreerde-mul/README.md) · 2 versies
+- [BWBR0019786 — Douanerechten/Indeling in de goederennomenclatuur van bepaalde LCD-monitoren](douanerechten-indeling-in-de-goederennomenclatuur-van-bepaal/README.md) · 2 versies
+- [BWBR0019504 — Fiscale behandeling van participaties van commanditaire vennoten in film-cv’s en zeescheepvaart-cv’s](fiscale-behandeling-van-participaties-van-commanditaire-venn/README.md) · 2 versies
+- [BWBR0020407 — Fiscale positie van de ambtenaren en overige personeelsleden van de Europese Gemeenschappen (2006)](fiscale-positie-van-de-ambtenaren-en-overige-personeelsleden/README.md) · 2 versies
+- [BWBR0020197 — Formeel recht, wederzijdse bijstand in belastingzaken; memorandum van overeenstemming tussen de bevoegde autoriteiten van Nederland en Spanje](formeel-recht-wederzijdse-bijstand-in-belastingzaken-memoran/README.md) · 1 versie
+- [BWBR0019811 — Gevolgen van de non-discriminatiebepalingen (België, Suriname, Nederlandse Antillen en Aruba) en het grensarbeidersprotocol (Duitsland) voor de Wet inkomstenbelasting 2001](gevolgen-van-de-non-discriminatiebepalingen-belgi-suriname-n/README.md) · 3 versies
+- [BWBR0020584 — Inkomstenbelasting, aanmerkelijk belang, verzamelbesluit](inkomstenbelasting-aanmerkelijk-belang-verzamelbesluit/README.md) · 3 versies
+- [BWBR0019513 — Inkomstenbelasting, buitengewone uitgaven, vermenigvuldigingsfactor en chronisch-ziekenforfait bij ontbreken aangifte voorgaande jaren](inkomstenbelasting-buitengewone-uitgaven-vermenigvuldigingsf/README.md) · 1 versie
+- [BWBR0019598 — Inkomstenbelasting, duurzaam gescheiden leven](inkomstenbelasting-duurzaam-gescheiden-leven/README.md) · 2 versies
+- [BWBR0019497 — Inkomstenbelasting, echtscheiding; kapitaalverzekeringen eigen woning, ‘oude’ kapitaalverzekeringen en lijfrenten](inkomstenbelasting-echtscheiding-kapitaalverzekeringen-eigen/README.md) · 2 versies
+- [BWBR0019492 — Inkomstenbelasting, eigenwoningregeling](inkomstenbelasting-eigenwoningregeling/README.md) · 2 versies
+- [BWBR0020529 — Inkomstenbelasting, eigenwoningrente](inkomstenbelasting-eigenwoningrente/README.md) · 1 versie
+- [BWBR0020667 — Inkomstenbelasting, herinvesteringsreserve](inkomstenbelasting-herinvesteringsreserve/README.md) · 4 versies
+- [BWBR0020906 — Inkomstenbelasting, intrekkingsbesluit](inkomstenbelasting-intrekkingsbesluit/README.md) · 2 versies
+- [BWBR0020589 — Inkomstenbelasting, kapitaalverzekering eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3](inkomstenbelasting-kapitaalverzekering-eigen-woning-en-v-r-2/README.md) · 3 versies
+- [BWBR0019634 — Inkomstenbelasting, landbouwvrijstelling; heretikettering per 27 juni 2000; gevolgen van de 7 mei 2004 arresten](inkomstenbelasting-landbouwvrijstelling-heretikettering-per-/README.md) · 2 versies
+- [BWBR0020493 — Inkomstenbelasting, lijfrenten, lijfrentepremieaftrek en bestaande rechten op periodieke uitkeringen](inkomstenbelasting-lijfrenten-lijfrentepremieaftrek-en-besta/README.md) · 4 versies
+- [BWBR0019222 — Inkomstenbelasting, loonheffing, autokostenforfait, autodealerbesluit 2006](inkomstenbelasting-loonheffing-autokostenforfait-autodealerb/README.md) · 1 versie
+- [BWBR0019186 — Inkomstenbelasting, overgangsrecht overbruggingslijfrenten](inkomstenbelasting-overgangsrecht-overbruggingslijfrenten/README.md) · 2 versies
+- [BWBR0019904 — Inkomstenbelasting, resultaat uit overige werkzaamheden](inkomstenbelasting-resultaat-uit-overige-werkzaamheden/README.md) · 2 versies
+- [BWBR0019635 — Inkomstenbelasting, vennootschapsbelasting, investeringsaftrek](inkomstenbelasting-vennootschapsbelasting-investeringsaftrek/README.md) · 2 versies
+- [BWBR0020782 — Inkomstenbelasting, vennootschapsbelasting, vaststelling marktrente](inkomstenbelasting-vennootschapsbelasting-vaststelling-markt/README.md) · 3 versies
+- [BWBR0020308 — Inkomstenbelasting, vennootschapsbelasting, winst (uit onderneming), resultaat uit een werkzaamheid, van aftrek uitgesloten en in aftrek beperkte kosten](inkomstenbelasting-vennootschapsbelasting-winst-uit-ondernem/README.md) · 3 versies
+- [BWBR0019512 — Inkomstenbelasting, vragen en antwoorden fiscale partnerregeling en heffingskortingen](inkomstenbelasting-vragen-en-antwoorden-fiscale-partnerregel/README.md) · 1 versie
+- [BWBR0019705 — Inkomstenbelasting, waardering van verpachte gronden in box 3](inkomstenbelasting-waardering-van-verpachte-gronden-in-box-3/README.md) · 2 versies
+- [BWBR0019754 — Inkomstenbelasting, waardering woning bij overbrenging van ondernemingsvermogen naar privé-vermogen, vice versa](inkomstenbelasting-waardering-woning-bij-overbrenging-van-on/README.md) · 3 versies
+- [BWBR0019796 — Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders](inkomstenbelasting-winst-uit-onderneming-verblijfkosten-eige/README.md) · 3 versies
+- [BWBR0019486 — Inkomstenbelasting, winst uit onderneming; vermogensetikettering](inkomstenbelasting-winst-uit-onderneming-vermogensetiketteri/README.md) · 1 versie
+- [BWBR0019432 — Inkomstenbelasting/premie volksverzekeringen, uitsmeerregeling voor na 1 januari 2001 nabetaalde inkomsten](inkomstenbelasting-premie-volksverzekeringen-uitsmeerregelin/README.md) · 1 versie
+- [BWBR0020492 — Internationaal belastingrecht, HvJ EG C-227/03; vrijwillige premies volksverzekeringen en gecombineerde inkomensheffing](internationaal-belastingrecht-hvj-eg-c-227-03-vrijwillige-pr/README.md) · 1 versie
+- [BWBR0019737 — Internationaal Belastingrecht, inlichtingenuitwisseling](internationaal-belastingrecht-inlichtingenuitwisseling/README.md) · 2 versies
+- [BWBR0018157 — Invorderingswet 1990, aansprakelijkheid verzekeraars in verband met een inkomensvoorziening, een arbeids- of beroepspensioen, een loonbelastingstamrecht of een kapitaalverzekering eigen woning](invorderingswet-1990-aansprakelijkheid-verzekeraars-in-verba/README.md) · 1 versie
+- [BWBR0019818 — Kinderopvangtoeslag, verlenging aanvraagtermijn in verband met aanpassing van de wet aan het EG-recht](kinderopvangtoeslag-verlenging-aanvraagtermijn-in-verband-me/README.md) · 1 versie
+- [BWBR0020279 — Leidraad belasting van personenauto’s en motorrijwielen 2006](leidraad-bpm-2006/README.md) · 3 versies
+- [BWBR0018362 — Loonheffing, begrip regeling voor vervroegde uittreding; afgrenzing met loonstamrechten en eenmalige ontslaguitkeringen; overgangsrecht](loonheffing-begrip-regeling-voor-vervroegde-uittreding-afgre/README.md) · 1 versie
+- [BWBR0019212 — Loonheffing, financiële regelingen bij ontslag in relatie tot het begrip regeling voor vervroegde uittreding](loonheffing-financi-le-regelingen-bij-ontslag-in-relatie-tot/README.md) · 1 versie
+- [BWBR0020062 — Loonheffingen, beleidsregels beoordeling dienstbetrekking](loonheffingen-beleidsregels-beoordeling-dienstbetrekking/README.md) · 2 versies
+- [BWBR0020790 — Loonheffingen, inkomstenbelasting, heffingsaspecten stagiairs](loonheffingen-inkomstenbelasting-heffingsaspecten-stagiairs/README.md) · 1 versie
+- [BWBR0020484 — Loonheffingen, inkomstenbelasting, privégebruik auto; accessoireregeling](loonheffingen-inkomstenbelasting-priv-gebruik-auto-accessoir/README.md) · 2 versies
+- [BWBR0019859 — Loonheffingen, intrekking diverse besluiten](loonheffingen-intrekking-diverse-besluiten/README.md) · 1 versie
+- [BWBR0020010 — Loonheffingen, levensloopregeling, terugdraaien spaarloon 2006](loonheffingen-levensloopregeling-terugdraaien-spaarloon-2006/README.md) · 1 versie
+- [BWBR0019188 — Loonheffingen, loon, vrijgesteld loon en vrije vergoedingen en verstrekkingen](loonheffingen-loon-vrijgesteld-loon-en-vrije-vergoedingen-en/README.md) · 1 versie
+- [BWBR0020042 — Loonheffingen, loonbegrip; werknemersverzekeringen; inkomensafhankelijke bijdrage Zorgverzekeringswet](loonheffingen-loonbegrip-werknemersverzekeringen-inkomensafh/README.md) · 2 versies
+- [BWBR0020497 — Loonheffingen, loonheffing, afdrachtvermindering onderwijs](loonheffingen-loonheffing-afdrachtvermindering-onderwijs/README.md) · 2 versies
+- [BWBR0020496 — Loonheffingen, loonheffing, afdrachtvermindering zeevaart](loonheffingen-loonheffing-afdrachtvermindering-zeevaart/README.md) · 2 versies
+- [BWBR0019264 — Loonheffingen, loonheffing, afdrachtverminderingen](loonheffingen-loonheffing-afdrachtverminderingen/README.md) · 1 versie
+- [BWBR0019263 — Loonheffingen, loonheffing, privé-gebruik auto](loonheffingen-loonheffing-priv-gebruik-auto/README.md) · 2 versies
+- [BWBR0020405 — Loonheffingen, pensioenopbouw; premievrijstelling bij arbeidsongeschiktheid](loonheffingen-pensioenopbouw-premievrijstelling-bij-arbeidso/README.md) · 2 versies
+- [BWBR0020321 — Loonheffingen, publicatie fiscale beoordelingen CAO-teksten](loonheffingen-publicatie-fiscale-beoordelingen-cao-teksten/README.md) · 1 versie
+- [BWBR0019187 — Loonheffingen, reiskostenvergoedingen](loonheffingen-reiskostenvergoedingen/README.md) · 2 versies
+- [BWBR0019649 — Loonheffingen, seizoenarbeiders](loonheffingen-seizoenarbeiders/README.md) · 1 versie
+- [BWBR0018961 — Loonheffingen, werknemersspaarregelingen en winstdelingsregelingen](loonheffingen-werknemersspaarregelingen-en-winstdelingsregel/README.md) · 2 versies
+- [BWBR0019183 — Loonheffingen, wijziging beloningen; cafetariaregelingen](loonheffingen-wijziging-beloningen-cafetariaregelingen/README.md) · 1 versie
+- [BWBR0019678 — Loonheffingen; vrije vergoedingen en verstrekkingen; werkgeversbijdrage kinderopvang; financiële problemen Kidsconcern](loonheffingen-vrije-vergoedingen-en-verstrekkingen-werkgever/README.md) · 2 versies
+- [BWBR0020258 — Memorandum van overeenstemming tussen het Directoraat-Generaal Belastingdienst van Nederland en de afdeling diensten van de bevoegde authoriteit van de belastingdienst van Canada voor de uitvoering van gelijktijdige boekenonderzoeken](memorandum-van-overeenstemming-tussen-het-directoraat-genera/README.md) · 2 versies
+- [BWBR0020393 — Omzetbelasting, belastingplicht commissarissen](omzetbelasting-belastingplicht-commissarissen/README.md) · 2 versies
+- [BWBR0019940 — Omzetbelasting, beroepsopleidingen, vervallen keuzemogelijkheid BTW-heffing per 1 december 2006](omzetbelasting-beroepsopleidingen-vervallen-keuzemogelijkhei-bwbr0019940/README.md) · 3 versies
+- [BWBR0019967 — Omzetbelasting, besluit Landbouw](omzetbelasting-besluit-landbouw/README.md) · 2 versies
+- [BWBR0019814 — Omzetbelasting, correctie privé-gebruik voor doorlopend wisselend gebruikte bestelauto’s; gevolgen van een wijziging in de LB-wetgeving](omzetbelasting-correctie-priv-gebruik-voor-doorlopend-wissel/README.md) · 3 versies
+- [BWBR0020241 — Omzetbelasting, intrekking diverse besluiten](omzetbelasting-intrekking-diverse-besluiten/README.md) · 3 versies
+- [BWBR0019941 — Omzetbelasting, jaaropgaaf intracommunautaire leveringen](omzetbelasting-jaaropgaaf-intracommunautaire-leveringen/README.md) · 2 versies
+- [BWBR0020599 — Omzetbelasting, vrijstelling; diensten en nauw daarmee samenhangende leveringen door werkgevers- en werknemersorganisaties aan hun leden tegen statutair vastgestelde contributie](omzetbelasting-vrijstelling-diensten-en-nauw-daarmee-samenha/README.md) · 2 versies
+- [BWBR0020216 — Omzetbelasting, vrijstelling; verstrekken van onderwijs en de nauw daarmee samenhangende leveringen en diensten](omzetbelasting-vrijstelling-verstrekken-van-onderwijs-en-de--bwbr0020216/README.md) · 3 versies
+- [BWBR0020501 — Omzetbelasting, vrijstelling; verstrekken van onderwijs en de nauw daarmee samenhangende leveringen en diensten](omzetbelasting-vrijstelling-verstrekken-van-onderwijs-en-de--bwbr0020501/README.md) · 2 versies
+- [BWBR0020217 — Omzetbelasting, vrijstelling; verzorging en verpleging van in een inrichting opgenomen personen](omzetbelasting-vrijstelling-verzorging-en-verpleging-van-in-/README.md) · 3 versies
+- [BWBR0019710 — Omzetbelasting; beroepsopleidingen; vervallen keuzemogelijkheid BTW-heffing per 1 juli 2006](omzetbelasting-beroepsopleidingen-vervallen-keuzemogelijkhei-bwbr0019710/README.md) · 1 versie
+- [BWBR0018921 — Ontwerp Plan van scholen 2006–2007–2008](ontwerp-plan-van-scholen-2006-2007-2008/README.md) · 1 versie
+- [BWBR0020437 — Ontwerp Plan van Scholen 2007–2008–2009](ontwerp-plan-van-scholen-2007-2008-2009/README.md) · 1 versie
+- [BWBR0020195 — Overdrachtsbelasting, uitgezonderde verkrijgingen](overdrachtsbelasting-uitgezonderde-verkrijgingen/README.md) · 1 versie
+- [BWBR0019865 — Overdrachtsbelasting, vrijstelling; verkrijging door rechtspersonen werkzaam in het belang van de monumentenzorg](overdrachtsbelasting-vrijstelling-verkrijging-door-rechtsper/README.md) · 3 versies
+- [BWBR0020695 — Overdrachtsbelasting/omzetbelasting, verkoop onder voorwaarden door woningcorporaties](overdrachtsbelasting-omzetbelasting-verkoop-onder-voorwaarde/README.md) · 2 versies
+- [BWBR0019995 — Regeling met België inzake ontslaguitkeringen](regeling-met-belgi-inzake-ontslaguitkeringen/README.md) · 1 versie
+- [BWBR0020128 — Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 juli 2006, nr. TRCJZ/2006/1978, houdende beleidsregels over de toepassing van het normenkader randvoorwaarden in het kader van de directe inkomenssteun aan landbouwers in het kader van het Gemeenschappelijk landbouwbeleid](beleidsregels-normenkader-randvoorwaarden-glb/README.md) · 12 versies
+- [BWBR0021543 — Richtlijn rijden onder invloed, artt. 8, leden 2 t/m 4, 162 en 163 WVW 1994](richtlijn-rijden-onder-invloed-artt-8-leden-2-t-m-4-162-en-1/README.md) · 1 versie
+- [BWBR0021450 — Richtlijn voor strafvordering intellectuele-eigendomsfraude](richtlijn-voor-strafvordering-intellectuele-eigendomsfraude/README.md) · 1 versie
+- [BWBR0021447 — Richtlijn voor strafvordering jeugd](richtlijn-voor-strafvordering-jeugd/README.md) · 1 versie
+- [BWBR0021443 — Richtlijn voor strafvordering maximum constructiesnelheid brom- en snorfietsen](richtlijn-voor-strafvordering-maximum-constructiesnelheid-br/README.md) · 1 versie
+- [BWBR0021425 — Richtlijn voor strafvordering sociale zekerheidsfraude](richtlijn-voor-strafvordering-sociale-zekerheidsfraude/README.md) · 1 versie
+- [BWBR0021417 — Richtlijn voor strafvordering strafrechtelijke aanpak schoolverzuim](richtlijn-voor-strafvordering-strafrechtelijke-aanpak-school/README.md) · 1 versie
+- [BWBR0021238 — Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor de aanvoer van niet of onjuist gedocumenteerde vreemdelingen](richtlijn-voor-strafvordering-strafrechtelijke-aansprakelijk/README.md) · 1 versie
+- [BWBR0021407 — Richtlijn voor strafvordering Tarieven en feitomschrijvingen voor misdrijven, overtredingen en gedragingen als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften](richtlijn-voor-strafvordering-tarieven-en-feitomschrijvingen/README.md) · 2 versies
+- [BWBR0019581 — Successiewet 1956, artikel 20, aftrekposten nalatenschap](successiewet-1956-artikel-20-aftrekposten-nalatenschap/README.md) · 2 versies
+- [BWBR0020534 — Successiewet 1956, bedrijfsopvolging, voortzettingswaarde, agrarische normbedragen en rekenmodule](successiewet-bedrijfsopvolging-voortzettingswaarde-agrarisch/README.md) · 2 versies
+- [BWBR0019656 — Successiewet 1956, schenking door oprichters stichting](successiewet-1956-schenking-door-oprichters-stichting/README.md) · 1 versie
+- [BWBR0020194 — Successiewet 1956, waardering](successiewet-1956-waardering/README.md) · 2 versies
+- [BWBR0019924 — Successiewet, kwijtschelding](successiewet-kwijtschelding/README.md) · 1 versie
+- [BWBR0020893 — Tijdelijke beleidsregel inzake de verstrekking van een bewijsschrift ten behoeve van de deelname aan een leer-werk-traject voor delen van het contractvervoer (Tijdelijke beleidsregel leer-werk-traject taxi)](tijdelijke-beleidsregel-leer-werk-traject-taxi/README.md) · 1 versie
+- [BWBR0020259 — Toepassing van de belastingheffing over in Nederland gevestigde visserijondernemingen die onder Belgische vlag vissen](toepassing-van-de-belastingheffing-over-in-nederland-gevesti/README.md) · 1 versie
+- [BWBR0020056 — Toeslagen, pleeggezinnen en opvang van uitgeprocedeerde alleenstaande minderjarige vreemdelingen](toeslagen-pleeggezinnen-en-opvang-van-uitgeprocedeerde-allee/README.md) · 2 versies
+- [BWBR0020435 — Toeslagen, pleegvergoeding en kinderopvangtoeslag](toeslagen-pleegvergoeding-en-kinderopvangtoeslag/README.md) · 2 versies
+- [BWBR0019417 — Vennootschapsbelasting, buitenlandse belastingplicht van niet-ondernemende verenigingen, stichtingen en kerkgenootschappen](vennootschapsbelasting-buitenlandse-belastingplicht-van-niet/README.md) · 1 versie
+- [BWBR0019614 — Vennootschapsbelasting, commanditaire vennootschap en toestemmingsvereiste](vennootschapsbelasting-commanditaire-vennootschap-en-toestem/README.md) · 2 versies
+- [BWBR0019445 — Vennootschapsbelasting, coöperaties; diverse onderwerpen](vennootschapsbelasting-co-peraties-diverse-onderwerpen/README.md) · 1 versie
+- [BWBR0019515 — Vennootschapsbelasting, deelnemingsvrijstelling; standpunten over de toepassing van de artikelen 13 e.v. Wet Vpb 1969](vennootschapsbelasting-deelnemingsvrijstelling-standpunten-o/README.md) · 2 versies
+- [BWBR0019498 — Vennootschapsbelasting, fiscale beleggingsinstellingen](vennootschapsbelasting-fiscale-beleggingsinstellingen/README.md) · 2 versies
+- [BWBR0020134 — Vennootschapsbelasting, functionele valuta](vennootschapsbelasting-functionele-valuta/README.md) · 2 versies
+- [BWBR0019711 — Vennootschapsbelasting, inkomstenbelasting, loonbelasting, zakelijkheid pensioenregeling directeur-grootaandeelhouder](vennootschapsbelasting-inkomstenbelasting-loonbelasting-zake/README.md) · 2 versies
+- [BWBR0019720 — Vennootschapsbelasting, inkomstenbelasting, waardering van VUT- en aanverwante verplichtingen](vennootschapsbelasting-inkomstenbelasting-waardering-van-vut/README.md) · 1 versie
+- [BWBR0019994 — Vennootschapsbelasting, Juridische afsplitsing; meegeven van verliezen bij einde belastingplicht afsplitsende rechtspersoon](vennootschapsbelasting-juridische-afsplitsing-meegeven-van-v/README.md) · 3 versies
+- [BWBR0019170 — Vennootschapsbelasting, omzetting fonds voor gemene rekening (beleggingsinstelling) in een NV met veranderlijk kapitaal](vennootschapsbelasting-omzetting-fonds-voor-gemene-rekening-/README.md) · 2 versies
+- [BWBR0019644 — Vennootschapsbelasting, omzetting rechtspersoon, artikel 28a](vennootschapsbelasting-omzetting-rechtspersoon-artikel-28a/README.md) · 1 versie
+- [BWBR0019401 — Vennootschapsbelasting, renteaftrekbeperkingen artikel 10a en 15ad van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-renteaftrekbeperkingen-artikel-10a-en/README.md) · 2 versies
+- [BWBR0019871 — Vennootschapsbelasting, subjectieve vrijstellingen (Artikel 5)](vennootschapsbelasting-subjectieve-vrijstellingen-artikel-5/README.md) · 3 versies
+- [BWBR0019706 — Vennootschapsbelasting; fonds voor gemene rekening](vennootschapsbelasting-fonds-voor-gemene-rekening/README.md) · 3 versies
+- [BWBR0020960 — Verrekening van bronbelasting bij dividenden uit het Verenigd Koninkrijk in verband met de Britse tax credit](verrekening-van-bronbelasting-bij-dividenden-verenigd-konink/README.md) · 2 versies
+- [BWBR0020433 — Verrekening van bronbelasting en toepassing van dooruitdelingsfaciliteit bij dividenden uit Verenigd Koninkrijk in verband met Britse tax credit](verrekening-van-bronbelasting-en-toepassing-van-dooruitdelin/README.md) · 3 versies
+- [BWBR0019514 — Wet op belastingen van rechtsverkeer, assurantiebelasting: belastingplicht aangewezen assurantietussenpersonen](wet-op-belastingen-van-rechtsverkeer-assurantiebelasting-bel/README.md) · 3 versies

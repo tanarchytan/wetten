@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0034409
+eli: /eli/nl/zbo/2014/besluit-premievaststelling-vrijwillige-verzekering-zw-2014
+type: zbo
+title: Besluit premievaststelling vrijwillige verzekering ZW 2014
+ministry: Uitvoeringsinstituut werknemersverzekeringen
+abbreviation: null
+latest_state: "2014-01-01"
+state_count: 1
+---
+
+
+# Besluit premievaststelling vrijwillige verzekering ZW 2014
+
+**BWB-id:** BWBR0034409
+**Citeertitel:** Besluit premievaststelling vrijwillige verzekering ZW 2014
+**Type:** zbo
+**Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
+**ELI:** [/eli/nl/zbo/2014/besluit-premievaststelling-vrijwillige-verzekering-zw-2014](https://wetten.ai/eli/nl/zbo/2014/besluit-premievaststelling-vrijwillige-verzekering-zw-2014)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2014-01-01 | heden | [2014-01-01.md](./2014-01-01.md) |

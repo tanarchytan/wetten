@@ -1,0 +1,21 @@
+# Amvb — 1983
+
+ELI: `/eli/nl/amvb/1983/*`
+
+- [BWBR0003766 — Besluit van 1 februari 1985, houdende toepassing van artikel 8a, tweede lid, van de Ziekenfondswet](besluit-erkenning-categorie-n-van-instellingen-ziekenfondswe/README.md) · 1 versie
+- [BWBR0003548 — Besluit van 13 december 1982, houdende aanwijzing van de gevallen waarin het bureau beheer landbouwgronden kan overgaan tot de uitgifte in erfpacht van landbouwgrond](besluit-grondbankstelsel/README.md) · 2 versies
+- [BWBR0003568 — Besluit van 14 januari 1983, houdende regelen ter uitvoering van artikel 2, derde lid, van de Wet op de Zeevaartdiploma's 1935, Stb. 456](besluit-bijzondere-verkrijging-diploma-s-kleine-handelsvaart/README.md) · 1 versie
+- [BWBR0003538 — Besluit van 15 november 1982, houdende vaststelling van de "Premieregeling en aanvullende voorzieningen beroepsmilitairen van de krijgsmacht 1982"](premieregeling-en-aanvullende-voorzieningen-beroepsmilitaire/README.md) · 11 versies
+- [BWBR0003656 — Besluit van 16 januari 1984, houdende vaststelling van een overgangsregeling minimumbezoldiging, ingaande 1 juli 1983, voor militairen der zeemacht](overgangsregeling-minimumbezoldiging-militairen-zeemacht-198/README.md) · 1 versie
+- [BWBR0003553 — Besluit van 20 december 1982, houdende de vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 22, tweede lid, van de Wet ziekenhuisvoorzieningen](besluit-informatievoorziening-artikel-22-wet-ziekenhuisvoorz/README.md) · 1 versie
+- [BWBR0003681 — Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding motorrijtuigenbelasting voor oorlogsgetroffenen](besluit-vaststelling-vergoeding-motorrijtuigenbelasting-oorl/README.md) · 1 versie
+- [BWBR0004490 — Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet](kortingsbesluit-wiv/README.md) · 11 versies
+- [BWBR0003570 — Besluit van 24 januari 1983, tot vaststelling van een nieuw Legesbesluit](legesbesluit-1983/README.md) · 1 versie
+- [BWBR0003482 — Besluit van 25 februari 1982, houdende regelen betreffende de rechtstoestand van de militaire ambtenaren van de krijgsmacht](algemeen-militair-ambtenarenreglement/README.md) · 101 versies
+- [BWBR0003589 — Besluit van 26 april 1983, tot vaststelling van een algemene maatregel van bestuur als bedoeld in, alsmede tot bepaling van het tijdstip van de inwerkingtreding van, artikel 2 van de Wet van 2 december 1982, Stb. 679, houdende bepalingen ter uitvoering van het Europees Verdrag inzake de rechtspositie van migrerende werknemers, alsmede met betrekking tot de arbeidsvoorwaarden van buitenlandse werknemers](besluit-ex-artikel-2-uitvoeringswet-europees-verdrag-inzake-/README.md) · 2 versies
+- [BWBR0003599 — Besluit van 29 juni 1983, houdende vaststelling van een minimumjeugdloonregeling](besluit-minimumjeugdloon/README.md) · 5 versies
+- [BWBR0003585 — Besluit van 29 maart 1983, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 16, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](administratiebesluit-bijzondere-ziektekostenverzekering/README.md) · 22 versies
+- [BWBR0003662 — Besluit van 3 maart 1984, houdende regels met betrekking tot de gevolgen voor het personeel van de overgang van opleidingsscholen voor kleuterleidsters en voor onderwijzers in opleidingsscholen voor leraren basisonderwijs](besluit-gevolgen-voor-personeel-van-overgang-opleidingsschol/README.md) · 1 versie
+- [BWBR0003633 — Besluit van 3 november 1983, houdende regelen inzake kwaliteitsdoelstellingen en metingen oppervlaktewateren](besluit-kwaliteitseisen-en-monitoring-water/README.md) · 7 versies
+- [BWBR0003510 — Besluit van 30 juli 1982, houdende voorschriften waaraan dagverblijven voor gehandicapten voor het verkrijgen van een erkenning moeten voldoen](besluit-erkenningsnormen-dagverblijven-voor-gehandicapten/README.md) · 1 versie
+- [BWBR0003511 — Besluit van 30 juli 1982, houdende voorschriften waaraan gezinsvervangende tehuizen voor gehandicapten voor het verkrijgen van een erkenning moeten voldoen](besluit-erkenningsnormen-gezinsvervangende-tehuizen-voor-geh/README.md) · 1 versie

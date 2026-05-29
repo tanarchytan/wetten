@@ -1,0 +1,69 @@
+# Beleidsregel — 1999
+
+ELI: `/eli/nl/beleidsregel/1999/*`
+
+- [BWBR0010679 — Aanwijzing COTG als instantie vaststelling beleidsregels stimulansopbrengsten apotheekhoudenden](aanwijzing-cotg-als-instantie-vaststelling-beleidsregels-sti/README.md) · 1 versie
+- [BWBR0010431 — Aftrekbaarheid van vrijwillig aan pensioenfondsen betaalde premies](aftrekbaarheid-van-vrijwillig-aan-pensioenfondsen-betaalde-p/README.md) · 1 versie
+- [BWBR0010358 — Belaste verhuur van onroerende zaken](belaste-verhuur-van-onroerende-zaken/README.md) · 1 versie
+- [BWBR0010578 — Beleidsregel niet-industriële hulparbeid van lichte aard](beleidsregel-niet-industri-le-hulparbeid-van-lichte-aard/README.md) · 1 versie
+- [BWBR0010650 — Beleidsregels aanwijzing netbeheerders](beleidsregels-aanwijzing-netbeheerders/README.md) · 1 versie
+- [BWBR0010788 — Beleidsregels bestuurlijke boeten Bureau Heffingen 1999](beleidsregels-bestuurlijke-boeten-bureau-heffingen-1999/README.md) · 1 versie
+- [BWBR0010437 — Beleidsregels incident management Rijkswaterstaat](beleidsregels-incident-management-rijkswaterstaat/README.md) · 4 versies
+- [BWBR0027807 — Besluit staatssecretaris van Financiën 20 september 1999, nr. IFZ99/1044](positie-short-term-consultants-bij-de-wereldbank/README.md) · 1 versie
+- [BWBR0010641 — BPM, teruggaaf rolstoelvervoer bejaardentehuizen](bpm-teruggaaf-rolstoelvervoer-bejaardentehuizen/README.md) · 1 versie
+- [BWBR0010584 — Buitenreguliere telling c.q. eerste schooldagtelling](buitenreguliere-telling-c-q-eerste-schooldagtelling/README.md) · 1 versie
+- [BWBR0010557 — Centrale examens profielen havo en vwo en oude stijl](centrale-examens-profielen-havo-en-vwo-en-oude-stijl/README.md) · 1 versie
+- [BWBR0010753 — Heffing van omzetbelasting bij huurgaranties](heffing-van-omzetbelasting-bij-huurgaranties/README.md) · 1 versie
+- [BWBR0011065 — Heffing van omzetbelasting met betrekking tot cadeaubonnen](heffing-van-omzetbelasting-met-betrekking-tot-cadeaubonnen/README.md) · 1 versie
+- [BWBR0011019 — Heffing van omzetbelasting met betrekking tot kinderopvang](heffing-van-omzetbelasting-met-betrekking-tot-kinderopvang/README.md) · 2 versies
+- [BWBR0010675 — Heffing van omzetbelasting met betrekking tot tandtechnische werken](heffing-van-omzetbelasting-met-betrekking-tot-tandtechnische/README.md) · 2 versies
+- [BWBR0027998 — Intracommunautaire vervoer van communautaire goederen over zee is belast](intracommunautaire-vervoer-van-communautaire-goederen-over-z/README.md) · 2 versies
+- [BWBR0010537 — Invoering open vragen moderne vreemde talen bij de centrale examens vbo, havo en vwo](invoering-open-vragen-moderne-vreemde-talen-bij-de-centrale-/README.md) · 1 versie
+- [BWBR0010926 — Kostprijs van aandelen indien de situatie van deelnemingsvrijstelling verandert in niet-deelnemingsvrijstelling en andersom](kostprijs-van-aandelen-indien-de-situatie-van-deelnemingsvri/README.md) · 2 versies
+- [BWBR0010698 — Levering en verhuur van onroerende zaken aan diplomatieke instelling en internationale organisaties](levering-en-verhuur-van-onroerende-zaken-aan-diplomatieke-in/README.md) · 1 versie
+- [BWBR0028088 — Mededeling m.b.t. India, meestbegunstingsclausules](mededeling-m-b-t-india-meestbegunstingsclausules/README.md) · 2 versies
+- [BWBR0010708 — Motorrijtuigenbelasting, bevestigingspunten veiligheidsgordels in laadruimte bestelauto](motorrijtuigenbelasting-bevestigingspunten-veiligheidsgordel/README.md) · 1 versie
+- [BWBR0010749 — Negatieve voorlopige aanslag bij volledige beëindiging belasting- en premieplicht](negatieve-voorlopige-aanslag-bij-volledige-be-indiging-belas/README.md) · 1 versie
+- [BWBR0010538 — Normering en schaallengte bij de centrale examens vbo, mavo, havo en vwo met ingang van het jaar 2000](normering-en-schaallengte-bij-de-centrale-examens-vbo-mavo-h/README.md) · 1 versie
+- [BWBR0010503 — Omscholing algemene natuurwetenschappen (anw)](omscholing-algemene-natuurwetenschappen-anw/README.md) · 1 versie
+- [BWBR0028042 — Omzetbelasting, integratieheffing bij privaatrechtelijke onderwijsinstellingen](omzetbelasting-integratieheffing-bij-privaatrechtelijke-onde/README.md) · 1 versie
+- [BWBR0010263 — Onderwijsbevoegdheid culturele en kunstzinnige vorming 1 (CKV1)](onderwijsbevoegdheid-culturele-en-kunstzinnige-vorming-1-ckv/README.md) · 1 versie
+- [BWBR0010550 — Rapport inzake actuariële premiesplitsing; termijnverlenging overgangsregeling](rapport-inzake-actuari-le-premiesplitsing-termijnverlenging-/README.md) · 1 versie
+- [BWBR0021606 — Richtlijn voor strafvordering ambtsdwang](richtlijn-voor-strafvordering-ambtsdwang/README.md) · 4 versies
+- [BWBR0021519 — Richtlijn voor strafvordering bedreiging](richtlijn-voor-strafvordering-bedreiging/README.md) · 3 versies
+- [BWBR0021509 — Richtlijn voor strafvordering beletten, belemmeren of verijdelen van een ambtshandeling](richtlijn-voor-strafvordering-beletten-belemmeren-of-verijde/README.md) · 4 versies
+- [BWBR0021497 — Richtlijn voor strafvordering bromfiets(en)diefstal](richtlijn-voor-strafvordering-bromfiets-en-diefstal/README.md) · 3 versies
+- [BWBR0022059 — Richtlijn voor strafvordering diefstal (motor-) voertuigen](richtlijn-voor-strafvordering-diefstal-motor-voertuigen/README.md) · 3 versies
+- [BWBR0035076 — Richtlijn voor strafvordering discriminatie](richtlijn-voor-strafvordering-discriminatie/README.md) · 4 versies
+- [BWBR0032116 — Richtlijn voor strafvordering eenvoudige diefstal](richtlijn-voor-strafvordering-eenvoudige-diefstal/README.md) · 3 versies
+- [BWBR0021239 — Richtlijn voor strafvordering fiets(en)diefstal](richtlijn-voor-strafvordering-fiets-en-diefstal/README.md) · 3 versies
+- [BWBR0021504 — Richtlijn voor strafvordering heling](richtlijn-voor-strafvordering-heling/README.md) · 2 versies
+- [BWBR0021506 — Richtlijn voor strafvordering huisvredebreuk/lokaalvredebreuk](richtlijn-voor-strafvordering-huisvredebreuk-lokaalvredebreu/README.md) · 5 versies
+- [BWBR0021453 — Richtlijn voor strafvordering inbraak, verbreking](richtlijn-voor-strafvordering-inbraak-verbreking/README.md) · 3 versies
+- [BWBR0021449 — Richtlijn voor strafvordering lasterlijke aanklacht](richtlijn-voor-strafvordering-lasterlijke-aanklacht/README.md) · 6 versies
+- [BWBR0021445 — Richtlijn voor strafvordering mishandeling](richtlijn-voor-strafvordering-mishandeling/README.md) · 3 versies
+- [BWBR0021432 — Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d.](richtlijn-voor-strafvordering-motorrijtuig-doen-besturen-tij/README.md) · 1 versie
+- [BWBR0021489 — Richtlijn voor strafvordering niet voldoen aan ambtelijk bevel](richtlijn-voor-strafvordering-niet-voldoen-aan-ambtelijk-bev/README.md) · 4 versies
+- [BWBR0021601 — Richtlijn voor strafvordering openlijke geweldpleging](richtlijn-voor-strafvordering-openlijke-geweldpleging/README.md) · 8 versies
+- [BWBR0032273 — Richtlijn voor strafvordering opruiing](richtlijn-voor-strafvordering-opruiing/README.md) · 4 versies
+- [BWBR0021420 — Richtlijn voor strafvordering schennis der eerbaarheid](richtlijn-voor-strafvordering-schennis-der-eerbaarheid/README.md) · 3 versies
+- [BWBR0021421 — Richtlijn voor strafvordering smaad, smaadschrift](richtlijn-voor-strafvordering-smaad-smaadschrift/README.md) · 5 versies
+- [BWBR0021401 — Richtlijn voor strafvordering valse aangifte](richtlijn-voor-strafvordering-valse-aangifte/README.md) · 3 versies
+- [BWBR0021398 — Richtlijn voor strafvordering valsheid in geschrift](richtlijn-voor-strafvordering-valsheid-in-geschrift/README.md) · 3 versies
+- [BWBR0021403 — Richtlijn voor strafvordering verduistering](richtlijn-voor-strafvordering-verduistering/README.md) · 3 versies
+- [BWBR0021600 — Richtlijn voor strafvordering verlaten plaats ongeval](richtlijn-voor-strafvordering-verlaten-plaats-ongeval/README.md) · 2 versies
+- [BWBR0021701 — Richtlijn voor strafvordering vernieling](richtlijn-voor-strafvordering-vernieling/README.md) · 7 versies
+- [BWBR0021597 — Richtlijn voor strafvordering verzet bij aanhouding](richtlijn-voor-strafvordering-verzet-bij-aanhouding/README.md) · 1 versie
+- [BWBR0021512 — Richtlijn voor strafvordering Wet wapens en munitie](richtlijn-voor-strafvordering-wet-wapens-en-munitie/README.md) · 2 versies
+- [BWBR0021516 — Richtlijn voor strafvordering winkeldiefstal](richtlijn-voor-strafvordering-winkeldiefstal/README.md) · 3 versies
+- [BWBR0028046 — Toepassing nultarief bij accijnsgoederen](toepassing-nultarief-bij-accijnsgoederen/README.md) · 1 versie
+- [BWBR0010541 — Toepassing oudedagsvrijstelling bij WUV-uitkering](toepassing-oudedagsvrijstelling-bij-wuv-uitkering/README.md) · 1 versie
+- [BWBR0011521 — Toepassing van de gezamenlijke methode bij de verrekening van buitenlandse bronbelasting onder de Verdragen en de BRK](toepassing-van-de-gezamenlijke-methode-bij-de-verrekening-va/README.md) · 2 versies
+- [BWBR0010649 — Toestemming statutenwijziging pensioen BV](toestemming-statutenwijziging-pensioen-bv/README.md) · 1 versie
+- [BWBR0010620 — Vaknamen en vakcodes voor havo/vwo](vaknamen-en-vakcodes-voor-havo-vwo/README.md) · 1 versie
+- [BWBR0015273 — Vennootschapsbelasting, pensioen; knip in de opbouw van pensioenrechten](vennootschapsbelasting-pensioen-knip-in-de-opbouw-van-pensio/README.md) · 1 versie
+- [BWBR0011058 — Verlaagd BTW-tarief op arbeidsintensieve diensten](verlaagd-btw-tarief-op-arbeidsintensieve-diensten/README.md) · 2 versies
+- [BWBR0010818 — Voorlichting over de regeling toelagen schoolleiding basisscholen](voorlichting-over-de-regeling-toelagen-schoolleiding-basissc/README.md) · 1 versie
+- [BWBR0010559 — Voorschrift inzake de samenwerking van de Belastingdienst met andere bestuursorganen buiten de opsporing](voorschrift-inzake-de-samenwerking-van-de-belastingdienst-me/README.md) · 1 versie
+- [BWBR0010910 — Vragen en antwoorden vaststelling verliezen vennootschapsbelasting](vragen-en-antwoorden-vaststelling-verliezen-vennootschapsbel/README.md) · 1 versie
+- [BWBR0010761 — Vrijstelling in de motorrijtuigenbelasting en de belasting zware motorrijtuigen voor motorrijtuigen voor de wegenbouw](vrijstelling-in-de-motorrijtuigenbelasting-en-de-belasting-z/README.md) · 1 versie

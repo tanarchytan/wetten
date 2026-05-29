@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0011501
+eli: /eli/nl/ministeriele-regeling/2000/regeling-typegoedkeuring-besluit-vluchtige-organische-stoffe
+type: ministeriele-regeling
+title: Regeling typegoedkeuring Besluit vluchtige organische stoffen Wms 2000
+ministry: Infrastructuur en Milieu
+abbreviation: null
+latest_state: "2000-08-02"
+state_count: 1
+---
+
+
+# Regeling typegoedkeuring Besluit vluchtige organische stoffen Wms 2000
+
+**BWB-id:** BWBR0011501
+**Citeertitel:** Regeling typegoedkeuring Besluit vluchtige organische stoffen Wms 2000
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Infrastructuur en Milieu
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-typegoedkeuring-besluit-vluchtige-organische-stoffe](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-typegoedkeuring-besluit-vluchtige-organische-stoffe)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2000-08-02 | 2006-04-27 | [2000-08-02.md](./2000-08-02.md) |

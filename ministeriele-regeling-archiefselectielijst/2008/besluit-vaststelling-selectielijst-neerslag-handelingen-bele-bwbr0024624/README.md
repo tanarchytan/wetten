@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0024624
+eli: /eli/nl/ministeriele-regeling-archiefselectielijst/2008/besluit-vaststelling-selectielijst-neerslag-handelingen-bele-bwbr0024624
+type: ministeriele-regeling-archiefselectielijst
+title: Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Coördinatie, handhaving en crisisbeheersing vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)
+ministry: Onderwijs, Cultuur en Wetenschap
+abbreviation: null
+latest_state: "2008-10-24"
+state_count: 1
+---
+
+
+# Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Coördinatie, handhaving en crisisbeheersing vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)
+
+**BWB-id:** BWBR0024624
+**Citeertitel:** Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Coördinatie, handhaving en crisisbeheersing vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)
+**Type:** ministeriele-regeling-archiefselectielijst
+**Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
+**ELI:** [/eli/nl/ministeriele-regeling-archiefselectielijst/2008/besluit-vaststelling-selectielijst-neerslag-handelingen-bele-bwbr0024624](https://wetten.ai/eli/nl/ministeriele-regeling-archiefselectielijst/2008/besluit-vaststelling-selectielijst-neerslag-handelingen-bele-bwbr0024624)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2008-10-24 | heden | [2008-10-24.md](./2008-10-24.md) |

@@ -1,0 +1,26 @@
+---
+bwb_id: BWBR0039281
+eli: /eli/nl/zbo/2017/cusumsysteem-erkenninghouder-gasinstallaties-2017
+type: zbo
+title: Cusumsysteem Erkenninghouder Gasinstallaties 2017
+ministry: Dienst Wegverkeer
+abbreviation: null
+latest_state: "2020-02-19"
+state_count: 2
+---
+
+
+# Cusumsysteem Erkenninghouder Gasinstallaties 2017
+
+**BWB-id:** BWBR0039281
+**Citeertitel:** Cusumsysteem Erkenninghouder Gasinstallaties 2017
+**Type:** zbo
+**Verantwoordelijk ministerie:** Dienst Wegverkeer
+**ELI:** [/eli/nl/zbo/2017/cusumsysteem-erkenninghouder-gasinstallaties-2017](https://wetten.ai/eli/nl/zbo/2017/cusumsysteem-erkenninghouder-gasinstallaties-2017)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2020-02-19 | heden | [2020-02-19.md](./2020-02-19.md) |
+| 2017-04-01 | 2020-02-18 | [2017-04-01.md](./2017-04-01.md) |

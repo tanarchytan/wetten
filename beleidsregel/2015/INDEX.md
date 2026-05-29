@@ -1,0 +1,148 @@
+# Beleidsregel — 2015
+
+ELI: `/eli/nl/beleidsregel/2015/*`
+
+- [BWBR0042118 — Aanvraagprocedure diploma-erkenning bol/bbl voor niet bekostigde instellingen voor het beroepsonderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap](aanvraagprocedure-diploma-erkenning-bol-bbl-voor-niet-bekost/README.md) · 1 versie
+- [BWBR0042112 — Aanvraagprocedure diploma-erkenning voor opleidingen Nederlandse taal en/of rekenen (overige educatie), Ministerie van Onderwijs, Cultuur en Wetenschap](aanvraagprocedure-diploma-erkenning-voor-opleidingen-nederla/README.md) · 1 versie
+- [BWBR0037213 — Aanwijzing bestrijding voetbalvandalisme en voetbalgerelateerd geweld](aanwijzing-bestrijding-voetbalvandalisme-en-voetbalgerelatee/README.md) · 1 versie
+- [BWBR0036754 — Aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting als massaal bezwaar](aanwijzing-bezwaarschriften-tegen-aanslagen-inkomstenbelasti/README.md) · 2 versies
+- [BWBR0036644 — Aanwijzing binnenvaart](aanwijzing-binnenvaart/README.md) · 1 versie
+- [BWBR0036027 — Aanwijzing executie](aanwijzing-executie/README.md) · 3 versies
+- [BWBR0036001 — Aanwijzing feitgecodeerde misdrijven, overtredingen en muldergedragingen](aanwijzing-feitgecodeerde-misdrijven-overtredingen-en-mulder/README.md) · 1 versie
+- [BWBR0036337 — Aanwijzing kader voor strafvordering en OM-afdoeningen](aanwijzing-kader-voor-strafvordering-en-om-afdoeningen/README.md) · 1 versie
+- [BWBR0036887 — Aanwijzing meting maximumconstructiesnelheid](aanwijzing-meting-maximumconstructiesnelheid/README.md) · 1 versie
+- [BWBR0036473 — Aanwijzing meting snelheidsoverschrijdingen](aanwijzing-meting-snelheidsoverschrijdingen/README.md) · 1 versie
+- [BWBR0036485 — Aanwijzing OM-strafbeschikking](aanwijzing-om-strafbeschikking/README.md) · 1 versie
+- [BWBR0036356 — Aanwijzing Opiumwet](aanwijzing-opiumwet/README.md) · 1 versie
+- [BWBR0037582 — Aanwijzing voorwaardelijke vrijheidsstraffen en schorsing van voorlopige hechtenis onder voorwaarden](aanwijzing-voorwaardelijke-vrijheidsstraffen-en-schorsing-va/README.md) · 1 versie
+- [BWBR0036517 — Belastingen op milieugrondslag](belastingen-op-milieugrondslag/README.md) · 4 versies
+- [BWBR0036572 — Belastingverdragen, OESO-commentaar op artikel 15 en 17 OESO-modelverdrag, ontslagvergoedingen in grensoverschrijdende situaties, publieksgericht optreden](belastingverdragen-oeso-commentaar-op-artikel-15-en-17-oeso-/README.md) · 1 versie
+- [BWBR0037416 — Beleidsregel Belastingverdragen Duitsland](beleidsregel-belastingverdragen-duitsland/README.md) · 1 versie
+- [BWBR0037402 — Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 14 december 2015, nr. 765423 houdende de wijze waarop de bevoegdheid tot het ontnemen van rechten ten aanzien van een beroepsopleiding wordt uitgeoefend indien niet of niet meer wordt voldaan aan de zorgenplichten, omschreven in artikel 6.1.3 van de Wet educatie en beroepsonderwijs](beleidsregel-macrodoelmatigheid-beroepsonderwijs/README.md) · 6 versies
+- [BWBR0036824 — Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2015, nr. WJZ/785850 (10601), over het erkennen van buiten Nederland gelegen monumenten die verband houden met het Nederlands cultureel erfgoed en die voldoen aan de criteria voor aanwijzing als rijksmonument, in verband met aftrek van uitgaven voor die monumenten in de inkomstenbelasting (Beleidsregel erkenning tot het Nederlands cultureel erfgoed behorende monumenten gelegen buiten Nederland)](beleidsregel-erkenning-tot-het-nederlands-cultureel-erfgoed-/README.md) · 2 versies
+- [BWBR0036900 — Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid, nr. 2015-0000174557, van 22 juli 2015, houdende vaststelling van een Beleidsregel inzake het handhaving- en sanctioneringskader van het Besluit risico’s zware ongevallen 2015 onderdeel arbeidsomstandighedenwetgeving (Beleidsregel handhaving- en sanctioneringkader Besluit risico’s zware ongevallen 2015 arbeidsomstandighedenwetgeving)](beleidsregel-handhaving-en-sanctioneringkader-besluit-risico/README.md) · 1 versie
+- [BWBR0037247 — Beleidsregel van de Minister voor Wonen en Rijksdienst van 27 november 2015, nr. 2015-00000659798 inzake het toestaan van experimenten op grond van artikel 125 van het Besluit toegelaten instellingen volkshuisvesting 2015 omtrent het uitvoeren van diensten door toegelaten instellingen ten behoeve van bewoners van voorzieningen in het kader van de huisvesting van vergunninghouders (Beleidsregel experiment huisvesting vergunninghouders)](beleidsregel-experiment-huisvesting-vergunninghouders/README.md) · 2 versies
+- [BWBR0036628 — Beleidsregel van de Staatssecretaris van Economische Zaken van 17 mei 2015, nr. WJZ/15049075, houdende regels over de toepassing van artikel 4.8. van de Uitvoeringsregeling rechtstreekse betalingen GLB](beleidsregel-uitvoeringsregeling-rechtstreekse-betalingen-gl/README.md) · 13 versies
+- [BWBR0036582 — Beleidsregel van de Staatssecretaris van Economische Zaken van 30 april 2015, nr. WJZ / 15058568, betreffende het opleggen van een herstelsanctie voor overtredingen die verband houden met de visserij op het IJsselmeer (Beleidsregel herstelsanctie IJsselmeer)](beleidsregel-herstelsanctie-ijsselmeer/README.md) · 1 versie
+- [BWBR0037272 — Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 1 december 2015, nr. IENM/ILT-2015/47411, houdende vaststelling van beleid inzake de kwalificatie van verontreinigd papier-, kunststof- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EG) Nr. 1013/2006 van het Europees Parlement en Raad van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU 2006, L 190)](beleidsregel-bestuursrechtelijke-handhaving-verontreinigd-pa/README.md) · 1 versie
+- [BWBR0036525 — Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 9 april 2015 nr. IENM/BSK-2015/69273, betreffende het verwerven van woningen langs basisnetroutes](beleidsregel-verwerven-van-woningen-langs-basisnetroutes/README.md) · 1 versie
+- [BWBR0036965 — Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 augustus 2015, nr. VO/794653, houdende nadere regels voor het aanbieden van versneld vwo en/of verrijkt vwo voor talentvolle leerlingen in het voortgezet onderwijs (Beleidsregel versneld vwo en/of verrijkt vwo)](beleidsregel-versneld-vwo-en-of-verrijkt-vwo/README.md) · 2 versies
+- [BWBR0035841 — Beleidsregel watervergunningverlening waterkrachtcentrales in rijkswateren](beleidsregel-watervergunningverlening-waterkrachtcentrales-i/README.md) · 1 versie
+- [BWBR0036694 — Beleidsregels Buitengewoon Opsporingsambtenaar](beleidsregels-buitengewoon-opsporingsambtenaar/README.md) · 1 versie
+- [BWBR0036875 — Beleidsregels financieel toezicht Autoriteit woningcorporaties 2015](beleidsregels-financieel-toezicht-autoriteit-woningcorporati-bwbr0036875/README.md) · 2 versies
+- [BWBR0037365 — Beleidsregels financieel toezicht Autoriteit woningcorporaties 2016](beleidsregels-financieel-toezicht-autoriteit-woningcorporati-bwbr0037365/README.md) · 1 versie
+- [BWBR0037350 — Beleidsregels financiële sanering toegelaten instellingen 2016](beleidsregels-financi-le-sanering-toegelaten-instellingen-20/README.md) · 2 versies
+- [BWBR0036480 — Beleidsregels van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 5 september 2012, nr. 2012-0000515185 ter uitvoering van het Besluit beheer sociale-huursector inzake het gebruik van financiële derivaten door toegelaten instellingen als bedoeld in artikel 70 van de Woningwet (Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting)](beleidsregels-gebruik-financi-le-derivaten-door-toegelaten-i/README.md) · 1 versie
+- [BWBR0036199 — Beleidsregels van de Minister voor Wonen en Rijksdienst van 27 januari 2015, nr. 2014-0000068292 ter uitvoering van het Besluit beheer sociale-huursector inzake het beleggen door toegelaten instellingen als bedoeld in artikel 70 van de Woningwet (Beleidsregels verantwoord beleggen door toegelaten instellingen volkshuisvesting)](beleidsregels-verantwoord-beleggen-door-toegelaten-instellin/README.md) · 1 versie
+- [BWBR0036878 — Beleidsregels van de Staatssecretaris van Infrastructuur en Milieu, betreffende het beoordelingskader voor wijzigingen in functionele systemen van de Luchtverkeersleiding Nederland en het daarbij te borgen veiligheidsniveau (Beleidsregels veiligheidsnormen ATC)](beleidsregels-veiligheidsnormen-atc/README.md) · 1 versie
+- [BWBR0036372 — Beleidsregels van de Staatssecretaris van Veiligheid en Justitie van 3 maart 2015, kenmerk 620266, omtrent de vergoeding van een verklaring omtrent het gedrag voor vrijwilligers (Beleidsregels vergoeding verklaring omtrent het gedrag voor vrijwilligers)](beleidsregels-vergoeding-verklaring-omtrent-het-gedrag-voor-/README.md) · 3 versies
+- [BWBR0036630 — Beleidsregels van de Staatssecretaris van Veiligheid en Justitie, de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid van 18 mei 2015, nummer 644356, tot besteding van de gelden uit het Europese Fonds voor asiel, migratie en integratie en het Fonds voor interne veiligheid (instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit, en crisisbeheersing en instrument voor financiële steun voor de buitengrenzen en visa) (Beleidsregels AMIF en ISF 2014–2020)](beleidsregels-amif-en-isf-2014-2020/README.md) · 25 versies
+- [BWBR0036880 — Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten](besluit-bekendmaking-intensivering-spontane-inlichtingenuitw/README.md) · 1 versie
+- [BWBR0036053 — Besluit Bestuurlijke Boeten Belastingdienst](besluit-bestuurlijke-boeten-belastingdienst-bwbr0036053/README.md) · 1 versie
+- [BWBR0036757 — Besluit Bestuurlijke Boeten Belastingdienst](besluit-bestuurlijke-boeten-belastingdienst-bwbr0036757/README.md) · 1 versie
+- [BWBR0036170 — Besluit Fiscaal Bestuursrecht](besluit-fiscaal-bestuursrecht/README.md) · 1 versie
+- [BWBR0036559 — Besluit tot vervanging personeelsdocumenten/dossiers (P-documenten) DUO](besluit-directeur-generaal-duo-betreffende-vervanging-person/README.md) · 1 versie
+- [BWBR0037122 — Besluit van de directeur-generaal DUO van 13 oktober 2015, nr. 834092, tot het stellen van nadere eisen bij het schriftelijk indienen van verzoeken en gebruik van de elektronische weg bij verzoeken op grond van Wet openbaarheid van bestuur](besluit-tot-het-stellen-van-nadere-eisen-bij-het-schriftelij/README.md) · 1 versie
+- [BWBR0036058 — Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 december 2014, nr. 2014-0000645180, houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector met ingang van 1 januari 2015 (Beleidsregels toepassing WNT 2015)](beleidsregels-toepassing-wnt-2015/README.md) · 1 versie
+- [BWBR0036617 — Besluit van de Minister van Economische Zaken van 11 mei 2015, nr. WJZ/15062267, houdende beleidsregel inzake de toepassing door de Autoriteit Consument en Markt van artikel 7.4a van de Telecommunicatiewet (Beleidsregel netneutraliteit)](beleidsregel-netneutraliteit/README.md) · 1 versie
+- [BWBR0035848 — Besluit van de Minister van Infrastructuur en Milieu van 2 december 2014, nr. IENM/BSK-2014/255126, houdende vaststelling van beleidsregels tot uitvoering van hoofdstuk IIA van de Wegenverkeerswet 1994 (Beleidsregel aanwijzing bijzondere bromfietsen)](beleidsregel-aanwijzing-bijzondere-bromfietsen/README.md) · 3 versies
+- [BWBR0035601 — Besluit van de Minister van Infrastructuur en Milieu, van 3 september 2014, nr. IENM/BSK-2014/89247 tot vaststelling van beleid ten aanzien van de beoordeling van externe veiligheid bij de vaststelling van tracébesluiten voor de aanleg of wijziging van landelijke infrastructuur en van verkeersbesluiten (Beleidsregels EV-beoordeling tracébesluiten)](beleidsregels-ev-beoordeling-trac-besluiten/README.md) · 1 versie
+- [BWBR0036789 — Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 26 juni 2015, nr. 2015-0000162983, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2015](beleidsregel-boeteoplegging-wet-arbeid-vreemdelingen-2015/README.md) · 5 versies
+- [BWBR0036107 — Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 december 2014, kenmerk 696876-130455-IGZ, houdende de vaststelling van beleidsregels inzake het opleggen van bestuurlijke boetes (Beleidsregels bestuurlijke boete Minister VWS)](beleidsregels-bestuurlijke-boete-minister-vws/README.md) · 1 versie
+- [BWBR0036768 — Besluit van de Staatssecretaris van Infrastructuur en Milieu houdende beleidsregels omtrent personeel als bedoeld in de Spoorwegwet](beleidsregel-personeel-spoorwegwet/README.md) · 2 versies
+- [BWBR0037148 — Directe belastingen, internationale inlichtingenuitwisseling; Curaçao](directe-belastingen-internationale-inlichtingenuitwisseling--bwbr0037148/README.md) · 1 versie
+- [BWBR0037183 — Directe belastingen, internationale inlichtingenuitwisseling; Tsjechië](directe-belastingen-internationale-inlichtingenuitwisseling--bwbr0037183/README.md) · 1 versie
+- [BWBR0037281 — Inkomstenbelasting, eigenwoningrente; boeterente en rentemiddeling](inkomstenbelasting-eigenwoningrente-boeterente-en-rentemidde/README.md) · 1 versie
+- [BWBR0036659 — Inkomstenbelasting, toeslagen, partnerregeling; partnerschap in opvangsituaties](inkomstenbelasting-toeslagen-partnerregeling-partnerschap-in/README.md) · 2 versies
+- [BWBR0037431 — Inkomstenbelasting, vennootschapsbelasting, dividendbelasting, Algemene wet inzake rijksbelastingen, commanditaire vennootschap; het toestemmingsvereiste](inkomstenbelasting-vennootschapsbelasting-dividendbelasting-/README.md) · 3 versies
+- [BWBR0037149 — Inkomstenbelasting, vennootschapsbelasting, herinvesteringsreserve; Verzamelbesluit](inkomstenbelasting-vennootschapsbelasting-herinvesteringsres/README.md) · 2 versies
+- [BWBR0037403 — Inkomstenbelasting.Vennootschapsbelasting; Vaststelling marktrente](inkomstenbelasting-vennootschapsbelasting-vaststelling-markt/README.md) · 3 versies
+- [BWBR0037265 — Kaderbesluit bpm](kaderbesluit-bpm/README.md) · 9 versies
+- [BWBR0037266 — Kaderbesluit mrb](kaderbesluit-mrb/README.md) · 4 versies
+- [BWBR0036185 — Leidraad met technische toelichting bij het op 18 december 2013 tussen Nederland en de Verenigde Staten gesloten verdrag tot verbetering van de internationale naleving van de belastingplicht en de tenuitvoerlegging van de FATCA](leidraad-fatca-verbetering-internationale-naleving-van-belas/README.md) · 3 versies
+- [BWBR0037121 — Loonheffingen, inkomstenbelasting, internationale aspecten van pensioenen en stamrechten](loonheffingen-inkomstenbelasting-internationale-aspecten-van/README.md) · 4 versies
+- [BWBR0036112 — Loonheffingen, inkomstenbelasting, pensioenen; beschikbare-premieregelingen en premie- en kapitaalovereenkomsten en nettopensioenregelingen](loonheffingen-inkomstenbelasting-pensioenen-beschikbare-prem/README.md) · 2 versies
+- [BWBR0036195 — Loonheffingen, inkomstenbelasting, winst, vervoer; reiskostenvergoedingen, reizen per auto en openbaar vervoer](loonheffingen-inkomstenbelasting-winst-vervoer-reiskostenver-bwbr0036195/README.md) · 1 versie
+- [BWBR0036449 — Loonheffingen, inkomstenbelasting, winst, vervoer; reiskostenvergoedingen, reizen per auto en openbaar vervoer](loonheffingen-inkomstenbelasting-winst-vervoer-reiskostenver-bwbr0036449/README.md) · 1 versie
+- [BWBR0036072 — Loonheffingen, loon, vrijgesteld loon en vergoedingen en verstrekkingen](loonheffingen-loon-vrijgesteld-loon-en-vergoedingen-en-verst/README.md) · 1 versie
+- [BWBR0037190 — Loonheffingen, pensioenen; opbouw, eigen beheer, vervroegen en uitstellen van de pensioendatum, aanwijzingen en overgangsrecht](loonheffingen-pensioenen-opbouw-eigen-beheer-vervroegen-en-u/README.md) · 4 versies
+- [BWBR0035600 — Loonheffingen. Pensioenen en stamrechten; tegemoetkomingen voor partner- en wezenpensioenen, conversie van opgebouwde pensioenaanspraken, premievrijstelling bij arbeidsongeschiktheid en opnemen van stamrechten](loonheffingen-pensioenen-en-stamrechten-tegemoetkomingen-voo/README.md) · 1 versie
+- [BWBR0037038 — Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Australië en Nederland inzake automatische uitwisseling van fiscale inlichtingen](memorandum-van-overeenstemming-tussen-de-bevoegde-autoriteit/README.md) · 1 versie
+- [BWBR0037500 — Memorandum van overeenstemming tussen Georgië en Nederland inzake de uitwisseling van inlichtingen in belastingzaken](memorandum-van-overeenstemming-tussen-georgi-en-nederland-in/README.md) · 1 versie
+- [BWBR0036998 — Natuurschoonwet 1928, rangschikken van buiten Nederland gelegen landgoederen die een element vormen van het Nederlands cultureel erfgoed](natuurschoonwet-1928-rangschikken-van-buiten-nederland-geleg/README.md) · 2 versies
+- [BWBR0036213 — Nederlandse uitvoeringsvoorschriften inzake het belastingverdrag Nederland-Verenigde Staten van Amerika 1992](nederlandse-uitvoeringsvoorschriften-belastingverdrag-nederl/README.md) · 2 versies
+- [BWBR0037043 — Omzetbelasting, ontwikkelingswerk; uitvoering van projecten in ontwikkelingslanden](omzetbelasting-ontwikkelingswerk-uitvoering-van-projecten-in/README.md) · 1 versie
+- [BWBR0036996 — Omzetbelasting, vrijstelling voor wijkgericht werken door aanbieders van wijkverpleging](omzetbelasting-vrijstelling-voor-wijkgericht-werken-door-aan/README.md) · 2 versies
+- [BWBR0037119 — Overdrachtsbelasting, belastbaar feit](overdrachtsbelasting-belastbaar-feit/README.md) · 1 versie
+- [BWBR0036073 — Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 18 december 2014, houdende beleidsregels indicatiestelling Wlz 2015](beleidsregels-indicatiestelling-wlz-2015/README.md) · 3 versies
+- [BWBR0036114 — Richtlijn en kader voor strafvordering jeugd en adolescenten, inclusief strafmaten Halt](richtlijn-en-kader-voor-strafvordering-jeugd-en-adolescenten/README.md) · 1 versie
+- [BWBR0036290 — Richtlijn voor strafvordering (winkel)diefstal/verduistering al dan niet met geweld](richtlijn-voor-strafvordering-winkel-diefstal-verduistering-/README.md) · 1 versie
+- [BWBR0036266 — Richtlijn voor strafvordering aanranding der eerbaarheid](richtlijn-voor-strafvordering-aanranding-der-eerbaarheid/README.md) · 1 versie
+- [BWBR0036634 — Richtlijn voor strafvordering art. 248b Sr.](richtlijn-voor-strafvordering-art-248b-sr/README.md) · 1 versie
+- [BWBR0036320 — Richtlijn voor strafvordering bedreiging](richtlijn-voor-strafvordering-bedreiging-bwbr0036320/README.md) · 1 versie
+- [BWBR0037200 — Richtlijn voor strafvordering bedreiging](richtlijn-voor-strafvordering-bedreiging-bwbr0037200/README.md) · 1 versie
+- [BWBR0036315 — Richtlijn voor strafvordering belaging](richtlijn-voor-strafvordering-belaging/README.md) · 1 versie
+- [BWBR0036288 — Richtlijn voor strafvordering belediging](richtlijn-voor-strafvordering-belediging/README.md) · 1 versie
+- [BWBR0036345 — Richtlijn voor strafvordering Binnenvaart](richtlijn-voor-strafvordering-binnenvaart/README.md) · 1 versie
+- [BWBR0036292 — Richtlijn voor strafvordering brandstichting](richtlijn-voor-strafvordering-brandstichting/README.md) · 1 versie
+- [BWBR0036285 — Richtlijn voor strafvordering diefstal voertuigen](richtlijn-voor-strafvordering-diefstal-voertuigen/README.md) · 1 versie
+- [BWBR0036294 — Richtlijn voor strafvordering dierenmishandeling en dierenverwaarlozing](richtlijn-voor-strafvordering-dierenmishandeling-en-dierenve/README.md) · 1 versie
+- [BWBR0036307 — Richtlijn voor strafvordering discriminatie](richtlijn-voor-strafvordering-discriminatie/README.md) · 1 versie
+- [BWBR0036040 — Richtlijn voor strafvordering feitgecodeerde misdrijven en overtredingen](richtlijn-voor-strafvordering-feitgecodeerde-misdrijven-en-o/README.md) · 1 versie
+- [BWBR0036324 — Richtlijn voor strafvordering heling](richtlijn-voor-strafvordering-heling/README.md) · 1 versie
+- [BWBR0036302 — Richtlijn voor strafvordering huis- en lokaalvredebreuk](richtlijn-voor-strafvordering-huis-en-lokaalvredebreuk/README.md) · 1 versie
+- [BWBR0036268 — Richtlijn voor strafvordering huiselijk geweld](richtlijn-voor-strafvordering-huiselijk-geweld/README.md) · 1 versie
+- [BWBR0036313 — Richtlijn voor strafvordering inbraak/insluiping in woning](richtlijn-voor-strafvordering-inbraak-insluiping-in-woning/README.md) · 1 versie
+- [BWBR0036299 — Richtlijn voor strafvordering inbraken overig](richtlijn-voor-strafvordering-inbraken-overig/README.md) · 1 versie
+- [BWBR0036326 — Richtlijn voor strafvordering intellectuele-eigendomsfraude](richtlijn-voor-strafvordering-intellectuele-eigendomsfraude/README.md) · 1 versie
+- [BWBR0036311 — Richtlijn voor strafvordering joyriding](richtlijn-voor-strafvordering-joyriding/README.md) · 1 versie
+- [BWBR0036269 — Richtlijn voor strafvordering kindermishandeling](richtlijn-voor-strafvordering-kindermishandeling/README.md) · 1 versie
+- [BWBR0036287 — Richtlijn voor strafvordering meineed](richtlijn-voor-strafvordering-meineed/README.md) · 1 versie
+- [BWBR0036295 — Richtlijn voor strafvordering metaaldiefstal](richtlijn-voor-strafvordering-metaaldiefstal/README.md) · 1 versie
+- [BWBR0036283 — Richtlijn voor strafvordering mishandeling](richtlijn-voor-strafvordering-mishandeling/README.md) · 1 versie
+- [BWBR0036314 — Richtlijn voor strafvordering motorrijtuig (doen) besturen tijdens ontzegging e.d.](richtlijn-voor-strafvordering-motorrijtuig-doen-besturen-tij/README.md) · 1 versie
+- [BWBR0036281 — Richtlijn voor strafvordering niet opvolgen ambtelijk bevel of gedragsaanwijzing](richtlijn-voor-strafvordering-niet-opvolgen-ambtelijk-bevel-/README.md) · 1 versie
+- [BWBR0036289 — Richtlijn voor strafvordering onwettig verblijf](richtlijn-voor-strafvordering-onwettig-verblijf/README.md) · 1 versie
+- [BWBR0036278 — Richtlijn voor strafvordering openlijke geweldpleging](richtlijn-voor-strafvordering-openlijke-geweldpleging/README.md) · 1 versie
+- [BWBR0036340 — Richtlijn voor strafvordering opiumwet, harddrugs](richtlijn-voor-strafvordering-opiumwet-harddrugs/README.md) · 1 versie
+- [BWBR0036303 — Richtlijn voor strafvordering oplichting](richtlijn-voor-strafvordering-oplichting/README.md) · 1 versie
+- [BWBR0037192 — Richtlijn voor strafvordering poging doodslag](richtlijn-voor-strafvordering-poging-doodslag/README.md) · 1 versie
+- [BWBR0036282 — Richtlijn voor strafvordering poging zware mishandeling](richtlijn-voor-strafvordering-poging-zware-mishandeling-bwbr0036282/README.md) · 1 versie
+- [BWBR0037203 — Richtlijn voor strafvordering poging zware mishandeling](richtlijn-voor-strafvordering-poging-zware-mishandeling-bwbr0037203/README.md) · 1 versie
+- [BWBR0036317 — Richtlijn voor strafvordering ram- en plofkraken](richtlijn-voor-strafvordering-ram-en-plofkraken/README.md) · 1 versie
+- [BWBR0036325 — Richtlijn voor strafvordering rijden onder invloed van alcohol en/of drugs en rijden tijdens een rijverbod](richtlijn-voor-strafvordering-rijden-onder-invloed-van-alcoh-bwbr0036325/README.md) · 1 versie
+- [BWBR0036475 — Richtlijn voor strafvordering rijden onder invloed van alcohol en/of drugs en rijden tijdens een rijverbod](richtlijn-voor-strafvordering-rijden-onder-invloed-van-alcoh-bwbr0036475/README.md) · 1 versie
+- [BWBR0036775 — Richtlijn voor strafvordering rijden onder invloed van alcohol en/of drugs en rijden tijdens een rijverbod](richtlijn-voor-strafvordering-rijden-onder-invloed-van-alcoh-bwbr0036775/README.md) · 1 versie
+- [BWBR0036304 — Richtlijn voor strafvordering schennis van de eerbaarheid](richtlijn-voor-strafvordering-schennis-van-de-eerbaarheid/README.md) · 1 versie
+- [BWBR0036267 — Richtlijn voor strafvordering seksueel misbruik minderjarigen](richtlijn-voor-strafvordering-seksueel-misbruik-minderjarige/README.md) · 1 versie
+- [BWBR0036305 — Richtlijn voor strafvordering smaad(schrift) en lasterlijke aanklacht](richtlijn-voor-strafvordering-smaad-schrift-en-lasterlijke-a/README.md) · 1 versie
+- [BWBR0036327 — Richtlijn voor strafvordering sociale zekerheidsfraude](richtlijn-voor-strafvordering-sociale-zekerheidsfraude/README.md) · 1 versie
+- [BWBR0036310 — Richtlijn voor strafvordering straatroof](richtlijn-voor-strafvordering-straatroof/README.md) · 1 versie
+- [BWBR0036319 — Richtlijn voor strafvordering telecommunicatiewet](richtlijn-voor-strafvordering-telecommunicatiewet/README.md) · 1 versie
+- [BWBR0036291 — Richtlijn voor strafvordering uitgeven enz. van vals geld](richtlijn-voor-strafvordering-uitgeven-enz-van-vals-geld/README.md) · 1 versie
+- [BWBR0036293 — Richtlijn voor strafvordering vals/vervalst reisdocument](richtlijn-voor-strafvordering-vals-vervalst-reisdocument/README.md) · 1 versie
+- [BWBR0036298 — Richtlijn voor strafvordering valse aangifte](richtlijn-voor-strafvordering-valse-aangifte/README.md) · 1 versie
+- [BWBR0036312 — Richtlijn voor strafvordering valse of vervalste kentekenplaten](richtlijn-voor-strafvordering-valse-of-vervalste-kentekenpla/README.md) · 1 versie
+- [BWBR0036306 — Richtlijn voor strafvordering valsheid in geschrift](richtlijn-voor-strafvordering-valsheid-in-geschrift/README.md) · 1 versie
+- [BWBR0036316 — Richtlijn voor strafvordering verkeersongevallen en verlaten plaats ongeval](richtlijn-voor-strafvordering-verkeersongevallen-en-verlaten/README.md) · 1 versie
+- [BWBR0036323 — Richtlijn voor strafvordering vernieling](richtlijn-voor-strafvordering-vernieling/README.md) · 1 versie
+- [BWBR0036309 — Richtlijn voor strafvordering vliegen onder invloed](richtlijn-voor-strafvordering-vliegen-onder-invloed/README.md) · 1 versie
+- [BWBR0036296 — Richtlijn voor strafvordering wederspannigheid](richtlijn-voor-strafvordering-wederspannigheid/README.md) · 1 versie
+- [BWBR0036960 — Richtlijn voor strafvordering Wet personenvervoer 2000](richtlijn-voor-strafvordering-wet-personenvervoer-2000/README.md) · 1 versie
+- [BWBR0036328 — Richtlijn voor Strafvordering Wet vervoer gevaarlijke stoffen ten aanzien van vervoer over de weg](richtlijn-voor-strafvordering-wet-vervoer-gevaarlijke-stoffe/README.md) · 1 versie
+- [BWBR0036301 — Richtlijn voor strafvordering Wet wapens en munitie](richtlijn-voor-strafvordering-wet-wapens-en-munitie/README.md) · 1 versie
+- [BWBR0037212 — Richtlijn voor strafvordering Wet wegvervoer goederen](richtlijn-voor-strafvordering-wet-wegvervoer-goederen/README.md) · 1 versie
+- [BWBR0036308 — Richtlijn voor strafvordering Winkeltijdenwet](richtlijn-voor-strafvordering-winkeltijdenwet/README.md) · 1 versie
+- [BWBR0036357 — Richtlijn voor strafvordering witwassen](richtlijn-voor-strafvordering-witwassen/README.md) · 1 versie
+- [BWBR0036286 — Richtlijn voor strafvordering zakkenrollerij](richtlijn-voor-strafvordering-zakkenrollerij/README.md) · 1 versie
+- [BWBR0036558 — Schenk- en erfbelasting, waardering](schenk-en-erfbelasting-waardering/README.md) · 1 versie
+- [BWBR0036322 — Tijdelijke beleidsregels van de Minister van Veiligheid en Justitie van 4 februari 2015, nr. 598318, omtrent het verstrekken van subsidie ter stimulering van het nemen van preventieve maatregelen na een woning- of bedrijfsoverval (Tijdelijke beleidsregels stimulering preventieve maatregelen woning- en bedrijfsovervallen 2015)](tijdelijke-beleidsregels-stimulering-preventieve-maatregelen/README.md) · 1 versie
+- [BWBR0036214 — Universele Nederlandse uitvoeringsvoorschriften 2015 inzake belastingverdragen uitgezonderd die met de Verenigde Staten van Amerika](universele-nederlandse-uitvoeringsvoorschriften-2015-inzake--bwbr0036214/README.md) · 1 versie
+- [BWBR0037270 — Universele Nederlandse uitvoeringsvoorschriften 2015 inzake belastingverdragen, uitgezonderd het belastingverdrag met de Verenigde Staten van Amerika, en de Belastingregeling Nederland Curaçao](universele-nederlandse-uitvoeringsvoorschriften-2015-inzake--bwbr0037270/README.md) · 2 versies
+- [BWBR0036944 — Vennootschapsbelasting, bedrijfsfusie, toepassing artikel 14, tweede lid, van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-bedrijfsfusie-toepassing-artikel-14-t/README.md) · 9 versies
+- [BWBR0037171 — Vennootschapsbelasting, dividendbelasting; ATR’s; aanpassingstermijn](vennootschapsbelasting-dividendbelasting-atr-s-aanpassingste/README.md) · 1 versie
+- [BWBR0037063 — Vennootschapsbelasting, inkomstenbelasting; giftenaftrek of uitdeling](vennootschapsbelasting-inkomstenbelasting-giftenaftrek-of-ui/README.md) · 1 versie
+- [BWBR0036249 — Vennootschapsbelasting, juridische afsplitsing; toepassing artikel 14a, derde lid, van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-juridische-afsplitsing-toepassing-art/README.md) · 9 versies
+- [BWBR0036250 — Vennootschapsbelasting, juridische fusie; toepassing artikel 14b, derde lid, van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-juridische-fusie-toepassing-artikel-1/README.md) · 9 versies
+- [BWBR0036397 — Vennootschapsbelasting, verliesverrekening, toepassing van artikel 20a van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-verliesverrekening-toepassing-van-art/README.md) · 2 versies
+- [BWBR0036247 — Vennootschapsbelasting, zuivere splitsing; toepassing artikel 14a, derde lid, van de Wet op de vennootschapsbelasting 1969](vennootschapsbelasting-zuivere-splitsing-toepassing-artikel-/README.md) · 9 versies

@@ -1,0 +1,27 @@
+---
+bwb_id: BWBR0047458
+eli: /eli/nl/ministeriele-regeling/2022/mandaatbesluit-strategie-nctv-2022
+type: ministeriele-regeling
+title: Besluit van het hoofd van het kernonderdeel Strategie van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 24 oktober 2022, nr. 4253942, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van dat kernonderdeel (Mandaatbesluit Strategie NCTV 2022)
+ministry: Justitie en Veiligheid
+abbreviation: null
+latest_state: "2022-12-01"
+state_count: 3
+---
+
+
+# Besluit van het hoofd van het kernonderdeel Strategie van de Nationaal Coördinator Terrorismebestrijding en Veiligheid van het Ministerie van Justitie en Veiligheid van 24 oktober 2022, nr. 4253942, houdende verlening van ondermandaat en het doorgeven van volmacht en machtiging aan het plaatsvervangend hoofd van dat kernonderdeel (Mandaatbesluit Strategie NCTV 2022)
+
+**BWB-id:** BWBR0047458
+**Citeertitel:** Mandaatbesluit Strategie NCTV 2022
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Justitie en Veiligheid
+**ELI:** [/eli/nl/ministeriele-regeling/2022/mandaatbesluit-strategie-nctv-2022](https://wetten.ai/eli/nl/ministeriele-regeling/2022/mandaatbesluit-strategie-nctv-2022)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2022-12-01 | 2024-02-13 | [2022-12-01.md](./2022-12-01.md) |
+| 2022-11-16 | 2022-11-30 | [2022-11-16.md](./2022-11-16.md) |
+| 2022-07-01 | 2022-11-15 | [2022-07-01.md](./2022-07-01.md) |

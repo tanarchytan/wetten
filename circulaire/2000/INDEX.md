@@ -1,0 +1,43 @@
+# Circulaire — 2000
+
+ELI: `/eli/nl/circulaire/2000/*`
+
+- [BWBR0011157 — Aankoop effecten met spaarloon](aankoop-effecten-met-spaarloon/README.md) · 1 versie
+- [BWBR0011451 — Aanpassing voorschriften ingevolge het besluit betaling emolumenten burgerlijk rijkspersoneel (2000)](aanpassing-voorschriften-ingevolge-het-besluit-betaling-emol/README.md) · 1 versie
+- [BWBR0011548 — Bekwaamheidseisen buitengewoon opsporingsambtenaren](bekwaamheidseisen-buitengewoon-opsporingsambtenaren/README.md) · 1 versie
+- [BWBR0011256 — Besluit beheer sociale-huursector (BTW-constructies)](besluit-beheer-sociale-huursector-btw-constructies/README.md) · 1 versie
+- [BWBR0010861 — Besluit leaseregeling](besluit-leaseregeling/README.md) · 1 versie
+- [BWBR0010995 — Bouwtijd en loon- en prijsontwikkeling tijdens de bouw in de zorgsector](bouwtijd-en-loon-en-prijsontwikkeling-tijdens-de-bouw-in-de-/README.md) · 1 versie
+- [BWBR0011213 — Circulaire procedure benoeming gerechtsdeurwaarders](circulaire-procedure-benoeming-gerechtsdeurwaarders/README.md) · 1 versie
+- [BWBR0011438 — Informatieverschaffing gevolgen inwerkingtreding Wet uitvoeringsorganen volksgezondheid](informatieverschaffing-gevolgen-inwerkingtreding-wet-uitvoer/README.md) · 1 versie
+- [BWBR0011402 — Leerlingentelling voor groeiformatie basisscholen](leerlingentelling-voor-groeiformatie-basisscholen-2000/README.md) · 1 versie
+- [BWBR0011093 — Legalisatie en verificatie van buitenlandse bewijsstukken betreffende de staat van personen](legalisatie-en-verificatie-van-buitenlandse-bewijsstukken-be/README.md) · 1 versie
+- [BWBR0011390 — Maximum ziektekostenpremie per 1 januari 2000](maximum-ziektekostenpremie-per-1-januari-2000/README.md) · 1 versie
+- [BWBR0011424 — Motiveringsplicht bij huurverhoging van meer dan het inflatiepercentage](motiveringsplicht-bij-huurverhoging-van-meer-dan-het-inflati/README.md) · 1 versie
+- [BWBR0011369 — Praktische consequenties Wet aanpassing arbeidsduur](praktische-consequenties-wet-aanpassing-arbeidsduur/README.md) · 1 versie
+- [BWBR0011342 — Procedure voor indiening en behandeling van verzoeken tot benoeming tot notaris](procedure-voor-indiening-en-behandeling-van-verzoeken-tot-be/README.md) · 1 versie
+- [BWBR0011149 — Streefwaarden en interventiewaarden bodemsanering](streefwaarden-en-interventiewaarden-bodemsanering/README.md) · 1 versie
+- [BWBR0011625 — Tijdelijke woonzorgstimuleringsregeling](tijdelijke-woonzorgstimuleringsregeling/README.md) · 1 versie
+- [BWBR0010820 — Toepassing toezicht op toegelaten instellingen (BBSH)](toepassing-toezicht-op-toegelaten-instellingen-bbsh/README.md) · 1 versie
+- [BWBR0010187 — Uniform reglement gerechtshoven voor rekestprocedures in familiezaken](uniform-reglement-gerechtshoven-voor-rekestprocedures-in-fam/README.md) · 1 versie
+- [BWBR0011493 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Bergen](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011493/README.md) · 1 versie
+- [BWBR0011541 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Bergen op Zoom](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011541/README.md) · 1 versie
+- [BWBR0011542 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Binnenmaas](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011542/README.md) · 1 versie
+- [BWBR0011735 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Breukelen](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011735/README.md) · 1 versie
+- [BWBR0011580 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Den Haag](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011580/README.md) · 1 versie
+- [BWBR0011734 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Duiven](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011734/README.md) · 1 versie
+- [BWBR0011492 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Ermelo](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011492/README.md) · 1 versie
+- [BWBR0011716 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Gulpen-Wittem](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011716/README.md) · 1 versie
+- [BWBR0011715 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Hardenberg](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011715/README.md) · 1 versie
+- [BWBR0011586 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Liesveld](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011586/README.md) · 1 versie
+- [BWBR0011287 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Middelburg](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011287/README.md) · 1 versie
+- [BWBR0011286 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Nuenen, Gerwen en Nederwetten](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011286/README.md) · 1 versie
+- [BWBR0011293 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Pijnacker](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011293/README.md) · 1 versie
+- [BWBR0011495 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Waalwijk](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011495/README.md) · 1 versie
+- [BWBR0011285 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Waddinxveen](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011285/README.md) · 1 versie
+- [BWBR0011494 — Vaststelling hoogst toelaatbare waarde geluidsbelasting bestaande woningen, gemeente Zundert](vaststelling-hoogst-toelaatbare-waarde-geluidsbelasting-best-bwbr0011494/README.md) · 1 versie
+- [BWBR0011543 — Vreemdelingencirculaire Nederlanderschap in relatie tot verblijfsrecht](vreemdelingencirculaire-nederlanderschap-in-relatie-tot-verb/README.md) · 1 versie
+- [BWBR0011345 — Wijziging Besluit maaltijdvergoeding bij overwerk](wijziging-besluit-maaltijdvergoeding-bij-overwerk/README.md) · 1 versie
+- [BWBR0010949 — Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 2000](wijziging-financi-le-arbeidsvoorwaarden-sector-rijk-per-1-ja/README.md) · 1 versie
+- [BWBR0011413 — Wijziging normbedragen exploitatiebijdragen standplaatsen en wijzigingen subisdieafbraakpercentage woonwagens en standplaatsen](wijziging-normbedragen-exploitatiebijdragen-standplaatsen-en/README.md) · 1 versie
+- [BWBR0011313 — Ziektekostentegemoetkoming per 1 januari 2000](ziektekostentegemoetkoming-per-1-januari-2000/README.md) · 1 versie

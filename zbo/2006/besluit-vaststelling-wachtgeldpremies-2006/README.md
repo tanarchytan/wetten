@@ -1,0 +1,26 @@
+---
+bwb_id: BWBR0019000
+eli: /eli/nl/zbo/2006/besluit-vaststelling-wachtgeldpremies-2006
+type: zbo
+title: Besluit vaststelling wachtgeldpremies 2006
+ministry: Uitvoeringsinstituut werknemersverzekeringen
+abbreviation: null
+latest_state: "2006-07-01"
+state_count: 2
+---
+
+
+# Besluit vaststelling wachtgeldpremies 2006
+
+**BWB-id:** BWBR0019000
+**Citeertitel:** Besluit vaststelling wachtgeldpremies 2006
+**Type:** zbo
+**Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
+**ELI:** [/eli/nl/zbo/2006/besluit-vaststelling-wachtgeldpremies-2006](https://wetten.ai/eli/nl/zbo/2006/besluit-vaststelling-wachtgeldpremies-2006)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2006-07-01 | 2019-12-31 | [2006-07-01.md](./2006-07-01.md) |
+| 2006-01-01 | 2006-06-30 | [2006-01-01.md](./2006-01-01.md) |

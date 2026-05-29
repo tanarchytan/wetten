@@ -1,0 +1,201 @@
+# Zbo — 2025
+
+ELI: `/eli/nl/zbo/2025/*`
+
+- [BWBR0050983 — Accountantsprotocol Gegevensvraag Wlz-gegevens, vanaf oplevering 2025](accountantsprotocol-gegevensvraag-wlz-gegevens-vanaf-oplever/README.md) · 2 versies
+- [BWBR0050653 — Algemeen boetebeleid Kansspelautoriteit](algemeen-boetebeleid-kansspelautoriteit/README.md) · 1 versie
+- [BWBR0050596 — Algemeen Reglement van de Stichting Nederlands Fonds voor de Film](algemeen-reglement-van-de-stichting-nederlands-fonds-voor-de/README.md) · 1 versie
+- [BWBR0051337 — Beheerregeling documentaire informatie Stimuleringsfonds Creatieve Industrie 2025](beheerregeling-documentaire-informatie-stimuleringsfonds-cre/README.md) · 1 versie
+- [BWBR0051013 — Beleid tijdelijke importprocedure](beleid-tijdelijke-importprocedure/README.md) · 1 versie
+- [BWBR0050013 — Beleidsregel bekostigingscyclus Wlz 2025](beleidsregel-bekostigingscyclus-wlz-2025/README.md) · 1 versie
+- [BWBR0050283 — Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2025](beleidsregel-beschikbaarheidbijdrage-medische-vervolgopleidi/README.md) · 3 versies
+- [BWBR0050095 — Beleidsregel beschikbaarheidbijdrage academische zorg 2025](beleidsregel-beschikbaarheidbijdrage-academische-zorg-2025/README.md) · 1 versie
+- [BWBR0050125 — Beleidsregel beschikbaarheidbijdrage op aanvraag](beleidsregel-beschikbaarheidbijdrage-op-aanvraag/README.md) · 3 versies
+- [BWBR0050016 — Beleidsregel bijzondere tandheelkunde instellingen](beleidsregel-bijzondere-tandheelkunde-instellingen/README.md) · 1 versie
+- [BWBR0051284 — Beleidsregel boetetoemetingsbeleid BFT 2025](beleidsregel-boetetoemetingsbeleid-bft-2025/README.md) · 1 versie
+- [BWBR0050111 — Beleidsregel budgetbekostiging acute psychiatrische hulpverlening](beleidsregel-budgetbekostiging-acute-psychiatrische-hulpverl/README.md) · 1 versie
+- [BWBR0051361 — Beleidsregel budgettair kader Wlz 2025](beleidsregel-budgettair-kader-wlz-2025-bwbr0051361/README.md) · 2 versies
+- [BWBR0050741 — Beleidsregel Budgettair kader Wlz 2025](beleidsregel-budgettair-kader-wlz-2025-bwbr0050741/README.md) · 2 versies
+- [BWBR0051360 — Beleidsregel budgettair kader Wlz 2026](beleidsregel-budgettair-kader-wlz-2026/README.md) · 2 versies
+- [BWBR0049995 — Beleidsregel eerstelijnsverblijf](beleidsregel-eerstelijnsverblijf/README.md) · 3 versies
+- [BWBR0050598 — Beleidsregel experiment COPD](beleidsregel-experiment-copd/README.md) · 1 versie
+- [BWBR0049989 — Beleidsregel experiment deelname ggz aan verkennend gesprek](beleidsregel-experiment-deelname-ggz-aan-verkennend-gesprek/README.md) · 1 versie
+- [BWBR0050088 — Beleidsregel experiment integrale prestaties verpleging en verzorging](beleidsregel-experiment-integrale-prestaties-verpleging-en-v/README.md) · 1 versie
+- [BWBR0050025 — Beleidsregel gecombineerde leefstijlinterventie volwassenen](beleidsregel-gecombineerde-leefstijlinterventie-volwassenen/README.md) · 1 versie
+- [BWBR0050020 — Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen](beleidsregel-geneeskundige-zorg-voor-specifieke-pati-ntgroep/README.md) · 1 versie
+- [BWBR0050629 — Beleidsregel handhaving en invordering jaarverantwoording](beleidsregel-handhaving-en-invordering-jaarverantwoording/README.md) · 1 versie
+- [BWBR0050004 — Beleidsregel huisartsendienstenstructuur](beleidsregel-huisartsendienstenstructuur/README.md) · 1 versie
+- [BWBR0050022 — Beleidsregel huisartsenzorg en multidisciplinaire zorg 2025](beleidsregel-huisartsenzorg-en-multidisciplinaire-zorg-2025/README.md) · 1 versie
+- [BWBR0050215 — Beleidsregel innovatie voor kleinschalige experimenten](beleidsregel-innovatie-voor-kleinschalige-experimenten/README.md) · 1 versie
+- [BWBR0050763 — Beleidsregel IZA-transformaties](beleidsregel-iza-transformaties/README.md) · 1 versie
+- [BWBR0050015 — Beleidsregel jeugdtandverzorging instellingen](beleidsregel-jeugdtandverzorging-instellingen/README.md) · 1 versie
+- [BWBR0050033 — Beleidsregel ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas](beleidsregel-ketenaanpak-zorg-en-ondersteuning-voor-kinderen/README.md) · 1 versie
+- [BWBR0051067 — Beleidsregel kwalificatie commerciële mediadiensten op aanvraag 2025](beleidsregel-kwalificatie-commerci-le-mediadiensten-op-aanvr/README.md) · 1 versie
+- [BWBR0050009 — Beleidsregel macrobeheersinstrument huisartsenzorg 2025](beleidsregel-macrobeheersinstrument-huisartsenzorg-2025/README.md) · 1 versie
+- [BWBR0050018 — Beleidsregel macrobeheersinstrument kortdurende zorg 2025](beleidsregel-macrobeheersinstrument-kortdurende-zorg-2025/README.md) · 1 versie
+- [BWBR0050005 — Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2025](beleidsregel-macrobeheersinstrument-multidisciplinaire-zorg--bwbr0050005/README.md) · 1 versie
+- [BWBR0051262 — Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2025](beleidsregel-macrobeheersinstrument-multidisciplinaire-zorg--bwbr0051262/README.md) · 2 versies
+- [BWBR0050087 — Beleidsregel macrobeheersinstrument verpleging en verzorging 2025](beleidsregel-macrobeheersinstrument-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0049986 — Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](beleidsregel-macrobeheersinstrument-zintuiglijk-gehandicapte-bwbr0049986/README.md) · 1 versie
+- [BWBR0051251 — Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](beleidsregel-macrobeheersinstrument-zintuiglijk-gehandicapte-bwbr0051251/README.md) · 2 versies
+- [BWBR0050027 — Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg](beleidsregel-normatieve-huisvestingscomponent-nhc-en-normati/README.md) · 1 versie
+- [BWBR0050010 — Beleidsregel orthodontische zorg](beleidsregel-orthodontische-zorg/README.md) · 1 versie
+- [BWBR0050031 — Beleidsregel overige kosten Wlz 2025](beleidsregel-overige-kosten-wlz-2025/README.md) · 1 versie
+- [BWBR0050074 — Beleidsregel prestatie beschrijvingen en tarieven gespecialiseerde zorg Wlz 2025](beleidsregel-prestatie-beschrijvingen-en-tarieven-gespeciali/README.md) · 1 versie
+- [BWBR0050023 — Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz](beleidsregel-prestatiebeschrijving-en-tarief-zzp-meerzorg-wl/README.md) · 1 versie
+- [BWBR0050083 — Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) 2025](beleidsregel-prestatiebeschrijving-en-tarieven-advies-crisis-bwbr0050083/README.md) · 1 versie
+- [BWBR0050694 — Beleidsregel prestatiebeschrijvingen en tarieven gespecialiseerde zorg Wlz 2025](beleidsregel-prestatiebeschrijvingen-en-tarieven-gespecialis/README.md) · 2 versies
+- [BWBR0050389 — Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2025](beleidsregel-prestatiebeschrijvingen-en-tarieven-modulaire-z-bwbr0050389/README.md) · 1 versie
+- [BWBR0050781 — Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2025](beleidsregel-prestatiebeschrijvingen-en-tarieven-modulaire-z-bwbr0050781/README.md) · 2 versies
+- [BWBR0050387 — Beleidsregel prestatiebeschrijvingen en tarieven verkeerde bed Wlz 2025](beleidsregel-prestatiebeschrijvingen-en-tarieven-verkeerde-b-bwbr0050387/README.md) · 1 versie
+- [BWBR0050109 — Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2025](beleidsregel-prestatiebeschrijvingen-en-tarieven-zorgzwaarte-bwbr0050109/README.md) · 1 versie
+- [BWBR0049514 — Beleidsregel prestatiebeschrijvingen voor fysiotherapie](beleidsregel-prestatiebeschrijvingen-voor-fysiotherapie/README.md) · 1 versie
+- [BWBR0049510 — Beleidsregel prestatiebeschrijvingen voor oefentherapie](beleidsregel-prestatiebeschrijvingen-voor-oefentherapie/README.md) · 1 versie
+- [BWBR0050540 — Beleidsregel prestaties en tarieven geestelijke gezondheidszorg en forensische zorg](beleidsregel-prestaties-en-tarieven-geestelijke-gezondheidsz-bwbr0050540/README.md) · 1 versie
+- [BWBR0050810 — Beleidsregel Protocol Externe Jobcoach UWV 2025](beleidsregel-protocol-externe-jobcoach-uwv-2025/README.md) · 2 versies
+- [BWBR0050809 — Beleidsregel Protocol Interne Jobcoach UWV 2025](beleidsregel-protocol-interne-jobcoach-uwv-2025/README.md) · 2 versies
+- [BWBR0050039 — Beleidsregel regionale ambulancevoorzieningen 2025](beleidsregel-regionale-ambulancevoorzieningen-2025/README.md) · 1 versie
+- [BWBR0050014 — Beleidsregel tandheelkundige zorg](beleidsregel-tandheelkundige-zorg/README.md) · 1 versie
+- [BWBR0050011 — Beleidsregel tandtechniek in eigen beheer](beleidsregel-tandtechniek-in-eigen-beheer/README.md) · 1 versie
+- [BWBR0050447 — Beleidsregel Uitstel jaarverantwoording](beleidsregel-uitstel-jaarverantwoording/README.md) · 1 versie
+- [BWBR0050646 — Beleidsregel van de directie van de Dienst Wegverkeer van 1 januari 2025 betreffende de verlening van nationale typegoedkeuring en individuele goedkeuring van mobiele machines (Beleidsregel nationale goedkeuring mobiele machines)](beleidsregel-nationale-goedkeuring-mobiele-machines/README.md) · 1 versie
+- [BWBR0050006 — Beleidsregel verloskunde](beleidsregel-verloskunde/README.md) · 1 versie
+- [BWBR0051002 — Beleidsregel vervreemding onroerende zaken](beleidsregel-vervreemding-onroerende-zaken/README.md) · 1 versie
+- [BWBR0049990 — Beleidsregel Wet zorg en dwang](beleidsregel-wet-zorg-en-dwang/README.md) · 1 versie
+- [BWBR0050026 — Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2025](beleidsregel-wlz-zorgaanbieders-met-tandartspraktijk-2025/README.md) · 1 versie
+- [BWBR0050412 — Beleidsregel zintuiglijk gehandicaptenzorg](beleidsregel-zintuiglijk-gehandicaptenzorg/README.md) · 1 versie
+- [BWBR0051306 — Beleidsregels CAK Verstrekking compensatiebijdrage aan zorgverzekeraars voor het verzekerd houden van verzekeringsnemers met betalingsachterstanden zorgpremie 2025](beleidsregels-cak-verstrekking-compensatiebijdrage-aan-zorgv/README.md) · 2 versies
+- [BWBR0050451 — Beleidsregels indicatiestelling Wlz 2025](beleidsregels-indicatiestelling-wlz-2025/README.md) · 1 versie
+- [BWBR0050701 — Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 13 januari 2025, kenmerk 2023045149, met het oog op de rechtmatige en doelmatige uitvoering van de Wet langdurige zorg door de zorgkantoren en het CAK](beleidsregels-voor-de-zorgkantoren-en-het-cak-met-het-oog-op/README.md) · 1 versie
+- [BWBR0049984 — Besluit gedifferentieerde premie Whk 2025](besluit-gedifferentieerde-premie-whk-2025/README.md) · 1 versie
+- [BWBR0051323 — Besluit inzake projectsubsidies voor ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’ 2026](besluit-projectsubsidies-verbreden-en-borgen-methodiek-leesp/README.md) · 1 versie
+- [BWBR0050803 — Besluit Normbedragen Voorzieningen UWV 2025](besluit-normbedragen-voorzieningen-uwv-2025/README.md) · 2 versies
+- [BWBR0050510 — Besluit premievaststelling vrijwillige verzekering WAO 2025](besluit-premievaststelling-vrijwillige-verzekering-wao-2025/README.md) · 1 versie
+- [BWBR0050509 — Besluit premievaststelling vrijwillige verzekering WIA 2025](besluit-premievaststelling-vrijwillige-verzekering-wia-2025/README.md) · 1 versie
+- [BWBR0050512 — Besluit premievaststelling vrijwillige verzekering Ziektewet 2025](besluit-premievaststelling-vrijwillige-verzekering-ziektewet/README.md) · 1 versie
+- [BWBR0050511 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2025](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0050771 — Besluit subsidieplafond 2025 Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027](besluit-subsidieplafond-2025-tijdelijke-subsidieregels-samen/README.md) · 1 versie
+- [BWBR0051091 — Besluit van de Autoriteit Persoonsgegevens van 11 juni 2024, betreffende het Bestuursreglement Autoriteit Persoonsgegevens](bestuursreglement-autoriteit-persoonsgegevens/README.md) · 2 versies
+- [BWBR0050645 — Besluit van de directeur-bestuurder van het Nederlands Fonds voor de Film tot vaststelling van subsidieplafonds voor subsidiëring](besluit-van-de-directeur-bestuurder-van-het-nederlands-fonds/README.md) · 1 versie
+- [BWBR0050723 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 16 januari 2025, houdende de bekendmaking van de Beleidsregels transitievergoeding PGB (Besluit Beleidsregels transitievergoeding PGB)](besluit-beleidsregels-transitievergoeding-pgb/README.md) · 1 versie
+- [BWBR0050679 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 3 december 2024, houdende de bekendmaking van de Beleidsregels tegemoetkoming zaakschade PGB (Besluit Beleidsregels tegemoetkoming zaakschade PGB)](besluit-beleidsregels-tegemoetkoming-zaakschade-pgb/README.md) · 1 versie
+- [BWBR0050830 — Besluit van de Raad van Bestuur van Zorginstituut Nederland van 13 januari 2025, kenmerk 2024042056, tot vaststelling van de beleidsregels ter verdeling van de besteedbare middelen beheerskosten Wlz 2025](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost/README.md) · 5 versies
+- [BWBR0051442 — Besluit van het bestuur van ZonMw van 27 augustus 2025, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen ZonMw in verband met het verlagen van de subsidievaststelling bij het niet tijdig voldoen aan de aanlevering van de controle- of Sisa-verklaring en het ontbreken van een goedkeurende accountantsverklaring](beleidsregels-handhaving-subsidiebepalingen-zonmw/README.md) · 1 versie
+- [BWBR0051169 — Besluit van het College voor toetsen en examens van 23 juni 2025, kenmerk CvTE25.00952, houdende vaststelling van de tijdvakken centrale examinering mbo, studiejaar 2026–2027 (Besluit tijdvakken centrale examinering mbo, studiejaar 2026–2027)](besluit-tijdvakken-centrale-examinering-mbo-studiejaar-2026-/README.md) · 1 versie
+- [BWBR0049954 — Besluit van het College voor toetsen en examens van 24 juni 2024, met nummer CvTE-24.00932 houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2026 (Rooster voor de centrale examens voortgezet onderwijs in 2026)](rooster-voor-de-centrale-examens-voortgezet-onderwijs-in-202/README.md) · 1 versie
+- [BWBR0051334 — Besluit van het Stimuleringsfonds voor de Journalistiek van 11 juni 2025, nr. ROJ2526, tot vaststelling van een subsidieregeling Ruimte voor Onderzoeksjournalistiek 2025–2026](regeling-ruimte-voor-onderzoeksjournalistiek-2025-2026/README.md) · 2 versies
+- [BWBR0051379 — Besluit van het Stimuleringsfonds voor de Journalistiek van 16 juli 2025, nr. THO002, tot vaststelling van een Thematische oproep Leiderschap en journalistieke innovatie](besluit-vaststelling-thematische-oproep-leiderschap-en-journ/README.md) · 2 versies
+- [BWBR0050738 — Besluit van het Stimuleringsfonds voor de Journalistiek van 28 januari 2025, nr. INV2025, tot vaststelling van een subsidieregeling Journalistieke Innovatie 2025](regeling-svdj-accelerator-2025/README.md) · 2 versies
+- [BWBR0051087 — Besluit van het Stimuleringsfonds voor de Journalistiek van 28-5-2025, nr. WB2529, tot vaststelling van een subsidieregeling voor vergroting van weerbaarheid van journalisten 2025–2029](regeling-vaststelling-tijdelijke-subsidieregeling-vergroting/README.md) · 2 versies
+- [BWBR0051114 — Besluit vaststelling en verhoging subsidieplafonds 2025](besluit-vaststelling-en-verhoging-subsidieplafonds-2025/README.md) · 1 versie
+- [BWBR0050651 — Besluit vaststelling factoren L en r boekjaar 2025](besluit-vaststelling-factoren-l-en-r-boekjaar-2025/README.md) · 2 versies
+- [BWBR0051227 — Besluit vaststelling Subsidieplafonds 2025 Stichting Nederlands Fonds voor de Film](besluit-vaststelling-subsidieplafonds-2025-stichting-nederla/README.md) · 1 versie
+- [BWBR0050689 — Besluit vaststelling subsidieplafonds en indiendata 2025](besluit-vaststelling-subsidieplafonds-en-indiendata-2025/README.md) · 1 versie
+- [BWBR0050829 — Besluit wijziging subsidieplafonds Podiumregeling Fonds Podiumkunsten](besluit-wijziging-subsidieplafonds-podiumregeling-fonds-podi/README.md) · 1 versie
+- [BWBR0050733 — CCMO-Richtlijn gebruik National Collaboration Platform (NCP)](ccmo-richtlijn-gebruik-national-collaboration-platform-ncp/README.md) · 1 versie
+- [BWBR0051083 — Controleprotocol nacalculatie-opgave 2025 Wlz-zorgaanbieders](controleprotocol-nacalculatie-opgave-2025-wlz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0050626 — Deelregeling Art Fair International](deelregeling-art-fair-international/README.md) · 1 versie
+- [BWBR0051134 — Deelregeling Kunst Erfgoed Festival](deelregeling-kunst-erfgoed-festival/README.md) · 1 versie
+- [BWBR0051140 — Deelregeling Kunst Erfgoed Presentatie](deelregeling-kunst-erfgoed-presentatie/README.md) · 1 versie
+- [BWBR0050625 — Deelregeling Kunst Media](deelregeling-kunst-media/README.md) · 1 versie
+- [BWBR0050632 — Deelreglement Distributie van de Stichting Nederlands Fonds voor de film](deelreglement-distributie-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0050634 — deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de film](deelreglement-filmactiviteiten-van-de-stichting-nederlands-f/README.md) · 1 versie
+- [BWBR0050627 — Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de Film](deelreglement-ontwikkeling-van-de-stichting-nederlands-fonds/README.md) · 1 versie
+- [BWBR0050675 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film](deelreglement-realisering-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0051325 — Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2022](gewijzigde-beleidsregel-beschikbaarheidbijdrage-medische-ver-bwbr0051325/README.md) · 2 versies
+- [BWBR0051327 — Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2023 met kenmerk BR/REG-23136c](gewijzigde-beleidsregel-beschikbaarheidbijdrage-medische-ver-bwbr0051327/README.md) · 2 versies
+- [BWBR0051329 — Gewijzigde Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2024](gewijzigde-beleidsregel-beschikbaarheidbijdrage-medische-ver-bwbr0051329/README.md) · 2 versies
+- [BWBR0051291 — Handhavingsbeleid van het BFT](handhavingsbeleid-van-het-bft/README.md) · 1 versie
+- [BWBR0050623 — Inschrijvingsvoorwaarden advocatuur 2025](inschrijvingsvoorwaarden-advocatuur-2025/README.md) · 1 versie
+- [BWBR0050628 — Klachtenregeling Ctgb](klachtenregeling-ctgb/README.md) · 1 versie
+- [BWBR0050728 — Klachtenreglement NWO 2025](klachtenreglement-nwo-2025/README.md) · 1 versie
+- [BWBR0051072 — Maatregelenbeleid COA](maatregelenbeleid-coa/README.md) · 1 versie
+- [BWBR0051342 — NWO Bevoegdhedenregeling 2025](nwo-bevoegdhedenregeling-2025/README.md) · 1 versie
+- [BWBR0051343 — NWO Domeinreglement 2025](nwo-domeinreglement-2025/README.md) · 1 versie
+- [BWBR0050622 — Raamwerk nascholingscursussen code 95 en ADR](raamwerk-nascholingscursussen-code-95-en-adr-1-januari-2025/README.md) · 1 versie
+- [BWBR0051132 — Raamwerk nascholingscursussen code 95 en ADR](raamwerk-nascholingscursussen-code-95-en-adr-1-juli-2025/README.md) · 1 versie
+- [BWBR0050684 — Regeling aanlevering verwijzingen Zorggroep Syntein](regeling-aanlevering-verwijzingen-zorggroep-syntein/README.md) · 3 versies
+- [BWBR0050951 — Regeling adviestoevoeging zelfredzaamheid 2025](regeling-adviestoevoeging-zelfredzaamheid-2025/README.md) · 1 versie
+- [BWBR0050552 — Regeling Architectuur 2025–2028](regeling-architectuur-2025-2028/README.md) · 1 versie
+- [BWBR0050932 — Regeling Artistic & Design Research for Immersive Experiences 2025-2029](regeling-artistic-design-research-for-immersive-experiences-/README.md) · 2 versies
+- [BWBR0050842 — Regeling Bezwarenprocedure Koninklijke Bibliotheek (Bijlage 5a bij het Reglement van de Koninklijke Bibliotheek 2024)](regeling-bezwarenprocedure-koninklijke-bibliotheek-bijlage-5/README.md) · 1 versie
+- [BWBR0050824 — Regeling Co-creatie Instellingen](regeling-co-creatie-instellingen/README.md) · 1 versie
+- [BWBR0050883 — Regeling constanten en waarden voor berekening van relatieve energiezuinigheid van personenauto’s voor 2026 en 2027](regeling-constanten-en-waarden-voor-berekening-van-relatieve/README.md) · 2 versies
+- [BWBR0050780 — Regeling Cultuureducatie in het mbo 2025–2028](regeling-cultuureducatie-in-het-mbo-2025-2028/README.md) · 1 versie
+- [BWBR0050779 — Regeling Cultuureducatie in het vmbo, vso en pro 2025–2028](regeling-cultuureducatie-in-het-vmbo-vso-en-pro-2025-2028/README.md) · 1 versie
+- [BWBR0050599 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025](regeling-declaratievoorschriften-administratievoorschriften--bwbr0050599/README.md) · 1 versie
+- [BWBR0051080 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025](regeling-declaratievoorschriften-administratievoorschriften--bwbr0051080/README.md) · 2 versies
+- [BWBR0050559 — Regeling Digitale cultuur 2025–2028](regeling-digitale-cultuur-2025-2028/README.md) · 1 versie
+- [BWBR0051319 — Regeling erkenning leerbedrijven SBB](regeling-erkenning-leerbedrijven-sbb/README.md) · 1 versie
+- [BWBR0051347 — Regeling Festivals creatieve industrie 2025–2028](regeling-festivals-creatieve-industrie-2025-2028/README.md) · 1 versie
+- [BWBR0049999 — Regeling gecombineerde leefstijlinterventie volwassenen](regeling-gecombineerde-leefstijlinterventie-volwassenen/README.md) · 1 versie
+- [BWBR0050523 — Regeling geestelijke gezondheidszorg en forensische zorg](regeling-geestelijke-gezondheidszorg-en-forensische-zorg-bwbr0050523/README.md) · 1 versie
+- [BWBR0050036 — Regeling geneeskundige zorg voor specifieke patiëntgroepen](regeling-geneeskundige-zorg-voor-specifieke-pati-ntgroepen/README.md) · 1 versie
+- [BWBR0051033 — Regeling incidentele projectsubsidies Koninklijke Bibliotheek 2024](regeling-incidentele-projectsubsidies-koninklijke-bibliothee/README.md) · 1 versie
+- [BWBR0050051 — Regeling informatieverstrekking vaststelling budget regionale ambulancevoorzieningen](regeling-informatieverstrekking-vaststelling-budget-regional/README.md) · 1 versie
+- [BWBR0050211 — Regeling innovatie voor kleinschalige experimenten](regeling-innovatie-voor-kleinschalige-experimenten/README.md) · 1 versie
+- [BWBR0050925 — Regeling Internationalisering Ontwerpsector 2025–2028](regeling-internationalisering-ontwerpsector-2025-2028/README.md) · 1 versie
+- [BWBR0049982 — Regeling ketenaanpak zorg en ondersteuning voor kinderen met overgewicht en obesitas, Nederlandse Zorgautoriteit](regeling-ketenaanpak-zorg-en-ondersteuning-voor-kinderen-met/README.md) · 1 versie
+- [BWBR0051328 — Regeling Leesbevordering Nederlands Letterenfonds](regeling-leesbevordering-nederlands-letterenfonds/README.md) · 1 versie
+- [BWBR0050007 — Regeling macrobeheersinstrument huisartsenzorg 2025](regeling-macrobeheersinstrument-huisartsenzorg-2025-bwbr0050007/README.md) · 1 versie
+- [BWBR0051267 — Regeling macrobeheersinstrument huisartsenzorg 2025](regeling-macrobeheersinstrument-huisartsenzorg-2025-bwbr0051267/README.md) · 2 versies
+- [BWBR0050017 — Regeling macrobeheersinstrument kortdurende zorg 2025](regeling-macrobeheersinstrument-kortdurende-zorg-2025/README.md) · 1 versie
+- [BWBR0050008 — Regeling macrobeheersinstrument multidisciplinaire zorg 2025](regeling-macrobeheersinstrument-multidisciplinaire-zorg-2025/README.md) · 1 versie
+- [BWBR0050089 — Regeling macrobeheersinstrument verpleging en verzorging 2025](regeling-macrobeheersinstrument-verpleging-en-verzorging-202/README.md) · 1 versie
+- [BWBR0050427 — Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](regeling-macrobeheersinstrument-zintuiglijk-gehandicaptenzor-bwbr0050427/README.md) · 1 versie
+- [BWBR0051294 — Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](regeling-macrobeheersinstrument-zintuiglijk-gehandicaptenzor-bwbr0051294/README.md) · 2 versies
+- [BWBR0050538 — Regeling modellen keuringsrapport 2025](regeling-modellen-keuringsrapport-2025/README.md) · 1 versie
+- [BWBR0050012 — Regeling mondzorg](regeling-mondzorg/README.md) · 1 versie
+- [BWBR0050637 — Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2025](regeling-monitoring-beschikkingen-persoonsgebonden-budget-en/README.md) · 1 versie
+- [BWBR0050825 — Regeling Open Oproep](regeling-open-oproep/README.md) · 1 versie
+- [BWBR0049521 — Regeling paramedische zorg](regeling-paramedische-zorg/README.md) · 1 versie
+- [BWBR0050164 — Regeling rapportageverplichtingen 2024](regeling-rapportageverplichtingen-2024/README.md) · 1 versie
+- [BWBR0050887 — Regeling Samen werken aan cultuur](regeling-samen-werken-aan-cultuur/README.md) · 1 versie
+- [BWBR0050722 — Regeling subsidievoorwaarden rechts- en wetswinkels 2025](regeling-subsidievoorwaarden-rechts-en-wetswinkels-2025/README.md) · 2 versies
+- [BWBR0050823 — Regeling Talentontwikkeling](regeling-talentontwikkeling/README.md) · 1 versie
+- [BWBR0050881 — Regeling Talentontwikkeling 2025–2028](regeling-talentontwikkeling-2025-2028/README.md) · 1 versie
+- [BWBR0050850 — Regeling tarieven Airport Coordination Netherlands 2025](regeling-tarieven-airport-coordination-netherlands-2025/README.md) · 2 versies
+- [BWBR0050631 — Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2025](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20/README.md) · 1 versie
+- [BWBR0050531 — Regeling tarieven Dienst Wegverkeer 2025](regeling-tarieven-dienst-wegverkeer-2025/README.md) · 2 versies
+- [BWBR0050773 — Regeling ter uitvoering van artikel 6, tweede lid van de Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)](regeling-ter-uitvoering-van-artikel-6-tweede-lid-van-de-tijd/README.md) · 1 versie
+- [BWBR0051375 — Regeling van de Kiesraad van 31 maart 2025, nr. 966001, houdende regels ter uitvoering van de Kieswet (Modellenregeling Kiesraad)](modellenregeling-kiesraad/README.md) · 1 versie
+- [BWBR0051036 — Regeling van De Nederlandsche Bank N.V. (DNB) van 6 mei 2025 tot wijziging van de Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie](wijzigingsregeling-regeling-melden-interne-collectieve-waard/README.md) · 1 versie
+- [BWBR0051004 — Regeling van de Raad van Bestuur van Zorginstituut Nederland van 11 maart 2025, referentie 2024021690, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2025 en gegevens Wet langdurige zorg 2025 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2025)](regeling-structurele-aanlevering-gegevens-zorgverzekeringswe/README.md) · 2 versies
+- [BWBR0050938 — Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)](regeling-beoordelingskader-voor-de-toetsen-behorende-tot-lee/README.md) · 1 versie
+- [BWBR0051166 — Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00949, houdende vaststelling van toegestane hulpmiddelen voor de centrale examens van de eindexamens en de staatsexamens vo in 2027 (Regeling toegestane hulpmiddelen voor de centrale examens vo 2027)](regeling-toegestane-hulpmiddelen-voor-de-centrale-examens-vo/README.md) · 1 versie
+- [BWBR0051172 — Regeling van het College voor toetsen en examens van 23 juni 2025, nr. CvTE-25.00954, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2027 (Besluit Aanmeldprocedure Staatsexamen Nt2 2027)](besluit-aanmeldprocedure-staatsexamen-nt2-2027/README.md) · 1 versie
+- [BWBR0051179 — Regeling van het College voor toetsen en examens van 23 juni 2025, nummer CvTE25.00945, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2027 en nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2026 (Regeling syllabi centrale examens vo 2027)](regeling-syllabi-centrale-examens-vo-2027/README.md) · 1 versie
+- [BWBR0049992 — Regeling van het College voor toetsen en examens van 24 juni 2024, nummer CvTE-24.00934 houdende vaststelling van het examenreglement Staatsexamen Nederlands als tweede taal 2025 (Regeling examenreglement Staatsexamen Nt2 2025)](regeling-examenreglement-staatsexamen-nt2-2025/README.md) · 1 versie
+- [BWBR0050765 — Regeling van het College voor toetsen en examens van 3 februari 2025 nummer CvTE-25.00468, houdende aanwijzing van vakken waarin in het tweede tijdvak het centraal examen vo 2025 wordt afgenomen door het College voor toetsen en examens (Regeling aangewezen vakken tweede tijdvak centrale examens vo 2025)](regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-v/README.md) · 1 versie
+- [BWBR0050775 — Regeling van het College voor toetsen en examens van 3 februari 2025, Cvte-25.00469, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs op Bonaire (Regeling toetswijzer doorstroomtoets PO Bonaire)](regeling-toetswijzer-doorstroomtoets-po-bonaire/README.md) · 1 versie
+- [BWBR0050815 — Regeling van het College voor toetsen en examens van 3 februari 2025, CvTE-25.00473, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs voor het openbaar lichaam Bonaire (Regeling beoordelingskader doorstroomtoets PO Bonaire)](regeling-beoordelingskader-doorstroomtoets-po-bonaire/README.md) · 1 versie
+- [BWBR0050736 — Regeling van het Commissariaat voor de Media van 4 februari 2025 over ontheffing van de investeringsverplichting voor aanbieders van commerciële mediadiensten op aanvraag (Regeling ontheffing investeringsverplichting commerciële mediadiensten op aanvraag 2025)](regeling-ontheffing-investeringsverplichting-commerci-le-med/README.md) · 1 versie
+- [BWBR0051090 — Regeling van het Stimuleringsfonds voor de Journalistiek van 1 juni 2025, nr. LO2527, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2025–2027](regeling-lokale-omroepen-2025-2027/README.md) · 2 versies
+- [BWBR0051060 — Regeling Verantwoording bbaz 2024 compartiment 1](regeling-verantwoording-bbaz-2024-compartiment-1/README.md) · 1 versie
+- [BWBR0051059 — Regeling verantwoording bbaz 2024 compartiment 2](regeling-verantwoording-bbaz-2024-compartiment-2/README.md) · 1 versie
+- [BWBR0050090 — Regeling verpleging en verzorging](regeling-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0050918 — Regeling verplichte aanlevering minimale dataset (mds) medisch-specialistische zorg](regeling-verplichte-aanlevering-minimale-dataset-mds-medisch/README.md) · 1 versie
+- [BWBR0050888 — Regeling Versterking landelijke infrastructuur amateurkunst 2025](regeling-versterking-landelijke-infrastructuur-amateurkunst-/README.md) · 1 versie
+- [BWBR0050547 — Regeling Vormgeving 2025–2028](regeling-vormgeving-2025-2028/README.md) · 1 versie
+- [BWBR0050885 — Reglement Adviescommissie Pakket Zorginstituut Nederland 2025](reglement-adviescommissie-pakket-zorginstituut-nederland-202/README.md) · 1 versie
+- [BWBR0050822 — Reglement Bestuur Raad voor Rechtsbijstand 2025](reglement-bestuur-raad-voor-rechtsbijstand-2025/README.md) · 1 versie
+- [BWBR0050654 — Reglement CAK Cliëntenraad](reglement-cak-cli-ntenraad/README.md) · 2 versies
+- [BWBR0050650 — Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film](reglement-stimuleringsmaatregel-filmproductie-in-nederland-v/README.md) · 1 versie
+- [BWBR0050837 — Reglement van de Koninklijke Bibliotheek 2024](reglement-van-de-koninklijke-bibliotheek-2024-bwbr0050837/README.md) · 1 versie
+- [BWBR0050903 — Reglement van de Koninklijke Bibliotheek 2024](reglement-van-de-koninklijke-bibliotheek-2024-bwbr0050903/README.md) · 2 versies
+- [BWBR0050507 — Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 2025](reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h/README.md) · 4 versies
+- [BWBR0050882 — Reglement voor de Wetenschappelijke Adviesraad van Zorginstituut Nederland, kenmerk 2024027403](reglement-wetenschappelijke-adviesraad-zorginstituut-nederla/README.md) · 1 versie
+- [BWBR0050543 — Startregeling creatieve industrie](startregeling-creatieve-industrie/README.md) · 1 versie
+- [BWBR0050695 — Statutenwijziging Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw](statutenwijziging-stichting-nederlandse-algemene-kwaliteitsd/README.md) · 1 versie
+- [BWBR0051368 — Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2026, Koninklijke Bibliotheek](subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-/README.md) · 1 versie
+- [BWBR0051374 — Subsidieplafondbesluit Projectsubsidies doorontwikkeling Aangepast Lezen ter zake ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem, in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2026](subsidieplafondbesluit-projectsubsidies-doorontwikkeling-aan/README.md) · 1 versie
+- [BWBR0050971 — Subsidieplafonds Regelingen Internationalisering Ontwerpsector en Artistic & Design Research for Immersive Experiences](subsidieplafonds-regelingen-internationalisering-ontwerpsect/README.md) · 1 versie
+- [BWBR0051159 — Subsidieregeling beroepsopleiding sociaal advocaten 2025](subsidieregeling-beroepsopleiding-sociaal-advocaten-2025/README.md) · 2 versies
+- [BWBR0050521 — Subsidieregeling van de Raad voor Rechtsbijstand van 11 november 2024 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)](subsidieregeling-startbijdrage-mediation/README.md) · 1 versie
+- [BWBR0050657 — Tarieven wettelijke diensten Edelmetaal Waarborg Nederland](tarieven-wettelijke-diensten-edelmetaal-waarborg-nederland/README.md) · 1 versie
+- [BWBR0050603 — Tarievenbesluit 2025 Raad voor Accreditatie](tarievenbesluit-2025-raad-voor-accreditatie/README.md) · 1 versie
+- [BWBR0050644 — Tarievenbesluit Ctgb 2025](tarievenbesluit-ctgb-2025/README.md) · 1 versie
+- [BWBR0050444 — Tarievenregeling Kadaster BES 2025](tarievenregeling-kadaster-bes-2025/README.md) · 1 versie
+- [BWBR0050772 — Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid Koninklijke Bibliotheek 2025](tijdelijke-subsidieregels-landelijk-ondersteuningsprogramma-/README.md) · 1 versie
+- [BWBR0050096 — Uniform kader beschikbaarheidbijdrage NZa](uniform-kader-beschikbaarheidbijdrage-nza/README.md) · 1 versie
+- [BWBR0050643 — Werkwijze bij concentratiezaken 2024](werkwijze-bij-concentratiezaken-2024/README.md) · 1 versie

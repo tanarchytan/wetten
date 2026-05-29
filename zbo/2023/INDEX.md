@@ -1,0 +1,271 @@
+# Zbo — 2023
+
+ELI: `/eli/nl/zbo/2023/*`
+
+- [BWBR0047622 — Aanleveren wachttijden medisch-specialistische zorg](regeling-aanleveren-wachttijden-medisch-specialistische-zorg/README.md) · 1 versie
+- [BWBR0047797 — Algemeen Reglement van de Stichting Nederlands Fonds voor de Film](algemeen-reglement-van-de-stichting-nederlands-fonds-voor-de/README.md) · 1 versie
+- [BWBR0048518 — Beleidsregel aanpassing vergoedingen strafpiketzaken, reiskostenvergoedingen en toeslag bij intrekking beschikking asielzaken](beleidsregel-aanpassing-vergoedingen-strafpiketzaken-reiskos/README.md) · 2 versies
+- [BWBR0047430 — Beleidsregel Adz-ondersteuning van Parkinsonzorg](beleidsregel-adz-ondersteuning-van-parkinsonzorg/README.md) · 1 versie
+- [BWBR0047021 — Beleidsregel bekostigingscyclus Wlz 2023](beleidsregel-bekostigingscyclus-wlz-2023-bwbr0047021/README.md) · 1 versie
+- [BWBR0049010 — Beleidsregel bekostigingscyclus Wlz 2023](beleidsregel-bekostigingscyclus-wlz-2023-bwbr0049010/README.md) · 2 versies
+- [BWBR0047030 — Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2023](beleidsregel-beschikbaarheidbijdrage-medische-vervolgopleidi-bwbr0047030/README.md) · 1 versie
+- [BWBR0048142 — Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2023](beleidsregel-beschikbaarheidbijdrage-medische-vervolgopleidi-bwbr0048142/README.md) · 2 versies
+- [BWBR0047246 — Beleidsregel beschikbaarheidbijdrage academische zorg 2023](beleidsregel-beschikbaarheidbijdrage-academische-zorg-2023/README.md) · 1 versie
+- [BWBR0048450 — Beleidsregel beschikbaarheidbijdrage op aanvraag](beleidsregel-beschikbaarheidbijdrage-op-aanvraag-bwbr0048450/README.md) · 3 versies
+- [BWBR0047395 — Beleidsregel Beschikbaarheidbijdrage op aanvraag](beleidsregel-beschikbaarheidbijdrage-op-aanvraag-bwbr0047395/README.md) · 1 versie
+- [BWBR0047302 — Beleidsregel bijzondere tandheelkunde instellingen](beleidsregel-bijzondere-tandheelkunde-instellingen-bwbr0047302/README.md) · 1 versie
+- [BWBR0046901 — Beleidsregel budgetbekostiging acute psychiatrische hulpverlening](beleidsregel-budgetbekostiging-acute-psychiatrische-hulpverl/README.md) · 1 versie
+- [BWBR0048211 — Beleidsregel budgettair kader Wlz 2022](beleidsregel-budgettair-kader-wlz-2022/README.md) · 2 versies
+- [BWBR0048212 — Beleidsregel budgettair kader Wlz 2023](beleidsregel-budgettair-kader-wlz-2023-bwbr0048212/README.md) · 2 versies
+- [BWBR0048778 — Beleidsregel Budgettair kader Wlz 2023](beleidsregel-budgettair-kader-wlz-2023-bwbr0048778/README.md) · 2 versies
+- [BWBR0048370 — Beleidsregel budgettair kader Wlz 2024](beleidsregel-budgettair-kader-wlz-2024-bwbr0048370/README.md) · 2 versies
+- [BWBR0048779 — Beleidsregel budgettair kader Wlz 2024](beleidsregel-budgettair-kader-wlz-2024-bwbr0048779/README.md) · 2 versies
+- [BWBR0048967 — Beleidsregel budgettair kader Wlz 2024](beleidsregel-budgettair-kader-wlz-2024-bwbr0048967/README.md) · 3 versies
+- [BWBR0047894 — Beleidsregel compensatie hogere energiekosten 2022 Wlz](beleidsregel-compensatie-hogere-energiekosten-2022-wlz/README.md) · 2 versies
+- [BWBR0049140 — Beleidsregel criteria verduurzamingsloket gewasbeschermingsmiddelen Ctgb](beleidsregel-criteria-verduurzamingsloket-gewasbeschermingsm/README.md) · 1 versie
+- [BWBR0047763 — Beleidsregel eerstelijnsverblijf](beleidsregel-eerstelijnsverblijf-bwbr0047763/README.md) · 2 versies
+- [BWBR0047285 — Beleidsregel eerstelijnsverblijf, Nederlandse Zorgautoriteit](beleidsregel-eerstelijnsverblijf-bwbr0047285/README.md) · 1 versie
+- [BWBR0047734 — Beleidsregel experiment cosmetische mondzorg](beleidsregel-experiment-cosmetische-mondzorg/README.md) · 1 versie
+- [BWBR0048202 — Beleidsregel experiment Wlz-zorg in onderwijstijd](beleidsregel-experiment-wlz-zorg-in-onderwijstijd/README.md) · 2 versies
+- [BWBR0047294 — Beleidsregel gecombineerde leefstijlinterventie](beleidsregel-gecombineerde-leefstijlinterventie-bwbr0047294/README.md) · 1 versie
+- [BWBR0047296 — Beleidsregel geneeskundige zorg voor specifieke patiëntgroepen](beleidsregel-geneeskundige-zorg-voor-specifieke-pati-ntgroep-bwbr0047296/README.md) · 1 versie
+- [BWBR0048214 — Beleidsregel Handhaving openbaarmaking jaarverantwoording](beleidsregel-handhaving-openbaarmaking-jaarverantwoording/README.md) · 2 versies
+- [BWBR0047692 — Beleidsregel hergebruik testrapporten](beleidsregel-hergebruik-testrapporten/README.md) · 1 versie
+- [BWBR0047254 — Beleidsregel huisartsendienstenstructuur, Nederlandse Zorgautoriteit](beleidsregel-huisartsendienstenstructuur-bwbr0047254/README.md) · 3 versies
+- [BWBR0047255 — Beleidsregel huisartsenzorg en multidisciplinaire zorg 2023, Nederlandse Zorgautoriteit](beleidsregel-huisartsenzorg-en-multidisciplinaire-zorg-2023-bwbr0047255/README.md) · 3 versies
+- [BWBR0047749 — Beleidsregel incidentele opslag compensatie postcodelijst huisartsenzorg](beleidsregel-incidentele-opslag-compensatie-postcodelijst-hu/README.md) · 1 versie
+- [BWBR0046888 — Beleidsregel integrale bekostiging geboortezorg BR/REG-23130, Nederlandse Zorgautoriteit](beleidsregel-integrale-bekostiging-geboortezorg/README.md) · 1 versie
+- [BWBR0048939 — Beleidsregel IZA-transformaties](beleidsregel-iza-transformaties/README.md) · 3 versies
+- [BWBR0047299 — Beleidsregel jeugdtandverzorging instellingen](beleidsregel-jeugdtandverzorging-instellingen-bwbr0047299/README.md) · 1 versie
+- [BWBR0048131 — Beleidsregel Kostprijsmodel zorgproducten medisch-specialistische zorg – BR/REG-23152, Nederlandse Zorgautoriteit](beleidsregel-kostprijsmodel-zorgproducten-medisch-specialist/README.md) · 1 versie
+- [BWBR0047261 — Beleidsregel kraamzorg](beleidsregel-kraamzorg-bwbr0047261/README.md) · 2 versies
+- [BWBR0048357 — Beleidsregel kraamzorg](beleidsregel-kraamzorg-bwbr0048357/README.md) · 2 versies
+- [BWBR0047982 — Beleidsregel Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023 – BR/REG-23151, Nederlandse Zorgautoriteit](beleidsregel-macrobeheersinstrument-geneeskundige-geestelijk/README.md) · 2 versies
+- [BWBR0046867 — Beleidsregel macrobeheersinstrument huisartsenzorg 2023](beleidsregel-macrobeheersinstrument-huisartsenzorg-2023/README.md) · 1 versie
+- [BWBR0046795 — Beleidsregel macrobeheersinstrument kortdurende zorg 2023](beleidsregel-macrobeheersinstrument-kortdurende-zorg-2023/README.md) · 1 versie
+- [BWBR0046850 — Beleidsregel macrobeheersinstrument multidisciplinaire zorg 2023](beleidsregel-macrobeheersinstrument-multidisciplinaire-zorg-/README.md) · 1 versie
+- [BWBR0046869 — Beleidsregel macrobeheersinstrument verpleging en verzorging 2023](beleidsregel-macrobeheersinstrument-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0046725 — Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2023](beleidsregel-macrobeheersinstrument-zintuiglijk-gehandicapte/README.md) · 1 versie
+- [BWBR0047349 — Beleidsregel normatieve huisvestingscomponent (nhc) en normatieve inventariscomponent (nic) geestelijke gezondheidszorg, forensische zorg en langdurige zorg](beleidsregel-normatieve-huisvestingscomponent-nhc-en-normati-bwbr0047349/README.md) · 1 versie
+- [BWBR0047290 — Beleidsregel orthodontische zorg](beleidsregel-orthodontische-zorg-bwbr0047290/README.md) · 1 versie
+- [BWBR0047974 — Beleidsregel Overdracht van Accreditatie en Verhuizing (RvA-BR011)](beleidsregel-overdracht-van-accreditatie-en-verhuizing-rva-b/README.md) · 1 versie
+- [BWBR0047371 — Beleidsregel overige geneeskundige zorg, Nederlandse Zorgautoriteit](beleidsregel-overige-geneeskundige-zorg-bwbr0047371/README.md) · 1 versie
+- [BWBR0047350 — Beleidsregel Overige kosten Wlz 2023](beleidsregel-overige-kosten-wlz-2023-bwbr0047350/README.md) · 1 versie
+- [BWBR0047351 — Beleidsregel prestatiebeschrijving en tarief gespecialiseerde zorg Wlz](beleidsregel-prestatiebeschrijving-en-tarief-gespecialiseerd-bwbr0047351/README.md) · 1 versie
+- [BWBR0047345 — Beleidsregel prestatiebeschrijving en tarief verkeerde bed Wlz 2023](beleidsregel-prestatie-beschrijving-en-tarief-verkeerde-bed--bwbr0047345/README.md) · 1 versie
+- [BWBR0047346 — Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz](beleidsregel-prestatiebeschrijving-en-tarief-zzp-meerzorg-wl-bwbr0047346/README.md) · 1 versie
+- [BWBR0047352 — Beleidsregel prestatiebeschrijving en tarieven advies crisis- en ondersteuningsteam (COT) 2023](beleidsregel-prestatiebeschrijving-en-tarieven-advies-crisis-bwbr0047352/README.md) · 1 versie
+- [BWBR0047357 — Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2023](beleidsregel-prestatiebeschrijvingen-en-tarieven-modulaire-z-bwbr0047357/README.md) · 1 versie
+- [BWBR0048220 — Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg 2023](beleidsregel-prestatiebeschrijvingen-en-tarieven-modulaire-z-bwbr0048220/README.md) · 2 versies
+- [BWBR0047353 — Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2023](beleidsregel-prestatiebeschrijvingen-en-tarieven-zorgzwaarte-bwbr0047353/README.md) · 1 versie
+- [BWBR0046292 — Beleidsregel prestatiebeschrijvingen voor ergotherapie](beleidsregel-prestatiebeschrijvingen-voor-ergotherapie/README.md) · 1 versie
+- [BWBR0046293 — Beleidsregel prestatiebeschrijvingen voor extramurale diëtetiek](beleidsregel-prestatiebeschrijvingen-voor-extramurale-di-tet/README.md) · 1 versie
+- [BWBR0046173 — Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg](beleidsregel-prestatiebeschrijvingen-voor-farmaceutische-zor/README.md) · 3 versies
+- [BWBR0046289 — Beleidsregel prestatiebeschrijvingen voor fysiotherapie](beleidsregel-prestatiebeschrijvingen-voor-fysiotherapie/README.md) · 1 versie
+- [BWBR0046290 — Beleidsregel prestatiebeschrijvingen voor logopedie](beleidsregel-prestatiebeschrijvingen-voor-logopedie/README.md) · 1 versie
+- [BWBR0046291 — Beleidsregel prestatiebeschrijvingen voor oefentherapie](beleidsregel-prestatiebeschrijvingen-voor-oefentherapie/README.md) · 1 versie
+- [BWBR0047033 — Beleidsregel prestaties en tarieven geestelijke gezondheidszorg en forensische zorg](beleidsregel-prestaties-en-tarieven-geestelijke-gezondheidsz/README.md) · 3 versies
+- [BWBR0047180 — Beleidsregel prestaties en tarieven medisch-specialistische zorg](beleidsregel-prestaties-en-tarieven-medisch-specialistische--bwbr0047180/README.md) · 1 versie
+- [BWBR0048190 — Beleidsregel Prioritering van handhavingsonderzoeken door de Autoriteit Consument en Markt 2023](beleidsregel-prioritering-van-handhavingsonderzoeken-door-de/README.md) · 1 versie
+- [BWBR0047883 — Beleidsregel quota commerciële media-instellingen 2023](beleidsregel-quota-commerci-le-media-instellingen-2023/README.md) · 1 versie
+- [BWBR0047885 — Beleidsregel quota publieke media-instellingen 2023](beleidsregel-quota-publieke-media-instellingen-2023/README.md) · 1 versie
+- [BWBR0046868 — Beleidsregel regiefunctie complexe wondzorg](beleidsregel-regiefunctie-complexe-wondzorg/README.md) · 1 versie
+- [BWBR0047482 — Beleidsregel regionale ambulancevoorziening 2023](beleidsregel-regionale-ambulancevoorziening-2023/README.md) · 1 versie
+- [BWBR0047287 — Beleidsregel regionale ondersteuning eerstelijnszorg, Nederlandse Zorgautoriteit](beleidsregel-regionale-ondersteuning-eerstelijnszorg/README.md) · 1 versie
+- [BWBR0048577 — Beleidsregel Regulatorische accountingregels warmte](beleidsregel-regulatorische-accountingregels-warmte/README.md) · 1 versie
+- [BWBR0048644 — Beleidsregel Remedies](beleidsregel-remedies/README.md) · 1 versie
+- [BWBR0048573 — Beleidsregel rendementstoets warmte](beleidsregel-rendementstoets-warmte/README.md) · 1 versie
+- [BWBR0047300 — Beleidsregel tandheelkundige zorg](beleidsregel-tandheelkundige-zorg-bwbr0047300/README.md) · 1 versie
+- [BWBR0048145 — Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek](beleidsregel-toegang-niet-openbare-informatie-in-dossiers-be/README.md) · 1 versie
+- [BWBR0048693 — Beleidsregel Toezicht ACM op duurzaamheidsafspraken](beleidsregel-toezicht-acm-op-duurzaamheidsafspraken/README.md) · 1 versie
+- [BWBR0048101 — Beleidsregel van de directeur-generaal van de statistiek van 17 april 2023, nr. CSB-2023-056, met betrekking tot het publiceren op instellingsniveau van statistisch onderzoek op gegevens van het CBS op grond van artikel 41 Wet CBS (Beleidsregel publiceren op instellingsniveau art 41 Wet CBS)](beleidsregel-publiceren-op-instellingsniveau-ex-art-41-wet-c/README.md) · 1 versie
+- [BWBR0048033 — Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)](beleidsregel-afwikkelbaarheid-verzekeraars-2023/README.md) · 1 versie
+- [BWBR0049107 — Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 1 januari 2024, houdende de werkwijze voor de vergelijkende evaluatie gewasbeschermingsmiddelen](beleidsregel-werkwijze-vergelijkende-evaluatie-gewasbescherm/README.md) · 2 versies
+- [BWBR0047821 — Beleidsregel van het Commissariaat voor de Media over de procedure tot aanwijzing van lokale publieke media-instellingen (Beleidsregel aanwijzingsprocedure lokale publieke media-instellingen 2023)](beleidsregel-aanwijzingsprocedure-lokale-publieke-media-inst/README.md) · 1 versie
+- [BWBR0048321 — Beleidsregel van het Instituut Mijnbouwschade Groningen van 8 juni 2023 met betrekking tot het toekennen van een in redelijkheid te bepalen tegemoetkoming voor iedere redelijke maatregel die nodig is om te bewerkstelligen dat de schade waarvoor door het Instituut Mijnbouwschade Groningen in het kader van zijn wettelijke taakuitoefening een vergoeding wordt toegekend, duurzaam kan worden hersteld (Beleidsregel duurzaam herstel)](beleidsregel-duurzaam-herstel/README.md) · 5 versies
+- [BWBR0047264 — Beleidsregel verloskunde](beleidsregel-verloskunde-bwbr0047264/README.md) · 1 versie
+- [BWBR0047800 — Beleidsregel verloskunde](beleidsregel-verloskunde-bwbr0047800/README.md) · 2 versies
+- [BWBR0047292 — Beleidsregel verpleegkundige dagopvang en verblijf bij intensieve kindzorg](beleidsregel-verpleegkundige-dagopvang-en-verblijf-bij-inten/README.md) · 1 versie
+- [BWBR0047288 — Beleidsregel verpleging en verzorging](beleidsregel-verpleging-en-verzorging/README.md) · 1 versie
+- [BWBR0047793 — Beleidsregel vervreemding onroerende zaken](beleidsregel-vervreemding-onroerende-zaken/README.md) · 1 versie
+- [BWBR0047358 — Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2023](beleidsregel-wlz-zorgaanbieders-met-tandartspraktijk-2023-bwbr0047358/README.md) · 1 versie
+- [BWBR0047544 — Beleidsregels CAK inning bestuursrechtelijke premie Zorgverzekeringswet 2023](beleidsregels-cak-inning-bestuursrechtelijke-premie-zorgverz/README.md) · 1 versie
+- [BWBR0047964 — Beleidsregels CAK termijnen eigen bijdrage Wlz en Wmo 2015](beleidsregels-cak-termijnen-eigen-bijdrage-wlz-en-wmo-2015/README.md) · 2 versies
+- [BWBR0048130 — Beleidsregels CAK vergoeden declaraties naar Nederlands tarief](beleidsregels-cak-vergoeden-declaraties-naar-nederlands-tari/README.md) · 3 versies
+- [BWBR0047580 — Beleidsregels indicatiestelling Wlz 2023](beleidsregels-indicatiestelling-wlz-2023/README.md) · 1 versie
+- [BWBR0047741 — Beleidsregels proefplaatsing UWV 2023](beleidsregels-proefplaatsing-uwv-2023/README.md) · 2 versies
+- [BWBR0049034 — Beleidsregels van de Autoriteit Persoonsgegevens van 6 juni 2023 met betrekking tot het bepalen van de hoogte van bestuurlijke boetes (Boetebeleidsregels Autoriteit Persoonsgegevens 2023)](boetebeleidsregels-autoriteit-persoonsgegevens-2023/README.md) · 2 versies
+- [BWBR0047961 — Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake vergunningen voor het op afstand organiseren van kansspelen 2023 (Beleidsregels vergunningverlening kansspelen op afstand 2023)](beleidsregels-vergunningverlening-kansspelen-op-afstand-2023/README.md) · 1 versie
+- [BWBR0048774 — Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 10 oktober 2023, kenmerk 2023018931, voor de toekenning en vaststelling van de vereveningsbijdrage aan zorgverzekeraars 2024 (Beleidsregels Risicoverevening 2024)](beleidsregels-risicoverevening-2024/README.md) · 2 versies
+- [BWBR0047626 — Besluit ‘gemengd afmeren’ Rotterdam 2022](besluit-gemengd-afmeren-rotterdam-2022/README.md) · 3 versies
+- [BWBR0048226 — Besluit beperking openbaarheid archiefbescheiden Commissariaat voor de Media (1988–2008)](besluit-beperking-openbaarheid-archiefbescheiden-commissaria/README.md) · 1 versie
+- [BWBR0047092 — Besluit gedifferentieerde premie Whk 2023](besluit-gedifferentieerde-premie-whk-2023/README.md) · 1 versie
+- [BWBR0047837 — Besluit houdende intrekking van de regeling verplichte informatieverstrekking zorgaanbieders van forensische zorg (NR/REG-1913) en regeling Informatieverstrekking voorheen gebudgetteerde zorgaanbieders van gespecialiseerde ggz (NR/REG-1826)](besluit-intrekking-twee-regelingen-informatieverstrekking-zo/README.md) · 1 versie
+- [BWBR0048298 — Besluit inzake projectsubsidies voor ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2023–2024](besluit-projectsubsidies-verbreden-en-borgen-methodiek-leesp/README.md) · 1 versie
+- [BWBR0047858 — Besluit Normbedragen Voorzieningen UWV 2023](besluit-normbedragen-voorzieningen-uwv-2023/README.md) · 3 versies
+- [BWBR0047909 — Besluit openstellen elektronische weg indienen bezwaarschriften Ctgb](besluit-openstellen-elektronische-weg-indienen-bezwaarschrif/README.md) · 1 versie
+- [BWBR0047546 — Besluit premievaststelling vrijwillige verzekering WAO 2023](besluit-premievaststelling-vrijwillige-verzekering-wao-2023/README.md) · 1 versie
+- [BWBR0047552 — Besluit premievaststelling vrijwillige verzekering WIA 2023](besluit-premievaststelling-vrijwillige-verzekering-wia-2023/README.md) · 1 versie
+- [BWBR0047549 — Besluit premievaststelling vrijwillige verzekering Ziektewet 2023](besluit-premievaststelling-vrijwillige-verzekering-ziektewet/README.md) · 1 versie
+- [BWBR0047550 — Besluit premievaststelling vrijwillige werkloosheidsverzekering 2023](besluit-premievaststelling-vrijwillige-werkloosheidsverzeker/README.md) · 1 versie
+- [BWBR0047479 — Besluit Toezichtbeleid Erkenninghouders wijziging constructie (GWC) van snor- naar bromfiets](besluit-toezichtbeleid-erkenninghouders-wijziging-constructi/README.md) · 1 versie
+- [BWBR0047742 — Besluit tot vaststelling van de factoren L en r voor het boekjaar 2023](besluit-vaststelling-factoren-l-en-r-boekjaar-2023/README.md) · 2 versies
+- [BWBR0048581 — Besluit UWV Onderzoekssubsidie ‘Niet-uitkeringsgerechtigden met een arbeidsbeperking’](besluit-uwv-onderzoekssubsidie-niet-uitkeringsgerechtigden-m/README.md) · 1 versie
+- [BWBR0048390 — Besluit UWV Onderzoekssubsidie 2023 ’Ondersteuningsbehoefte van gere-integreerde werkenden met een arbeidsbeperking om (hernieuwde) uitval te voorkomen’](besluit-uwv-onderzoekssubsidie-2023-ondersteuningsbehoefte-v/README.md) · 1 versie
+- [BWBR0048276 — Besluit van 8 juni 2023 tot beperking openbaarheid – Commissie van Advies inzake Rekening-courant, Giro en Clearing, De Nederlandsche Bank](besluit-tot-beperking-openbaarheid-commissie-van-advies-inza/README.md) · 1 versie
+- [BWBR0047788 — Besluit van de ACM tot vaststelling van de Beleidsregel Redelijke opzegvergoedingen vergunninghouders 2023](beleidsregel-redelijke-opzegvergoedingen-vergunninghouders-2/README.md) · 1 versie
+- [BWBR0048628 — Besluit van de directeur-generaal van de statistiek van 29 juni 2023 kenmerk CSB-2023-099, houdende instelling Personeelsraadgever CBS](besluit-instelling-personeelsraadgever-cbs/README.md) · 2 versies
+- [BWBR0048309 — Besluit van de directeur-generaal van de statistiek van 30 mei 2023, houdende de instelling van een Commissie bezwaarschriften handhaving CBS](besluit-commissie-bezwaarschriften-handhaving-cbs-2023/README.md) · 1 versie
+- [BWBR0048834 — Besluit van de Kamer van Koophandel van 6 april 2023 tot vaststelling van een Bestuursreglement en Gedragscode voor de Kamer van Koophandel](bestuursreglement-kamer-van-koophandel/README.md) · 2 versies
+- [BWBR0047799 — Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de op 30 maart 2022 door de Duitse financiële toezichthouder BaFin gepubliceerde systeemrisicobufferpercentage (Besluit erkenning 2% systeemrisicobuffer Duitsland 2022)](besluit-erkenning-2-systeemrisicobuffer-duitsland-2022/README.md) · 1 versie
+- [BWBR0047798 — Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de sinds 1 mei 2022 van toepassing zijnde macroprudentiële maatregel van de Nationale Bank van België inhoudende een systeemrisicobufferpercentage van 9% (Besluit erkenning 9% systeemrisicobuffer België 2022)](besluit-erkenning-6-systeemrisicobuffer-belgi-2023/README.md) · 2 versies
+- [BWBR0048576 — Besluit van De Nederlandsche Bank N.V. van 21 augustus 2023 tot erkenning van de sinds 31 december 2022 van toepassing zijnde macroprudentiële maatregel van het Ministerie van Financiën van Noorwegen inhoudende een systeemrisicobufferpercentage van 4,5% (Besluit erkenning 4,5% systeemrisicobuffer Noorwegen 2023)](besluit-erkenning-4-5-systeemrisicobuffer-noorwegen-2023/README.md) · 1 versie
+- [BWBR0047820 — Besluit van de Pensioen- en Uitkeringsraad van 18 januari 2023, houdende de bekendmaking van de beleidsregels voorzieningen 2023 (Besluit wijziging Beleidsregels voorzieningen PUR 2023)](besluit-wijziging-beleidsregels-voorzieningen-pur-2023/README.md) · 3 versies
+- [BWBR0048268 — Besluit van de Raad van bestuur van de Sociale verzekeringsbank van 22 mei 2023, houdende de aanwijzing van toezichthouders als bedoeld in artikel 55a van de Wet structuur uitvoeringsorganisatie werk en inkomen en artikel 5:11 van de Algemene wet bestuursrecht (Besluit aanwijzing toezichthouders SVB 2023)](besluit-aanwijzing-toezichthouders-svb-2023/README.md) · 1 versie
+- [BWBR0048122 — Besluit van de Raad van Bestuur van Zorginstituut Nederland van 14 februari 2023 (kenmerk 2022045471) ter verdeling van de besteedbare middelen beheerskosten Wlz 2023](beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost/README.md) · 5 versies
+- [BWBR0048938 — Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 15, eerste lid, van de Algemene ouderdomswet (Controlevoorschriften AOW)](controlevoorschriften-aow/README.md) · 1 versie
+- [BWBR0048929 — Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 16, eerste lid, van de Algemene kinderbijslagwet (Controlevoorschriften AKW)](controlevoorschriften-akw/README.md) · 1 versie
+- [BWBR0048935 — Besluit van de Sociale verzekeringsbank van 13 november 2023 houdende controlevoorschriften als bedoeld in artikel 36, eerste lid, van de Algemene nabestaandenwet (Controlevoorschriften Anw)](controlevoorschriften-anw/README.md) · 1 versie
+- [BWBR0048032 — Besluit van de Toelatingsorganisatie Kwaliteitsborging Bouw (TloKB) van 15 februari 2023 tot instelling van de Raad van Advies van de TloKB](instellingsbesluit-raad-van-advies-tlokb/README.md) · 2 versies
+- [BWBR0048645 — Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie extra uren in strafzaken](instellingsbesluit-adviescommissie-extra-uren-in-strafzaken/README.md) · 1 versie
+- [BWBR0048659 — Besluit van het bestuur van de Raad voor Rechtsbijstand tot vaststelling van het reglement van de Adviescommissie extra uren in strafzaken](reglement-adviescommissie-extra-uren-in-strafzaken/README.md) · 1 versie
+- [BWBR0048842 — Besluit van het bestuur van ZonMw tot instelling van Bijzondere Programmacommissie FAST (Centre for Future Affordable SustainableTherapy development)](instellingsbesluit-fast/README.md) · 1 versie
+- [BWBR0048293 — Besluit van het College voor toetsen en examens van 24 mei 2023, kenmerk CvTE-23.00800, houdende vaststelling van de tijdvakken centrale examinering mbo, studiejaar 2024–2025 (Besluit Tijdvakken centrale examinering mbo, studiejaar 2024–2025)](besluit-tijdvakken-centrale-examinering-mbo-studiejaar-2024-/README.md) · 1 versie
+- [BWBR0046997 — Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)](rooster-voor-de-centrale-examens-van-de-eindexamens-en-de-st/README.md) · 3 versies
+- [BWBR0047789 — Besluit van het Fonds voor Cultuurparticipatie, zoals vastgesteld door de directeur-bestuurder op 1 september 2022, strekkende tot bekendmaking van de wijze waarop bezwaarschriften, klachten alsook verzoeken in het kader van de Wet open overheid en de Algemene verordening gegevensbescherming kunnen worden ingediend](besluit-bekendmaking-wijze-indienen-bezwaarschriften-klachte/README.md) · 1 versie
+- [BWBR0048867 — Besluit van het Stimuleringsfonds voor de Journalistiek van 1 november 2023, nr. INC2324, tot vaststelling van een subsidieregeling Incubator 2023–2025](regeling-svdj-incubator/README.md) · 2 versies
+- [BWBR0048079 — Besluit van het Stimuleringsfonds voor de Journalistiek van 12 april 2023, nr. OOA22, tot vaststelling van een subsidieregeling Journalistiek onderzoek 2023–2024](besluit-vaststelling-subsidieregeling-journalistiek-onderzoe/README.md) · 2 versies
+- [BWBR0048788 — Besluit van het Stimuleringsfonds voor de Journalistiek van 23 oktober 2023, nr. OJ2324RO, tot vaststelling van een subsidieregeling Ruimte voor Onderzoeksjournalistiek 2023–2024](regeling-ruimte-voor-onderzoeksjournalistiek-2023-2024/README.md) · 2 versies
+- [BWBR0048801 — Besluit van het Stimuleringsfonds voor de Journalistiek van 23 oktober 2023, nr. OJ2324VD, tot vaststelling van een Subsidieregeling Verduurzaming Onderzoeksjournalistieke Organisaties 2023–2025](regeling-verduurzaming-onderzoeksjournalistieke-organisaties/README.md) · 2 versies
+- [BWBR0048870 — Besluit van het Stimuleringsfonds voor de Journalistiek van 3 november 2023, nr. INC001, tot vaststelling van een Oproep Incubator Private Lokale Journalistiek](oproep-incubator-private-lokale-journalistiek/README.md) · 2 versies
+- [BWBR0048049 — Besluit van het Stimuleringsfonds voor de Journalistiek van 31 maart 2023, nr. INV2023, tot vaststelling van een tijdelijke subsidieregeling Journalistieke Innovatie 2023](besluit-vaststelling-tijdelijke-subsidieregeling-journalisti/README.md) · 2 versies
+- [BWBR0048254 — Besluit vaststelling Raamwerk praktijkexamens Maritieme radiocommunicatie (Marcom-B & Marcom-A) CBR](besluit-vaststelling-raamwerk-praktijkexamens-maritieme-radi/README.md) · 1 versie
+- [BWBR0048008 — Besluit vaststelling Subsidieplafonds 2023 Stichting Nederlands Fonds voor de Film](besluit-vaststelling-subsidieplafonds-2023-stichting-nederla/README.md) · 2 versies
+- [BWBR0048711 — Besluit vervanging archiefbescheiden ZonMw 2023](besluit-vervanging-archiefbescheiden-zonmw-2023/README.md) · 1 versie
+- [BWBR0048574 — Besluit WACC warmteleveranciers](besluit-wacc-warmteleveranciers/README.md) · 1 versie
+- [BWBR0047539 — Besluit werkgebieden UWV 2023](besluit-werkgebieden-uwv-2023/README.md) · 2 versies
+- [BWBR0048846 — Bestuursreglement Bureau Financieel Toezicht](bestuursreglement-bft-2022/README.md) · 1 versie
+- [BWBR0048641 — Bestuursreglement van de Lcsh](bestuursreglement-van-de-lcsh/README.md) · 1 versie
+- [BWBR0047966 — Controleprotocol nacalculatie 2022 Wlz-zorgaanbieders](controleprotocol-nacalculatie-2022-wlz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0049035 — Controleprotocol nacalculatie-opgave 2023 Wlz-zorgaanbieders](controleprotocol-nacalculatie-opgave-2023-wlz-zorgaanbieders/README.md) · 1 versie
+- [BWBR0048428 — Deelregeling Kunstpodia 2025–2028](deelregeling-kunstpodia-2025-2028/README.md) · 1 versie
+- [BWBR0047812 — Deelregeling starters erfgoed](deelregeling-starters-erfgoed/README.md) · 1 versie
+- [BWBR0048740 — Deelregeling van het bestuur van het Fonds Podiumkunsten van 11 oktober 2023, houdende meerjarige festivalsubsidies Fonds Podiumkunsten 2025-2028](deelregeling-meerjarige-festivalsubsidies-fonds-podiumkunste/README.md) · 1 versie
+- [BWBR0048742 — Deelregeling van het bestuur van het Fonds Podiumkunsten van 11 oktober 2023, houdende meerjarige productiesubsidies 2025–2028](deelregeling-meerjarige-productiesubsidies-fonds-podiumkunst/README.md) · 1 versie
+- [BWBR0047796 — Deelreglement Distributie van de Stichting Nederlands Fonds voor de Film](deelreglement-distributie-van-de-stichting-nederlands-fonds-/README.md) · 1 versie
+- [BWBR0049021 — Deelreglement Filmactiviteiten van de Stichting Nederlands Fonds voor de Film per 1 november 2023](deelreglement-filmactiviteiten-van-de-stichting-nederlands-f/README.md) · 2 versies
+- [BWBR0047792 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film](deelreglement-realisering-van-de-stichting-nederlands-fonds--bwbr0047792/README.md) · 1 versie
+- [BWBR0048532 — Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film](deelreglement-realisering-van-de-stichting-nederlands-fonds--bwbr0048532/README.md) · 1 versie
+- [BWBR0049000 — Handhavingsbeleid fysieke illegale kansspelen](handhavingsbeleid-fysieke-illegale-kansspelen/README.md) · 1 versie
+- [BWBR0049085 — HERDRUK Inschrijvingsvoorwaarden advocatuur 2024, versie 1.00](herdruk-inschrijvingsvoorwaarden-advocatuur-2024-versie-1-00/README.md) · 1 versie
+- [BWBR0047852 — Investeringsregeling vrije producties](investeringsregeling-vrije-producties/README.md) · 5 versies
+- [BWBR0047794 — Klachtenregeling TloKB](klachtenregeling-tlokb/README.md) · 1 versie
+- [BWBR0048403 — Klachtenregeling voor het Centraal bureau voor de statistiek 2023](klachtenregeling-voor-het-centraal-bureau-voor-de-statistiek/README.md) · 1 versie
+- [BWBR0048937 — Meerjarenregeling Co-creatie 2025 – 2028 Fonds voor Cultuurparticipatie](meerjarenregeling-co-creatie-2025-2028-fonds-voor-cultuurpar/README.md) · 1 versie
+- [BWBR0048930 — Meerjarenregeling Talentontwikkeling 2025–2028 Fonds voor Cultuurparticipatie](meerjarenregeling-talentontwikkeling-2025-2028-fonds-voor-cu/README.md) · 1 versie
+- [BWBR0048001 — Model jaarverslaggeving CAK bestuurlijke verantwoording 2022](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-2022/README.md) · 2 versies
+- [BWBR0049096 — Model Jaarverslaggeving CAK bestuurlijke verantwoording 2023](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-2023/README.md) · 1 versie
+- [BWBR0048004 — Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2022](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-burg-bwbr0048004/README.md) · 2 versies
+- [BWBR0049100 — Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2023](model-jaarverslaggeving-cak-bestuurlijke-verantwoording-burg-bwbr0049100/README.md) · 1 versie
+- [BWBR0048003 — Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2022](protocol-accountantsonderzoek-cak-bestuurlijke-verantwoordin-bwbr0048003/README.md) · 2 versies
+- [BWBR0049101 — Protocol Accountantsonderzoek CAK bestuurlijke verantwoording 2023](protocol-accountantsonderzoek-cak-bestuurlijke-verantwoordin-bwbr0049101/README.md) · 1 versie
+- [BWBR0048005 — Protocol accountantsonderzoek CAK bestuurlijke verantwoording burgerregelingen 2022](protocol-accountantsonderzoek-cak-bestuurlijke-verantwoordin-bwbr0048005/README.md) · 2 versies
+- [BWBR0049138 — Protocol accountantsonderzoek CAK bestuurlijke verantwoording burgerregelingen 2023](protocol-accountantsonderzoek-cak-bestuurlijke-verantwoordin-bwbr0049138/README.md) · 1 versie
+- [BWBR0048153 — Protocol onderzoek dossiers verzetsdeelnemers en oorlogsgetroffenen](protocol-onderzoek-dossiers-verzetsdeelnemers-en-oorlogsgetr/README.md) · 1 versie
+- [BWBR0047647 — Raamwerk nascholingscursussen code 95 en ADR](raamwerk-nascholingscursussen-code-95-en-adr-1-januari-2023/README.md) · 1 versie
+- [BWBR0048345 — Raamwerk nascholingscursussen code 95 en ADR](raamwerk-nascholingscursussen-code-95-en-adr/README.md) · 1 versie
+- [BWBR0048669 — Regeling aanlevering informatie productiedata medisch-specialistische zorg – TH/NR-029](regeling-aanlevering-informatie-productiedata-medisch-specia/README.md) · 1 versie
+- [BWBR0048025 — Regeling adviestoevoeging zelfredzaamheid](regeling-adviestoevoeging-zelfredzaamheid/README.md) · 1 versie
+- [BWBR0047857 — Regeling bezwaarschriftenprocedure Awb NVAO](regeling-bezwaarschriftenprocedure-awb-nvao/README.md) · 1 versie
+- [BWBR0049068 — Regeling constanten regressieformules en waarden voor de gemiddelde CO2-uitstoot voor benzine- en dieselauto's 2024 en 2025](regeling-constanten-regressieformules-en-waarden-voor-de-gem/README.md) · 1 versie
+- [BWBR0048932 — Regeling Cultuureducatie met Kwaliteit 2025–2028](regeling-cultuureducatie-met-kwaliteit-2025-2028-fonds-voor-/README.md) · 1 versie
+- [BWBR0046893 — Regeling declaratievoorschriften en declaratiebepalingen integrale bekostiging geboortezorg](regeling-declaratievoorschriften-en-declaratiebepalingen-int/README.md) · 1 versie
+- [BWBR0047038 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2023](regeling-declaratievoorschriften-administratievoorschriften--bwbr0047038/README.md) · 1 versie
+- [BWBR0048217 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2023](regeling-declaratievoorschriften-administratievoorschriften--bwbr0048217/README.md) · 2 versies
+- [BWBR0049037 — Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2023](regeling-declaratievoorschriften-administratievoorschriften--bwbr0049037/README.md) · 3 versies
+- [BWBR0047752 — Regeling eerstelijnsverblijf NR/REG-2316](regeling-eerstelijnsverblijf/README.md) · 2 versies
+- [BWBR0048585 — Regeling erkenning leerbedrijven SBB](regeling-erkenning-leerbedrijven-sbb/README.md) · 1 versie
+- [BWBR0047733 — Regeling experiment cosmetische mondzorg](regeling-experiment-cosmetische-mondzorg/README.md) · 1 versie
+- [BWBR0047760 — Regeling Festivals en publiekspresentaties creatieve industrie 2023-2024](regeling-festivals-en-publiekspresentaties-creatieve-industr/README.md) · 1 versie
+- [BWBR0046900 — Regeling gecombineerde leefstijlinterventie](regeling-gecombineerde-leefstijlinterventie/README.md) · 1 versie
+- [BWBR0047014 — Regeling geestelijke gezondheidszorg en forensische zorg](regeling-geestelijke-gezondheidszorg-en-forensische-zorg-bwbr0047014/README.md) · 1 versie
+- [BWBR0047766 — Regeling geestelijke gezondheidszorg en forensische zorg](regeling-geestelijke-gezondheidszorg-en-forensische-zorg-bwbr0047766/README.md) · 1 versie
+- [BWBR0046793 — Regeling geneeskundige zorg voor specifieke patiëntgroepen](regeling-geneeskundige-zorg-voor-specifieke-pati-ntgroepen/README.md) · 1 versie
+- [BWBR0047771 — Regeling Herdenkingsjaar Slavernijverleden](regeling-herdenkingsjaar-slavernijverleden/README.md) · 2 versies
+- [BWBR0048117 — Regeling Informatiebeheer Sociale Verzekeringsbank (SVB) 2023](regeling-informatiebeheer-sociale-verzekeringsbank-2023/README.md) · 1 versie
+- [BWBR0047480 — Regeling informatieverstrekking vaststelling budget regionale ambulancevoorzieningen](regeling-informatieverstrekking-vaststelling-budget-regional/README.md) · 1 versie
+- [BWBR0048324 — Regeling informatieverstrekking ziektekostenverzekeraars aan consumenten](regeling-informatieverstrekking-ziektekostenverzekeraars-aan/README.md) · 1 versie
+- [BWBR0047970 — Regeling Macrobeheersinstrument geneeskundige geestelijke gezondheidszorg vanaf 2023](regeling-macrobeheersinstrument-geneeskundige-geestelijke-ge/README.md) · 1 versie
+- [BWBR0046865 — Regeling macrobeheersinstrument huisartsenzorg 2023](regeling-macrobeheersinstrument-huisartsenzorg-2023/README.md) · 1 versie
+- [BWBR0046794 — Regeling macrobeheersinstrument kortdurende zorg 2023](regeling-macrobeheersinstrument-kortdurende-zorg-2023/README.md) · 1 versie
+- [BWBR0046844 — Regeling macrobeheersinstrument multidisciplinaire zorg 2023](regeling-macrobeheersinstrument-multidisciplinaire-zorg-2023/README.md) · 1 versie
+- [BWBR0046856 — Regeling macrobeheersinstrument verpleging en verzorging 2023](regeling-macrobeheersinstrument-verpleging-en-verzorging-202/README.md) · 1 versie
+- [BWBR0046729 — Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg 2023](regeling-macrobeheersinstrument-zintuiglijk-gehandicaptenzor/README.md) · 1 versie
+- [BWBR0047194 — Regeling medisch-specialistische zorg](regeling-medisch-specialistische-zorg-bwbr0047194/README.md) · 1 versie
+- [BWBR0047271 — Regeling mondzorg](regeling-mondzorg-bwbr0047271/README.md) · 1 versie
+- [BWBR0047335 — Regeling monitoring beschikkingen persoonsgebonden budget en uitgaven individueel aangepaste Wlz-hulpmiddelen 2023](regeling-monitoring-beschikkingen-persoonsgebonden-budget-en/README.md) · 1 versie
+- [BWBR0048139 — Regeling registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg](regeling-registratie-en-aanlevering-kostprijzen-zorgproducte/README.md) · 1 versie
+- [BWBR0047861 — Regeling starters- en ontwikkelbeurzen literair vertalers Nederlands Letterenfonds](regeling-starters-en-ontwikkelbeurzen-literair-vertalers-ned/README.md) · 1 versie
+- [BWBR0048144 — Regeling subsidievoorwaarden rechts- en wetswinkels 2023](regeling-subsidievoorwaarden-rechts-en-wetswinkels-2023/README.md) · 1 versie
+- [BWBR0047994 — Regeling tarieven Airport Coordination Netherlands 2023](regeling-tarieven-airport-coordination-netherlands-2023/README.md) · 1 versie
+- [BWBR0047637 — Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2023](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20-bwbr0047637/README.md) · 1 versie
+- [BWBR0047960 — Regeling tarieven Centraal Bureau Rijvaardigheidsbewijzen 2023](regeling-tarieven-centraal-bureau-rijvaardigheidsbewijzen-20-bwbr0047960/README.md) · 1 versie
+- [BWBR0047607 — Regeling tarieven Dienst Wegverkeer 2023](regeling-tarieven-dienst-wegverkeer-2023/README.md) · 2 versies
+- [BWBR0048322 — Regeling transparantie zorgaanbieders](regeling-transparantie-zorgaanbieders/README.md) · 1 versie
+- [BWBR0047939 — Regeling uitvoeringsverslag en financieel verslag Wlz-uitvoerder](regeling-uitvoeringsverslag-en-financieel-verslag-wlz-uitvoe/README.md) · 3 versies
+- [BWBR0047968 — Regeling Upstream: Music x Design 2023–2024](regeling-upstream-music-x-design-2023-2024/README.md) · 2 versies
+- [BWBR0048348 — Regeling van De Nederlandsche Bank N.V. (DNB) van 23 juni 2023 houdende regels met betrekking tot het melden van een interne collectieve waardeoverdracht bij transitie als bedoeld in artikel 150m van de Pensioenwet en artikel 145l van de Wet verplichte beroepspensioenregeling (Regeling melden interne collectieve waardeoverdracht pensioenfondsen bij transitie)](regeling-melden-interne-collectieve-waardeoverdracht-pensioe/README.md) · 5 versies
+- [BWBR0048347 — Regeling van De Nederlandsche Bank N.V. van 23 juni 2023, ter uitvoering van artikel 1h, negende lid, Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling, houdende regels met betrekking tot rekenmethoden ter onderbouwing van de inrichting van de solidariteitsreserve en de risicodelingsreserve (Regeling rekenmethoden onderbouwing solidariteitsreserve en risicodelingsreserve pensioenuitvoerders)](regeling-rekenmethoden-onderbouwing-solidariteitsreserve-en-/README.md) · 1 versie
+- [BWBR0048267 — Regeling van de Raad van Bestuur van Zorginstituut Nederland van 25 april 2023, referentie 2023003182, houdende regels met betrekking tot de structurele aanlevering van gegevens Zorgverzekeringswet 2023 en gegevens Wet langdurige zorg 2023 (Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg 2023)](regeling-structurele-aanlevering-gegevens-zorgverzekeringswe/README.md) · 2 versies
+- [BWBR0048757 — Regeling van het bestuur van de stichting Fonds voor Cultuurparticipatie van 5 oktober 2023, houdende Pilots Nationaal Akkoord Amateurkunst](pilots-nationaal-akkoord/README.md) · 1 versie
+- [BWBR0047244 — Regeling van het College voor toetsen en examens 26 september 2022 nummer CvTE-22.00944, houdende vaststelling van de aanmeldprocedure voor het Staatsexamen Nt2 2024 (Besluit Aanmeldprocedure Staatsexamen Nt2 2024)](besluit-aanmeldprocedure-staatsexamen-nt2-2024/README.md) · 1 versie
+- [BWBR0047809 — Regeling van het College voor toetsen en examens van 16 januari 2023, nummer CvTE-00007, houdende regels voor het aanwijzen van vakken waarin het centraal examen vo 2023 in het tweede tijdvak wordt afgenomen door het College voor toetsen en examens (Regeling aangewezen vakken tweede tijdvak centrale examens vo 2023)](regeling-aangewezen-vakken-tweede-tijdvak-centrale-examens-v/README.md) · 1 versie
+- [BWBR0048115 — Regeling van het College voor toetsen en examens van 17 april 2023, nummer CvTE-23.00504, houdende vaststelling van het Programma van Toetsing en Afsluiting staatsexamens vo 2024 (Regeling PTA staatsexamens VO 2024)](regeling-pta-staatsexamens-vo-2024/README.md) · 1 versie
+- [BWBR0048104 — Regeling van het College voor toetsen en examens van 17 april 2023, nummer CvTE-23.00505, houdende vaststelling van het examenreglement staatsexamens vo 2024 (Regeling examenreglement staatsexamens vo 2024)](regeling-examenreglement-staatsexamens-vo-2024/README.md) · 3 versies
+- [BWBR0048662 — Regeling van het College voor toetsen en examens van 25 september 2023, CvTE- 23.00980, houdende regels inzake toepassing van de hardheidsclausule ten behoeve van deelname aan het staatsexamen voor specifieke groepen leerlingen (Regeling toelating specifieke groepen leerlingen tot de staatsexamens vo)](regeling-toelating-specifieke-groepen-leerlingen-tot-de-staa/README.md) · 1 versie
+- [BWBR0048412 — Regeling van het College voor toetsen en examens van 26 juni 2023, nummer CvTE-23.00879, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo ten behoeve van het examenjaar 2025, nadere vaststelling van enkele eerder vastgestelde syllabi ten behoeve van het examenjaar 2024 tevens preliminaire vaststelling van enkele syllabi ten behoeve van het examenjaar 2026 (Regeling syllabi centrale examens vo 2025)](regeling-syllabi-centrale-examens-vo-2025/README.md) · 2 versies
+- [BWBR0047245 — Regeling van het College voor toetsen en examens van 26 september 2022, nummer CvTE-22.00945, houdende vaststelling van de toetswijzer voor de doorstroomtoets in het primair onderwijs (Regeling toetswijzer doorstroomtoets PO)](regeling-toetswijzer-doorstroomtoets-po/README.md) · 2 versies
+- [BWBR0046996 — Regeling van het College voor toetsen en examens van 27 juni 2022, nummer CvTE- 22.00848, houdende vaststelling van het examenreglement Staatsexamens Nederlands als tweede taal 2023 (Regeling examenreglement Staatsexamens Nt2 2023)](regeling-examenreglement-staatsexamens-nt2-2023/README.md) · 1 versie
+- [BWBR0047614 — Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00976, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs (Regeling beoordelingskader doorstroomtoets PO)](regeling-beoordelingskader-doorstroomtoets-po/README.md) · 4 versies
+- [BWBR0047606 — Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00977, houdende vaststelling van de regeling voor de procedure om te komen tot de beoordelingsnormen van de doorstroomtoetsen (Regeling beoordelingsnormen doorstroomtoetsen PO)](regeling-beoordelingsnormen-doorstroomtoetsen-po/README.md) · 2 versies
+- [BWBR0047445 — Regeling van het College voor toetsen en examens van 7 november 2022, nummer CvTE-22.00963, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO)](regeling-beoordelingskader-voor-de-toetsen-behorende-tot-lee/README.md) · 2 versies
+- [BWBR0048233 — Regeling van het Stimuleringsfonds voor de Journalistiek van 31 mei 2023, nr. LO2324, tot vaststelling van een subsidieregeling professionalisering Lokale Publieke Media-instellingen 2023–2024](regeling-vaststelling-subsidieregeling-professionalisering-l/README.md) · 5 versies
+- [BWBR0047958 — Regeling verantwoording bbaz 2022 compartimenten 1 en 2](regeling-verantwoording-bbaz-2022-compartimenten-1-en-2/README.md) · 1 versie
+- [BWBR0048965 — Regeling Vierjarige instellingssubsidie creatieve industrie 2025–2028](regeling-vierjarige-instellingssubsidie-creatieve-industrie-/README.md) · 1 versie
+- [BWBR0048974 — Regeling vierjarige subsidies literair-educatieve organisaties Nederlands Letterenfonds 2025–2028](regeling-vierjarige-subsidies-literair-educatieve-organisati/README.md) · 1 versie
+- [BWBR0048979 — Regeling vierjarige subsidies literaire organisaties Nederlands Letterenfonds 2025–2028](regeling-vierjarige-subsidies-literaire-organisaties-nederla/README.md) · 1 versie
+- [BWBR0048389 — Regeling voor muziekhubs op het gebied van pop, hiphop en dance](regeling-voor-muziekhubs-op-het-gebied-van-pop-hiphop-en-dan/README.md) · 2 versies
+- [BWBR0047835 — Reglement gegevensbeheer Kansspelautoriteit](reglement-gegevensbeheer-kansspelautoriteit/README.md) · 1 versie
+- [BWBR0048463 — Reglement hoorcommissie bezwaarzaken met externe voorzitter 2023](reglement-hoorcommissie-bezwaarzaken-met-externe-voorzitter--bwbr0048463/README.md) · 1 versie
+- [BWBR0048869 — Reglement hoorcommissie bezwaarzaken met externe voorzitter 2023](reglement-hoorcommissie-bezwaarzaken-met-externe-voorzitter--bwbr0048869/README.md) · 1 versie
+- [BWBR0049032 — Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra versie 1 januari 2024](reglement-participatiefonds-voor-het-primair-onderwijs-en-de/README.md) · 2 versies
+- [BWBR0047791 — Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film](reglement-stimuleringsmaatregel-filmproductie-in-nederland-v/README.md) · 2 versies
+- [BWBR0047906 — Reglement van de Koninklijke Bibliotheek 2023](reglement-van-de-koninklijke-bibliotheek-2023/README.md) · 1 versie
+- [BWBR0048999 — Reglement van de Koninklijke Bibliotheek van 1 januari 2024, houdende regels voor de subsidiëring van de activiteiten genoemd in artikel 9 van de Wet stelsel openbare bibliotheekvoorzieningen (hierna: wet)](subsidiereglement-koninklijke-bibliotheek-2024/README.md) · 1 versie
+- [BWBR0047305 — Reglement Vervangingsfonds 2023, Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs](reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h/README.md) · 19 versies
+- [BWBR0049105 — Reglement voor de gebruikersraad Kadaster 2023](reglement-voor-de-gebruikersraad-kadaster-2023/README.md) · 1 versie
+- [BWBR0048207 — Richtlijn Toetsing geschiktheid onderzoeksinstelling](richtlijn-toetsing-geschiktheid-onderzoeksinstelling/README.md) · 1 versie
+- [BWBR0048363 — Statuten Stichting Nederlands Letterenfonds](statuten-stichting-nederlands-letterenfonds/README.md) · 1 versie
+- [BWBR0047849 — Statuten Stichting Stimuleringsfonds Creatieve Industrie](statuten-stichting-stimuleringsfonds-creatieve-industrie/README.md) · 1 versie
+- [BWBR0048313 — Subsidieplafondbesluit Aangepast Lezen Instellingssubsidies 2024](subsidieplafondbesluit-aangepast-lezen-instellingssubsidies-/README.md) · 1 versie
+- [BWBR0048302 — Subsidieplafondbesluit Projectsubsidies voor Doorontwikkeling Aangepast Lezen ter zake ‘Verbreden en borgen methodiek Leesplezier voor kinderen met een leesprobleem, in het kader van de Bibliotheek op school’, Koninklijke Bibliotheek 2023–2024](subsidieplafondbesluit-projectsubsidies-doorontwikkeling-aan/README.md) · 1 versie
+- [BWBR0048359 — Subsidieregeling beroepsopleiding sociaal advocaten 2023](subsidieregeling-beroepsopleiding-sociaal-advocaten-2023/README.md) · 2 versies
+- [BWBR0048817 — Subsidieregeling pakket rechtsbijstand herstelregelingen kinderopvangtoeslag 2023](subsidieregeling-pakket-rechtsbijstand-herstelregelingen-kin/README.md) · 6 versies
+- [BWBR0048519 — Subsidieregeling rechtsbijstand en aanverwante kosten Tijdelijke wet Groningen](subsidieregeling-rechtsbijstand-en-aanverwante-kosten-tijdel/README.md) · 2 versies
+- [BWBR0048440 — Subsidieregeling rechtsbijstand pilot Wijkrechtbank Eindhoven 2022–2023](subsidieregeling-rechtsbijstand-pilot-wijkrechtbank-eindhove/README.md) · 2 versies
+- [BWBR0047923 — Subsidieregeling Uitelkaar.nl 2023](subsidieregeling-uitelkaar-nl-2023/README.md) · 2 versies
+- [BWBR0048973 — Subsidieregeling van de Raad voor Rechtsbijstand over verstrekking van een éénmalige aanvullende vergoeding voor verleende rechtsbijstand en mediation over het jaar 2023 in het kader van een noodinvestering in de sociale advocatuur (Subsidieregeling aanvullende vergoeding rechtsbijstand en mediation 2023)](subsidieregeling-aanvullende-vergoeding-rechtsbijstand-en-me/README.md) · 1 versie
+- [BWBR0047933 — Subsidieregeling van de Raad voor Rechtsbijstand van 20 februari 2023 tot vaststelling van een subsidie aan niet-toegevoegde partijen die door de rechtspraak verwezen zijn naar een mediator (Subsidieregeling startbijdrage mediation)](subsidieregeling-startbijdrage-mediation/README.md) · 2 versies
+- [BWBR0048442 — Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand project Wijkrechtspraak op Zuid 2023](subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan/README.md) · 2 versies
+- [BWBR0047684 — Tarievenbesluit 2023 Raad voor Accreditatie](tarievenbesluit-2023-raad-voor-accreditatie/README.md) · 1 versie
+- [BWBR0047586 — Tarievenbesluit Ctgb 2023](tarievenbesluit-ctgb-2023/README.md) · 1 versie
+- [BWBR0049556 — Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2023](tarieventabel-handhaving-centraal-bureau-voor-de-statistiek-/README.md) · 1 versie
+- [BWBR0048648 — Tijdelijke beleidsregel pilot kosteloze rechtsbijstand procedures in eerste aanleg met betrekking tot (spoed)uithuisplaatsing ex artikel 1:265b BW en gezagsbeëindiging ex de artikelen 1:266 juncto 1:267 BW](tijdelijke-beleidsregel-pilot-kosteloze-rechtsbijstand-proce-bwbr0048648/README.md) · 2 versies
+- [BWBR0047750 — Tijdelijke beleidsregel pilot kosteloze rechtsbijstand procedures in eerste aanleg met betrekking tot gezagsbeëindiging ex de artikelen 1:266 juncto 1:267 BW](tijdelijke-beleidsregel-pilot-kosteloze-rechtsbijstand-proce-bwbr0047750/README.md) · 2 versies
+- [BWBR0048301 — Tijdelijke impulsregeling startende literaire makers](tijdelijke-impulsregeling-startende-literaire-makers/README.md) · 1 versie
+- [BWBR0048447 — Tijdelijke subsidieregels Landelijk ondersteuningsprogramma Informatiepunten Digitale Overheid 2023 Koninklijke Bibliotheek](tijdelijke-subsidieregels-landelijk-ondersteuningsprogramma-/README.md) · 1 versie
+- [BWBR0048304 — Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2023](tijdelijke-subsidieregels-samenwerking-belastingdienst-de-di-bwbr0048304/README.md) · 1 versie
+- [BWBR0049025 — Tijdelijke subsidieregels samenwerking Belastingdienst, de Dienst Toeslagen en de Koninklijke Bibliotheek 2024–2027 (Digitale Inclusie)](tijdelijke-subsidieregels-samenwerking-belastingdienst-de-di-bwbr0049025/README.md) · 1 versie
+- [BWBR0047545 — Verplichte aanlevering minimale dataset (mds) medisch specialistische zorg, Nederlandse Zorgautoriteit](regeling-verplichte-aanlevering-minimale-dataset-mds-medisch/README.md) · 1 versie
+- [BWBR0048614 — Vervallenverklaring tenaamstellingen kentekenregister](vervallenverklaring-tenaamstellingen-kentekenregister/README.md) · 1 versie
+- [BWBR0049028 — Wijzigingsbesluit houdende wijziging van de beleidsregel prestaties en tarieven GGZ en FZ Geestelijke gezondheidszorg en forensische zorg – BR/REG-23139 en tariefbeschikkingen Geestelijke Gezondheidszorg en Forensische Zorg TB/REG-23625-02 t/m 04](wijzigingsbesluit-beleidsregel-prestaties-en-tarieven-geeste/README.md) · 2 versies

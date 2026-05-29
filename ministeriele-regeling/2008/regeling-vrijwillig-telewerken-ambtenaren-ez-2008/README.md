@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0023407
+eli: /eli/nl/ministeriele-regeling/2008/regeling-vrijwillig-telewerken-ambtenaren-ez-2008
+type: ministeriele-regeling
+title: Regeling van de Minister van Economische Zaken van 10 januari 2008, nr. WJZ 7156190, houdende regels betreffende vrijwillig telewerken ambtenaren EZ 2008 (Regeling vrijwillig telewerken ambtenaren EZ 2008)
+ministry: Economische Zaken
+abbreviation: null
+latest_state: "2008-02-01"
+state_count: 1
+---
+
+
+# Regeling van de Minister van Economische Zaken van 10 januari 2008, nr. WJZ 7156190, houdende regels betreffende vrijwillig telewerken ambtenaren EZ 2008 (Regeling vrijwillig telewerken ambtenaren EZ 2008)
+
+**BWB-id:** BWBR0023407
+**Citeertitel:** Regeling vrijwillig telewerken ambtenaren EZ 2008
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Economische Zaken
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-vrijwillig-telewerken-ambtenaren-ez-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-vrijwillig-telewerken-ambtenaren-ez-2008)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2008-02-01 | 2019-12-31 | [2008-02-01.md](./2008-02-01.md) |

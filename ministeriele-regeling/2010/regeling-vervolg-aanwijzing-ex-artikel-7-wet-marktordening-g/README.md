@@ -1,0 +1,25 @@
+---
+bwb_id: BWBR0029042
+eli: /eli/nl/ministeriele-regeling/2010/regeling-vervolg-aanwijzing-ex-artikel-7-wet-marktordening-g
+type: ministeriele-regeling
+title: Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 30 november 2010, nr. DLZ/SFI-U-3036644 op grond van artikel 7 van de Wet marktordening gezondheidszorg, houdende vervolg op de aanwijzing inzake de Contracteerruimte AWBZ 2011
+ministry: Volksgezondheid, Welzijn en Sport
+abbreviation: null
+latest_state: "2010-12-08"
+state_count: 1
+---
+
+
+# Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 30 november 2010, nr. DLZ/SFI-U-3036644 op grond van artikel 7 van de Wet marktordening gezondheidszorg, houdende vervolg op de aanwijzing inzake de Contracteerruimte AWBZ 2011
+
+**BWB-id:** BWBR0029042
+**Citeertitel:** Regeling vervolg aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (Contracteerruimte AWBZ 2011)
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-vervolg-aanwijzing-ex-artikel-7-wet-marktordening-g](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-vervolg-aanwijzing-ex-artikel-7-wet-marktordening-g)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2010-12-08 | heden | [2010-12-08.md](./2010-12-08.md) |

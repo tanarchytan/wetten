@@ -1,0 +1,26 @@
+---
+bwb_id: BWBR0026508
+eli: /eli/nl/ministeriele-regeling/2009/mandaatbesluit-agentschap-nl-regeling-gefluoreerde-broeikasg-bwbr0026508
+type: ministeriele-regeling
+title: Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 oktober 2009, nr. K&L 2009053181, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen (Mandaatbesluit Dienst Uitvoering Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen)
+ministry: Infrastructuur en Milieu
+abbreviation: null
+latest_state: "2010-01-01"
+state_count: 2
+---
+
+
+# Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 oktober 2009, nr. K&L 2009053181, tot het verlenen van mandaat, volmacht en machtiging ter uitvoering van de Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen (Mandaatbesluit Dienst Uitvoering Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen)
+
+**BWB-id:** BWBR0026508
+**Citeertitel:** Mandaatbesluit Agentschap NL Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen
+**Type:** ministeriele-regeling
+**Verantwoordelijk ministerie:** Infrastructuur en Milieu
+**ELI:** [/eli/nl/ministeriele-regeling/2009/mandaatbesluit-agentschap-nl-regeling-gefluoreerde-broeikasg-bwbr0026508](https://wetten.ai/eli/nl/ministeriele-regeling/2009/mandaatbesluit-agentschap-nl-regeling-gefluoreerde-broeikasg-bwbr0026508)
+
+## Versies
+
+| Geldend van | Geldend tot | Bestand |
+|---|---|---|
+| 2010-01-01 | 2012-12-31 | [2010-01-01.md](./2010-01-01.md) |
+| 2009-10-15 | 2009-12-31 | [2009-10-15.md](./2009-10-15.md) |
