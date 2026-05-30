@@ -5,7 +5,7 @@ type: amvb
 title: Besluit van 27 oktober 2014, houdende regels inzake het door de ACM ten laste brengen van kosten aan marktorganisaties (Besluit doorberekening kosten ACM)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2022-03-02"
+latest_state: "2026-01-01"
 state_count: 8
 ---
 
@@ -16,17 +16,17 @@ state_count: 8
 **Citeertitel:** Besluit doorberekening kosten ACM
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2015/besluit-doorberekening-kosten-acm](https://wetten.ai/eli/nl/amvb/2015/besluit-doorberekening-kosten-acm)
+**ELI:** [/eli/nl/amvb/2015/besluit-doorberekening-kosten-acm](https://wettenbank.online/eli/nl/amvb/2015/besluit-doorberekening-kosten-acm)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-03-02 | heden | [2022-03-02.md](./2022-03-02.md) |
 | 2021-07-23 | 2022-03-01 | [2021-07-23.md](./2021-07-23.md) |
 | 2020-01-01 | 2021-07-22 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-04-04 | 2019-12-31 | [2017-04-04.md](./2017-04-04.md) |
 | 2017-03-10 | 2017-04-03 | [2017-03-10.md](./2017-03-10.md) |
-| 2017-01-01 | 2017-03-09 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-09 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-01-01 | 2016-12-31 | [2015-01-01.md](./2015-01-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 7 juli 1987, tot uitbreiding van de lesgeldregeling tot de groep 16- tot 18-jarigen, vervanging van en intrekking van de Lesgeldwet voor boven 17-jarigen alsmede intrekking van de School- en cursusgeldwet 1972
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: LCW
-latest_state: "2023-08-01"
-state_count: 47
+latest_state: "2026-01-01"
+state_count: 39
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 47
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** LCW
-**ELI:** [/eli/nl/wet/1987/les-en-cursusgeldwet](https://wetten.ai/eli/nl/wet/1987/les-en-cursusgeldwet)
+**ELI:** [/eli/nl/wet/1987/les-en-cursusgeldwet](https://wettenbank.online/eli/nl/wet/1987/les-en-cursusgeldwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-08-01 | heden | [2023-08-01.md](./2023-08-01.md) |
 | 2022-08-01 | 2023-07-31 | [2022-08-01.md](./2022-08-01.md) |
 | 2021-08-01 | 2022-07-31 | [2021-08-01.md](./2021-08-01.md) |
@@ -52,20 +53,11 @@ state_count: 47
 | 2006-08-01 | 2006-10-10 | [2006-08-01.md](./2006-08-01.md) |
 | 2005-12-30 | 2006-07-31 | [2005-12-30.md](./2005-12-30.md) |
 | 2005-12-21 | 2005-12-29 | [2005-12-21.md](./2005-12-21.md) |
-| 2005-12-21 | 2005-12-29 | [2005-12-21.md](./2005-12-21.md) |
 | 2005-10-01 | 2005-12-20 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-12-20 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-12-20 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-08-01 | 2005-09-30 | [2005-08-01.md](./2005-08-01.md) |
-| 2005-08-01 | 2005-09-30 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-08-01 | 2005-09-30 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-04-01 | 2005-07-31 | [2005-04-01.md](./2005-04-01.md) |
-| 2005-04-01 | 2005-07-31 | [2005-04-01.md](./2005-04-01.md) |
-| 2004-09-24 | 2005-03-31 | [2004-09-24.md](./2004-09-24.md) |
 | 2004-09-24 | 2005-03-31 | [2004-09-24.md](./2004-09-24.md) |
 | 2004-08-01 | 2004-09-23 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-08-01 | 2004-09-23 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-07-01 | 2004-07-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2004-07-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-02-13 | 2004-06-30 | [2004-02-13.md](./2004-02-13.md) |
 | 2003-08-01 | 2004-02-12 | [2003-08-01.md](./2003-08-01.md) |

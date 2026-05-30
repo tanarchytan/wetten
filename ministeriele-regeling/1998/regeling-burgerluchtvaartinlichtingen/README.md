@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling burgerluchtvaartinlichtingen
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 11
+latest_state: "2025-09-04"
+state_count: 12
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 11
 **Citeertitel:** Regeling burgerluchtvaartinlichtingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-burgerluchtvaartinlichtingen](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-burgerluchtvaartinlichtingen)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-burgerluchtvaartinlichtingen](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-burgerluchtvaartinlichtingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-04 | heden | [2025-09-04.md](./2025-09-04.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-04-01 | 2023-12-31 | [2023-04-01.md](./2023-04-01.md) |
 | 2021-04-01 | 2023-03-31 | [2021-04-01.md](./2021-04-01.md) |

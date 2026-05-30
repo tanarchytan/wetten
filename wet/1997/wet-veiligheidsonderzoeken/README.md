@@ -5,8 +5,8 @@ type: wet
 title: Wet van 10 oktober 1996, houdende regelen inzake het verrichten van veiligheidsonderzoeken (Wet veiligheidsonderzoeken)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Wvho
-latest_state: "2015-09-01"
-state_count: 9
+latest_state: "2026-04-01"
+state_count: 10
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 9
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Wvho
-**ELI:** [/eli/nl/wet/1997/wet-veiligheidsonderzoeken](https://wetten.ai/eli/nl/wet/1997/wet-veiligheidsonderzoeken)
+**ELI:** [/eli/nl/wet/1997/wet-veiligheidsonderzoeken](https://wettenbank.online/eli/nl/wet/1997/wet-veiligheidsonderzoeken)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
 | 2015-09-01 | heden | [2015-09-01.md](./2015-09-01.md) |
 | 2010-10-10 | 2015-08-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-04-01 | 2010-10-09 | [2010-04-01.md](./2010-04-01.md) |

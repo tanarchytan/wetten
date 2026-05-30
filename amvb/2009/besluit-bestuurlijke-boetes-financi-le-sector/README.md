@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 11 juni 2009, houdende regels voor het vaststellen van de op grond van de Wet op het financieel toezicht en enige andere wetten op te leggen bestuurlijke boetes (Besluit bestuurlijke boetes financiële sector)
 ministry: Financiën
 abbreviation: Bb Wft
-latest_state: "2025-07-18"
-state_count: 64
+latest_state: "2026-04-30"
+state_count: 65
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 64
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Bb Wft
-**ELI:** [/eli/nl/amvb/2009/besluit-bestuurlijke-boetes-financi-le-sector](https://wetten.ai/eli/nl/amvb/2009/besluit-bestuurlijke-boetes-financi-le-sector)
+**ELI:** [/eli/nl/amvb/2009/besluit-bestuurlijke-boetes-financi-le-sector](https://wettenbank.online/eli/nl/amvb/2009/besluit-bestuurlijke-boetes-financi-le-sector)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-30 | heden | [2026-04-30.md](./2026-04-30.md) |
 | 2025-07-18 | heden | [2025-07-18.md](./2025-07-18.md) |
 | 2025-07-01 | 2025-07-17 | [2025-07-01.md](./2025-07-01.md) |
 | 2025-06-28 | 2025-06-30 | [2025-06-28.md](./2025-06-28.md) |

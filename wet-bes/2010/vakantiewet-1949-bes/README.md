@@ -5,8 +5,8 @@ type: wet-bes
 title: Vakantiewet 1949 BES
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2010-10-10"
-state_count: 1
+latest_state: "2026-01-01"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Vakantiewet 1949 BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet-bes/2010/vakantiewet-1949-bes](https://wetten.ai/eli/nl/wet-bes/2010/vakantiewet-1949-bes)
+**ELI:** [/eli/nl/wet-bes/2010/vakantiewet-1949-bes](https://wettenbank.online/eli/nl/wet-bes/2010/vakantiewet-1949-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2010-10-10 | heden | [2010-10-10.md](./2010-10-10.md) |

@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Verkeer en Waterstaat van 12 december 2006, nr. HDJZ/2006/1894, houdende vaststelling van regels met betrekking tot de aanvraag en afgifte van transitokentekenbewijzen (Regeling transitokentekenbewijzen)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2021-01-05"
+latest_state: "2026-01-01"
 state_count: 6
 ---
 
@@ -16,14 +16,14 @@ state_count: 6
 **Citeertitel:** Regeling transitokentekens
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-transitokentekens](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-transitokentekens)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-transitokentekens](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-transitokentekens)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2021-01-05 | heden | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2014-01-01 | 2020-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2009-12-16 | 2013-12-31 | [2009-12-16.md](./2009-12-16.md) |

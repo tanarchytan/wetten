@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken van 12 december 2012 , nr. WJZ/12363115, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Regeling handhaving en overige zaken Wet dieren)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-04-30"
-state_count: 32
+latest_state: "2026-01-01"
+state_count: 35
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 32
 **Citeertitel:** Regeling handhaving en overige zaken Wet dieren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-handhaving-en-overige-zaken-wet-dieren](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-handhaving-en-overige-zaken-wet-dieren)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-handhaving-en-overige-zaken-wet-dieren](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-handhaving-en-overige-zaken-wet-dieren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-11-09 | 2025-12-31 | [2025-11-09.md](./2025-11-09.md) |
+| 2025-09-24 | 2025-11-08 | [2025-09-24.md](./2025-09-24.md) |
 | 2025-04-30 | heden | [2025-04-30.md](./2025-04-30.md) |
 | 2024-09-03 | 2025-04-29 | [2024-09-03.md](./2024-09-03.md) |
 | 2024-02-23 | 2024-09-02 | [2024-02-23.md](./2024-02-23.md) |

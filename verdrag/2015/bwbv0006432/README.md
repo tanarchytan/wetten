@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag over de status en werkzaamheden van de Internationale Commissie voor Vermiste Personen
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2015-07-17"
-state_count: 2
+latest_state: "2026-04-24"
+state_count: 3
 ---
 
 
@@ -22,5 +22,6 @@ state_count: 2
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-24 | heden | [2026-04-24.md](./2026-04-24.md) |
 | 2015-07-17 | heden | [2015-07-17.md](./2015-07-17.md) |
 | 2014-12-15 | 2015-07-16 | [2014-12-15.md](./2014-12-15.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/18085049, houdende uitvoeringsbepalingen met betrekking tot plantgezondheid (Regeling plantgezondheid)
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
-latest_state: "2025-04-01"
-state_count: 12
+latest_state: "2025-11-22"
+state_count: 13
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 12
 **Citeertitel:** Regeling plantgezondheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-plantgezondheid](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-plantgezondheid)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-plantgezondheid](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-plantgezondheid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-22 | heden | [2025-11-22.md](./2025-11-22.md) |
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2025-01-01 | 2025-03-31 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |

@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tot samenwerking inzake octrooien
 ministry: Buitenlandse Zaken
 abbreviation: PCT
-latest_state: "2025-07-01"
-state_count: 22
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 22
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2024-07-01 | 2025-06-30 | [2024-07-01.md](./2024-07-01.md) |
 | 2022-07-01 | 2024-06-30 | [2022-07-01.md](./2022-07-01.md) |

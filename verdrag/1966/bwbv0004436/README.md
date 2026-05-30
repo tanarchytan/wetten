@@ -5,8 +5,8 @@ type: verdrag
 title: Overeenkomst tot oprichting van de Aziatische Ontwikkelingsbank
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "1966-08-29"
-state_count: 1
+latest_state: "2026-03-01"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
 | 1966-08-29 | heden | [1966-08-29.md](./1966-08-29.md) |

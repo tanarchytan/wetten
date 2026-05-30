@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Buitenlandse Zaken van 12 december 2003, nr. DJZ/BR-1003/2003 tot vaststelling van de tarieven voor consulaire dienstverlening (Regeling op de consulaire tarieven)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-02-17"
-state_count: 45
+latest_state: "2025-12-08"
+state_count: 41
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 45
 **Citeertitel:** Regeling op de consulaire tarieven
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-op-de-consulaire-tarieven](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-op-de-consulaire-tarieven)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-op-de-consulaire-tarieven](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-op-de-consulaire-tarieven)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-08 | heden | [2025-12-08.md](./2025-12-08.md) |
 | 2024-02-17 | heden | [2024-02-17.md](./2024-02-17.md) |
 | 2023-01-14 | 2024-02-16 | [2023-01-14.md](./2023-01-14.md) |
 | 2022-01-01 | 2023-01-13 | [2022-01-01.md](./2022-01-01.md) |
@@ -39,7 +40,6 @@ state_count: 45
 | 2015-01-01 | 2015-09-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-09-06 | 2014-12-31 | [2014-09-06.md](./2014-09-06.md) |
 | 2014-06-17 | 2014-09-05 | [2014-06-17.md](./2014-06-17.md) |
-| 2014-06-17 | 2014-09-05 | [2014-06-17.md](./2014-06-17.md) |
 | 2014-06-01 | 2014-06-16 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-04-01 | 2014-05-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-01-28 | 2014-03-31 | [2014-01-28.md](./2014-01-28.md) |
@@ -48,16 +48,12 @@ state_count: 45
 | 2013-06-01 | 2013-10-08 | [2013-06-01.md](./2013-06-01.md) |
 | 2013-02-01 | 2013-05-31 | [2013-02-01.md](./2013-02-01.md) |
 | 2012-10-09 | 2013-01-31 | [2012-10-09.md](./2012-10-09.md) |
-| 2012-10-09 | 2013-01-31 | [2012-10-09.md](./2012-10-09.md) |
 | 2012-04-01 | 2012-10-08 | [2012-04-01.md](./2012-04-01.md) |
 | 2011-07-01 | 2012-03-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-02-08 | 2011-06-30 | [2011-02-08.md](./2011-02-08.md) |
 | 2011-01-15 | 2011-02-07 | [2011-01-15.md](./2011-01-15.md) |
-| 2011-01-15 | 2011-02-07 | [2011-01-15.md](./2011-01-15.md) |
-| 2011-01-01 | 2011-01-14 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-01-14 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-07-20 | 2010-12-31 | [2010-07-20.md](./2010-07-20.md) |
-| 2010-04-29 | 2010-07-19 | [2010-04-29.md](./2010-04-29.md) |
 | 2010-04-29 | 2010-07-19 | [2010-04-29.md](./2010-04-29.md) |
 | 2009-11-15 | 2010-04-28 | [2009-11-15.md](./2009-11-15.md) |
 | 2009-08-01 | 2009-11-14 | [2009-08-01.md](./2009-08-01.md) |

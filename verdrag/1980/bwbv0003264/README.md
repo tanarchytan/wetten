@@ -5,8 +5,8 @@ type: verdrag
 title: Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974
 ministry: Buitenlandse Zaken
 abbreviation: SOLAS
-latest_state: "2024-07-01"
-state_count: 23
+latest_state: "2026-01-01"
+state_count: 24
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 23
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-07-01 | heden | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2020-01-01 | 2023-12-31 | [2020-01-01.md](./2020-01-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 17 november 2021, houdende instelling van een adviescollege op het terrein van de rechtspositie van politieke ambtsdragers (Wet adviescollege rechtspositie politieke ambtsdragers)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-02-12"
-state_count: 2
+latest_state: "2026-02-20"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Wet adviescollege rechtspositie politieke ambtsdragers
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2022/wet-adviescollege-rechtspositie-politieke-ambtsdragers](https://wetten.ai/eli/nl/wet/2022/wet-adviescollege-rechtspositie-politieke-ambtsdragers)
+**ELI:** [/eli/nl/wet/2022/wet-adviescollege-rechtspositie-politieke-ambtsdragers](https://wettenbank.online/eli/nl/wet/2022/wet-adviescollege-rechtspositie-politieke-ambtsdragers)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-20 | heden | [2026-02-20.md](./2026-02-20.md) |
 | 2025-02-12 | heden | [2025-02-12.md](./2025-02-12.md) |
 | 2022-01-01 | 2025-02-11 | [2022-01-01.md](./2022-01-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken van 10 oktober 2014, nr. WJZ / 14152482, houdende regels over producentenorganisaties, unies van producentenorganisaties en brancheorganisaties (Regeling producenten- en brancheorganisaties)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 8
+latest_state: "2026-01-21"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Regeling producenten- en brancheorganisaties
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-producenten-en-brancheorganisaties](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-producenten-en-brancheorganisaties)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-producenten-en-brancheorganisaties](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-producenten-en-brancheorganisaties)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-21 | heden | [2026-01-21.md](./2026-01-21.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-05-23 | 2024-12-31 | [2023-05-23.md](./2023-05-23.md) |
 | 2020-04-29 | 2023-05-22 | [2020-04-29.md](./2020-04-29.md) |

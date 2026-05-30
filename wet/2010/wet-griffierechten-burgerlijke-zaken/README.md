@@ -5,8 +5,8 @@ type: wet
 title: Wet van 30 september 2010 tot invoering van een nieuw griffierechtenstelsel in burgerlijke zaken (Wet griffierechten burgerlijke zaken)
 ministry: Veiligheid en Justitie
 abbreviation: Wgbz
-latest_state: "2025-07-01"
-state_count: 25
+latest_state: "2026-01-01"
+state_count: 26
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 25
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Wgbz
-**ELI:** [/eli/nl/wet/2010/wet-griffierechten-burgerlijke-zaken](https://wetten.ai/eli/nl/wet/2010/wet-griffierechten-burgerlijke-zaken)
+**ELI:** [/eli/nl/wet/2010/wet-griffierechten-burgerlijke-zaken](https://wettenbank.online/eli/nl/wet/2010/wet-griffierechten-burgerlijke-zaken)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |

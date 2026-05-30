@@ -5,8 +5,8 @@ type: verdrag
 title: Europese Overeenkomst inzake internationale hoofdverkeerswegen
 ministry: Buitenlandse Zaken
 abbreviation: AGR
-latest_state: "2024-12-03"
-state_count: 13
+latest_state: "2026-03-05"
+state_count: 14
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 13
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-05 | heden | [2026-03-05.md](./2026-03-05.md) |
 | 2024-12-03 | heden | [2024-12-03.md](./2024-12-03.md) |
 | 2017-12-05 | 2024-12-02 | [2017-12-05.md](./2017-12-05.md) |
 | 2015-11-25 | 2017-12-04 | [2015-11-25.md](./2015-11-25.md) |

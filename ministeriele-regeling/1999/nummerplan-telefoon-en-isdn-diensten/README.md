@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Nummerplan telefoon- en ISDN-diensten
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-12-16"
-state_count: 25
+latest_state: "2025-10-03"
+state_count: 26
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 25
 **Citeertitel:** Nummerplan telefoon- en ISDN-diensten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1999/nummerplan-telefoon-en-isdn-diensten](https://wetten.ai/eli/nl/ministeriele-regeling/1999/nummerplan-telefoon-en-isdn-diensten)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/nummerplan-telefoon-en-isdn-diensten](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/nummerplan-telefoon-en-isdn-diensten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-03 | heden | [2025-10-03.md](./2025-10-03.md) |
 | 2024-12-16 | heden | [2024-12-16.md](./2024-12-16.md) |
 | 2023-08-12 | 2024-12-15 | [2023-08-12.md](./2023-08-12.md) |
 | 2022-12-16 | 2023-08-11 | [2022-12-16.md](./2022-12-16.md) |

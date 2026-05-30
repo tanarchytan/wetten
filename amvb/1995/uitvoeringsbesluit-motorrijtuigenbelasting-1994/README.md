@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 30 maart 1995, tot vaststelling van het Uitvoeringsbesluit motorrijtuigenbelasting 1994
 ministry: Financiën
 abbreviation: Uitv besl  MRB 1994
-latest_state: "2025-01-01"
-state_count: 32
+latest_state: "2026-01-01"
+state_count: 29
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 32
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Uitv besl  MRB 1994
-**ELI:** [/eli/nl/amvb/1995/uitvoeringsbesluit-motorrijtuigenbelasting-1994](https://wetten.ai/eli/nl/amvb/1995/uitvoeringsbesluit-motorrijtuigenbelasting-1994)
+**ELI:** [/eli/nl/amvb/1995/uitvoeringsbesluit-motorrijtuigenbelasting-1994](https://wettenbank.online/eli/nl/amvb/1995/uitvoeringsbesluit-motorrijtuigenbelasting-1994)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2021-01-01 | 2023-12-31 | [2021-01-01.md](./2021-01-01.md) |
@@ -32,11 +33,7 @@ state_count: 32
 | 2015-08-01 | 2015-12-31 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-09-13 | 2014-12-31 | [2014-09-13.md](./2014-09-13.md) |
-| 2014-09-13 | 2014-12-31 | [2014-09-13.md](./2014-09-13.md) |
 | 2014-01-06 | 2014-09-12 | [2014-01-06.md](./2014-01-06.md) |
-| 2014-01-06 | 2014-09-12 | [2014-01-06.md](./2014-01-06.md) |
-| 2014-01-06 | 2014-09-12 | [2014-01-06.md](./2014-01-06.md) |
-| 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |

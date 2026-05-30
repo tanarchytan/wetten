@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag van Rotterdam inzake de procedure met betrekking tot voorafgaande geïnformeerde toestemming ten aanzien van bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel
 ministry: Buitenlandse Zaken
 abbreviation: PIC
-latest_state: "2023-10-22"
-state_count: 12
+latest_state: "2025-10-22"
+state_count: 13
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 12
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-22 | heden | [2025-10-22.md](./2025-10-22.md) |
 | 2023-10-22 | heden | [2023-10-22.md](./2023-10-22.md) |
 | 2022-10-22 | 2023-10-21 | [2022-10-22.md](./2022-10-22.md) |
 | 2020-11-06 | 2022-10-21 | [2020-11-06.md](./2020-11-06.md) |

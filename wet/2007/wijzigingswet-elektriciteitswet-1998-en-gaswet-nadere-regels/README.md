@@ -5,8 +5,8 @@ type: wet
 title: Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2014-08-01"
-state_count: 10
+latest_state: "2026-01-01"
+state_count: 11
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 10
 **Citeertitel:** Wijzigingswet Elektriciteitswet 1998 en Gaswet (nadere regels omtrent een onafhankelijk netbeheer)
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2007/wijzigingswet-elektriciteitswet-1998-en-gaswet-nadere-regels](https://wetten.ai/eli/nl/wet/2007/wijzigingswet-elektriciteitswet-1998-en-gaswet-nadere-regels)
+**ELI:** [/eli/nl/wet/2007/wijzigingswet-elektriciteitswet-1998-en-gaswet-nadere-regels](https://wettenbank.online/eli/nl/wet/2007/wijzigingswet-elektriciteitswet-1998-en-gaswet-nadere-regels)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2014-08-01 | heden | [2014-08-01.md](./2014-08-01.md) |
 | 2013-07-01 | 2014-07-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |

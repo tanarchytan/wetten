@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-10-30"
-state_count: 28
+latest_state: "2026-02-21"
+state_count: 29
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 28
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-21 | heden | [2026-02-21.md](./2026-02-21.md) |
 | 2024-10-30 | heden | [2024-10-30.md](./2024-10-30.md) |
 | 2024-06-13 | 2024-10-29 | [2024-06-13.md](./2024-06-13.md) |
 | 2024-03-12 | 2024-06-12 | [2024-03-12.md](./2024-03-12.md) |

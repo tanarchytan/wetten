@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2021/329303, houdende vaststelling van regels voor subsidie ter stimulering van de aanschaf van nieuwe emissieloze vrachtauto’s (Aanschafsubsidieregeling zero-emissie trucks AanZET)
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 9
+latest_state: "2026-04-15"
+state_count: 11
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 9
 **Citeertitel:** Aanschafsubsidieregeling zero-emissie trucks AanZET
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2022/aanschafsubsidieregeling-zero-emissie-trucks-aanzet](https://wetten.ai/eli/nl/ministeriele-regeling/2022/aanschafsubsidieregeling-zero-emissie-trucks-aanzet)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/aanschafsubsidieregeling-zero-emissie-trucks-aanzet](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/aanschafsubsidieregeling-zero-emissie-trucks-aanzet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-15 | heden | [2026-04-15.md](./2026-04-15.md) |
+| 2026-01-01 | 2026-04-14 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-10-01 | 2024-12-31 | [2024-10-01.md](./2024-10-01.md) |
 | 2024-01-01 | 2024-09-30 | [2024-01-01.md](./2024-01-01.md) |

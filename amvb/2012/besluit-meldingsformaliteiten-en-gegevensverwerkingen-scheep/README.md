@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 4 mei 2012, houdende regels voor de scheepvaart over meldingsformaliteiten en over de verwerking van de ontvangen gegevens door organisaties en personen die niet aan het scheepvaartverkeer deelnemen (Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 14
+latest_state: "2026-03-27"
+state_count: 11
 ---
 
 
@@ -16,22 +16,19 @@ state_count: 14
 **Citeertitel:** Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2012/besluit-meldingsformaliteiten-en-gegevensverwerkingen-scheep](https://wetten.ai/eli/nl/amvb/2012/besluit-meldingsformaliteiten-en-gegevensverwerkingen-scheep)
+**ELI:** [/eli/nl/amvb/2012/besluit-meldingsformaliteiten-en-gegevensverwerkingen-scheep](https://wettenbank.online/eli/nl/amvb/2012/besluit-meldingsformaliteiten-en-gegevensverwerkingen-scheep)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-27 | heden | [2026-03-27.md](./2026-03-27.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2022-06-01 | 2025-06-30 | [2022-06-01.md](./2022-06-01.md) |
 | 2019-12-21 | 2022-05-31 | [2019-12-21.md](./2019-12-21.md) |
 | 2018-07-28 | 2019-12-20 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
-| 2016-01-01 | 2018-05-24 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2018-05-24 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-06-01 | 2015-12-31 | [2015-06-01.md](./2015-06-01.md) |
 | 2013-01-01 | 2015-05-31 | [2013-01-01.md](./2013-01-01.md) |

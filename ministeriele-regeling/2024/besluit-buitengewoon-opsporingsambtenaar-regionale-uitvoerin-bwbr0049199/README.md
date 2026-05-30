@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister voor Rechtsbescherming van 21 december 2023 nr. BOACAT2023/087, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de Regionale Uitvoeringsdienst Drenthe
 ministry: Justitie en Veiligheid
 abbreviation: null
-latest_state: "2024-01-09"
-state_count: 1
+latest_state: "2025-12-23"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Besluit buitengewoon opsporingsambtenaar Regionale Uitvoeringsdienst Drenthe 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2024/besluit-buitengewoon-opsporingsambtenaar-regionale-uitvoerin-bwbr0049199](https://wetten.ai/eli/nl/ministeriele-regeling/2024/besluit-buitengewoon-opsporingsambtenaar-regionale-uitvoerin-bwbr0049199)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/besluit-buitengewoon-opsporingsambtenaar-regionale-uitvoerin-bwbr0049199](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/besluit-buitengewoon-opsporingsambtenaar-regionale-uitvoerin-bwbr0049199)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-23 | heden | [2025-12-23.md](./2025-12-23.md) |
 | 2024-01-09 | heden | [2024-01-09.md](./2024-01-09.md) |

@@ -5,8 +5,8 @@ type: circulaire
 title: Besluit van de Minister van Justitie van 30 maart 2009, nummer WBN 2009/1, houdende wijziging van de tekst van de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap toegespitst op buiten het Koninkrijk afgelegde optieverklaringen en ingediende naturalisatieverzoeken
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2025-04-01"
-state_count: 39
+latest_state: "2026-02-01"
+state_count: 36
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 39
 **Citeertitel:** Circulaire voor Optie/Naturalisatieverzoeken in het buitenland
 **Type:** circulaire
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/circulaire/2009/circulaire-voor-optie-naturalisatieverzoeken-in-het-buitenla](https://wetten.ai/eli/nl/circulaire/2009/circulaire-voor-optie-naturalisatieverzoeken-in-het-buitenla)
+**ELI:** [/eli/nl/circulaire/2009/circulaire-voor-optie-naturalisatieverzoeken-in-het-buitenla](https://wettenbank.online/eli/nl/circulaire/2009/circulaire-voor-optie-naturalisatieverzoeken-in-het-buitenla)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-01 | heden | [2026-02-01.md](./2026-02-01.md) |
+| 2026-01-01 | 2026-01-31 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2025-01-01 | 2025-03-31 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -42,18 +44,13 @@ state_count: 39
 | 2016-04-01 | 2016-04-21 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-01-07 | 2016-03-31 | [2016-01-07.md](./2016-01-07.md) |
 | 2015-10-27 | 2016-01-06 | [2015-10-27.md](./2015-10-27.md) |
-| 2015-10-27 | 2016-01-06 | [2015-10-27.md](./2015-10-27.md) |
 | 2015-04-17 | 2015-10-26 | [2015-04-17.md](./2015-04-17.md) |
-| 2015-04-01 | 2015-04-16 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-04-01 | 2015-04-16 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-01-22 | 2015-03-31 | [2015-01-22.md](./2015-01-22.md) |
 | 2015-01-01 | 2015-01-21 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-01-21 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-12-25 | 2014-12-31 | [2014-12-25.md](./2014-12-25.md) |
 | 2014-11-22 | 2014-12-24 | [2014-11-22.md](./2014-11-22.md) |
-| 2014-11-22 | 2014-12-24 | [2014-11-22.md](./2014-11-22.md) |
 | 2014-04-04 | 2014-11-21 | [2014-04-04.md](./2014-04-04.md) |
-| 2014-04-01 | 2014-04-03 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-04-01 | 2014-04-03 | [2014-04-01.md](./2014-04-01.md) |
 | 2013-07-01 | 2014-03-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-05-01 | 2013-06-30 | [2013-05-01.md](./2013-05-01.md) |

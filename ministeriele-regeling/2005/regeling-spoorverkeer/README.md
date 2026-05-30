@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling ter uitvoering van de artikelen 1, onderdeel e, 2, 9, 20, 26 en 38 van het Besluit spoorverkeer (Regeling spoorverkeer)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2023-10-04"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -16,20 +16,19 @@ state_count: 20
 **Citeertitel:** Regeling spoorverkeer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-spoorverkeer](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-spoorverkeer)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-spoorverkeer](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-spoorverkeer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-10-04 | heden | [2023-10-04.md](./2023-10-04.md) |
-| 2023-09-01 | 2023-10-03 | [2023-09-01.md](./2023-09-01.md) |
 | 2023-09-01 | 2023-10-03 | [2023-09-01.md](./2023-09-01.md) |
 | 2023-07-01 | 2023-08-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-07-01 | 2022-12-31 | [2022-07-01.md](./2022-07-01.md) |
 | 2021-12-17 | 2022-06-30 | [2021-12-17.md](./2021-12-17.md) |
-| 2021-04-01 | 2021-12-16 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-04-01 | 2021-12-16 | [2021-04-01.md](./2021-04-01.md) |
 | 2020-04-01 | 2021-03-31 | [2020-04-01.md](./2020-04-01.md) |
 | 2019-10-01 | 2020-03-31 | [2019-10-01.md](./2019-10-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 11 december 2000, houdende nieuwe regels over het toekennen van bijdragen aan lagere inkomensgroepen ten behoeve van het verkrijgen en kunnen blijven bewonen van een eigen woning (Wet bevordering eigenwoningbezit)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: WEWB
-latest_state: "2025-01-01"
-state_count: 48
+latest_state: "2026-01-01"
+state_count: 37
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 48
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** WEWB
-**ELI:** [/eli/nl/wet/2001/wet-bevordering-eigenwoningbezit](https://wetten.ai/eli/nl/wet/2001/wet-bevordering-eigenwoningbezit)
+**ELI:** [/eli/nl/wet/2001/wet-bevordering-eigenwoningbezit](https://wettenbank.online/eli/nl/wet/2001/wet-bevordering-eigenwoningbezit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -52,22 +53,10 @@ state_count: 48
 | 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-12-28 | 2005-12-28 | [2005-12-28.md](./2005-12-28.md) |
 | 2005-07-01 | 2005-12-27 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-07-01 | 2005-12-27 | [2005-07-01.md](./2005-07-01.md) |
-| 2004-07-01 | 2005-06-30 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2005-06-30 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-03-26 | 2004-06-30 | [2004-03-26.md](./2004-03-26.md) |
-| 2004-03-26 | 2004-06-30 | [2004-03-26.md](./2004-03-26.md) |
-| 2004-01-01 | 2004-03-25 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-03-25 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-25 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-07-01 | 2003-12-31 | [2003-07-01.md](./2003-07-01.md) |
-| 2003-07-01 | 2003-12-31 | [2003-07-01.md](./2003-07-01.md) |
-| 2003-07-01 | 2003-12-31 | [2003-07-01.md](./2003-07-01.md) |
-| 2003-01-01 | 2003-06-30 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-06-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-06-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-07-01 | 2002-12-31 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-07-01 | 2002-12-31 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-07-01 | 2002-12-31 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-01-01 | 2002-06-30 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-06-30 | [2002-01-01.md](./2002-01-01.md) |

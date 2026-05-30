@@ -5,8 +5,8 @@ type: verdrag
 title: Euro-mediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2018-03-19"
-state_count: 3
+latest_state: "2025-11-21"
+state_count: 4
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 3
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-21 | heden | [2025-11-21.md](./2025-11-21.md) |
 | 2018-03-19 | heden | [2018-03-19.md](./2018-03-19.md) |
 | 2012-06-18 | 2018-03-18 | [2012-06-18.md](./2012-06-18.md) |
 | 2006-12-12 | 2012-06-17 | [2006-12-12.md](./2006-12-12.md) |

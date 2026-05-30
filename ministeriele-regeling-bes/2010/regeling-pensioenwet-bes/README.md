@@ -5,8 +5,8 @@ type: ministeriele-regeling-bes
 title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 september 2010, nr. AV/PB/2010/18205, tot wijziging van de Regeling Pensioenwet BES
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 19
+latest_state: "2026-01-01"
+state_count: 20
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 19
 **Citeertitel:** Regeling Pensioenwet BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-pensioenwet-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/regeling-pensioenwet-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-pensioenwet-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2010/regeling-pensioenwet-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

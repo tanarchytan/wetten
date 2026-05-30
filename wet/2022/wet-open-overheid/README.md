@@ -5,8 +5,8 @@ type: wet
 title: Wet van 25 oktober 2021, houdende regels over de toegankelijkheid van informatie van publiek belang (Wet open overheid)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Woo
-latest_state: "2025-07-01"
-state_count: 11
+latest_state: "2026-02-20"
+state_count: 14
 ---
 
 
@@ -17,12 +17,15 @@ state_count: 11
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Woo
-**ELI:** [/eli/nl/wet/2022/wet-open-overheid](https://wetten.ai/eli/nl/wet/2022/wet-open-overheid)
+**ELI:** [/eli/nl/wet/2022/wet-open-overheid](https://wettenbank.online/eli/nl/wet/2022/wet-open-overheid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-20 | heden | [2026-02-20.md](./2026-02-20.md) |
+| 2026-02-19 | 2026-02-19 | [2026-02-19.md](./2026-02-19.md) |
+| 2026-01-01 | 2026-02-18 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-02-12 | 2025-06-30 | [2025-02-12.md](./2025-02-12.md) |
 | 2025-01-01 | 2025-02-11 | [2025-01-01.md](./2025-01-01.md) |

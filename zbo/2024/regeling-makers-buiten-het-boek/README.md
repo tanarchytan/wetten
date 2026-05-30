@@ -5,7 +5,7 @@ type: zbo
 title: Regeling Makers buiten het boek
 ministry: Stichting Nederlands Letterenfonds
 abbreviation: null
-latest_state: "2025-03-22"
+latest_state: "2025-11-26"
 state_count: 4
 ---
 
@@ -16,13 +16,13 @@ state_count: 4
 **Citeertitel:** Regeling Makers buiten het boek
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stichting Nederlands Letterenfonds
-**ELI:** [/eli/nl/zbo/2024/regeling-makers-buiten-het-boek](https://wetten.ai/eli/nl/zbo/2024/regeling-makers-buiten-het-boek)
+**ELI:** [/eli/nl/zbo/2024/regeling-makers-buiten-het-boek](https://wettenbank.online/eli/nl/zbo/2024/regeling-makers-buiten-het-boek)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-26 | heden | [2025-11-26.md](./2025-11-26.md) |
 | 2025-03-22 | heden | [2025-03-22.md](./2025-03-22.md) |
-| 2025-01-01 | 2025-03-21 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-03-21 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-16 | 2024-12-31 | [2024-07-16.md](./2024-07-16.md) |

@@ -5,8 +5,8 @@ type: circulaire
 title: Handleiding Rijkswet op het Nederlanderschap 2003
 ministry: Veiligheid en Justitie
 abbreviation: HRWN
-latest_state: "2025-07-01"
-state_count: 125
+latest_state: "2026-02-01"
+state_count: 127
 ---
 
 
@@ -23,6 +23,8 @@ state_count: 125
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-01 | heden | [2026-02-01.md](./2026-02-01.md) |
+| 2026-01-01 | 2026-01-31 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-04-01 | 2025-06-30 | [2025-04-01.md](./2025-04-01.md) |
 | 2025-01-01 | 2025-03-31 | [2025-01-01.md](./2025-01-01.md) |

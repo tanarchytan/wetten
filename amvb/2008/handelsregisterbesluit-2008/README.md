@@ -5,7 +5,7 @@ type: amvb
 title: Besluit van 18 juni 2008, houdende de vaststelling van een nieuw Handelsregisterbesluit 2008 (Handelsregisterbesluit 2008)
 ministry: Economische Zaken
 abbreviation: Hrb 2008
-latest_state: "2025-01-01"
+latest_state: "2026-01-01"
 state_count: 20
 ---
 
@@ -17,12 +17,13 @@ state_count: 20
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Hrb 2008
-**ELI:** [/eli/nl/amvb/2008/handelsregisterbesluit-2008](https://wetten.ai/eli/nl/amvb/2008/handelsregisterbesluit-2008)
+**ELI:** [/eli/nl/amvb/2008/handelsregisterbesluit-2008](https://wettenbank.online/eli/nl/amvb/2008/handelsregisterbesluit-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-10-01 | 2024-12-31 | [2024-10-01.md](./2024-10-01.md) |
 | 2022-12-15 | 2024-09-30 | [2022-12-15.md](./2022-12-15.md) |
@@ -36,7 +37,6 @@ state_count: 20
 | 2012-12-07 | 2013-12-31 | [2012-12-07.md](./2012-12-07.md) |
 | 2012-12-01 | 2012-12-06 | [2012-12-01.md](./2012-12-01.md) |
 | 2012-11-24 | 2012-11-30 | [2012-11-24.md](./2012-11-24.md) |
-| 2012-10-02 | 2012-11-23 | [2012-10-02.md](./2012-10-02.md) |
 | 2012-10-02 | 2012-11-23 | [2012-10-02.md](./2012-10-02.md) |
 | 2011-05-04 | 2012-10-01 | [2011-05-04.md](./2011-05-04.md) |
 | 2010-12-06 | 2011-05-03 | [2010-12-06.md](./2010-12-06.md) |

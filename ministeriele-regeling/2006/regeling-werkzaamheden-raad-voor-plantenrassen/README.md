@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/99, houdende regels met betrekking tot de werkzaamheden van de Raad voor plantenrassen (Regeling werkzaamheden Raad voor plantenrassen)
 ministry: Economische Zaken
 abbreviation: Rw RvP
-latest_state: "2025-01-01"
-state_count: 32
+latest_state: "2026-01-01"
+state_count: 31
 ---
 
 
@@ -17,18 +17,17 @@ state_count: 32
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Rw RvP
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-werkzaamheden-raad-voor-plantenrassen](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-werkzaamheden-raad-voor-plantenrassen)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-werkzaamheden-raad-voor-plantenrassen](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-werkzaamheden-raad-voor-plantenrassen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-12 | 2023-12-31 | [2023-07-12.md](./2023-07-12.md) |
 | 2023-07-01 | 2023-07-11 | [2023-07-01.md](./2023-07-01.md) |
-| 2023-07-01 | 2023-07-11 | [2023-07-01.md](./2023-07-01.md) |
-| 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |

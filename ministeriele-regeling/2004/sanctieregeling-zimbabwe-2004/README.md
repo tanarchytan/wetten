@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Buitenlandse Zaken van 9 september 2004, nr. DJZ/BR/0260-04, houdende bepaalde beperkende maatregelen ten aanzien van Zimbabwe (Sanctieregeling Zimbabwe 2004)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-01-16"
-state_count: 7
+latest_state: "2026-03-17"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Sanctieregeling Zimbabwe 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/sanctieregeling-zimbabwe-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/sanctieregeling-zimbabwe-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/sanctieregeling-zimbabwe-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/sanctieregeling-zimbabwe-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-17 | heden | [2026-03-17.md](./2026-03-17.md) |
 | 2024-01-16 | heden | [2024-01-16.md](./2024-01-16.md) |
 | 2020-05-16 | 2024-01-15 | [2020-05-16.md](./2020-05-16.md) |
 | 2019-11-20 | 2020-05-15 | [2019-11-20.md](./2019-11-20.md) |

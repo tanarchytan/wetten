@@ -5,8 +5,8 @@ type: wet
 title: Wet van 29 januari 2009, houdende regels met betrekking tot het beheer en gebruik van watersystemen (Waterwet)
 ministry: Infrastructuur en Milieu
 abbreviation: Wtw
-latest_state: "2024-01-01"
-state_count: 34
+latest_state: "2026-01-01"
+state_count: 35
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 34
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Wtw
-**ELI:** [/eli/nl/wet/2009/waterwet](https://wetten.ai/eli/nl/wet/2009/waterwet)
+**ELI:** [/eli/nl/wet/2009/waterwet](https://wettenbank.online/eli/nl/wet/2009/waterwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-31 | 2025-12-31 | [2025-12-31.md](./2025-12-31.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2021-07-01 | 2023-06-30 | [2021-07-01.md](./2021-07-01.md) |
@@ -51,7 +53,6 @@ state_count: 34
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-01-14 | 2011-06-30 | [2011-01-14.md](./2011-01-14.md) |
 | 2011-01-01 | 2011-01-13 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-01 | 2010-10-10 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-03-31 | 2010-09-30 | [2010-03-31.md](./2010-03-31.md) |

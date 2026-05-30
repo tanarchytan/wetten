@@ -5,8 +5,8 @@ type: rijkskb
 title: Besluit van 18 juni 2004, houdende regels met betrekking tot de veiligheid en certificering van zeeschepen (Schepenbesluit 2004)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2017-01-01"
-state_count: 7
+latest_state: "2026-05-01"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Schepenbesluit 2004
 **Type:** rijkskb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/rijkskb/2004/schepenbesluit-2004](https://wetten.ai/eli/nl/rijkskb/2004/schepenbesluit-2004)
+**ELI:** [/eli/nl/rijkskb/2004/schepenbesluit-2004](https://wettenbank.online/eli/nl/rijkskb/2004/schepenbesluit-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-01 | heden | [2026-05-01.md](./2026-05-01.md) |
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2016-09-01 | 2016-12-31 | [2016-09-01.md](./2016-09-01.md) |
 | 2011-05-14 | 2016-08-31 | [2011-05-14.md](./2011-05-14.md) |

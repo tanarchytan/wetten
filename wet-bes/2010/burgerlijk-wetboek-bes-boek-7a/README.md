@@ -5,8 +5,8 @@ type: wet-bes
 title: Burgerlijk Wetboek BES Boek 7a
 ministry: Veiligheid en Justitie
 abbreviation: BW BES Boek 7a
-latest_state: "2025-07-01"
-state_count: 7
+latest_state: "2026-01-01"
+state_count: 8
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 7
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** BW BES Boek 7a
-**ELI:** [/eli/nl/wet-bes/2010/burgerlijk-wetboek-bes-boek-7a](https://wetten.ai/eli/nl/wet-bes/2010/burgerlijk-wetboek-bes-boek-7a)
+**ELI:** [/eli/nl/wet-bes/2010/burgerlijk-wetboek-bes-boek-7a](https://wettenbank.online/eli/nl/wet-bes/2010/burgerlijk-wetboek-bes-boek-7a)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2023-01-01 | 2025-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-04-01 | 2022-12-31 | [2021-04-01.md](./2021-04-01.md) |

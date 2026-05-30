@@ -5,8 +5,8 @@ type: ministeriele-regeling-bes
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 december 2010, nr. Z/F-3032432, houdende vaststelling van het premiepercentage van de door de werknemer en werkgever verschuldigde premie ten behoeve van de geneeskundige verzorging voor de bevolking van Bonaire, Sint Eustatius en Saba 2011
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -16,19 +16,18 @@ state_count: 20
 **Citeertitel:** Regeling vaststelling premiepercentages werknemer en werkgever BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/regeling-vaststelling-premiepercentages-werknemer-en-werkgev](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2011/regeling-vaststelling-premiepercentages-werknemer-en-werkgev)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/regeling-vaststelling-premiepercentages-werknemer-en-werkgev](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2011/regeling-vaststelling-premiepercentages-werknemer-en-werkgev)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-13 | 2023-12-31 | [2023-07-13.md](./2023-07-13.md) |
 | 2023-01-01 | 2023-07-12 | [2023-01-01.md](./2023-01-01.md) |
-| 2023-01-01 | 2023-07-12 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-04-21 | 2022-12-31 | [2022-04-21.md](./2022-04-21.md) |
-| 2022-01-01 | 2022-04-20 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-04-20 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |

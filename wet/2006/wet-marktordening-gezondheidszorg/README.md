@@ -5,8 +5,8 @@ type: wet
 title: Wet van 7 juli 2006, houdende regels inzake marktordening, doelmatigheid en beheerste kostenontwikkeling op het gebied van de gezondheidszorg (Wet marktordening gezondheidszorg)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: WMG
-latest_state: "2025-09-01"
-state_count: 47
+latest_state: "2026-01-01"
+state_count: 45
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 47
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** WMG
-**ELI:** [/eli/nl/wet/2006/wet-marktordening-gezondheidszorg](https://wetten.ai/eli/nl/wet/2006/wet-marktordening-gezondheidszorg)
+**ELI:** [/eli/nl/wet/2006/wet-marktordening-gezondheidszorg](https://wettenbank.online/eli/nl/wet/2006/wet-marktordening-gezondheidszorg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-09-01 | heden | [2025-09-01.md](./2025-09-01.md) |
 | 2025-01-01 | 2025-08-31 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
@@ -44,14 +45,11 @@ state_count: 47
 | 2018-08-01 | 2018-09-30 | [2018-08-01.md](./2018-08-01.md) |
 | 2018-07-28 | 2018-07-31 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-08-01 | 2016-12-31 | [2016-08-01.md](./2016-08-01.md) |
 | 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-04-01 | 2014-12-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-02-15 | 2014-03-31 | [2014-02-15.md](./2014-02-15.md) |

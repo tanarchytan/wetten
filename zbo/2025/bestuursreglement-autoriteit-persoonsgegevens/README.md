@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Persoonsgegevens van 11 juni 2024, betreffende het Bestuursreglement Autoriteit Persoonsgegevens
 ministry: Autoriteit Persoonsgegevens
 abbreviation: null
-latest_state: "2025-06-11"
-state_count: 2
+latest_state: "2025-09-23"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Bestuursreglement Autoriteit Persoonsgegevens
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Persoonsgegevens
-**ELI:** [/eli/nl/zbo/2025/bestuursreglement-autoriteit-persoonsgegevens](https://wetten.ai/eli/nl/zbo/2025/bestuursreglement-autoriteit-persoonsgegevens)
+**ELI:** [/eli/nl/zbo/2025/bestuursreglement-autoriteit-persoonsgegevens](https://wettenbank.online/eli/nl/zbo/2025/bestuursreglement-autoriteit-persoonsgegevens)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-23 | 2025-10-03 | [2025-09-23.md](./2025-09-23.md) |
 | 2025-06-11 | heden | [2025-06-11.md](./2025-06-11.md) |
 | 2024-06-11 | 2025-06-10 | [2024-06-11.md](./2024-06-11.md) |

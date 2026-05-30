@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling maximumtarief en bekendmaking tarieven taxivervoer
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 22
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 22
 **Citeertitel:** Regeling maximumtarief en bekendmaking tarieven taxivervoer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-maximumtarief-en-bekendmaking-tarieven-taxivervoer](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-maximumtarief-en-bekendmaking-tarieven-taxivervoer)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-maximumtarief-en-bekendmaking-tarieven-taxivervoer](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/regeling-maximumtarief-en-bekendmaking-tarieven-taxivervoer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

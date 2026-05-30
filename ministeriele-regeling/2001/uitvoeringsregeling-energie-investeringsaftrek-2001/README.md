@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Uitvoeringsregeling energie-investeringsaftrek 2001
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 33
+latest_state: "2026-01-01"
+state_count: 32
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 33
 **Citeertitel:** Uitvoeringsregeling energie-investeringsaftrek 2001
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2001/uitvoeringsregeling-energie-investeringsaftrek-2001](https://wetten.ai/eli/nl/ministeriele-regeling/2001/uitvoeringsregeling-energie-investeringsaftrek-2001)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/uitvoeringsregeling-energie-investeringsaftrek-2001](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/uitvoeringsregeling-energie-investeringsaftrek-2001)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-09-05 | 2023-12-31 | [2023-09-05.md](./2023-09-05.md) |
@@ -37,7 +38,6 @@ state_count: 33
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-01-01 | 2014-06-30 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-06-30 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
@@ -46,7 +46,6 @@ state_count: 33
 | 2010-01-01 | 2010-09-30 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-22 | 2009-12-31 | [2009-12-22.md](./2009-12-22.md) |
 | 2009-07-12 | 2009-12-21 | [2009-07-12.md](./2009-07-12.md) |
-| 2009-06-01 | 2009-07-11 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-06-01 | 2009-07-11 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-01-01 | 2009-05-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |

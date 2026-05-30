@@ -5,8 +5,8 @@ type: verdrag
 title: Administratief Akkoord tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bangladesh inzake het project “Support to the Implementation of the Bangladesh Delta Plan 2100”
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-01-23"
-state_count: 6
+latest_state: "2025-12-24"
+state_count: 8
 ---
 
 
@@ -22,6 +22,8 @@ state_count: 6
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-24 | heden | [2025-12-24.md](./2025-12-24.md) |
+| 2024-11-12 | 2025-12-23 | [2024-11-12.md](./2024-11-12.md) |
 | 2024-01-23 | heden | [2024-01-23.md](./2024-01-23.md) |
 | 2023-07-01 | 2024-01-22 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-02-22 | 2023-06-30 | [2023-02-22.md](./2023-02-22.md) |

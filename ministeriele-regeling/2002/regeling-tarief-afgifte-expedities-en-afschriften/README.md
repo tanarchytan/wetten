@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Justitie van 29 oktober, nr. 5191527/802 houdende vaststelling van het tarief voor afgifte van expedities of uittreksels van de tot het register van de gerechtsdeurwaarder behorende stukken
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 21
+latest_state: "2026-01-01"
+state_count: 20
 ---
 
 
@@ -16,21 +16,20 @@ state_count: 21
 **Citeertitel:** Regeling tarief afgifte expedities en afschriften
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-tarief-afgifte-expedities-en-afschriften](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-tarief-afgifte-expedities-en-afschriften)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-tarief-afgifte-expedities-en-afschriften](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-tarief-afgifte-expedities-en-afschriften)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-11-27 | 2022-12-31 | [2021-11-27.md](./2021-11-27.md) |
 | 2021-02-03 | 2021-11-26 | [2021-02-03.md](./2021-02-03.md) |
 | 2021-01-01 | 2021-02-02 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-02-02 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-05-26 | 2020-12-31 | [2020-05-26.md](./2020-05-26.md) |
-| 2020-01-02 | 2020-05-25 | [2020-01-02.md](./2020-01-02.md) |
 | 2020-01-02 | 2020-05-25 | [2020-01-02.md](./2020-01-02.md) |
 | 2019-01-30 | 2020-01-01 | [2019-01-30.md](./2019-01-30.md) |
 | 2018-01-01 | 2019-01-29 | [2018-01-01.md](./2018-01-01.md) |

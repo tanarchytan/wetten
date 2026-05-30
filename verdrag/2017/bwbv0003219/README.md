@@ -5,8 +5,8 @@ type: verdrag
 title: Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, 2004
 ministry: Buitenlandse Zaken
 abbreviation: BWM 2004
-latest_state: "2025-02-01"
-state_count: 5
+latest_state: "2025-10-01"
+state_count: 6
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 5
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-01 | heden | [2025-10-01.md](./2025-10-01.md) |
 | 2025-02-01 | heden | [2025-02-01.md](./2025-02-01.md) |
 | 2022-06-01 | 2025-01-31 | [2022-06-01.md](./2022-06-01.md) |
 | 2019-10-13 | 2022-05-31 | [2019-10-13.md](./2019-10-13.md) |

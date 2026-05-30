@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling tot vaststelling van een nieuwe regeling voor examinatoren voor luchtvarenden (Regeling examinatoren voor luchtvarenden 2004)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Regeling examinatoren voor luchtvarenden 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-examinatoren-voor-luchtvarenden-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-examinatoren-voor-luchtvarenden-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-examinatoren-voor-luchtvarenden-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-examinatoren-voor-luchtvarenden-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-04-01 | 2023-12-31 | [2023-04-01.md](./2023-04-01.md) |

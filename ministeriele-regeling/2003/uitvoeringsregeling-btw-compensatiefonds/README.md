@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Uitvoeringsregeling BTW-compensatiefonds
 ministry: Financiën
 abbreviation: Uitv reg BTWcf
-latest_state: "2024-01-01"
-state_count: 5
+latest_state: "2026-04-01"
+state_count: 6
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 5
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Uitv reg BTWcf
-**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-btw-compensatiefonds](https://wetten.ai/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-btw-compensatiefonds)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-btw-compensatiefonds](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-btw-compensatiefonds)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2013-01-01 | 2023-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-01-09 | 2012-12-31 | [2010-01-09.md](./2010-01-09.md) |

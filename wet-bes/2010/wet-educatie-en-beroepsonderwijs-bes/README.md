@@ -5,8 +5,8 @@ type: wet-bes
 title: Wet educatie en beroepsonderwijs BES
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: WEB BES
-latest_state: "2025-01-01"
-state_count: 35
+latest_state: "2026-01-01"
+state_count: 33
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 35
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** WEB BES
-**ELI:** [/eli/nl/wet-bes/2010/wet-educatie-en-beroepsonderwijs-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-educatie-en-beroepsonderwijs-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-educatie-en-beroepsonderwijs-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-educatie-en-beroepsonderwijs-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-08-01 | 2024-12-31 | [2024-08-01.md](./2024-08-01.md) |
 | 2023-08-01 | 2024-07-31 | [2023-08-01.md](./2023-08-01.md) |
@@ -47,14 +48,11 @@ state_count: 35
 | 2014-01-01 | 2014-07-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-11-02 | 2013-12-31 | [2013-11-02.md](./2013-11-02.md) |
 | 2013-07-04 | 2013-11-01 | [2013-07-04.md](./2013-07-04.md) |
-| 2013-07-04 | 2013-11-01 | [2013-07-04.md](./2013-07-04.md) |
-| 2012-10-10 | 2013-07-03 | [2012-10-10.md](./2012-10-10.md) |
 | 2012-10-10 | 2013-07-03 | [2012-10-10.md](./2012-10-10.md) |
 | 2012-01-01 | 2012-10-09 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-12-07 | 2011-12-31 | [2011-12-07.md](./2011-12-07.md) |
 | 2011-10-09 | 2011-12-06 | [2011-10-09.md](./2011-10-09.md) |
 | 2011-08-01 | 2011-10-08 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-02-17 | 2011-07-31 | [2011-02-17.md](./2011-02-17.md) |
-| 2011-01-01 | 2011-02-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-02-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |

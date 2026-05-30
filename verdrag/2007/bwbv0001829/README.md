@@ -5,8 +5,8 @@ type: verdrag
 title: Internationaal Verdrag tegen doping in de sport
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 21
+latest_state: "2026-01-01"
+state_count: 22
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 21
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

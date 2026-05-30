@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag inzake psychotrope stoffen
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-03"
-state_count: 7
+latest_state: "2025-12-06"
+state_count: 8
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 7
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-06 | heden | [2025-12-06.md](./2025-12-06.md) |
 | 2024-12-03 | heden | [2024-12-03.md](./2024-12-03.md) |
 | 2023-11-13 | 2024-12-02 | [2023-11-13.md](./2023-11-13.md) |
 | 2022-11-23 | 2023-11-12 | [2022-11-23.md](./2022-11-23.md) |

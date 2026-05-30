@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 23 februari 1998, houdende vaststelling van de Penitentiaire maatregel en daarmee verband houdende wijziging van enige andere regelingen (Penitentiaire maatregel)
 ministry: Veiligheid en Justitie
 abbreviation: PM
-latest_state: "2022-01-01"
-state_count: 24
+latest_state: "2025-11-01"
+state_count: 22
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 24
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** PM
-**ELI:** [/eli/nl/amvb/1999/penitentiaire-maatregel](https://wetten.ai/eli/nl/amvb/1999/penitentiaire-maatregel)
+**ELI:** [/eli/nl/amvb/1999/penitentiaire-maatregel](https://wettenbank.online/eli/nl/amvb/1999/penitentiaire-maatregel)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-01 | heden | [2025-11-01.md](./2025-11-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2021-12-01 | 2021-12-31 | [2021-12-01.md](./2021-12-01.md) |
 | 2021-07-01 | 2021-11-30 | [2021-07-01.md](./2021-07-01.md) |
@@ -31,15 +32,12 @@ state_count: 24
 | 2019-06-26 | 2019-12-31 | [2019-06-26.md](./2019-06-26.md) |
 | 2018-07-28 | 2019-06-25 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-01-01 | 2018-05-24 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2011-01-01 | 2013-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-08-04 | 2010-12-31 | [2010-08-04.md](./2010-08-04.md) |
 | 2008-12-17 | 2010-08-03 | [2008-12-17.md](./2008-12-17.md) |
 | 2008-07-01 | 2008-12-16 | [2008-07-01.md](./2008-07-01.md) |
-| 2008-07-01 | 2008-12-16 | [2008-07-01.md](./2008-07-01.md) |
-| 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-10-01 | 2005-12-31 | [2004-10-01.md](./2004-10-01.md) |

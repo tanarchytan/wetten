@@ -5,8 +5,8 @@ type: wet-bes
 title: Wet studiefinanciering BES
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 29
+latest_state: "2026-01-01"
+state_count: 28
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 29
 **Citeertitel:** Wet studiefinanciering BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/wet-bes/2010/wet-studiefinanciering-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-studiefinanciering-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-studiefinanciering-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-studiefinanciering-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-09-01 | 2024-12-31 | [2024-09-01.md](./2024-09-01.md) |
 | 2024-08-01 | 2024-08-31 | [2024-08-01.md](./2024-08-01.md) |
@@ -41,8 +42,6 @@ state_count: 29
 | 2017-04-21 | 2017-07-31 | [2017-04-21.md](./2017-04-21.md) |
 | 2017-03-10 | 2017-04-20 | [2017-03-10.md](./2017-03-10.md) |
 | 2017-01-01 | 2017-03-09 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-03-09 | [2017-01-01.md](./2017-01-01.md) |
-| 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |

@@ -5,8 +5,8 @@ type: pbo
 title: Verordening inzake de onafhankelijkheid van accountants bij assurance-opdrachten
 ministry: Nederlandse beroepsorganisatie van accountants
 abbreviation: ViO
-latest_state: "2025-01-01"
-state_count: 7
+latest_state: "2025-12-24"
+state_count: 8
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 7
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse beroepsorganisatie van accountants
 **Afkorting:** ViO
-**ELI:** [/eli/nl/pbo/2014/verordening-inzake-de-onafhankelijkheid-van-accountants-bij-](https://wetten.ai/eli/nl/pbo/2014/verordening-inzake-de-onafhankelijkheid-van-accountants-bij-)
+**ELI:** [/eli/nl/pbo/2014/verordening-inzake-de-onafhankelijkheid-van-accountants-bij-](https://wettenbank.online/eli/nl/pbo/2014/verordening-inzake-de-onafhankelijkheid-van-accountants-bij-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-24 | heden | [2025-12-24.md](./2025-12-24.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-12-20 | 2024-12-31 | [2023-12-20.md](./2023-12-20.md) |
 | 2022-01-01 | 2023-12-19 | [2022-01-01.md](./2022-01-01.md) |

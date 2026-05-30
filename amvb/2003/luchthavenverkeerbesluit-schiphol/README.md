@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 26 november 2002 tot vaststelling van een luchthavenverkeerbesluit voor de luchthaven Schiphol (Luchthavenverkeerbesluit Schiphol)
 ministry: Infrastructuur en Milieu
 abbreviation: LVB
-latest_state: "2018-11-01"
-state_count: 10
+latest_state: "2025-11-01"
+state_count: 11
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 10
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** LVB
-**ELI:** [/eli/nl/amvb/2003/luchthavenverkeerbesluit-schiphol](https://wetten.ai/eli/nl/amvb/2003/luchthavenverkeerbesluit-schiphol)
+**ELI:** [/eli/nl/amvb/2003/luchthavenverkeerbesluit-schiphol](https://wettenbank.online/eli/nl/amvb/2003/luchthavenverkeerbesluit-schiphol)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-01 | heden | [2025-11-01.md](./2025-11-01.md) |
 | 2018-11-01 | heden | [2018-11-01.md](./2018-11-01.md) |
 | 2016-07-15 | 2018-10-31 | [2016-07-15.md](./2016-07-15.md) |
 | 2012-08-31 | 2016-07-14 | [2012-08-31.md](./2012-08-31.md) |

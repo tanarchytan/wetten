@@ -5,8 +5,8 @@ type: wet
 title: Wet van 2 juli 2019, houdende een kader voor het ontwikkelen van beleid gericht op onomkeerbaar en stapsgewijs terugdringen van de Nederlandse emissies van broeikasgassen teneinde wereldwijde opwarming van de aarde en de verandering van het klimaat te beperken (Klimaatwet)
 ministry: Economische Zaken en Klimaat
 abbreviation: null
-latest_state: "2023-07-22"
-state_count: 4
+latest_state: "2026-01-01"
+state_count: 5
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 4
 **Citeertitel:** Klimaatwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/wet/2019/klimaatwet](https://wetten.ai/eli/nl/wet/2019/klimaatwet)
+**ELI:** [/eli/nl/wet/2019/klimaatwet](https://wettenbank.online/eli/nl/wet/2019/klimaatwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-07-22 | heden | [2023-07-22.md](./2023-07-22.md) |
 | 2022-03-02 | 2023-07-21 | [2022-03-02.md](./2022-03-02.md) |
 | 2020-01-01 | 2022-03-01 | [2020-01-01.md](./2020-01-01.md) |

@@ -5,7 +5,7 @@ type: wet
 title: Wet van 12 november 2009 tot implementatie van Europese regelgeving betreffende het verkeer van diensten op de interne markt (Dienstenwet)
 ministry: Economische Zaken
 abbreviation: DW
-latest_state: "2021-07-01"
+latest_state: "2026-01-01"
 state_count: 14
 ---
 
@@ -17,16 +17,16 @@ state_count: 14
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** DW
-**ELI:** [/eli/nl/wet/2009/dienstenwet](https://wetten.ai/eli/nl/wet/2009/dienstenwet)
+**ELI:** [/eli/nl/wet/2009/dienstenwet](https://wettenbank.online/eli/nl/wet/2009/dienstenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2021-07-01 | heden | [2021-07-01.md](./2021-07-01.md) |
 | 2019-01-01 | 2021-06-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-01-01 | 2018-05-24 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-25 | 2014-12-31 | [2014-01-25.md](./2014-01-25.md) |

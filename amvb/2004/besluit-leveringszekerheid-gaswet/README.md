@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 13 april 2004, houdende regels inzake voorzieningen in verband met de leveringszekerheid (Besluit leveringszekerheid Gaswet)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2022-01-01"
-state_count: 4
+latest_state: "2025-10-01"
+state_count: 5
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 4
 **Citeertitel:** Besluit leveringszekerheid Gaswet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2004/besluit-leveringszekerheid-gaswet](https://wetten.ai/eli/nl/amvb/2004/besluit-leveringszekerheid-gaswet)
+**ELI:** [/eli/nl/amvb/2004/besluit-leveringszekerheid-gaswet](https://wettenbank.online/eli/nl/amvb/2004/besluit-leveringszekerheid-gaswet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-01 | 2025-12-31 | [2025-10-01.md](./2025-10-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2018-10-01 | 2021-12-31 | [2018-10-01.md](./2018-10-01.md) |
 | 2006-10-27 | 2018-09-30 | [2006-10-27.md](./2006-10-27.md) |

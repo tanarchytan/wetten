@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 22 december 1993, houdende nadere regels betreffende de proceskostenveroordeling in bestuursrechtelijke procedures
 ministry: Veiligheid en Justitie
 abbreviation: BPB
-latest_state: "2025-01-01"
-state_count: 27
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 27
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** BPB
-**ELI:** [/eli/nl/amvb/1994/besluit-proceskosten-bestuursrecht](https://wetten.ai/eli/nl/amvb/1994/besluit-proceskosten-bestuursrecht)
+**ELI:** [/eli/nl/amvb/1994/besluit-proceskosten-bestuursrecht](https://wettenbank.online/eli/nl/amvb/1994/besluit-proceskosten-bestuursrecht)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -36,14 +37,9 @@ state_count: 27
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
-| 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
-| 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-10-01 | 2012-12-31 | [2009-10-01.md](./2009-10-01.md) |
 | 2006-01-01 | 2009-09-30 | [2006-01-01.md](./2006-01-01.md) |

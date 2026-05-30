@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 27 november 2000, houdende vaststelling van het Warenwetbesluit bestuurlijke boeten
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-05-09"
-state_count: 112
+latest_state: "2026-01-01"
+state_count: 113
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 112
 **Citeertitel:** Warenwetbesluit bestuurlijke boeten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2001/warenwetbesluit-bestuurlijke-boeten](https://wetten.ai/eli/nl/amvb/2001/warenwetbesluit-bestuurlijke-boeten)
+**ELI:** [/eli/nl/amvb/2001/warenwetbesluit-bestuurlijke-boeten](https://wettenbank.online/eli/nl/amvb/2001/warenwetbesluit-bestuurlijke-boeten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-05-09 | heden | [2025-05-09.md](./2025-05-09.md) |
 | 2025-01-01 | 2025-05-08 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-12-13 | 2024-12-31 | [2024-12-13.md](./2024-12-13.md) |

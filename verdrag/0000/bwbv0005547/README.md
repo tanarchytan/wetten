@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2006-06-15"
-state_count: 1
+latest_state: "2025-10-04"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-04 | heden | [2025-10-04.md](./2025-10-04.md) |
 | 2006-06-15 | heden | [2006-06-15.md](./2006-06-15.md) |

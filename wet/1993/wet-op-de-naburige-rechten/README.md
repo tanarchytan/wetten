@@ -5,8 +5,8 @@ type: wet
 title: Wet van 18 maart 1993, houdende regelen inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen of van eerste vastleggingen van films en omroeporganisaties en wijziging van de Auteurswet 1912
 ministry: Veiligheid en Justitie
 abbreviation: WNR
-latest_state: "2025-07-01"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 21
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 20
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WNR
-**ELI:** [/eli/nl/wet/1993/wet-op-de-naburige-rechten](https://wetten.ai/eli/nl/wet/1993/wet-op-de-naburige-rechten)
+**ELI:** [/eli/nl/wet/1993/wet-op-de-naburige-rechten](https://wettenbank.online/eli/nl/wet/1993/wet-op-de-naburige-rechten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2021-06-07 | 2025-06-30 | [2021-06-07.md](./2021-06-07.md) |
 | 2018-10-11 | 2021-06-06 | [2018-10-11.md](./2018-10-11.md) |

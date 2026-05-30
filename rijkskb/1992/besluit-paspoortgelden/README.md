@@ -5,7 +5,7 @@ type: rijkskb
 title: Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-01-01"
+latest_state: "2026-01-01"
 state_count: 30
 ---
 
@@ -16,17 +16,17 @@ state_count: 30
 **Citeertitel:** Besluit paspoortgelden
 **Type:** rijkskb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/rijkskb/1992/besluit-paspoortgelden](https://wetten.ai/eli/nl/rijkskb/1992/besluit-paspoortgelden)
+**ELI:** [/eli/nl/rijkskb/1992/besluit-paspoortgelden](https://wettenbank.online/eli/nl/rijkskb/1992/besluit-paspoortgelden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
-| 2021-08-02 | 2021-12-31 | [2021-08-02.md](./2021-08-02.md) |
 | 2021-08-02 | 2021-12-31 | [2021-08-02.md](./2021-08-02.md) |
 | 2021-01-01 | 2021-08-01 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |

@@ -5,8 +5,8 @@ type: beleidsregel
 title: Beleidsregels Buitengewoon Opsporingsambtenaar
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 13
+latest_state: "2026-05-01"
+state_count: 14
 ---
 
 
@@ -16,17 +16,18 @@ state_count: 13
 **Citeertitel:** Beleidsregels Buitengewoon Opsporingsambtenaar
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/beleidsregel/2017/beleidsregels-buitengewoon-opsporingsambtenaar](https://wetten.ai/eli/nl/beleidsregel/2017/beleidsregels-buitengewoon-opsporingsambtenaar)
+**ELI:** [/eli/nl/beleidsregel/2017/beleidsregels-buitengewoon-opsporingsambtenaar](https://wettenbank.online/eli/nl/beleidsregel/2017/beleidsregels-buitengewoon-opsporingsambtenaar)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-01 | heden | [2026-05-01.md](./2026-05-01.md) |
+| 2025-10-01 | 2026-04-30 | [2025-10-01.md](./2025-10-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-09-09 | 2022-12-31 | [2022-09-09.md](./2022-09-09.md) |
-| 2022-07-01 | 2022-09-08 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-07-01 | 2022-09-08 | [2022-07-01.md](./2022-07-01.md) |
 | 2021-03-05 | 2022-06-30 | [2021-03-05.md](./2021-03-05.md) |
 | 2020-07-24 | 2021-03-04 | [2020-07-24.md](./2020-07-24.md) |

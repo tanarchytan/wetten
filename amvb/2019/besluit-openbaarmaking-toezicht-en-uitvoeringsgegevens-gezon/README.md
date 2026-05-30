@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 15 januari 2019, houdende vaststelling van regels ter uitvoering van de Gezondheidswet en de Jeugdwet over de openbaarmaking van informatie over naleving en uitvoering van regelgeving (Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2019/besluit-openbaarmaking-toezicht-en-uitvoeringsgegevens-gezon](https://wetten.ai/eli/nl/amvb/2019/besluit-openbaarmaking-toezicht-en-uitvoeringsgegevens-gezon)
+**ELI:** [/eli/nl/amvb/2019/besluit-openbaarmaking-toezicht-en-uitvoeringsgegevens-gezon](https://wettenbank.online/eli/nl/amvb/2019/besluit-openbaarmaking-toezicht-en-uitvoeringsgegevens-gezon)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-03-01 | 2025-06-30 | [2025-03-01.md](./2025-03-01.md) |
 | 2024-07-01 | 2025-02-28 | [2024-07-01.md](./2024-07-01.md) |

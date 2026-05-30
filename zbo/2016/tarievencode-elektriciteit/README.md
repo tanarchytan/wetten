@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202153, houdende de vaststelling van de voorwaarden als bedoeld in artikel 27 van de Elektriciteitswet 1998 (Tarievencode elektriciteit)
 ministry: Autoriteit Consument en Markt
 abbreviation: null
-latest_state: "2025-04-26"
-state_count: 23
+latest_state: "2025-12-31"
+state_count: 27
 ---
 
 
@@ -16,12 +16,16 @@ state_count: 23
 **Citeertitel:** Tarievencode elektriciteit
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2016/tarievencode-elektriciteit](https://wetten.ai/eli/nl/zbo/2016/tarievencode-elektriciteit)
+**ELI:** [/eli/nl/zbo/2016/tarievencode-elektriciteit](https://wettenbank.online/eli/nl/zbo/2016/tarievencode-elektriciteit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-31 | 2026-02-20 | [2025-12-31.md](./2025-12-31.md) |
+| 2025-12-20 | 2025-12-30 | [2025-12-20.md](./2025-12-20.md) |
+| 2025-12-01 | 2025-12-19 | [2025-12-01.md](./2025-12-01.md) |
+| 2025-09-24 | 2025-11-30 | [2025-09-24.md](./2025-09-24.md) |
 | 2025-04-26 | heden | [2025-04-26.md](./2025-04-26.md) |
 | 2025-04-01 | 2025-04-25 | [2025-04-01.md](./2025-04-01.md) |
 | 2025-01-01 | 2025-03-31 | [2025-01-01.md](./2025-01-01.md) |

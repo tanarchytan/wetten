@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling houdende nadere regels met betrekking tot de veiligheid en certificering van in Nederland geregistreerde zeeschepen, alsmede regels met betrekking tot de veiligheid van buitenlandse schepen in Nederlandse wateren (Regeling veiligheid zeeschepen)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-07-31"
-state_count: 28
+latest_state: "2025-12-18"
+state_count: 29
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 28
 **Citeertitel:** Regeling veiligheid zeeschepen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-veiligheid-zeeschepen](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-veiligheid-zeeschepen)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-veiligheid-zeeschepen](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-veiligheid-zeeschepen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-18 | heden | [2025-12-18.md](./2025-12-18.md) |
 | 2025-07-31 | heden | [2025-07-31.md](./2025-07-31.md) |
 | 2025-07-01 | 2025-07-30 | [2025-07-01.md](./2025-07-01.md) |
 | 2024-04-01 | 2025-06-30 | [2024-04-01.md](./2024-04-01.md) |

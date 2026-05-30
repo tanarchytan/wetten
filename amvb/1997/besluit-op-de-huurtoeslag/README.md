@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: BHT
-latest_state: "2025-01-01"
-state_count: 40
+latest_state: "2026-01-01"
+state_count: 33
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 40
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** BHT
-**ELI:** [/eli/nl/amvb/1997/besluit-op-de-huurtoeslag](https://wetten.ai/eli/nl/amvb/1997/besluit-op-de-huurtoeslag)
+**ELI:** [/eli/nl/amvb/1997/besluit-op-de-huurtoeslag](https://wettenbank.online/eli/nl/amvb/1997/besluit-op-de-huurtoeslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -43,23 +44,15 @@ state_count: 40
 | 2010-09-29 | 2010-12-31 | [2010-09-29.md](./2010-09-29.md) |
 | 2010-07-07 | 2010-09-28 | [2010-07-07.md](./2010-07-07.md) |
 | 2010-04-01 | 2010-07-06 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-04-01 | 2010-07-06 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-13 | 2008-12-31 | [2008-02-13.md](./2008-02-13.md) |
 | 2008-01-01 | 2008-02-12 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-02-12 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-07-01 | 2007-12-31 | [2007-07-01.md](./2007-07-01.md) |
 | 2007-01-01 | 2007-06-30 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-06-30 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-07-01 | 2005-12-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-03-26 | 2004-06-30 | [2004-03-26.md](./2004-03-26.md) |
 | 2003-08-01 | 2004-03-25 | [2003-08-01.md](./2003-08-01.md) |
-| 2003-08-01 | 2004-03-25 | [2003-08-01.md](./2003-08-01.md) |
-| 2002-07-01 | 2003-07-31 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-07-01 | 2003-07-31 | [2002-07-01.md](./2002-07-01.md) |
 | 2001-07-01 | 2002-06-30 | [2001-07-01.md](./2001-07-01.md) |

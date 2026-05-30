@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 14 december 2007, houdende bepalingen ter uitvoering van de Wet politiegegevens (Besluit politiegegevens)
 ministry: Veiligheid en Justitie
 abbreviation: Bpg
-latest_state: "2025-06-04"
-state_count: 45
+latest_state: "2026-02-28"
+state_count: 48
 ---
 
 
@@ -17,12 +17,16 @@ state_count: 45
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bpg
-**ELI:** [/eli/nl/amvb/2008/besluit-politiegegevens](https://wetten.ai/eli/nl/amvb/2008/besluit-politiegegevens)
+**ELI:** [/eli/nl/amvb/2008/besluit-politiegegevens](https://wettenbank.online/eli/nl/amvb/2008/besluit-politiegegevens)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-28 | heden | [2026-02-28.md](./2026-02-28.md) |
+| 2026-01-01 | 2026-02-27 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-11-01 | 2025-12-31 | [2025-11-01.md](./2025-11-01.md) |
+| 2025-09-05 | 2025-10-31 | [2025-09-05.md](./2025-09-05.md) |
 | 2025-06-04 | heden | [2025-06-04.md](./2025-06-04.md) |
 | 2025-04-01 | 2025-06-03 | [2025-04-01.md](./2025-04-01.md) |
 | 2025-03-01 | 2025-03-31 | [2025-03-01.md](./2025-03-01.md) |
@@ -43,7 +47,6 @@ state_count: 45
 | 2020-07-01 | 2020-08-31 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-01-01 | 2020-06-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-06 | 2019-12-31 | [2019-07-06.md](./2019-07-06.md) |
-| 2019-06-18 | 2019-07-05 | [2019-06-18.md](./2019-06-18.md) |
 | 2019-06-18 | 2019-07-05 | [2019-06-18.md](./2019-06-18.md) |
 | 2019-03-01 | 2019-06-17 | [2019-03-01.md](./2019-03-01.md) |
 | 2019-01-01 | 2019-02-28 | [2019-01-01.md](./2019-01-01.md) |

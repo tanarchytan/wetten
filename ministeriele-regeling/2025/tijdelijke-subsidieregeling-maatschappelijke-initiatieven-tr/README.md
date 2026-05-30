@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Tijdelijke regeling van de Staatssecretaris Koninkrijksrelaties en Digitalisering van 14 juni 2024 nr. 2024-0000349322, houdende subsidie maatschappelijke initiatieven trans-Atlantisch slavernijverleden voor het Caribisch deel van het Koninkrijk
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-08-11"
-state_count: 1
+latest_state: "2025-11-01"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Tijdelijke subsidieregeling maatschappelijke initiatieven trans-Atlantisch slavernijverleden Caribisch deel van het Koninkrijk
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2025/tijdelijke-subsidieregeling-maatschappelijke-initiatieven-tr](https://wetten.ai/eli/nl/ministeriele-regeling/2025/tijdelijke-subsidieregeling-maatschappelijke-initiatieven-tr)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/tijdelijke-subsidieregeling-maatschappelijke-initiatieven-tr](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/tijdelijke-subsidieregeling-maatschappelijke-initiatieven-tr)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-01 | heden | [2025-11-01.md](./2025-11-01.md) |
 | 2025-08-11 | heden | [2025-08-11.md](./2025-08-11.md) |

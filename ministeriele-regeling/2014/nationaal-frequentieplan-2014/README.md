@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister van Economische Zaken van 3 november 2014, DGETM-TM / 14179469, houdende vaststelling van het Nationaal Frequentieplan 2014 (Nationaal Frequentieplan 2014)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-04-16"
-state_count: 29
+latest_state: "2026-05-23"
+state_count: 31
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 29
 **Citeertitel:** Nationaal Frequentieplan 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/nationaal-frequentieplan-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2014/nationaal-frequentieplan-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/nationaal-frequentieplan-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/nationaal-frequentieplan-2014)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-23 | heden | [2026-05-23.md](./2026-05-23.md) |
+| 2025-12-24 | 2026-05-22 | [2025-12-24.md](./2025-12-24.md) |
 | 2025-04-16 | heden | [2025-04-16.md](./2025-04-16.md) |
 | 2024-09-01 | 2025-04-15 | [2024-09-01.md](./2024-09-01.md) |
 | 2024-02-01 | 2024-08-31 | [2024-02-01.md](./2024-02-01.md) |

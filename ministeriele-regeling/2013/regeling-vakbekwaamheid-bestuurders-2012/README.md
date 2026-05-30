@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21857, houdende vaststelling van regels in verband met de vakbekwaamheid van bestuurders (Regeling vakbekwaamheid bestuurders 2012)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 24
+latest_state: "2026-01-01"
+state_count: 22
 ---
 
 
@@ -16,20 +16,18 @@ state_count: 24
 **Citeertitel:** Regeling vakbekwaamheid bestuurders 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vakbekwaamheid-bestuurders-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-vakbekwaamheid-bestuurders-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vakbekwaamheid-bestuurders-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-vakbekwaamheid-bestuurders-2012)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2024-07-01 | 2025-06-30 | [2024-07-01.md](./2024-07-01.md) |
 | 2023-09-20 | 2024-06-30 | [2023-09-20.md](./2023-09-20.md) |
 | 2023-07-01 | 2023-09-19 | [2023-07-01.md](./2023-07-01.md) |
-| 2023-07-01 | 2023-09-19 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-09-14 | 2023-06-30 | [2022-09-14.md](./2022-09-14.md) |
-| 2022-09-14 | 2023-06-30 | [2022-09-14.md](./2022-09-14.md) |
-| 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-04-01 | 2022-06-30 | [2022-04-01.md](./2022-04-01.md) |
 | 2021-09-13 | 2022-03-31 | [2021-09-13.md](./2021-09-13.md) |

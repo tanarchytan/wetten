@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 15 december 2008 tot aanwijzing van voorschriften en vaststelling van boetetarieven als bedoeld in artikel 154b, eerste lid, onderdelen a en b, en zevende lid, van de Gemeentewet (Besluit bestuurlijke boete overlast in de openbare ruimte)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Bbboor
-latest_state: "2025-02-01"
-state_count: 11
+latest_state: "2026-04-01"
+state_count: 13
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 11
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Bbboor
-**ELI:** [/eli/nl/amvb/2009/besluit-bestuurlijke-boete-overlast-in-de-openbare-ruimte](https://wetten.ai/eli/nl/amvb/2009/besluit-bestuurlijke-boete-overlast-in-de-openbare-ruimte)
+**ELI:** [/eli/nl/amvb/2009/besluit-bestuurlijke-boete-overlast-in-de-openbare-ruimte](https://wettenbank.online/eli/nl/amvb/2009/besluit-bestuurlijke-boete-overlast-in-de-openbare-ruimte)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
+| 2026-01-01 | 2026-03-31 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-02-01 | heden | [2025-02-01.md](./2025-02-01.md) |
 | 2024-03-01 | 2025-01-31 | [2024-03-01.md](./2024-03-01.md) |
 | 2024-01-01 | 2024-02-29 | [2024-01-01.md](./2024-01-01.md) |

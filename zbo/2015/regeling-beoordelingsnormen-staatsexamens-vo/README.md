@@ -5,8 +5,8 @@ type: zbo
 title: Regeling van het College voor Toetsen en Examens van 9 februari 2015, nummer CvTE-15.00619 houdende vaststelling van de beoordelingsnormen voor de staatsexamens VO en staatsexamens VO BES (Regeling beoordelingsnormen staatsexamens VO en staatsexamens VO BES 2015)
 ministry: College voor Toetsen en Examens
 abbreviation: null
-latest_state: "2025-03-20"
-state_count: 11
+latest_state: "2026-03-01"
+state_count: 12
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 11
 **Citeertitel:** Regeling beoordelingsnormen Staatsexamens vo
 **Type:** zbo
 **Verantwoordelijk ministerie:** College voor Toetsen en Examens
-**ELI:** [/eli/nl/zbo/2015/regeling-beoordelingsnormen-staatsexamens-vo](https://wetten.ai/eli/nl/zbo/2015/regeling-beoordelingsnormen-staatsexamens-vo)
+**ELI:** [/eli/nl/zbo/2015/regeling-beoordelingsnormen-staatsexamens-vo](https://wettenbank.online/eli/nl/zbo/2015/regeling-beoordelingsnormen-staatsexamens-vo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
 | 2025-03-20 | heden | [2025-03-20.md](./2025-03-20.md) |
 | 2024-03-01 | 2025-03-19 | [2024-03-01.md](./2024-03-01.md) |
 | 2023-03-01 | 2024-02-29 | [2023-03-01.md](./2023-03-01.md) |

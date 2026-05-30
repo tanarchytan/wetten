@@ -5,8 +5,8 @@ type: wet
 title: Wet van 13 april 2006, houdende regels inzake de verstrekking van subsidies door de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties (Wet overige BZK-subsidies)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2015-07-01"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Kaderwet overige BZK-subsidies
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2006/kaderwet-overige-bzk-subsidies](https://wetten.ai/eli/nl/wet/2006/kaderwet-overige-bzk-subsidies)
+**ELI:** [/eli/nl/wet/2006/kaderwet-overige-bzk-subsidies](https://wettenbank.online/eli/nl/wet/2006/kaderwet-overige-bzk-subsidies)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2015-07-01 | heden | [2015-07-01.md](./2015-07-01.md) |
 | 2013-07-01 | 2015-06-30 | [2013-07-01.md](./2013-07-01.md) |
 | 2010-10-10 | 2013-06-30 | [2010-10-10.md](./2010-10-10.md) |

@@ -5,8 +5,8 @@ type: verdrag
 title: Enkelvoudig Verdrag inzake verdovende middelen, 1961, zoals gewijzigd door het Protocol tot wijziging van het Enkelvoudige Verdrag inzake verdovende middelen, 1961
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-06-06"
-state_count: 8
+latest_state: "2025-06-09"
+state_count: 9
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 8
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-06-09 | heden | [2025-06-09.md](./2025-06-09.md) |
 | 2024-06-06 | heden | [2024-06-06.md](./2024-06-06.md) |
 | 2023-05-17 | 2024-06-05 | [2023-05-17.md](./2023-05-17.md) |
 | 2022-05-27 | 2023-05-16 | [2022-05-27.md](./2022-05-27.md) |

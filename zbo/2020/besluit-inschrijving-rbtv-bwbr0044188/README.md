@@ -5,8 +5,8 @@ type: zbo
 title: Besluit inschrijving Rbtv
 ministry: Raad voor Rechtsbijstand
 abbreviation: null
-latest_state: "2020-10-08"
-state_count: 2
+latest_state: "2025-10-01"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Besluit inschrijving Rbtv
 **Type:** zbo
 **Verantwoordelijk ministerie:** Raad voor Rechtsbijstand
-**ELI:** [/eli/nl/zbo/2020/besluit-inschrijving-rbtv-bwbr0044188](https://wetten.ai/eli/nl/zbo/2020/besluit-inschrijving-rbtv-bwbr0044188)
+**ELI:** [/eli/nl/zbo/2020/besluit-inschrijving-rbtv-bwbr0044188](https://wettenbank.online/eli/nl/zbo/2020/besluit-inschrijving-rbtv-bwbr0044188)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-01 | heden | [2025-10-01.md](./2025-10-01.md) |
 | 2020-10-08 | heden | [2020-10-08.md](./2020-10-08.md) |
 | 2020-07-01 | 2020-10-07 | [2020-07-01.md](./2020-07-01.md) |

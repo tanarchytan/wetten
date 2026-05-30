@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling houdende nadere regels ten aanzien van machines
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2016-07-19"
-state_count: 11
+latest_state: "2026-01-01"
+state_count: 12
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 11
 **Citeertitel:** Warenwetregeling machines
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/1993/warenwetregeling-machines](https://wetten.ai/eli/nl/ministeriele-regeling/1993/warenwetregeling-machines)
+**ELI:** [/eli/nl/ministeriele-regeling/1993/warenwetregeling-machines](https://wettenbank.online/eli/nl/ministeriele-regeling/1993/warenwetregeling-machines)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2016-07-19 | heden | [2016-07-19.md](./2016-07-19.md) |
 | 2016-06-09 | 2016-07-18 | [2016-06-09.md](./2016-06-09.md) |
 | 2015-01-01 | 2016-06-08 | [2015-01-01.md](./2015-01-01.md) |

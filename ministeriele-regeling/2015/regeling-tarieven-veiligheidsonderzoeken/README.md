@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Binnenlandse Zaken van 17 juni 2015, 2015-0000341400, houdende de vaststelling van tarieven voor veiligheidsonderzoeken als bedoeld in artikel 9a van de Wet veiligheidsonderzoeken (Regeling tarieven veiligheidsonderzoeken)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Regeling tarieven veiligheidsonderzoeken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-tarieven-veiligheidsonderzoeken](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-tarieven-veiligheidsonderzoeken)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-tarieven-veiligheidsonderzoeken](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-tarieven-veiligheidsonderzoeken)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

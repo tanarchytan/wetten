@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Geweldsinstructie penitentiaire inrichtingen
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2023-07-27"
-state_count: 5
+latest_state: "2026-02-05"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Geweldsinstructie penitentiaire inrichtingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1999/geweldsinstructie-penitentiaire-inrichtingen](https://wetten.ai/eli/nl/ministeriele-regeling/1999/geweldsinstructie-penitentiaire-inrichtingen)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/geweldsinstructie-penitentiaire-inrichtingen](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/geweldsinstructie-penitentiaire-inrichtingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-05 | heden | [2026-02-05.md](./2026-02-05.md) |
 | 2023-07-27 | heden | [2023-07-27.md](./2023-07-27.md) |
 | 2023-01-10 | 2023-07-26 | [2023-01-10.md](./2023-01-10.md) |
 | 2013-12-01 | 2023-01-09 | [2013-12-01.md](./2013-12-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels ten aanzien van de gegevensverstrekking uit het kentekenregister (Regeling gegevensverstrekking kentekenregister 2008)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2024-09-11"
-state_count: 11
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,17 +16,16 @@ state_count: 11
 **Citeertitel:** Regeling gegevensverstrekking kentekenregister 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-gegevensverstrekking-kentekenregister-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-gegevensverstrekking-kentekenregister-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-gegevensverstrekking-kentekenregister-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-gegevensverstrekking-kentekenregister-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-09-11 | heden | [2024-09-11.md](./2024-09-11.md) |
 | 2024-07-10 | 2024-09-10 | [2024-07-10.md](./2024-07-10.md) |
-| 2024-07-10 | 2024-09-10 | [2024-07-10.md](./2024-07-10.md) |
 | 2018-12-01 | 2024-07-09 | [2018-12-01.md](./2018-12-01.md) |
-| 2018-05-25 | 2018-11-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-11-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-04-01 | 2018-05-24 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-01-01 | 2014-03-31 | [2014-01-01.md](./2014-01-01.md) |

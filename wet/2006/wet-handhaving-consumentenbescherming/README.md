@@ -5,8 +5,8 @@ type: wet
 title: Wet van 20 november 2006, houdende regels omtrent instanties die verantwoordelijk zijn voor handhaving van de wetgeving inzake consumentenbescherming (Wet handhaving consumentenbescherming)
 ministry: Economische Zaken
 abbreviation: Whc
-latest_state: "2025-06-28"
-state_count: 51
+latest_state: "2025-11-21"
+state_count: 48
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 51
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Whc
-**ELI:** [/eli/nl/wet/2006/wet-handhaving-consumentenbescherming](https://wetten.ai/eli/nl/wet/2006/wet-handhaving-consumentenbescherming)
+**ELI:** [/eli/nl/wet/2006/wet-handhaving-consumentenbescherming](https://wettenbank.online/eli/nl/wet/2006/wet-handhaving-consumentenbescherming)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-21 | heden | [2025-11-21.md](./2025-11-21.md) |
 | 2025-06-28 | heden | [2025-06-28.md](./2025-06-28.md) |
 | 2025-03-01 | 2025-06-27 | [2025-03-01.md](./2025-03-01.md) |
 | 2025-02-04 | 2025-02-28 | [2025-02-04.md](./2025-02-04.md) |
@@ -66,11 +67,7 @@ state_count: 51
 | 2009-07-01 | 2009-10-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-10-15 | 2008-12-31 | [2008-10-15.md](./2008-10-15.md) |
-| 2008-10-15 | 2008-12-31 | [2008-10-15.md](./2008-10-15.md) |
-| 2008-04-01 | 2008-10-14 | [2008-04-01.md](./2008-04-01.md) |
 | 2008-04-01 | 2008-10-14 | [2008-04-01.md](./2008-04-01.md) |
 | 2007-11-01 | 2008-03-31 | [2007-11-01.md](./2007-11-01.md) |
-| 2007-11-01 | 2008-03-31 | [2007-11-01.md](./2007-11-01.md) |
-| 2007-01-01 | 2007-10-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-10-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-29 | 2006-12-31 | [2006-12-29.md](./2006-12-29.md) |

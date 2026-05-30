@@ -5,8 +5,8 @@ type: kb
 title: Besluit van 15 september 1994, houdende het van kracht zijn voor de Rijn in Nederland van het Reglement van politie voor de Rijnvaart
 ministry: Infrastructuur en Milieu
 abbreviation: Besluit RPR
-latest_state: "2024-10-23"
-state_count: 26
+latest_state: "2025-09-16"
+state_count: 25
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 26
 **Type:** kb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Besluit RPR
-**ELI:** [/eli/nl/kb/1995/rijnvaartpolitiereglement-1995](https://wetten.ai/eli/nl/kb/1995/rijnvaartpolitiereglement-1995)
+**ELI:** [/eli/nl/kb/1995/rijnvaartpolitiereglement-1995](https://wettenbank.online/eli/nl/kb/1995/rijnvaartpolitiereglement-1995)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-16 | heden | [2025-09-16.md](./2025-09-16.md) |
 | 2024-10-23 | heden | [2024-10-23.md](./2024-10-23.md) |
 | 2023-12-01 | 2024-10-22 | [2023-12-01.md](./2023-12-01.md) |
 | 2023-09-30 | 2023-11-30 | [2023-09-30.md](./2023-09-30.md) |
@@ -38,13 +39,11 @@ state_count: 26
 | 2011-12-01 | 2013-11-30 | [2011-12-01.md](./2011-12-01.md) |
 | 2011-10-12 | 2011-11-30 | [2011-10-12.md](./2011-10-12.md) |
 | 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-12-01 | 2010-12-31 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-04-01 | 2009-11-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2008-09-01 | 2009-03-31 | [2008-09-01.md](./2008-09-01.md) |
 | 2007-07-13 | 2008-08-31 | [2007-07-13.md](./2007-07-13.md) |
-| 2007-04-01 | 2007-07-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-04-01 | 2007-07-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2006-04-01 | 2007-03-31 | [2006-04-01.md](./2006-04-01.md) |
 | 2004-09-29 | 2006-03-31 | [2004-09-29.md](./2004-09-29.md) |

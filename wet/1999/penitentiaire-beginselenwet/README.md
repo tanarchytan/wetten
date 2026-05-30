@@ -5,8 +5,8 @@ type: wet
 title: Wet van 18 juni 1998 tot vaststelling van een Penitentiaire beginselenwet en daarmee verband houdende intrekking van de Beginselenwet gevangeniswezen met uitzondering van de artikelen 2 tot en met 5 en wijzigingen van het Wetboek van Strafrecht en het Wetboek van Strafvordering alsmede enige andere wetten (Penitentiaire beginselenwet)
 ministry: Veiligheid en Justitie
 abbreviation: PBW
-latest_state: "2022-10-01"
-state_count: 27
+latest_state: "2025-11-01"
+state_count: 28
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 27
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** PBW
-**ELI:** [/eli/nl/wet/1999/penitentiaire-beginselenwet](https://wetten.ai/eli/nl/wet/1999/penitentiaire-beginselenwet)
+**ELI:** [/eli/nl/wet/1999/penitentiaire-beginselenwet](https://wettenbank.online/eli/nl/wet/1999/penitentiaire-beginselenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-01 | heden | [2025-11-01.md](./2025-11-01.md) |
 | 2022-10-01 | heden | [2022-10-01.md](./2022-10-01.md) |
 | 2021-12-01 | 2022-09-30 | [2021-12-01.md](./2021-12-01.md) |
 | 2021-07-01 | 2021-11-30 | [2021-07-01.md](./2021-07-01.md) |

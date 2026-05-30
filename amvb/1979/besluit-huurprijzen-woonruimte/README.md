@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 18 april 1979 tot uitvoering van de artikelen 7, eerste lid, 9, eerste lid, 10, vierde lid, 15, eerste en tweede lid, en 18, vierde lid, van de Huurprijzenwet woonruimte
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: BHW
-latest_state: "2025-01-01"
-state_count: 43
+latest_state: "2026-01-01"
+state_count: 42
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 43
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** BHW
-**ELI:** [/eli/nl/amvb/1979/besluit-huurprijzen-woonruimte](https://wetten.ai/eli/nl/amvb/1979/besluit-huurprijzen-woonruimte)
+**ELI:** [/eli/nl/amvb/1979/besluit-huurprijzen-woonruimte](https://wettenbank.online/eli/nl/amvb/1979/besluit-huurprijzen-woonruimte)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
@@ -58,8 +59,6 @@ state_count: 43
 | 2005-07-01 | 2005-12-31 | [2005-07-01.md](./2005-07-01.md) |
 | 2004-08-20 | 2005-06-30 | [2004-08-20.md](./2004-08-20.md) |
 | 2004-07-01 | 2004-08-19 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2004-08-19 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-08-01 | 2003-12-31 | [2003-08-01.md](./2003-08-01.md) |
 | 2003-07-01 | 2003-07-31 | [2003-07-01.md](./2003-07-01.md) |

@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 25 oktober 2017, houdende regels met betrekking tot de basisregistratie ondergrond (eerste tranche) (Besluit basisregistratie ondergrond)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Besluit basisregistratie ondergrond
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2018/besluit-basisregistratie-ondergrond](https://wetten.ai/eli/nl/amvb/2018/besluit-basisregistratie-ondergrond)
+**ELI:** [/eli/nl/amvb/2018/besluit-basisregistratie-ondergrond](https://wettenbank.online/eli/nl/amvb/2018/besluit-basisregistratie-ondergrond)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2024-07-01 | 2025-06-30 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |

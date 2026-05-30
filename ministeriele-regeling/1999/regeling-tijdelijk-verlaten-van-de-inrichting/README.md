@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Justitie houdende vaststelling van de regels aangaande het tijdelijk verlaten van de inrichting bij wijze van verlof of strafonderbreking
 ministry: Veiligheid en Justitie
 abbreviation: Rtvi
-latest_state: "2025-07-16"
-state_count: 20
+latest_state: "2025-11-01"
+state_count: 19
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 20
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Rtvi
-**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-tijdelijk-verlaten-van-de-inrichting](https://wetten.ai/eli/nl/ministeriele-regeling/1999/regeling-tijdelijk-verlaten-van-de-inrichting)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-tijdelijk-verlaten-van-de-inrichting](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/regeling-tijdelijk-verlaten-van-de-inrichting)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-01 | heden | [2025-11-01.md](./2025-11-01.md) |
 | 2025-07-16 | heden | [2025-07-16.md](./2025-07-16.md) |
 | 2025-01-01 | 2025-07-15 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-05-31 | 2024-12-31 | [2024-05-31.md](./2024-05-31.md) |
@@ -38,8 +39,6 @@ state_count: 20
 | 2006-06-01 | 2008-07-09 | [2006-06-01.md](./2006-06-01.md) |
 | 2005-07-01 | 2006-05-31 | [2005-07-01.md](./2005-07-01.md) |
 | 2004-10-01 | 2005-06-30 | [2004-10-01.md](./2004-10-01.md) |
-| 2004-10-01 | 2005-06-30 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-09-01 | 2004-09-30 | [2004-09-01.md](./2004-09-01.md) |
-| 2004-05-02 | 2004-08-31 | [2004-05-02.md](./2004-05-02.md) |
 | 2004-05-02 | 2004-08-31 | [2004-05-02.md](./2004-05-02.md) |
 | 2002-11-18 | 2004-05-01 | [2002-11-18.md](./2002-11-18.md) |

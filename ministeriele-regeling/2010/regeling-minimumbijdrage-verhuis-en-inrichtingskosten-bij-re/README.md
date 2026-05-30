@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister voor Wonen, Wijken en Integratie van 19 februari 2010, nr. BJZ2010004657, tot vaststelling van de minimumbijdrage, bedoeld in de artikelen 220 lid 6 en 275 lid 4 van Boek 7 van het Burgerlijk Wetboek (Regeling minimum-bijdrage verhuis- en inrichtingskosten bij renovatie)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-02-28"
-state_count: 17
+latest_state: "2026-02-28"
+state_count: 18
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 17
 **Citeertitel:** Regeling minimumbijdrage verhuis- en inrichtingskosten bij renovatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-minimumbijdrage-verhuis-en-inrichtingskosten-bij-re](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-minimumbijdrage-verhuis-en-inrichtingskosten-bij-re)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-minimumbijdrage-verhuis-en-inrichtingskosten-bij-re](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-minimumbijdrage-verhuis-en-inrichtingskosten-bij-re)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-28 | heden | [2026-02-28.md](./2026-02-28.md) |
 | 2025-02-28 | heden | [2025-02-28.md](./2025-02-28.md) |
 | 2024-02-29 | 2025-02-27 | [2024-02-29.md](./2024-02-29.md) |
 | 2023-02-28 | 2024-02-28 | [2023-02-28.md](./2023-02-28.md) |

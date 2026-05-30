@@ -5,8 +5,8 @@ type: circulaire
 title: Vreemdelingencirculaire 2000 (D)
 ministry: Veiligheid en Justitie
 abbreviation: Vc
-latest_state: "2023-01-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 8
 **Type:** circulaire
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Vc
-**ELI:** [/eli/nl/circulaire/2014/vreemdelingencirculaire-2000-d](https://wetten.ai/eli/nl/circulaire/2014/vreemdelingencirculaire-2000-d)
+**ELI:** [/eli/nl/circulaire/2014/vreemdelingencirculaire-2000-d](https://wettenbank.online/eli/nl/circulaire/2014/vreemdelingencirculaire-2000-d)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
 | 2022-04-01 | 2022-12-31 | [2022-04-01.md](./2022-04-01.md) |
 | 2021-01-01 | 2022-03-31 | [2021-01-01.md](./2021-01-01.md) |

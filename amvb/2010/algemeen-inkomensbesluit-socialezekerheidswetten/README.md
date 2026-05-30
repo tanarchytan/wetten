@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 23 december 2010 tot vaststelling van een inkomensbesluit voor de volksverzekeringen en de sociale voorzieningen (Inkomensbesluit volksverzekeringen en sociale voorzieningen)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 54
+latest_state: "2026-01-01"
+state_count: 46
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 54
 **Citeertitel:** Algemeen inkomensbesluit socialezekerheidswetten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2010/algemeen-inkomensbesluit-socialezekerheidswetten](https://wetten.ai/eli/nl/amvb/2010/algemeen-inkomensbesluit-socialezekerheidswetten)
+**ELI:** [/eli/nl/amvb/2010/algemeen-inkomensbesluit-socialezekerheidswetten](https://wettenbank.online/eli/nl/amvb/2010/algemeen-inkomensbesluit-socialezekerheidswetten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -48,25 +49,16 @@ state_count: 54
 | 2016-01-01 | 2016-06-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-10-31 | 2015-12-31 | [2015-10-31.md](./2015-10-31.md) |
 | 2015-07-01 | 2015-10-30 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2015-10-30 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-06-30 | 2015-06-30 | [2015-06-30.md](./2015-06-30.md) |
 | 2015-03-01 | 2015-06-29 | [2015-03-01.md](./2015-03-01.md) |
-| 2015-03-01 | 2015-06-29 | [2015-03-01.md](./2015-03-01.md) |
-| 2015-02-07 | 2015-02-28 | [2015-02-07.md](./2015-02-07.md) |
 | 2015-02-07 | 2015-02-28 | [2015-02-07.md](./2015-02-07.md) |
 | 2015-01-01 | 2015-02-06 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-02-06 | [2015-01-01.md](./2015-01-01.md) |
-| 2014-12-01 | 2014-12-31 | [2014-12-01.md](./2014-12-01.md) |
 | 2014-12-01 | 2014-12-31 | [2014-12-01.md](./2014-12-01.md) |
 | 2014-07-01 | 2014-11-30 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-06-01 | 2014-06-30 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-01-01 | 2014-05-31 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-05-31 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-06-01 | 2013-06-30 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-06-01 | 2013-06-30 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-03-01 | 2012-06-30 | [2012-03-01.md](./2012-03-01.md) |

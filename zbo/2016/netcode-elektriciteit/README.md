@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202151, houdende de vaststelling van de voorwaarden als bedoeld in artikel 31 van de Elektriciteitswet 1998 (Netcode elektriciteit)
 ministry: Autoriteit Consument en Markt
 abbreviation: null
-latest_state: "2025-09-01"
-state_count: 80
+latest_state: "2025-12-31"
+state_count: 87
 ---
 
 
@@ -16,12 +16,18 @@ state_count: 80
 **Citeertitel:** Netcode elektriciteit
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2016/netcode-elektriciteit](https://wetten.ai/eli/nl/zbo/2016/netcode-elektriciteit)
+**ELI:** [/eli/nl/zbo/2016/netcode-elektriciteit](https://wettenbank.online/eli/nl/zbo/2016/netcode-elektriciteit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-31 | 2026-02-20 | [2025-12-31.md](./2025-12-31.md) |
+| 2025-12-20 | 2025-12-30 | [2025-12-20.md](./2025-12-20.md) |
+| 2025-12-13 | 2025-12-19 | [2025-12-13.md](./2025-12-13.md) |
+| 2025-12-01 | 2025-12-12 | [2025-12-01.md](./2025-12-01.md) |
+| 2025-11-11 | 2025-11-30 | [2025-11-11.md](./2025-11-11.md) |
+| 2025-10-01 | 2025-11-10 | [2025-10-01.md](./2025-10-01.md) |
 | 2025-09-01 | heden | [2025-09-01.md](./2025-09-01.md) |
 | 2025-07-01 | 2025-08-31 | [2025-07-01.md](./2025-07-01.md) |
 | 2025-05-08 | 2025-06-30 | [2025-05-08.md](./2025-05-08.md) |
@@ -44,6 +50,7 @@ state_count: 80
 | 2023-12-23 | 2024-01-31 | [2023-12-23.md](./2023-12-23.md) |
 | 2023-12-05 | 2023-12-22 | [2023-12-05.md](./2023-12-05.md) |
 | 2023-10-17 | 2023-12-04 | [2023-10-17.md](./2023-10-17.md) |
+| 2023-06-20 | 2023-10-16 | [2023-06-20.md](./2023-06-20.md) |
 | 2023-06-10 | 2023-10-16 | [2023-06-10.md](./2023-06-10.md) |
 | 2023-05-11 | 2023-06-09 | [2023-05-11.md](./2023-05-11.md) |
 | 2023-04-01 | 2023-05-10 | [2023-04-01.md](./2023-04-01.md) |

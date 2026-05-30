@@ -5,8 +5,8 @@ type: verdrag
 title: "Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, inzake de Europese satellietnavigatieprogramma's"
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2013-12-18"
-state_count: 1
+latest_state: "2025-12-01"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-01 | heden | [2025-12-01.md](./2025-12-01.md) |
 | 2013-12-18 | heden | [2013-12-18.md](./2013-12-18.md) |

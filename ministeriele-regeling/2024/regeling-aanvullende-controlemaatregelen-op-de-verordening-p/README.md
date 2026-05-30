@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister voor Buitenlandse Handel en Ontwikkelingshulp van 11 oktober 2024, nr. BZ2405833 houdende invoering van een vergunningplicht voor de uitvoer van producten die niet zijn genoemd in bijlage I van Verordening 2021/821 (Regeling aanvullende controlemaatregelen op de Verordening producten voor tweeërlei gebruik)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-01"
-state_count: 1
+latest_state: "2025-11-15"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Regeling aanvullende controlemaatregelen op de Verordening producten voor tweeërlei gebruik
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-controlemaatregelen-op-de-verordening-p](https://wetten.ai/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-controlemaatregelen-op-de-verordening-p)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-controlemaatregelen-op-de-verordening-p](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-controlemaatregelen-op-de-verordening-p)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-15 | 2025-11-24 | [2025-11-15.md](./2025-11-15.md) |
 | 2024-12-01 | heden | [2024-12-01.md](./2024-12-01.md) |

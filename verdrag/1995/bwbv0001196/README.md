@@ -5,8 +5,8 @@ type: verdrag
 title: Overeenkomst betreffende de vaststelling van geharmoniseerde technische reglementen van de Verenigde Naties voor voertuigen op wielen en voor uitrustingsstukken en onderdelen die daarop kunnen worden gemonteerd en/of gebruikt, en betreffende de voorwaarden voor wederzijdse erkenning van goedkeuringen die krachtens die reglementen van de Verenigde Naties zijn verleend
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2017-09-14"
-state_count: 2
+latest_state: "2025-12-27"
+state_count: 4
 ---
 
 
@@ -22,5 +22,7 @@ state_count: 2
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-27 | heden | [2025-12-27.md](./2025-12-27.md) |
+| 2020-03-06 | 2025-12-26 | [2020-03-06.md](./2020-03-06.md) |
 | 2017-09-14 | heden | [2017-09-14.md](./2017-09-14.md) |
 | 1995-10-16 | 2017-09-13 | [1995-10-16.md](./1995-10-16.md) |

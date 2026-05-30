@@ -5,8 +5,8 @@ type: ministeriele-regeling-bes
 title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 september 2010, nr. IZ/IA/2010/18982, tot aanwijzing toezichthoudende ambtenaren SZW-regelgeving BES (Aanwijzingsregeling toezichthoudende ambtenaren SZW-regelgeving BES)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2022-01-01"
-state_count: 6
+latest_state: "2026-01-01"
+state_count: 7
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 6
 **Citeertitel:** Aanwijzingsregeling toezichthoudende ambtenaren SZW-regelgeving BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/aanwijzingsregeling-toezichthoudende-ambtenaren-szw-regelgev](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/aanwijzingsregeling-toezichthoudende-ambtenaren-szw-regelgev)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/aanwijzingsregeling-toezichthoudende-ambtenaren-szw-regelgev](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2010/aanwijzingsregeling-toezichthoudende-ambtenaren-szw-regelgev)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2019-07-01 | 2021-12-31 | [2019-07-01.md](./2019-07-01.md) |
 | 2016-01-01 | 2019-06-30 | [2016-01-01.md](./2016-01-01.md) |

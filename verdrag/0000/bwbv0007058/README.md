@@ -5,8 +5,8 @@ type: verdrag
 title: Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2018-07-23"
-state_count: 1
+latest_state: "2025-12-12"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-12 | heden | [2025-12-12.md](./2025-12-12.md) |
 | 2018-07-23 | heden | [2018-07-23.md](./2018-07-23.md) |

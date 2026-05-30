@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling gespen Herinneringsmedaille Humanitaire hulpverlening bij Rampen
 ministry: Defensie
 abbreviation: null
-latest_state: "2024-09-06"
-state_count: 5
+latest_state: "2026-02-25"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling gespen Herinneringsmedaille Humanitaire hulpverlening bij Rampen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-gespen-herinneringsmedaille-humanitaire-hulpverleni](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-gespen-herinneringsmedaille-humanitaire-hulpverleni)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-gespen-herinneringsmedaille-humanitaire-hulpverleni](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-gespen-herinneringsmedaille-humanitaire-hulpverleni)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-25 | heden | [2026-02-25.md](./2026-02-25.md) |
 | 2024-09-06 | heden | [2024-09-06.md](./2024-09-06.md) |
 | 2024-03-27 | 2024-09-05 | [2024-03-27.md](./2024-03-27.md) |
 | 2023-06-16 | 2024-03-26 | [2023-06-16.md](./2023-06-16.md) |

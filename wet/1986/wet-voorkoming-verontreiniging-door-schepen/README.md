@@ -5,7 +5,7 @@ type: wet
 title: Wet van 14 december 1983, houdende regelen ter voorkoming van verontreiniging door schepen
 ministry: Infrastructuur en Milieu
 abbreviation: WVVS
-latest_state: "2024-01-01"
+latest_state: "2025-09-17"
 state_count: 19
 ---
 
@@ -17,19 +17,19 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WVVS
-**ELI:** [/eli/nl/wet/1986/wet-voorkoming-verontreiniging-door-schepen](https://wetten.ai/eli/nl/wet/1986/wet-voorkoming-verontreiniging-door-schepen)
+**ELI:** [/eli/nl/wet/1986/wet-voorkoming-verontreiniging-door-schepen](https://wettenbank.online/eli/nl/wet/1986/wet-voorkoming-verontreiniging-door-schepen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-17 | heden | [2025-09-17.md](./2025-09-17.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2022-06-01 | 2023-12-31 | [2022-06-01.md](./2022-06-01.md) |
 | 2019-12-21 | 2022-05-31 | [2019-12-21.md](./2019-12-21.md) |
 | 2014-01-01 | 2019-12-20 | [2014-01-01.md](./2014-01-01.md) |
 | 2011-09-21 | 2013-12-31 | [2011-09-21.md](./2011-09-21.md) |
 | 2010-12-31 | 2011-09-20 | [2010-12-31.md](./2010-12-31.md) |
-| 2010-11-30 | 2010-12-30 | [2010-11-30.md](./2010-11-30.md) |
 | 2010-11-30 | 2010-12-30 | [2010-11-30.md](./2010-11-30.md) |
 | 2010-10-10 | 2010-11-29 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-01-01 | 2010-10-09 | [2010-01-01.md](./2010-01-01.md) |

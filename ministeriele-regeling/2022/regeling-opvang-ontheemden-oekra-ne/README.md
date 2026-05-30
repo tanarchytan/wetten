@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Justitie en Veiligheid van 1 april 2022, nummer 3936963, houdende regels voor de huisvesting en verzorging van ontheemden als gevolg van het oorlogsgeweld in Oekraïne (Regeling opvang ontheemden Oekraïne)
 ministry: Justitie en Veiligheid
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 7
+latest_state: "2025-10-01"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Regeling opvang ontheemden Oekraïne
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-opvang-ontheemden-oekra-ne](https://wetten.ai/eli/nl/ministeriele-regeling/2022/regeling-opvang-ontheemden-oekra-ne)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-opvang-ontheemden-oekra-ne](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/regeling-opvang-ontheemden-oekra-ne)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-01 | heden | [2025-10-01.md](./2025-10-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
 | 2023-10-01 | 2024-06-30 | [2023-10-01.md](./2023-10-01.md) |

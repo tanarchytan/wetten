@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Financiën van 19 november 2021, houdende de instelling van een bezwaarschriftenadviescommissie ter behandeling van bezwaren tegen besluiten inzake de hersteloperatie toeslagen (Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen)
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsregeling Bezwaarschriftenadviescommissie hersteloperatie toeslagen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2021/instellingsregeling-bezwaarschriftenadviescommissie-herstelo](https://wetten.ai/eli/nl/ministeriele-regeling/2021/instellingsregeling-bezwaarschriftenadviescommissie-herstelo)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/instellingsregeling-bezwaarschriftenadviescommissie-herstelo](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/instellingsregeling-bezwaarschriftenadviescommissie-herstelo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-10-26 | 2024-12-31 | [2023-10-26.md](./2023-10-26.md) |
 | 2022-11-05 | 2023-10-25 | [2022-11-05.md](./2022-11-05.md) |

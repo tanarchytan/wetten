@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2022-07-31"
-state_count: 4
+latest_state: "2025-12-31"
+state_count: 5
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 4
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-31 | heden | [2025-12-31.md](./2025-12-31.md) |
 | 2022-07-31 | heden | [2022-07-31.md](./2022-07-31.md) |
 | 2016-12-31 | 2022-07-30 | [2016-12-31.md](./2016-12-31.md) |
 | 2015-12-01 | 2016-12-30 | [2015-12-01.md](./2015-12-01.md) |

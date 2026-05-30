@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202166, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12a van de Gaswet (Tarievencode gas)
 ministry: Autoriteit Consument en Markt
 abbreviation: null
-latest_state: "2025-04-04"
-state_count: 20
+latest_state: "2025-12-31"
+state_count: 21
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 20
 **Citeertitel:** Tarievencode gas
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2016/tarievencode-gas](https://wetten.ai/eli/nl/zbo/2016/tarievencode-gas)
+**ELI:** [/eli/nl/zbo/2016/tarievencode-gas](https://wettenbank.online/eli/nl/zbo/2016/tarievencode-gas)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-31 | 2026-02-20 | [2025-12-31.md](./2025-12-31.md) |
 | 2025-04-04 | heden | [2025-04-04.md](./2025-04-04.md) |
 | 2025-03-14 | 2025-04-03 | [2025-03-14.md](./2025-03-14.md) |
 | 2024-04-26 | 2025-03-13 | [2024-04-26.md](./2024-04-26.md) |

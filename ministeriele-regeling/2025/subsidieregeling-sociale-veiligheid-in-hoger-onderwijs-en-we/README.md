@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 20 februari 2025, nr. OWB/49374826 houdende regels voor subsidieverstrekking voor het versterken van sociale veiligheid in het hoger onderwijs en de wetenschap (Subsidieregeling sociale veiligheid in hoger onderwijs en wetenschap)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-02-28"
-state_count: 1
+latest_state: "2026-01-31"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Subsidieregeling sociale veiligheid in hoger onderwijs en wetenschap
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2025/subsidieregeling-sociale-veiligheid-in-hoger-onderwijs-en-we](https://wetten.ai/eli/nl/ministeriele-regeling/2025/subsidieregeling-sociale-veiligheid-in-hoger-onderwijs-en-we)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/subsidieregeling-sociale-veiligheid-in-hoger-onderwijs-en-we](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/subsidieregeling-sociale-veiligheid-in-hoger-onderwijs-en-we)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-31 | heden | [2026-01-31.md](./2026-01-31.md) |
 | 2025-02-28 | heden | [2025-02-28.md](./2025-02-28.md) |

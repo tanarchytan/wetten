@@ -5,8 +5,8 @@ type: zbo
 title: Regeling van het bestuur van de Dienst voor het kadaster en de openbare registers tot vaststellen van de tarieven voor verstrekking WOZ-detailgegevens 2022
 ministry: Dienst voor het kadaster en de openbare registers
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 4
+latest_state: "2026-01-01"
+state_count: 5
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 4
 **Citeertitel:** Tarievenregeling verstrekking WOZ-detailgegevens 2022
 **Type:** zbo
 **Verantwoordelijk ministerie:** Dienst voor het kadaster en de openbare registers
-**ELI:** [/eli/nl/zbo/2022/tarievenregeling-verstrekking-woz-detailgegevens-2022](https://wetten.ai/eli/nl/zbo/2022/tarievenregeling-verstrekking-woz-detailgegevens-2022)
+**ELI:** [/eli/nl/zbo/2022/tarievenregeling-verstrekking-woz-detailgegevens-2022](https://wettenbank.online/eli/nl/zbo/2022/tarievenregeling-verstrekking-woz-detailgegevens-2022)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-05-27 | 2023-12-31 | [2022-05-27.md](./2022-05-27.md) |

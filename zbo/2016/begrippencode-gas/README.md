@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202156, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12a, 12b en 22, eerste lid van de Gaswet (Begrippencode gas)
 ministry: Autoriteit Consument en Markt
 abbreviation: null
-latest_state: "2021-06-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Begrippencode gas
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2016/begrippencode-gas](https://wetten.ai/eli/nl/zbo/2016/begrippencode-gas)
+**ELI:** [/eli/nl/zbo/2016/begrippencode-gas](https://wettenbank.online/eli/nl/zbo/2016/begrippencode-gas)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | 2026-02-20 | [2026-01-01.md](./2026-01-01.md) |
 | 2021-06-01 | heden | [2021-06-01.md](./2021-06-01.md) |
 | 2020-01-01 | 2021-05-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-11-16 | 2019-12-31 | [2019-11-16.md](./2019-11-16.md) |

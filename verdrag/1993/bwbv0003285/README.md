@@ -5,8 +5,8 @@ type: verdrag
 title: Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en daarmee samenhangende installaties (AGTC)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-05"
-state_count: 12
+latest_state: "2025-12-11"
+state_count: 13
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 12
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-11 | heden | [2025-12-11.md](./2025-12-11.md) |
 | 2024-12-05 | heden | [2024-12-05.md](./2024-12-05.md) |
 | 2023-12-01 | 2024-12-04 | [2023-12-01.md](./2023-12-01.md) |
 | 2023-03-30 | 2023-11-30 | [2023-03-30.md](./2023-03-30.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken en Klimaat van 27 februari 2021, nr. WJZ/20120093, tot vaststelling van een regeling voor de verstrekking van subsidie voor het lokaal en gezamenlijk opwekken van hernieuwbare elektriciteit (Subsidieregeling coöperatieve energieopwekking)
 ministry: Economische Zaken en Klimaat
 abbreviation: null
-latest_state: "2025-02-25"
-state_count: 6
+latest_state: "2026-03-01"
+state_count: 7
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 6
 **Citeertitel:** Subsidieregeling coöperatieve energieopwekking
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-co-peratieve-energieopwekking](https://wetten.ai/eli/nl/ministeriele-regeling/2021/subsidieregeling-co-peratieve-energieopwekking)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-co-peratieve-energieopwekking](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/subsidieregeling-co-peratieve-energieopwekking)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
 | 2025-02-25 | heden | [2025-02-25.md](./2025-02-25.md) |
 | 2024-04-02 | 2025-02-24 | [2024-04-02.md](./2024-04-02.md) |
 | 2024-01-01 | 2024-04-01 | [2024-01-01.md](./2024-01-01.md) |

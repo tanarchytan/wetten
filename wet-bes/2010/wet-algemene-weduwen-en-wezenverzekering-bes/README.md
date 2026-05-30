@@ -5,8 +5,8 @@ type: wet-bes
 title: Wet algemene weduwen- en wezenverzekering BES
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 25
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 25
 **Citeertitel:** Wet algemene weduwen- en wezenverzekering BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet-bes/2010/wet-algemene-weduwen-en-wezenverzekering-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-algemene-weduwen-en-wezenverzekering-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-algemene-weduwen-en-wezenverzekering-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-algemene-weduwen-en-wezenverzekering-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -41,9 +42,6 @@ state_count: 25
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |

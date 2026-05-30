@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Financiën van 30 december 2015 nr. DB 2015/451 tot aanwijzing van rechtsgebieden ten behoeve van de eerste identificatie van financiële rekeningen met het oog op de automatische uitwisseling van inlichtingen op basis van de Common Reporting Standard (Regeling aanwijzing rechtsgebieden Common Reporting Standard)
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Regeling aanwijzing rechtsgebieden Common Reporting Standard
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-rechtsgebieden-common-reporting-standard](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-rechtsgebieden-common-reporting-standard)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-rechtsgebieden-common-reporting-standard](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-rechtsgebieden-common-reporting-standard)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-03-22 | 2024-12-31 | [2024-03-22.md](./2024-03-22.md) |
 | 2023-01-01 | 2024-03-21 | [2023-01-01.md](./2023-01-01.md) |

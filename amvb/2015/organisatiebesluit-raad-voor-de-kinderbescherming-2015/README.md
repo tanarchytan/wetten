@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 15 mei 2015, houdende vaststelling van de zetel en de organisatie van de raad voor de kinderbescherming (Organisatiebesluit raad voor de kinderbescherming 2015)
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2020-10-01"
-state_count: 7
+latest_state: "2026-01-01"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Organisatiebesluit raad voor de kinderbescherming 2015
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2015/organisatiebesluit-raad-voor-de-kinderbescherming-2015](https://wetten.ai/eli/nl/amvb/2015/organisatiebesluit-raad-voor-de-kinderbescherming-2015)
+**ELI:** [/eli/nl/amvb/2015/organisatiebesluit-raad-voor-de-kinderbescherming-2015](https://wettenbank.online/eli/nl/amvb/2015/organisatiebesluit-raad-voor-de-kinderbescherming-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-10-01 | heden | [2020-10-01.md](./2020-10-01.md) |
 | 2015-07-01 | 2020-09-30 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-05-28 | 2015-06-30 | [2015-05-28.md](./2015-05-28.md) |

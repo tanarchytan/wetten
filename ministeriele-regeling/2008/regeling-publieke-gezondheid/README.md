@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2008, nr. PG/ZP-2.892.655, houdende nieuwe eisen inzake de publieke gezondheid (Regeling publieke gezondheid)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-07-01"
+latest_state: "2026-04-01"
 state_count: 31
 ---
 
@@ -16,19 +16,19 @@ state_count: 31
 **Citeertitel:** Regeling publieke gezondheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-publieke-gezondheid](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-publieke-gezondheid)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-publieke-gezondheid](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-publieke-gezondheid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-03-01 | 2025-06-30 | [2025-03-01.md](./2025-03-01.md) |
 | 2024-10-01 | 2025-02-28 | [2024-10-01.md](./2024-10-01.md) |
 | 2024-04-25 | 2024-09-30 | [2024-04-25.md](./2024-04-25.md) |
 | 2023-07-01 | 2024-04-24 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-01-20 | 2023-06-30 | [2023-01-20.md](./2023-01-20.md) |
-| 2022-12-03 | 2023-01-19 | [2022-12-03.md](./2022-12-03.md) |
 | 2022-12-03 | 2023-01-19 | [2022-12-03.md](./2022-12-03.md) |
 | 2022-07-01 | 2022-12-02 | [2022-07-01.md](./2022-07-01.md) |
 | 2021-07-01 | 2022-06-30 | [2021-07-01.md](./2021-07-01.md) |

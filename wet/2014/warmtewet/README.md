@@ -5,8 +5,8 @@ type: wet
 title: Wet van 17 juni 2013, houdende regels omtrent de levering van warmte aan verbruikers (Warmtewet)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 18
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 18
 **Citeertitel:** Warmtewet
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2014/warmtewet](https://wetten.ai/eli/nl/wet/2014/warmtewet)
+**ELI:** [/eli/nl/wet/2014/warmtewet](https://wettenbank.online/eli/nl/wet/2014/warmtewet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-10-01 | 2023-12-31 | [2022-10-01.md](./2022-10-01.md) |

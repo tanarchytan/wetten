@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-04-25"
-state_count: 37
+latest_state: "2026-01-01"
+state_count: 33
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 37
 **Citeertitel:** Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/1995/uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling](https://wetten.ai/eli/nl/amvb/1995/uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling)
+**ELI:** [/eli/nl/amvb/1995/uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling](https://wettenbank.online/eli/nl/amvb/1995/uitvoeringsbesluit-kostenverrekening-en-gegevensuitwisseling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-04-25 | heden | [2025-04-25.md](./2025-04-25.md) |
 | 2024-01-01 | 2025-04-24 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-01-01 | 2023-12-31 | [2022-01-01.md](./2022-01-01.md) |
@@ -29,8 +30,6 @@ state_count: 37
 | 2020-07-01 | 2020-12-31 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-01-01 | 2020-06-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
-| 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
-| 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
@@ -50,12 +49,9 @@ state_count: 37
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-02-09 | 2005-12-31 | [2005-02-09.md](./2005-02-09.md) |
-| 2005-02-09 | 2005-12-31 | [2005-02-09.md](./2005-02-09.md) |
 | 2005-01-01 | 2005-02-08 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-05-09 | 2003-12-31 | [2003-05-09.md](./2003-05-09.md) |
 | 2003-02-21 | 2003-05-08 | [2003-02-21.md](./2003-02-21.md) |
-| 2003-02-21 | 2003-05-08 | [2003-02-21.md](./2003-02-21.md) |
-| 2003-01-01 | 2003-02-20 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-02-20 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

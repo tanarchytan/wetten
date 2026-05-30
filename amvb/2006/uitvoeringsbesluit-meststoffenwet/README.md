@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 9 november 2005, houdende regels ter uitvoering van de Meststoffenwet (Uitvoeringsbesluit Meststoffenwet)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 33
+latest_state: "2025-12-09"
+state_count: 30
 ---
 
 
@@ -16,18 +16,18 @@ state_count: 33
 **Citeertitel:** Uitvoeringsbesluit Meststoffenwet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2006/uitvoeringsbesluit-meststoffenwet](https://wetten.ai/eli/nl/amvb/2006/uitvoeringsbesluit-meststoffenwet)
+**ELI:** [/eli/nl/amvb/2006/uitvoeringsbesluit-meststoffenwet](https://wettenbank.online/eli/nl/amvb/2006/uitvoeringsbesluit-meststoffenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-09 | heden | [2025-12-09.md](./2025-12-09.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-06-01 | 2022-12-31 | [2022-06-01.md](./2022-06-01.md) |
 | 2021-02-20 | 2022-05-31 | [2021-02-20.md](./2021-02-20.md) |
-| 2021-01-01 | 2021-02-19 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-02-19 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
@@ -36,10 +36,7 @@ state_count: 33
 | 2017-04-19 | 2017-12-31 | [2017-04-19.md](./2017-04-19.md) |
 | 2016-01-01 | 2017-04-18 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-02-27 | 2015-03-31 | [2015-02-27.md](./2015-02-27.md) |
-| 2015-02-27 | 2015-03-31 | [2015-02-27.md](./2015-02-27.md) |
-| 2015-01-01 | 2015-02-26 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-02-26 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |

@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van het bestuur van de Dienst voor het kadaster en de openbare registers, houdende vaststelling van de kadastrale tarieven (Tarievenregeling Kadaster)
 ministry: Dienst voor het kadaster en de openbare registers
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 14
 **Citeertitel:** Tarievenregeling Kadaster
 **Type:** zbo
 **Verantwoordelijk ministerie:** Dienst voor het kadaster en de openbare registers
-**ELI:** [/eli/nl/zbo/2006/tarievenregeling-kadaster](https://wetten.ai/eli/nl/zbo/2006/tarievenregeling-kadaster)
+**ELI:** [/eli/nl/zbo/2006/tarievenregeling-kadaster](https://wettenbank.online/eli/nl/zbo/2006/tarievenregeling-kadaster)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |

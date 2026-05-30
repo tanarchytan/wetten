@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 juli 2010, nr. BJZ2010018765, tot aanwijzing van consumenten- en theatervuurwerk (Regeling aanwijzing consumenten- en theatervuurwerk)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 8
+latest_state: "2025-12-01"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Regeling aanwijzing consumentenvuurwerk
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-consumentenvuurwerk](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-consumentenvuurwerk)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-consumentenvuurwerk](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-consumentenvuurwerk)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-01 | heden | [2025-12-01.md](./2025-12-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2020-12-01 | 2023-12-31 | [2020-12-01.md](./2020-12-01.md) |
 | 2018-11-16 | 2020-11-30 | [2018-11-16.md](./2018-11-16.md) |

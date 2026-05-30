@@ -5,8 +5,8 @@ type: verdrag
 title: Protocol van 1997 tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-08-01"
-state_count: 20
+latest_state: "2026-03-01"
+state_count: 21
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 20
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
 | 2025-08-01 | heden | [2025-08-01.md](./2025-08-01.md) |
 | 2024-05-01 | 2025-07-31 | [2024-05-01.md](./2024-05-01.md) |
 | 2022-11-01 | 2024-04-30 | [2022-11-01.md](./2022-11-01.md) |

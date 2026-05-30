@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Indonesië inzake audiovisuele coproductie
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-04"
-state_count: 1
+latest_state: "2026-02-04"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-04 | heden | [2026-02-04.md](./2026-02-04.md) |
 | 2024-12-04 | heden | [2024-12-04.md](./2024-12-04.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister van Financiën van 13 juli 2018, nr. 2018-0000117266, directie Financiële Markten, tot aanwijzing van personen die zijn belast met het toezicht op de naleving van de Wet ter voorkoming van witwassen en financieren van terrorisme en tot mandaatverlening betreffende de handhaving (Aanwijzings- en mandaatbesluit Wwft 2018)
 ministry: Financiën
 abbreviation: null
-latest_state: "2021-04-22"
-state_count: 2
+latest_state: "2026-01-01"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Aanwijzings- en mandaatbesluit Wwft 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2018/aanwijzings-en-mandaatbesluit-wwft-2018](https://wetten.ai/eli/nl/ministeriele-regeling/2018/aanwijzings-en-mandaatbesluit-wwft-2018)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/aanwijzings-en-mandaatbesluit-wwft-2018](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/aanwijzings-en-mandaatbesluit-wwft-2018)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2021-04-22 | heden | [2021-04-22.md](./2021-04-22.md) |
 | 2018-07-25 | 2021-04-21 | [2018-07-25.md](./2018-07-25.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Mijnbouwregeling
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 22
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 20
 **Citeertitel:** Mijnbouwregeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/mijnbouwregeling](https://wetten.ai/eli/nl/ministeriele-regeling/2003/mijnbouwregeling)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/mijnbouwregeling](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/mijnbouwregeling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-10-01 | 2025-12-31 | [2025-10-01.md](./2025-10-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-01-01 | 2023-06-30 | [2022-01-01.md](./2022-01-01.md) |

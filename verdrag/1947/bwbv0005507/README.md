@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag inzake de internationale burgerluchtvaart
 ministry: Buitenlandse Zaken
 abbreviation: Verdrag van Chicago
-latest_state: "2025-03-10"
-state_count: 34
+latest_state: "2025-11-04"
+state_count: 36
 ---
 
 
@@ -23,6 +23,8 @@ state_count: 34
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-04 | heden | [2025-11-04.md](./2025-11-04.md) |
+| 2025-08-04 | 2025-11-03 | [2025-08-04.md](./2025-08-04.md) |
 | 2025-03-10 | heden | [2025-03-10.md](./2025-03-10.md) |
 | 2024-07-22 | 2025-03-09 | [2024-07-22.md](./2024-07-22.md) |
 | 2023-07-31 | 2024-07-21 | [2023-07-31.md](./2023-07-31.md) |

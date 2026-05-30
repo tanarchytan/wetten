@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie B (Regeling eisen theorie-examen rijbewijscategorie B)
 ministry: Infrastructuur en Milieu
 abbreviation: RET Cat B
-latest_state: "2015-04-01"
-state_count: 6
+latest_state: "2026-04-01"
+state_count: 7
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 6
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RET Cat B
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-b](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-b)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-b](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-b)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
 | 2015-04-01 | heden | [2015-04-01.md](./2015-04-01.md) |
 | 2013-01-19 | 2015-03-31 | [2013-01-19.md](./2013-01-19.md) |
 | 2009-05-01 | 2013-01-18 | [2009-05-01.md](./2009-05-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 1 maart 1980, houdende aanpassing van de Nederlandse wetgeving aan de richtlijn van de Raad van de Europese Gemeenschappen van 9 februari 1976 inzake de gelijke behandeling van mannen en vrouwen
 ministry: Veiligheid en Justitie
 abbreviation: WGBMV
-latest_state: "2015-07-01"
-state_count: 10
+latest_state: "2026-01-01"
+state_count: 11
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 10
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WGBMV
-**ELI:** [/eli/nl/wet/1980/wet-gelijke-behandeling-van-mannen-en-vrouwen](https://wetten.ai/eli/nl/wet/1980/wet-gelijke-behandeling-van-mannen-en-vrouwen)
+**ELI:** [/eli/nl/wet/1980/wet-gelijke-behandeling-van-mannen-en-vrouwen](https://wettenbank.online/eli/nl/wet/1980/wet-gelijke-behandeling-van-mannen-en-vrouwen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2015-07-01 | heden | [2015-07-01.md](./2015-07-01.md) |
 | 2011-12-03 | 2015-06-30 | [2011-12-03.md](./2011-12-03.md) |
 | 2007-09-14 | 2011-12-02 | [2007-09-14.md](./2007-09-14.md) |

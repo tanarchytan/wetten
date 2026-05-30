@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken van 16 december 2014, nr. WJZ / 14191493, tot vaststelling van de aan de Kamer van Koophandel door ondernemingen verschuldigde vergoedingen (Regeling vergoedingen Kamer van Koophandel 2015)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 15
+latest_state: "2026-01-01"
+state_count: 16
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 15
 **Citeertitel:** Regeling vergoedingen Kamer van Koophandel 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-vergoedingen-kamer-van-koophandel-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-vergoedingen-kamer-van-koophandel-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-vergoedingen-kamer-van-koophandel-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-vergoedingen-kamer-van-koophandel-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

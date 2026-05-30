@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 december 2014, nr. HO&S/695142, houdende onder meer het vaststellen van de normbedragen in de Wet studiefinanciering 2000, de Wet tegemoetkoming onderwijsbijdrage en schoolkosten alsmede de Wet studiefinanciering BES voor het jaar 2015 (Regeling normen WSF 2000, WTOS en WSF BES, voor het jaar 2015)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 17
+latest_state: "2026-01-01"
+state_count: 18
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 17
 **Citeertitel:** Regeling normen WSF 2000, WTOS en WSF BES
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-normen-wsf-2000-wtos-en-wsf-bes](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-normen-wsf-2000-wtos-en-wsf-bes)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-normen-wsf-2000-wtos-en-wsf-bes](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-normen-wsf-2000-wtos-en-wsf-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-09-01 | 2023-12-31 | [2023-09-01.md](./2023-09-01.md) |

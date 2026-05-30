@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: "Regeling van de Minister van Financiën van 12 december 2012, kenmerk: FM/2012/1887 M, houdende de inkomenscriteria voor het verstrekken van hypothecair krediet en regels voor het vaststellen van de maximale hoogte van het hypothecair krediet in verhouding tot de waarde van de woning (Tijdelijke regeling hypothecair krediet)"
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 14
 **Citeertitel:** Tijdelijke regeling hypothecair krediet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2013/tijdelijke-regeling-hypothecair-krediet](https://wetten.ai/eli/nl/ministeriele-regeling/2013/tijdelijke-regeling-hypothecair-krediet)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/tijdelijke-regeling-hypothecair-krediet](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/tijdelijke-regeling-hypothecair-krediet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

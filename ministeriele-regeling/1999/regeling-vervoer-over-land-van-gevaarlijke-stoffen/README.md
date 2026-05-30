@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling vervoer over land van gevaarlijke stoffen
 ministry: Infrastructuur en Milieu
 abbreviation: VLG-regeling
-latest_state: "2025-08-14"
-state_count: 42
+latest_state: "2026-03-15"
+state_count: 40
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 42
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** VLG-regeling
-**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-land-van-gevaarlijke-stoffen](https://wetten.ai/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-land-van-gevaarlijke-stoffen)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-land-van-gevaarlijke-stoffen](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-land-van-gevaarlijke-stoffen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-15 | heden | [2026-03-15.md](./2026-03-15.md) |
 | 2025-08-14 | heden | [2025-08-14.md](./2025-08-14.md) |
 | 2025-06-06 | 2025-08-13 | [2025-06-06.md](./2025-06-06.md) |
 | 2024-11-15 | 2025-06-05 | [2024-11-15.md](./2024-11-15.md) |
@@ -51,17 +52,14 @@ state_count: 42
 | 2008-03-08 | 2008-06-30 | [2008-03-08.md](./2008-03-08.md) |
 | 2008-02-20 | 2008-03-07 | [2008-02-20.md](./2008-02-20.md) |
 | 2008-02-18 | 2008-02-19 | [2008-02-18.md](./2008-02-18.md) |
-| 2008-02-18 | 2008-02-19 | [2008-02-18.md](./2008-02-18.md) |
 | 2007-07-01 | 2008-02-17 | [2007-07-01.md](./2007-07-01.md) |
 | 2007-03-02 | 2007-06-30 | [2007-03-02.md](./2007-03-02.md) |
 | 2006-06-15 | 2007-03-01 | [2006-06-15.md](./2006-06-15.md) |
 | 2005-12-25 | 2006-06-14 | [2005-12-25.md](./2005-12-25.md) |
 | 2005-03-19 | 2005-12-24 | [2005-03-19.md](./2005-03-19.md) |
 | 2005-01-01 | 2005-03-18 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-03-18 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-07-03 | 2004-12-31 | [2004-07-03.md](./2004-07-03.md) |
 | 2004-05-28 | 2004-07-02 | [2004-05-28.md](./2004-05-28.md) |
 | 2003-11-18 | 2004-05-27 | [2003-11-18.md](./2003-11-18.md) |
 | 2003-07-30 | 2003-11-17 | [2003-07-30.md](./2003-07-30.md) |
-| 2003-03-14 | 2003-07-29 | [2003-03-14.md](./2003-03-14.md) |
 | 2003-03-14 | 2003-07-29 | [2003-03-14.md](./2003-03-14.md) |

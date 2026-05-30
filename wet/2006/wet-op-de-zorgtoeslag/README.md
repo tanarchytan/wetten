@@ -5,8 +5,8 @@ type: wet
 title: Wet van 16 juni 2005, houdende regels inzake de aanspraak op een financiële tegemoetkoming in de premie van een zorgverzekering vanwege een laag inkomen (Wet op de zorgtoeslag)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Wzt
-latest_state: "2025-01-01"
-state_count: 33
+latest_state: "2026-01-01"
+state_count: 30
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 33
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Wzt
-**ELI:** [/eli/nl/wet/2006/wet-op-de-zorgtoeslag](https://wetten.ai/eli/nl/wet/2006/wet-op-de-zorgtoeslag)
+**ELI:** [/eli/nl/wet/2006/wet-op-de-zorgtoeslag](https://wettenbank.online/eli/nl/wet/2006/wet-op-de-zorgtoeslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-11-06 | 2024-12-31 | [2024-11-06.md](./2024-11-06.md) |
 | 2024-01-01 | 2024-11-05 | [2024-01-01.md](./2024-01-01.md) |
@@ -39,8 +40,6 @@ state_count: 33
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-16 | 2014-12-31 | [2014-07-16.md](./2014-07-16.md) |
 | 2014-04-01 | 2014-07-15 | [2014-04-01.md](./2014-04-01.md) |
-| 2014-04-01 | 2014-07-15 | [2014-04-01.md](./2014-04-01.md) |
-| 2014-01-01 | 2014-03-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-03-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
@@ -52,7 +51,5 @@ state_count: 33
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-12 | 2007-12-31 | [2007-12-12.md](./2007-12-12.md) |
 | 2007-01-01 | 2007-12-11 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-12-11 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-11-22 | 2006-12-31 | [2006-11-22.md](./2006-11-22.md) |
-| 2006-01-01 | 2006-11-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-11-21 | [2006-01-01.md](./2006-01-01.md) |

@@ -5,8 +5,8 @@ type: pbo
 title: Besluit van het college van afgevaardigden van 4 december 2014 tot vaststelling van de verordening op de advocatuur (Verordening op de advocatuur)
 ministry: Nederlandse orde van advocaten
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 18
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 18
 **Citeertitel:** Verordening op de advocatuur
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse orde van advocaten
-**ELI:** [/eli/nl/pbo/2015/verordening-op-de-advocatuur](https://wetten.ai/eli/nl/pbo/2015/verordening-op-de-advocatuur)
+**ELI:** [/eli/nl/pbo/2015/verordening-op-de-advocatuur](https://wettenbank.online/eli/nl/pbo/2015/verordening-op-de-advocatuur)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-12-31 | 2023-12-31 | [2023-12-31.md](./2023-12-31.md) |

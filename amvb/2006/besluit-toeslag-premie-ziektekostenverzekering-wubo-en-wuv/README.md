@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 31 augustus 2006, houdende vaststelling van de toeslag en het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Besluit toeslag premie ziektekostenverzekering Wubo en Wuv)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 24
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 24
 **Citeertitel:** Besluit toeslag premie ziektekostenverzekering Wubo en Wuv
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2006/besluit-toeslag-premie-ziektekostenverzekering-wubo-en-wuv](https://wetten.ai/eli/nl/amvb/2006/besluit-toeslag-premie-ziektekostenverzekering-wubo-en-wuv)
+**ELI:** [/eli/nl/amvb/2006/besluit-toeslag-premie-ziektekostenverzekering-wubo-en-wuv](https://wettenbank.online/eli/nl/amvb/2006/besluit-toeslag-premie-ziektekostenverzekering-wubo-en-wuv)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -40,9 +41,7 @@ state_count: 24
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-29 | 2009-12-31 | [2009-01-29.md](./2009-01-29.md) |
 | 2009-01-01 | 2009-01-28 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-01-28 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-08 | 2008-12-31 | [2008-02-08.md](./2008-02-08.md) |
 | 2007-01-20 | 2008-02-07 | [2007-01-20.md](./2007-01-20.md) |
-| 2007-01-01 | 2007-01-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-11-17 | 2006-12-31 | [2006-11-17.md](./2006-11-17.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Buitenlandse Zaken van 17 april 2012, nr. Minbuza-2012.7941, houdende beperkende maatregelen jegens Iran (Sanctieregeling Iran 2012)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-06-04"
-state_count: 15
+latest_state: "2026-03-06"
+state_count: 16
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 15
 **Citeertitel:** Sanctieregeling Iran 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2012/sanctieregeling-iran-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/sanctieregeling-iran-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/sanctieregeling-iran-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/sanctieregeling-iran-2012)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-06 | heden | [2026-03-06.md](./2026-03-06.md) |
 | 2025-06-04 | heden | [2025-06-04.md](./2025-06-04.md) |
 | 2025-04-01 | 2025-06-03 | [2025-04-01.md](./2025-04-01.md) |
 | 2024-09-28 | 2025-03-31 | [2024-09-28.md](./2024-09-28.md) |

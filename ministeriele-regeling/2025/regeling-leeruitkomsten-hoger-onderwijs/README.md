@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 28 oktober 2024, nr. 48828559, houdende regels inzake voltijdse opleidingen met een substantiële praktijkcomponent in het wetenschappelijk onderwijs en instemming van docenten met het gebruik van eenheden van leeruitkomsten
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 1
+latest_state: "2025-11-26"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Regeling leeruitkomsten hoger onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2025/regeling-leeruitkomsten-hoger-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2025/regeling-leeruitkomsten-hoger-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/regeling-leeruitkomsten-hoger-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/regeling-leeruitkomsten-hoger-onderwijs)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-26 | heden | [2025-11-26.md](./2025-11-26.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |

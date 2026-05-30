@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018
 ministry: Defensie
 abbreviation: null
-latest_state: "2025-03-20"
-state_count: 8
+latest_state: "2026-01-22"
+state_count: 12
 ---
 
 
@@ -16,15 +16,19 @@ state_count: 8
 **Citeertitel:** Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-beperking-of-verbod-uitoefening-burgerluchtverkeer-](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-beperking-of-verbod-uitoefening-burgerluchtverkeer-)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-beperking-of-verbod-uitoefening-burgerluchtverkeer-](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-beperking-of-verbod-uitoefening-burgerluchtverkeer-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-22 | heden | [2026-01-22.md](./2026-01-22.md) |
+| 2025-12-25 | 2026-01-21 | [2025-12-25.md](./2025-12-25.md) |
+| 2025-09-04 | 2025-12-24 | [2025-09-04.md](./2025-09-04.md) |
 | 2025-03-20 | heden | [2025-03-20.md](./2025-03-20.md) |
 | 2025-02-20 | 2025-03-19 | [2025-02-20.md](./2025-02-20.md) |
 | 2024-08-08 | 2025-02-19 | [2024-08-08.md](./2024-08-08.md) |
+| 2024-01-01 | 2024-08-07 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-01-01 | 2024-08-07 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-03-25 | 2021-12-31 | [2021-03-25.md](./2021-03-25.md) |
 | 2020-06-18 | 2021-03-24 | [2020-06-18.md](./2020-06-18.md) |

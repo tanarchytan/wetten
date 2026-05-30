@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Veiligheid en Justitie van 4 november 2014, nr. 577811 houdende de invoering van de Regeling beloning curatoren, bewindvoerders en mentoren (Regeling beloning curatoren, bewindvoerders en mentoren)
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Regeling beloning curatoren, bewindvoerders en mentoren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-beloning-curatoren-bewindvoerders-en-mentoren](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-beloning-curatoren-bewindvoerders-en-mentoren)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-beloning-curatoren-bewindvoerders-en-mentoren](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-beloning-curatoren-bewindvoerders-en-mentoren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-01-01 | 2023-12-31 | [2022-01-01.md](./2022-01-01.md) |

@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 6 december 2002, houdende regels ter uitvoering van de Mijnbouwwet (Mijnbouwbesluit)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 24
+latest_state: "2026-01-01"
+state_count: 26
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 24
 **Citeertitel:** Mijnbouwbesluit
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2003/mijnbouwbesluit](https://wetten.ai/eli/nl/amvb/2003/mijnbouwbesluit)
+**ELI:** [/eli/nl/amvb/2003/mijnbouwbesluit](https://wettenbank.online/eli/nl/amvb/2003/mijnbouwbesluit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-10-01 | 2025-12-31 | [2025-10-01.md](./2025-10-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-01-01 | 2023-06-30 | [2022-01-01.md](./2022-01-01.md) |

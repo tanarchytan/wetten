@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-12-09"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-werknemersre](https://wetten.ai/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-werknemersre)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-werknemersre](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-werknemersre)
 
 ## Versies
 
@@ -24,13 +24,11 @@ state_count: 12
 |---|---|---|
 | 2023-12-09 | heden | [2023-12-09.md](./2023-12-09.md) |
 | 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
-| 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
+| 2022-11-25 | 2023-08-31 | [2022-11-25.md](./2022-11-25.md) |
 | 2020-01-01 | 2023-08-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-11-06 | 2019-12-31 | [2018-11-06.md](./2018-11-06.md) |
 | 2018-09-01 | 2018-11-05 | [2018-09-01.md](./2018-09-01.md) |
-| 2018-09-01 | 2018-11-05 | [2018-09-01.md](./2018-09-01.md) |
 | 2016-04-05 | 2018-08-31 | [2016-04-05.md](./2016-04-05.md) |
-| 2016-01-01 | 2016-04-04 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-04-04 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-12-30 | 2015-12-31 | [2015-12-30.md](./2015-12-30.md) |
 | 2015-05-01 | 2015-12-29 | [2015-05-01.md](./2015-05-01.md) |

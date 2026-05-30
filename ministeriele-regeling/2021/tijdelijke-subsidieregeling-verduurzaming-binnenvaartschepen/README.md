@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Infrastructuur en Waterstaat, van 26 januari 2021, nr. IENW/BSK-2021/10986, houdende vaststelling van de Tijdelijke subsidieregeling verduurzaming binnenvaartschepen (Tijdelijke subsidieregeling verduurzaming binnenvaartschepen 2021–2025)
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
-latest_state: "2025-09-01"
-state_count: 10
+latest_state: "2025-09-20"
+state_count: 11
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 10
 **Citeertitel:** Tijdelijke subsidieregeling verduurzaming binnenvaartschepen 2021–2025
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2021/tijdelijke-subsidieregeling-verduurzaming-binnenvaartschepen](https://wetten.ai/eli/nl/ministeriele-regeling/2021/tijdelijke-subsidieregeling-verduurzaming-binnenvaartschepen)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/tijdelijke-subsidieregeling-verduurzaming-binnenvaartschepen](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/tijdelijke-subsidieregeling-verduurzaming-binnenvaartschepen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-20 | 2025-12-31 | [2025-09-20.md](./2025-09-20.md) |
 | 2025-09-01 | heden | [2025-09-01.md](./2025-09-01.md) |
 | 2024-09-19 | 2025-08-31 | [2024-09-19.md](./2024-09-19.md) |
 | 2024-06-19 | 2024-09-18 | [2024-06-19.md](./2024-06-19.md) |

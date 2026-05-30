@@ -5,8 +5,8 @@ type: wet-bes
 title: Wet algemene ouderdomsverzekering BES
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 21
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 20
 **Citeertitel:** Wet algemene ouderdomsverzekering BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet-bes/2010/wet-algemene-ouderdomsverzekering-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-algemene-ouderdomsverzekering-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-algemene-ouderdomsverzekering-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-algemene-ouderdomsverzekering-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |

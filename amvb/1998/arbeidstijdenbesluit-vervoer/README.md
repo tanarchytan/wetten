@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 14 februari 1998, houdende nadere regels inzake de arbeids- en rusttijden in of op voertuigen, aan boord van vaartuigen en voor loodsen (Arbeidstijdenbesluit vervoer)
 ministry: Infrastructuur en Milieu
 abbreviation: ATB
-latest_state: "2025-07-01"
-state_count: 52
+latest_state: "2025-09-16"
+state_count: 48
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 52
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** ATB
-**ELI:** [/eli/nl/amvb/1998/arbeidstijdenbesluit-vervoer](https://wetten.ai/eli/nl/amvb/1998/arbeidstijdenbesluit-vervoer)
+**ELI:** [/eli/nl/amvb/1998/arbeidstijdenbesluit-vervoer](https://wettenbank.online/eli/nl/amvb/1998/arbeidstijdenbesluit-vervoer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-16 | heden | [2025-09-16.md](./2025-09-16.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2023-12-30 | 2025-06-30 | [2023-12-30.md](./2023-12-30.md) |
 | 2023-01-01 | 2023-12-29 | [2023-01-01.md](./2023-01-01.md) |
@@ -52,12 +53,8 @@ state_count: 52
 | 2008-04-09 | 2008-07-18 | [2008-04-09.md](./2008-04-09.md) |
 | 2007-12-29 | 2008-04-08 | [2007-12-29.md](./2007-12-29.md) |
 | 2007-05-16 | 2007-12-28 | [2007-05-16.md](./2007-05-16.md) |
-| 2007-05-16 | 2007-12-28 | [2007-05-16.md](./2007-05-16.md) |
-| 2007-04-01 | 2007-05-15 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-04-01 | 2007-05-15 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-01-12 | 2007-03-31 | [2007-01-12.md](./2007-01-12.md) |
-| 2007-01-12 | 2007-03-31 | [2007-01-12.md](./2007-01-12.md) |
-| 2006-11-24 | 2007-01-11 | [2006-11-24.md](./2006-11-24.md) |
 | 2006-11-24 | 2007-01-11 | [2006-11-24.md](./2006-11-24.md) |
 | 2006-05-01 | 2006-11-23 | [2006-05-01.md](./2006-05-01.md) |
 | 2005-07-20 | 2006-04-30 | [2005-07-20.md](./2005-07-20.md) |
@@ -72,6 +69,5 @@ state_count: 52
 | 2003-07-17 | 2003-08-31 | [2003-07-17.md](./2003-07-17.md) |
 | 2003-01-01 | 2003-07-16 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-09-25 | 2002-12-31 | [2002-09-25.md](./2002-09-25.md) |
-| 2002-07-01 | 2002-09-24 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-07-01 | 2002-09-24 | [2002-07-01.md](./2002-07-01.md) |
 | 2001-01-10 | 2002-06-30 | [2001-01-10.md](./2001-01-10.md) |

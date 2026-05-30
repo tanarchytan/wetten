@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 4 juli 2007, houdende regels aangaande de buitengerechtelijke afdoening van strafbare feiten (Besluit OM-afdoening)
 ministry: Veiligheid en Justitie
 abbreviation: B OM
-latest_state: "2025-08-18"
-state_count: 36
+latest_state: "2026-01-01"
+state_count: 34
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 36
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** B OM
-**ELI:** [/eli/nl/amvb/2008/besluit-om-afdoening](https://wetten.ai/eli/nl/amvb/2008/besluit-om-afdoening)
+**ELI:** [/eli/nl/amvb/2008/besluit-om-afdoening](https://wettenbank.online/eli/nl/amvb/2008/besluit-om-afdoening)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-18 | heden | [2025-08-18.md](./2025-08-18.md) |
 | 2025-02-01 | 2025-08-17 | [2025-02-01.md](./2025-02-01.md) |
 | 2024-03-01 | 2025-01-31 | [2024-03-01.md](./2024-03-01.md) |
@@ -39,10 +40,7 @@ state_count: 36
 | 2018-01-01 | 2018-02-05 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-11-29 | 2017-12-31 | [2017-11-29.md](./2017-11-29.md) |
 | 2017-08-01 | 2017-11-28 | [2017-08-01.md](./2017-08-01.md) |
-| 2017-08-01 | 2017-11-28 | [2017-08-01.md](./2017-08-01.md) |
 | 2017-07-01 | 2017-07-31 | [2017-07-01.md](./2017-07-01.md) |
-| 2017-07-01 | 2017-07-31 | [2017-07-01.md](./2017-07-01.md) |
-| 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-12-01 | 2016-12-31 | [2016-12-01.md](./2016-12-01.md) |
 | 2016-07-01 | 2016-11-30 | [2016-07-01.md](./2016-07-01.md) |

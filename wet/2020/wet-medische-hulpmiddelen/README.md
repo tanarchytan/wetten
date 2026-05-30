@@ -5,8 +5,8 @@ type: wet
 title: Wet van 24 oktober 2019, houdende regels over de veiligheid en kwaliteit van medische hulpmiddelen (Wet medische hulpmiddelen)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-07-05"
-state_count: 11
+latest_state: "2026-02-19"
+state_count: 12
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 11
 **Citeertitel:** Wet medische hulpmiddelen
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/2020/wet-medische-hulpmiddelen](https://wetten.ai/eli/nl/wet/2020/wet-medische-hulpmiddelen)
+**ELI:** [/eli/nl/wet/2020/wet-medische-hulpmiddelen](https://wettenbank.online/eli/nl/wet/2020/wet-medische-hulpmiddelen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-19 | heden | [2026-02-19.md](./2026-02-19.md) |
 | 2025-07-05 | heden | [2025-07-05.md](./2025-07-05.md) |
 | 2025-01-01 | 2025-07-04 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-11-06 | 2024-12-31 | [2024-11-06.md](./2024-11-06.md) |

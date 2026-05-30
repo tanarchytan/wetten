@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling vaststelling grondslagen IOAZ
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 57
+latest_state: "2026-01-01"
+state_count: 50
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 57
 **Citeertitel:** Regeling vaststelling grondslagen IOAZ
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-grondslagen-ioaz](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-grondslagen-ioaz)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-grondslagen-ioaz](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-grondslagen-ioaz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -38,18 +39,11 @@ state_count: 57
 | 2019-01-01 | 2019-06-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-12-14 | 2018-12-31 | [2018-12-14.md](./2018-12-14.md) |
 | 2018-07-01 | 2018-12-13 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-12-13 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
-| 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
-| 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
-| 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-01-01 | 2016-06-30 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-06-30 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
@@ -71,7 +65,6 @@ state_count: 57
 | 2006-07-01 | 2006-12-31 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-01-01 | 2006-06-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-05-11 | 2005-12-31 | [2005-05-11.md](./2005-05-11.md) |
-| 2005-04-15 | 2005-05-10 | [2005-04-15.md](./2005-04-15.md) |
 | 2005-04-15 | 2005-05-10 | [2005-04-15.md](./2005-04-15.md) |
 | 2005-01-01 | 2005-04-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-07-01 | 2004-12-31 | [2004-07-01.md](./2004-07-01.md) |

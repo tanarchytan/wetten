@@ -5,8 +5,8 @@ type: wet
 title: Wet van 8 juli 1999, houdende aanpassing van de Nederlandse wetgeving aan richtlijn 96/9/EG van het Europees Parlement en de Raad van 11 maart 1996 betreffende de rechtsbescherming van databanken
 ministry: Veiligheid en Justitie
 abbreviation: Dbw
-latest_state: "2021-06-07"
-state_count: 7
+latest_state: "2025-11-21"
+state_count: 8
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 7
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Dbw
-**ELI:** [/eli/nl/wet/1999/databankenwet](https://wetten.ai/eli/nl/wet/1999/databankenwet)
+**ELI:** [/eli/nl/wet/1999/databankenwet](https://wettenbank.online/eli/nl/wet/1999/databankenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-21 | heden | [2025-11-21.md](./2025-11-21.md) |
 | 2021-06-07 | heden | [2021-06-07.md](./2021-06-07.md) |
 | 2018-10-11 | 2021-06-06 | [2018-10-11.md](./2018-10-11.md) |
 | 2017-09-01 | 2018-10-10 | [2017-09-01.md](./2017-09-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2013, kenmerk MEVA-172387-113549, houdende vaststelling van de sectorale bezoldigingsnorm voor en de indeling in klassen van de in bijlage 3 bij de Wet normering bezoldiging topfunctionarissen in de publieke en semipublieke sector opgenomen categorie zorgverzekeraars (Regeling sectorale bezoldigingsnorm topfunctionarissen zorgverzekeraars)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 14
 **Citeertitel:** Regeling sectorale bezoldigingsnorm topfunctionarissen zorgverzekeraars
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-sectorale-bezoldigingsnorm-topfunctionarissen-zorgv](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-sectorale-bezoldigingsnorm-topfunctionarissen-zorgv)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-sectorale-bezoldigingsnorm-topfunctionarissen-zorgv](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-sectorale-bezoldigingsnorm-topfunctionarissen-zorgv)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

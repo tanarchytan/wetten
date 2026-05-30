@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet algemene bepalingen burgerservicenummer (Besluit burgerservicenummer)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Besluit BSN
-latest_state: "2019-09-14"
-state_count: 6
+latest_state: "2025-12-06"
+state_count: 8
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Besluit BSN
-**ELI:** [/eli/nl/amvb/2007/besluit-burgerservicenummer](https://wetten.ai/eli/nl/amvb/2007/besluit-burgerservicenummer)
+**ELI:** [/eli/nl/amvb/2007/besluit-burgerservicenummer](https://wettenbank.online/eli/nl/amvb/2007/besluit-burgerservicenummer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-06 | heden | [2025-12-06.md](./2025-12-06.md) |
+| 2025-11-11 | 2025-12-05 | [2025-11-11.md](./2025-11-11.md) |
 | 2019-09-14 | heden | [2019-09-14.md](./2019-09-14.md) |
 | 2014-01-06 | 2019-09-13 | [2014-01-06.md](./2014-01-06.md) |
 | 2009-09-18 | 2014-01-05 | [2009-09-18.md](./2009-09-18.md) |

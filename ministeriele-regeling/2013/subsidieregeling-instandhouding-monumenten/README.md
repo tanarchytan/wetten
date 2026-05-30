@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 19 september 2012, nr. WJZ/387165 (10152), houdende regels voor de verstrekking van subsidie voor de instandhouding van rijksmonumenten (Subsidieregeling instandhouding monumenten)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-07-12"
-state_count: 26
+latest_state: "2025-11-19"
+state_count: 25
 ---
 
 
@@ -16,17 +16,17 @@ state_count: 26
 **Citeertitel:** Subsidieregeling instandhouding monumenten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2013/subsidieregeling-instandhouding-monumenten](https://wetten.ai/eli/nl/ministeriele-regeling/2013/subsidieregeling-instandhouding-monumenten)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/subsidieregeling-instandhouding-monumenten](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/subsidieregeling-instandhouding-monumenten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-19 | heden | [2025-11-19.md](./2025-11-19.md) |
 | 2025-07-12 | heden | [2025-07-12.md](./2025-07-12.md) |
 | 2025-01-01 | 2025-07-11 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-12-03 | 2024-12-31 | [2024-12-03.md](./2024-12-03.md) |
 | 2024-11-08 | 2024-12-02 | [2024-11-08.md](./2024-11-08.md) |
-| 2024-01-01 | 2024-11-07 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-11-07 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-11-22 | 2023-12-31 | [2023-11-22.md](./2023-11-22.md) |
 | 2023-07-13 | 2023-11-21 | [2023-07-13.md](./2023-07-13.md) |
@@ -46,5 +46,4 @@ state_count: 26
 | 2016-02-18 | 2016-06-30 | [2016-02-18.md](./2016-02-18.md) |
 | 2014-06-17 | 2016-02-17 | [2014-06-17.md](./2014-06-17.md) |
 | 2013-09-28 | 2014-06-16 | [2013-09-28.md](./2013-09-28.md) |
-| 2013-01-01 | 2013-09-27 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-09-27 | [2013-01-01.md](./2013-01-01.md) |

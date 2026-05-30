@@ -5,8 +5,8 @@ type: amvb
 title: Wijziging van 12 januari 2024 tot het Besluit algemene rechtspositie politie en Besluit bezoldiging politie en enkele andere besluiten in verband met de formalisering van afspraken uit de Arbeidsvoorwaardenovereenkomst sector politie 2022–2024 alsmede enkele technische wijzigingen (Verzamelbesluit rechtspositie politie 2023)
 ministry: Justitie en Veiligheid
 abbreviation: null
-latest_state: "2024-01-20"
-state_count: 13
+latest_state: "2025-09-23"
+state_count: 14
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 13
 **Citeertitel:** Verzamelbesluit rechtspositie politie 2023
 **Type:** amvb
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/amvb/2024/verzamelbesluit-rechtspositie-politie-2023](https://wetten.ai/eli/nl/amvb/2024/verzamelbesluit-rechtspositie-politie-2023)
+**ELI:** [/eli/nl/amvb/2024/verzamelbesluit-rechtspositie-politie-2023](https://wettenbank.online/eli/nl/amvb/2024/verzamelbesluit-rechtspositie-politie-2023)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-23 | heden | [2025-09-23.md](./2025-09-23.md) |
 | 2024-01-20 | heden | [2024-01-20.md](./2024-01-20.md) |
 | 2024-01-01 | 2024-01-19 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |

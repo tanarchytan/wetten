@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Buitenlandse Zaken van 29 september 2006, nr. DJZ/BR/0965-06, betreffende beperkende maatregelen tegen president Loekasjenko en bepaalde functionarissen van Belarus (Sanctieregeling Belarus 2006)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-08-09"
-state_count: 36
+latest_state: "2026-03-05"
+state_count: 31
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 36
 **Citeertitel:** Sanctieregeling Belarus 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/sanctieregeling-belarus-2006](https://wetten.ai/eli/nl/ministeriele-regeling/2006/sanctieregeling-belarus-2006)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/sanctieregeling-belarus-2006](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/sanctieregeling-belarus-2006)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-05 | heden | [2026-03-05.md](./2026-03-05.md) |
+| 2026-01-01 | 2026-03-04 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-09 | heden | [2025-08-09.md](./2025-08-09.md) |
 | 2025-03-21 | 2025-08-08 | [2025-03-21.md](./2025-03-21.md) |
 | 2024-07-30 | 2025-03-20 | [2024-07-30.md](./2024-07-30.md) |
@@ -31,15 +33,8 @@ state_count: 36
 | 2022-05-26 | 2022-06-08 | [2022-05-26.md](./2022-05-26.md) |
 | 2022-04-13 | 2022-05-25 | [2022-04-13.md](./2022-04-13.md) |
 | 2022-04-12 | 2022-04-12 | [2022-04-12.md](./2022-04-12.md) |
-| 2022-04-12 | 2022-04-12 | [2022-04-12.md](./2022-04-12.md) |
-| 2022-04-07 | 2022-04-11 | [2022-04-07.md](./2022-04-07.md) |
-| 2022-04-07 | 2022-04-11 | [2022-04-07.md](./2022-04-07.md) |
 | 2022-04-07 | 2022-04-11 | [2022-04-07.md](./2022-04-07.md) |
 | 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-01 | 2022-04-04 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-04-01 | 2022-04-04 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-03-12 | 2022-03-31 | [2022-03-12.md](./2022-03-12.md) |
 | 2022-03-05 | 2022-03-11 | [2022-03-05.md](./2022-03-05.md) |

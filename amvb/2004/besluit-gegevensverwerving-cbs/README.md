@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 10 december 2003, houdende uitvoering van artikel 33, tweede, derde en vierde lid, van de Wet op het Centraal bureau voor de statistiek (Besluit gegevensverwerving CBS)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-06-01"
-state_count: 7
+latest_state: "2026-01-01"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Besluit gegevensverwerving CBS
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2004/besluit-gegevensverwerving-cbs](https://wetten.ai/eli/nl/amvb/2004/besluit-gegevensverwerving-cbs)
+**ELI:** [/eli/nl/amvb/2004/besluit-gegevensverwerving-cbs](https://wettenbank.online/eli/nl/amvb/2004/besluit-gegevensverwerving-cbs)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-06-01 | heden | [2025-06-01.md](./2025-06-01.md) |
 | 2016-07-01 | 2025-05-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2011-07-01 | 2016-06-30 | [2011-07-01.md](./2011-07-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken van 10 februari 2010, nr. WJZ/9216044, houdende vaststelling van de eisen en vergunningstelsels die in ieder geval onder de reikwijdte van de Dienstenwet vallen (Regeling indicatieve vaststelling reikwijdte Dienstenwet)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 29
+latest_state: "2026-01-01"
+state_count: 31
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 29
 **Citeertitel:** Regeling indicatieve vaststelling reikwijdte Dienstenwet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-indicatieve-vaststelling-reikwijdte-dienstenwet](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-indicatieve-vaststelling-reikwijdte-dienstenwet)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-indicatieve-vaststelling-reikwijdte-dienstenwet](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-indicatieve-vaststelling-reikwijdte-dienstenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-13 | 2025-12-31 | [2025-12-13.md](./2025-12-13.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-07-01 | 2024-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-02-24 | 2023-06-30 | [2023-02-24.md](./2023-02-24.md) |

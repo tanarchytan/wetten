@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 5 juni 2014, houdende regels met betrekking tot houders van dieren (Besluit houders van dieren)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-07-01"
-state_count: 23
+latest_state: "2026-01-01"
+state_count: 21
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 23
 **Citeertitel:** Besluit houders van dieren
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2014/besluit-houders-van-dieren](https://wetten.ai/eli/nl/amvb/2014/besluit-houders-van-dieren)
+**ELI:** [/eli/nl/amvb/2014/besluit-houders-van-dieren](https://wettenbank.online/eli/nl/amvb/2014/besluit-houders-van-dieren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-07-01 | heden | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-12-12 | 2023-12-31 | [2023-12-12.md](./2023-12-12.md) |
@@ -30,10 +31,7 @@ state_count: 23
 | 2022-12-22 | 2023-06-30 | [2022-12-22.md](./2022-12-22.md) |
 | 2022-05-05 | 2022-12-21 | [2022-05-05.md](./2022-05-05.md) |
 | 2022-03-11 | 2022-05-04 | [2022-03-11.md](./2022-03-11.md) |
-| 2022-03-11 | 2022-05-04 | [2022-03-11.md](./2022-03-11.md) |
 | 2022-03-01 | 2022-03-10 | [2022-03-01.md](./2022-03-01.md) |
-| 2022-03-01 | 2022-03-10 | [2022-03-01.md](./2022-03-01.md) |
-| 2022-01-01 | 2022-02-28 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-02-28 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-11-01 | 2021-12-31 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-04-21 | 2021-10-31 | [2021-04-21.md](./2021-04-21.md) |

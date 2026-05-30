@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ/14101260, houdende regels met betrekking tot het houden van dieren
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-07-23"
-state_count: 45
+latest_state: "2026-05-16"
+state_count: 43
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 45
 **Citeertitel:** Regeling houders van dieren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-houders-van-dieren](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-houders-van-dieren)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-houders-van-dieren](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-houders-van-dieren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-16 | heden | [2026-05-16.md](./2026-05-16.md) |
+| 2026-04-17 | 2026-05-15 | [2026-04-17.md](./2026-04-17.md) |
+| 2026-01-01 | 2026-04-16 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-23 | heden | [2025-07-23.md](./2025-07-23.md) |
 | 2025-04-30 | 2025-07-22 | [2025-04-30.md](./2025-04-30.md) |
 | 2025-04-01 | 2025-04-29 | [2025-04-01.md](./2025-04-01.md) |
@@ -35,12 +38,8 @@ state_count: 45
 | 2022-07-16 | 2022-12-31 | [2022-07-16.md](./2022-07-16.md) |
 | 2022-05-05 | 2022-07-15 | [2022-05-05.md](./2022-05-05.md) |
 | 2022-04-30 | 2022-05-04 | [2022-04-30.md](./2022-04-30.md) |
-| 2022-04-30 | 2022-05-04 | [2022-04-30.md](./2022-04-30.md) |
-| 2022-03-11 | 2022-04-29 | [2022-03-11.md](./2022-03-11.md) |
 | 2022-03-11 | 2022-04-29 | [2022-03-11.md](./2022-03-11.md) |
 | 2022-01-28 | 2022-03-10 | [2022-01-28.md](./2022-01-28.md) |
-| 2022-01-28 | 2022-03-10 | [2022-01-28.md](./2022-01-28.md) |
-| 2022-01-01 | 2022-01-27 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-01-27 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-11-01 | 2021-12-31 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-07-08 | 2021-10-31 | [2021-07-08.md](./2021-07-08.md) |
@@ -57,7 +56,6 @@ state_count: 45
 | 2018-07-01 | 2018-07-06 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-04-27 | 2018-06-30 | [2018-04-27.md](./2018-04-27.md) |
 | 2017-06-27 | 2018-04-26 | [2017-06-27.md](./2017-06-27.md) |
-| 2017-03-28 | 2017-06-26 | [2017-03-28.md](./2017-03-28.md) |
 | 2017-03-28 | 2017-06-26 | [2017-03-28.md](./2017-03-28.md) |
 | 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-10-15 | 2016-12-31 | [2016-10-15.md](./2016-10-15.md) |

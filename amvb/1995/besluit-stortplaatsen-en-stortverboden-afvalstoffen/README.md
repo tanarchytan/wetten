@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 8 december 1997, houdende een stortverbod binnen inrichtingen voor aangewezen categorieën van afvalstoffen (Besluit stortverbod afvalstoffen)
 ministry: Economische Zaken
 abbreviation: Bssaf
-latest_state: "2025-08-18"
-state_count: 27
+latest_state: "2026-01-01"
+state_count: 28
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 27
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Bssaf
-**ELI:** [/eli/nl/amvb/1995/besluit-stortplaatsen-en-stortverboden-afvalstoffen](https://wetten.ai/eli/nl/amvb/1995/besluit-stortplaatsen-en-stortverboden-afvalstoffen)
+**ELI:** [/eli/nl/amvb/1995/besluit-stortplaatsen-en-stortverboden-afvalstoffen](https://wettenbank.online/eli/nl/amvb/1995/besluit-stortplaatsen-en-stortverboden-afvalstoffen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-18 | heden | [2025-08-18.md](./2025-08-18.md) |
 | 2024-01-01 | 2025-08-17 | [2024-01-01.md](./2024-01-01.md) |
 | 2021-07-01 | 2023-12-31 | [2021-07-01.md](./2021-07-01.md) |

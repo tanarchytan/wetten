@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Sociale Zaken en Werkgelegenheid van 22 december 2022, nr. 2022-0000261694, houdende regels met betrekking tot de besteding van gelden uit het Fonds voor een rechtvaardige transitie, opgericht bij Verordening (EU) 2021/1056 van het Europees Parlement en de Raad (Subsidieregeling JTF 2021–2027)
 ministry: Economische Zaken en Klimaat
 abbreviation: null
-latest_state: "2025-09-01"
-state_count: 27
+latest_state: "2026-03-01"
+state_count: 33
 ---
 
 
@@ -16,18 +16,24 @@ state_count: 27
 **Citeertitel:** Subsidieregeling JTF 2021–2027
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2022/subsidieregeling-jtf-2021-2027](https://wetten.ai/eli/nl/ministeriele-regeling/2022/subsidieregeling-jtf-2021-2027)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/subsidieregeling-jtf-2021-2027](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/subsidieregeling-jtf-2021-2027)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
+| 2026-02-01 | 2026-02-28 | [2026-02-01.md](./2026-02-01.md) |
+| 2026-01-29 | 2026-01-31 | [2026-01-29.md](./2026-01-29.md) |
+| 2026-01-01 | 2026-01-28 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-11-19 | 2025-12-31 | [2025-11-19.md](./2025-11-19.md) |
+| 2025-10-10 | 2025-11-18 | [2025-10-10.md](./2025-10-10.md) |
 | 2025-09-01 | heden | [2025-09-01.md](./2025-09-01.md) |
+| 2025-07-01 | 2025-08-31 | [2025-07-01.md](./2025-07-01.md) |
 | 2025-06-05 | 2025-08-31 | [2025-06-05.md](./2025-06-05.md) |
 | 2025-05-02 | 2025-06-04 | [2025-05-02.md](./2025-05-02.md) |
 | 2025-04-02 | 2025-05-01 | [2025-04-02.md](./2025-04-02.md) |
 | 2025-02-08 | 2025-04-01 | [2025-02-08.md](./2025-02-08.md) |
-| 2025-01-31 | 2025-02-07 | [2025-01-31.md](./2025-01-31.md) |
 | 2025-01-31 | 2025-02-07 | [2025-01-31.md](./2025-01-31.md) |
 | 2024-12-12 | 2025-01-30 | [2024-12-12.md](./2024-12-12.md) |
 | 2024-10-26 | 2024-12-11 | [2024-10-26.md](./2024-10-26.md) |

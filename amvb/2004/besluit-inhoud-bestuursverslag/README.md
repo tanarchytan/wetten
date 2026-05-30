@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 23 december 2004 tot vaststelling van nadere voorschriften omtrent de inhoud van het jaarverslag
 ministry: Veiligheid en Justitie
 abbreviation: Vbnvij
-latest_state: "2025-03-28"
-state_count: 15
+latest_state: "2026-02-03"
+state_count: 14
 ---
 
 
@@ -17,16 +17,15 @@ state_count: 15
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Vbnvij
-**ELI:** [/eli/nl/amvb/2004/besluit-inhoud-bestuursverslag](https://wetten.ai/eli/nl/amvb/2004/besluit-inhoud-bestuursverslag)
+**ELI:** [/eli/nl/amvb/2004/besluit-inhoud-bestuursverslag](https://wettenbank.online/eli/nl/amvb/2004/besluit-inhoud-bestuursverslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-03 | heden | [2026-02-03.md](./2026-02-03.md) |
 | 2025-03-28 | heden | [2025-03-28.md](./2025-03-28.md) |
 | 2024-06-22 | 2025-03-27 | [2024-06-22.md](./2024-06-22.md) |
-| 2024-06-22 | 2025-03-27 | [2024-06-22.md](./2024-06-22.md) |
-| 2024-01-01 | 2024-06-21 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-06-21 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-07-01 | 2023-12-31 | [2022-07-01.md](./2022-07-01.md) |
 | 2018-01-01 | 2022-06-30 | [2018-01-01.md](./2018-01-01.md) |

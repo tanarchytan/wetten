@@ -5,8 +5,8 @@ type: ministeriele-regeling-bes
 title: Regeling vergoedingen luchtverkeersdienstverlening BES
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2023-01-01"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling vergoedingen luchtverkeersdienstverlening BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-vergoedingen-luchtverkeersdienstverlening-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/regeling-vergoedingen-luchtverkeersdienstverlening-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-vergoedingen-luchtverkeersdienstverlening-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2010/regeling-vergoedingen-luchtverkeersdienstverlening-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
 | 2020-01-01 | 2022-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-01-01 | 2019-12-31 | [2018-01-01.md](./2018-01-01.md) |

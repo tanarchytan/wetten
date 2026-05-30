@@ -5,8 +5,8 @@ type: wet-bes
 title: Wet primair onderwijs BES
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: WPO BES
-latest_state: "2025-08-01"
-state_count: 41
+latest_state: "2026-01-01"
+state_count: 38
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 41
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** WPO BES
-**ELI:** [/eli/nl/wet-bes/2011/wet-primair-onderwijs-bes](https://wetten.ai/eli/nl/wet-bes/2011/wet-primair-onderwijs-bes)
+**ELI:** [/eli/nl/wet-bes/2011/wet-primair-onderwijs-bes](https://wettenbank.online/eli/nl/wet-bes/2011/wet-primair-onderwijs-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-01 | heden | [2025-08-01.md](./2025-08-01.md) |
 | 2025-01-01 | 2025-07-31 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-08-01 | 2024-12-31 | [2024-08-01.md](./2024-08-01.md) |
@@ -51,12 +52,8 @@ state_count: 41
 | 2014-01-01 | 2014-07-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-11-02 | 2013-12-31 | [2013-11-02.md](./2013-11-02.md) |
 | 2013-08-01 | 2013-11-01 | [2013-08-01.md](./2013-08-01.md) |
-| 2013-08-01 | 2013-11-01 | [2013-08-01.md](./2013-08-01.md) |
-| 2013-07-04 | 2013-07-31 | [2013-07-04.md](./2013-07-04.md) |
 | 2013-07-04 | 2013-07-31 | [2013-07-04.md](./2013-07-04.md) |
 | 2013-01-01 | 2013-07-03 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-07-03 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-10-10 | 2012-12-31 | [2012-10-10.md](./2012-10-10.md) |
 | 2012-10-10 | 2012-12-31 | [2012-10-10.md](./2012-10-10.md) |
 | 2012-01-01 | 2012-10-09 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-12-07 | 2011-12-31 | [2011-12-07.md](./2011-12-07.md) |

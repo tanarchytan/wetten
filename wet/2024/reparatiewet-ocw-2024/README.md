@@ -5,8 +5,8 @@ type: wet
 title: Wet van 18 april 2024 tot wijziging van wetten op met name het terrein van onderwijs, cultuur en wetenschap in verband met het repareren van wetstechnische en redactionele vergissingen en verschrijvingen (Reparatiewet OCW 2024)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2024-09-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Reparatiewet OCW 2024
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/wet/2024/reparatiewet-ocw-2024](https://wetten.ai/eli/nl/wet/2024/reparatiewet-ocw-2024)
+**ELI:** [/eli/nl/wet/2024/reparatiewet-ocw-2024](https://wettenbank.online/eli/nl/wet/2024/reparatiewet-ocw-2024)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-09-01 | heden | [2024-09-01.md](./2024-09-01.md) |
 | 2024-08-01 | 2024-08-31 | [2024-08-01.md](./2024-08-01.md) |
 | 2024-07-01 | 2024-07-31 | [2024-07-01.md](./2024-07-01.md) |

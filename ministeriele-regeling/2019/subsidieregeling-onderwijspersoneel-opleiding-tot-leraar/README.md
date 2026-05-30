@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van 26 november 2018, nr. PO/1416144, houdende regels voor subsidieverstrekking als tegemoetkoming in de studiekosten en kosten van studieverlof voor het volgen van de opleiding tot leraar door een onderwijsassistent (Subsidieregeling onderwijsassistenten opleiding tot leraar)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2024-07-11"
-state_count: 13
+latest_state: "2026-03-11"
+state_count: 11
 ---
 
 
@@ -16,17 +16,15 @@ state_count: 13
 **Citeertitel:** Subsidieregeling onderwijspersoneel opleiding tot leraar
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-onderwijspersoneel-opleiding-tot-leraar](https://wetten.ai/eli/nl/ministeriele-regeling/2019/subsidieregeling-onderwijspersoneel-opleiding-tot-leraar)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-onderwijspersoneel-opleiding-tot-leraar](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/subsidieregeling-onderwijspersoneel-opleiding-tot-leraar)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-11 | heden | [2026-03-11.md](./2026-03-11.md) |
 | 2024-07-11 | heden | [2024-07-11.md](./2024-07-11.md) |
 | 2024-02-01 | 2024-07-10 | [2024-02-01.md](./2024-02-01.md) |
-| 2024-02-01 | 2024-07-10 | [2024-02-01.md](./2024-02-01.md) |
-| 2024-01-01 | 2024-01-31 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-01-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-01-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-11 | 2023-12-31 | [2023-07-11.md](./2023-07-11.md) |
 | 2023-05-27 | 2023-07-10 | [2023-05-27.md](./2023-05-27.md) |

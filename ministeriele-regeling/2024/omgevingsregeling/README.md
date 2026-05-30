@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister voor Milieu en Wonen, de Staatssecretaris van Defensie, de Minister van Economische Zaken en Klimaat, de Minister van Infrastructuur en Waterstaat, de Minister van Landbouw, Natuur en Voedselkwaliteit en de Minister van Onderwijs, Cultuur en Wetenschap van 21 november 2019, houdende regels over het beschermen en benutten van de fysieke leefomgeving (Omgevingsregeling)
 ministry: Infrastructuur en Waterstaat
 abbreviation: Or
-latest_state: "2025-08-02"
-state_count: 16
+latest_state: "2026-05-29"
+state_count: 22
 ---
 
 
@@ -17,12 +17,18 @@ state_count: 16
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
 **Afkorting:** Or
-**ELI:** [/eli/nl/ministeriele-regeling/2024/omgevingsregeling](https://wetten.ai/eli/nl/ministeriele-regeling/2024/omgevingsregeling)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/omgevingsregeling](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/omgevingsregeling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-29 | heden | [2026-05-29.md](./2026-05-29.md) |
+| 2026-05-28 | 2026-05-28 | [2026-05-28.md](./2026-05-28.md) |
+| 2026-04-01 | 2026-05-27 | [2026-04-01.md](./2026-04-01.md) |
+| 2026-01-01 | 2026-03-31 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-10-07 | 2025-12-31 | [2025-10-07.md](./2025-10-07.md) |
+| 2025-10-01 | 2025-10-06 | [2025-10-01.md](./2025-10-01.md) |
 | 2025-08-02 | heden | [2025-08-02.md](./2025-08-02.md) |
 | 2025-07-12 | 2025-08-01 | [2025-07-12.md](./2025-07-12.md) |
 | 2025-07-08 | 2025-07-11 | [2025-07-08.md](./2025-07-08.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 3 juli 1989, houdende administratiefrechtelijke afdoening van inbreuken op bepaalde verkeersvoorschriften
 ministry: Veiligheid en Justitie
 abbreviation: WAHV
-latest_state: "2025-07-01"
-state_count: 47
+latest_state: "2026-01-01"
+state_count: 48
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 47
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WAHV
-**ELI:** [/eli/nl/wet/1990/wet-administratiefrechtelijke-handhaving-verkeersvoorschrift](https://wetten.ai/eli/nl/wet/1990/wet-administratiefrechtelijke-handhaving-verkeersvoorschrift)
+**ELI:** [/eli/nl/wet/1990/wet-administratiefrechtelijke-handhaving-verkeersvoorschrift](https://wettenbank.online/eli/nl/wet/1990/wet-administratiefrechtelijke-handhaving-verkeersvoorschrift)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-02-01 | 2025-06-30 | [2025-02-01.md](./2025-02-01.md) |
 | 2024-03-01 | 2025-01-31 | [2024-03-01.md](./2024-03-01.md) |

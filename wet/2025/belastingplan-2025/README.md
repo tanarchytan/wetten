@@ -5,8 +5,8 @@ type: wet
 title: Wet van 18 december 2024 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Belastingplan 2025
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2025/belastingplan-2025](https://wetten.ai/eli/nl/wet/2025/belastingplan-2025)
+**ELI:** [/eli/nl/wet/2025/belastingplan-2025](https://wettenbank.online/eli/nl/wet/2025/belastingplan-2025)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |

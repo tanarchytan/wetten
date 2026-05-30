@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 juli 2014, kenmerk 641412-123384 PG, houdende regels voor de subsidiëring van abortusklinieken (Subsidieregeling abortusklinieken)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
+latest_state: "2025-12-31"
 state_count: 15
 ---
 
@@ -16,12 +16,13 @@ state_count: 15
 **Citeertitel:** Subsidieregeling abortusklinieken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-abortusklinieken](https://wetten.ai/eli/nl/ministeriele-regeling/2015/subsidieregeling-abortusklinieken)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-abortusklinieken](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/subsidieregeling-abortusklinieken)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-31 | heden | [2025-12-31.md](./2025-12-31.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
@@ -35,5 +36,4 @@ state_count: 15
 | 2016-04-01 | 2016-12-31 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-01-01 | 2016-03-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-15 | 2015-12-31 | [2015-04-15.md](./2015-04-15.md) |
-| 2015-01-01 | 2015-04-14 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-04-14 | [2015-01-01.md](./2015-01-01.md) |

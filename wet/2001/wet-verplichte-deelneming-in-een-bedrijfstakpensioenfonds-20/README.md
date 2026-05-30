@@ -5,8 +5,8 @@ type: wet
 title: Wet van 21 december 2000, houdende nieuwe regeling voor verplichte deelneming in een bedrijfstakpensioenfonds (Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Bpf
-latest_state: "2023-07-01"
-state_count: 15
+latest_state: "2026-01-01"
+state_count: 16
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 15
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Bpf
-**ELI:** [/eli/nl/wet/2001/wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-20](https://wetten.ai/eli/nl/wet/2001/wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-20)
+**ELI:** [/eli/nl/wet/2001/wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-20](https://wettenbank.online/eli/nl/wet/2001/wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-20)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-07-01 | heden | [2023-07-01.md](./2023-07-01.md) |
 | 2022-05-01 | 2023-06-30 | [2022-05-01.md](./2022-05-01.md) |
 | 2021-07-01 | 2022-04-30 | [2021-07-01.md](./2021-07-01.md) |

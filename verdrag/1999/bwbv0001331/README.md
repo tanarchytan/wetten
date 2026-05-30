@@ -5,8 +5,8 @@ type: verdrag
 title: Europees Verdrag inzake hoofdwaterwegen die van internationaal belang zijn (AGN)
 ministry: Buitenlandse Zaken
 abbreviation: AGN
-latest_state: "2018-11-06"
-state_count: 7
+latest_state: "2025-11-29"
+state_count: 8
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 7
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-29 | heden | [2025-11-29.md](./2025-11-29.md) |
 | 2018-11-06 | heden | [2018-11-06.md](./2018-11-06.md) |
 | 2014-11-07 | 2018-11-05 | [2014-11-07.md](./2014-11-07.md) |
 | 2013-10-15 | 2014-11-06 | [2013-10-15.md](./2013-10-15.md) |

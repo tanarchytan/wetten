@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 21033622, houdende regels inzake het verlenen van mandaat, volmacht en machtiging aan de (technisch) directeuren van de keuringsdiensten (Besluit mandaat, volmacht en machtiging keuringsdiensten 2021)
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
-latest_state: "2025-02-13"
-state_count: 7
+latest_state: "2026-02-24"
+state_count: 8
 ---
 
 
@@ -16,14 +16,15 @@ state_count: 7
 **Citeertitel:** Besluit mandaat, volmacht en machtiging keuringsdiensten 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-mandaat-volmacht-en-machtiging-keuringsdiensten-2021](https://wetten.ai/eli/nl/ministeriele-regeling/2021/besluit-mandaat-volmacht-en-machtiging-keuringsdiensten-2021)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-mandaat-volmacht-en-machtiging-keuringsdiensten-2021](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/besluit-mandaat-volmacht-en-machtiging-keuringsdiensten-2021)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-24 | heden | [2026-02-24.md](./2026-02-24.md) |
+| 2026-01-01 | 2026-02-23 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-02-13 | heden | [2025-02-13.md](./2025-02-13.md) |
-| 2025-01-01 | 2025-02-12 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-02-12 | [2025-01-01.md](./2025-01-01.md) |
 | 2023-06-07 | 2024-12-31 | [2023-06-07.md](./2023-06-07.md) |
 | 2023-02-01 | 2023-06-06 | [2023-02-01.md](./2023-02-01.md) |

@@ -5,8 +5,8 @@ type: verdrag
 title: Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 ministry: Buitenlandse Zaken
 abbreviation: MARPOL
-latest_state: "2024-05-01"
-state_count: 34
+latest_state: "2026-03-01"
+state_count: 37
 ---
 
 
@@ -23,6 +23,9 @@ state_count: 34
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
+| 2026-01-01 | 2026-02-28 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-08-01 | 2025-12-31 | [2025-08-01.md](./2025-08-01.md) |
 | 2024-05-01 | heden | [2024-05-01.md](./2024-05-01.md) |
 | 2024-01-01 | 2024-04-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-11-01 | 2023-12-31 | [2023-11-01.md](./2023-11-01.md) |

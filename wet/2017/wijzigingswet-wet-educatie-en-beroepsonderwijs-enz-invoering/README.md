@@ -5,8 +5,8 @@ type: wet
 title: Wet van 5 oktober 2016, houdende wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter invoering van een vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2020-09-01"
-state_count: 6
+latest_state: "2026-01-01"
+state_count: 7
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 6
 **Citeertitel:** Wijzigingswet Wet educatie en beroepsonderwijs, enz. ( invoering vroegtijdige aanmelddatum voor en toelatingsrecht tot het beroepsonderwijs)
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/wet/2017/wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering](https://wetten.ai/eli/nl/wet/2017/wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering)
+**ELI:** [/eli/nl/wet/2017/wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering](https://wettenbank.online/eli/nl/wet/2017/wijzigingswet-wet-educatie-en-beroepsonderwijs-enz-invoering)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-09-01 | heden | [2020-09-01.md](./2020-09-01.md) |
 | 2019-01-01 | 2020-08-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-08-01 | 2018-12-31 | [2018-08-01.md](./2018-08-01.md) |

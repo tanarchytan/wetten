@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag van Minamata inzake kwik
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2023-09-28"
-state_count: 3
+latest_state: "2025-04-25"
+state_count: 4
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 3
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-04-25 | heden | [2025-04-25.md](./2025-04-25.md) |
 | 2023-09-28 | heden | [2023-09-28.md](./2023-09-28.md) |
 | 2017-08-16 | 2023-09-27 | [2017-08-16.md](./2017-08-16.md) |
 | 2013-10-10 | 2017-08-15 | [2013-10-10.md](./2013-10-10.md) |

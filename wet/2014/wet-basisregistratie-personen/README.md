@@ -5,7 +5,7 @@ type: wet
 title: Wet van 3 juli 2013 houdende nieuwe regels voor een basisregistratie personen (Wet basisregistratie personen)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Wet BRP
-latest_state: "2025-02-12"
+latest_state: "2025-11-11"
 state_count: 17
 ---
 
@@ -17,12 +17,13 @@ state_count: 17
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Wet BRP
-**ELI:** [/eli/nl/wet/2014/wet-basisregistratie-personen](https://wetten.ai/eli/nl/wet/2014/wet-basisregistratie-personen)
+**ELI:** [/eli/nl/wet/2014/wet-basisregistratie-personen](https://wettenbank.online/eli/nl/wet/2014/wet-basisregistratie-personen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-11 | heden | [2025-11-11.md](./2025-11-11.md) |
 | 2025-02-12 | heden | [2025-02-12.md](./2025-02-12.md) |
 | 2023-10-01 | 2025-02-11 | [2023-10-01.md](./2023-10-01.md) |
 | 2023-05-15 | 2023-09-30 | [2023-05-15.md](./2023-05-15.md) |
@@ -33,7 +34,6 @@ state_count: 17
 | 2021-07-01 | 2021-12-31 | [2021-07-01.md](./2021-07-01.md) |
 | 2019-02-03 | 2021-06-30 | [2019-02-03.md](./2019-02-03.md) |
 | 2018-07-28 | 2019-02-02 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-09-01 | 2018-05-24 | [2015-09-01.md](./2015-09-01.md) |
 | 2015-01-01 | 2015-08-31 | [2015-01-01.md](./2015-01-01.md) |

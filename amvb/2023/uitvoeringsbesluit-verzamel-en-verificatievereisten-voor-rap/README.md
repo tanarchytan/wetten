@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 21 december 2022, houdende verzamel- en verificatievereisten voor rapporterende platformexploitanten met het oog op de automatische uitwisseling van inlichtingen ten aanzien van de digitale platformeconomie (Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten)
 ministry: Financiën
 abbreviation: null
-latest_state: "2023-01-01"
-state_count: 1
+latest_state: "2025-12-12"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Uitvoeringsbesluit verzamel- en verificatievereisten voor rapporterende platformexploitanten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2023/uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rap](https://wetten.ai/eli/nl/amvb/2023/uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rap)
+**ELI:** [/eli/nl/amvb/2023/uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rap](https://wettenbank.online/eli/nl/amvb/2023/uitvoeringsbesluit-verzamel-en-verificatievereisten-voor-rap)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-12 | heden | [2025-12-12.md](./2025-12-12.md) |
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |

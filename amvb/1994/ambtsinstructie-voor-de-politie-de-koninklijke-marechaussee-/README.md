@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 8 april 1994, houdende regels met betrekking tot een nieuwe Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar en de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen
 ministry: Veiligheid en Justitie
 abbreviation: AI
-latest_state: "2024-01-01"
-state_count: 15
+latest_state: "2026-01-01"
+state_count: 16
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 15
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** AI
-**ELI:** [/eli/nl/amvb/1994/ambtsinstructie-voor-de-politie-de-koninklijke-marechaussee-](https://wetten.ai/eli/nl/amvb/1994/ambtsinstructie-voor-de-politie-de-koninklijke-marechaussee-)
+**ELI:** [/eli/nl/amvb/1994/ambtsinstructie-voor-de-politie-de-koninklijke-marechaussee-](https://wettenbank.online/eli/nl/amvb/1994/ambtsinstructie-voor-de-politie-de-koninklijke-marechaussee-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-07-01 | 2022-12-31 | [2022-07-01.md](./2022-07-01.md) |

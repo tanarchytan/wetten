@@ -5,8 +5,8 @@ type: wet
 title: Wet van 3 april 2003 tot vaststelling van de Wet gelijke behandeling op grond van handicap of chronische ziekte
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: WGBH/CZ
-latest_state: "2025-06-28"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 14
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** WGBH/CZ
-**ELI:** [/eli/nl/wet/2003/wet-gelijke-behandeling-op-grond-van-handicap-of-chronische-](https://wetten.ai/eli/nl/wet/2003/wet-gelijke-behandeling-op-grond-van-handicap-of-chronische-)
+**ELI:** [/eli/nl/wet/2003/wet-gelijke-behandeling-op-grond-van-handicap-of-chronische-](https://wettenbank.online/eli/nl/wet/2003/wet-gelijke-behandeling-op-grond-van-handicap-of-chronische-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-06-28 | heden | [2025-06-28.md](./2025-06-28.md) |
 | 2020-01-01 | 2025-06-27 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-01-01 | 2019-12-31 | [2017-01-01.md](./2017-01-01.md) |

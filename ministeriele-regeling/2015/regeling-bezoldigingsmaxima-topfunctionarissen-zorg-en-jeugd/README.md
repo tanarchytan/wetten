@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 26 november 2015, kenmerk 871639-144249-MEVA, houdende vaststelling van wijze waarop de bezoldigingsmaxima voor topfunctionarissen bij instellingen op het terrein van de zorg en de jeugdhulp worden vastgesteld (Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 15
+latest_state: "2026-01-01"
+state_count: 16
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 15
 **Citeertitel:** Regeling bezoldigingsmaxima topfunctionarissen zorg en jeugdhulp
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-bezoldigingsmaxima-topfunctionarissen-zorg-en-jeugd](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-bezoldigingsmaxima-topfunctionarissen-zorg-en-jeugd)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-bezoldigingsmaxima-topfunctionarissen-zorg-en-jeugd](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-bezoldigingsmaxima-topfunctionarissen-zorg-en-jeugd)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

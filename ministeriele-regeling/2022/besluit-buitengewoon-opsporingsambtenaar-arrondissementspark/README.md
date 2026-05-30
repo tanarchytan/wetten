@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister voor Rechtsbescherming van 6 september 2022 nr. BOACAT2022/064, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij het arrondissementsparket Oost-Brabant
 ministry: Justitie en Veiligheid
 abbreviation: null
-latest_state: "2022-09-15"
-state_count: 1
+latest_state: "2026-01-08"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Besluit buitengewoon opsporingsambtenaar arrondissementsparket Oost-Brabant 2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/besluit-buitengewoon-opsporingsambtenaar-arrondissementspark](https://wetten.ai/eli/nl/ministeriele-regeling/2022/besluit-buitengewoon-opsporingsambtenaar-arrondissementspark)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/besluit-buitengewoon-opsporingsambtenaar-arrondissementspark](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/besluit-buitengewoon-opsporingsambtenaar-arrondissementspark)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-08 | heden | [2026-01-08.md](./2026-01-08.md) |
 | 2022-09-15 | heden | [2022-09-15.md](./2022-09-15.md) |

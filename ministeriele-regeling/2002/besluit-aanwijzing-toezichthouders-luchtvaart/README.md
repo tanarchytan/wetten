@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit aanwijzing toezichthouders luchtvaart
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-06-28"
-state_count: 10
+latest_state: "2025-09-04"
+state_count: 12
 ---
 
 
@@ -16,13 +16,15 @@ state_count: 10
 **Citeertitel:** Besluit aanwijzing toezichthouders luchtvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2002/besluit-aanwijzing-toezichthouders-luchtvaart](https://wetten.ai/eli/nl/ministeriele-regeling/2002/besluit-aanwijzing-toezichthouders-luchtvaart)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/besluit-aanwijzing-toezichthouders-luchtvaart](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/besluit-aanwijzing-toezichthouders-luchtvaart)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-04 | heden | [2025-09-04.md](./2025-09-04.md) |
 | 2025-06-28 | heden | [2025-06-28.md](./2025-06-28.md) |
+| 2024-01-01 | 2025-06-27 | [2024-01-01.md](./2024-01-01.md) |
 | 2013-01-01 | 2025-06-27 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-10-10 | 2012-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2009-10-31 | 2010-10-09 | [2009-10-31.md](./2009-10-31.md) |

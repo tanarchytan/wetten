@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Letland inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-01-15"
-state_count: 1
+latest_state: "2025-09-01"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-01 | heden | [2025-09-01.md](./2025-09-01.md) |
 | 2025-01-15 | heden | [2025-01-15.md](./2025-01-15.md) |

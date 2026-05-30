@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling vervoer over de spoorweg van gevaarlijke stoffen
 ministry: Infrastructuur en Milieu
 abbreviation: VSG
-latest_state: "2025-06-06"
-state_count: 29
+latest_state: "2025-09-04"
+state_count: 30
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 29
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** VSG
-**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-de-spoorweg-van-gevaarlijke-stoffen](https://wetten.ai/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-de-spoorweg-van-gevaarlijke-stoffen)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-de-spoorweg-van-gevaarlijke-stoffen](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/regeling-vervoer-over-de-spoorweg-van-gevaarlijke-stoffen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-04 | heden | [2025-09-04.md](./2025-09-04.md) |
 | 2025-06-06 | heden | [2025-06-06.md](./2025-06-06.md) |
 | 2024-01-01 | 2025-06-05 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-06-07 | 2023-12-31 | [2023-06-07.md](./2023-06-07.md) |

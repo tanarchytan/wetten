@@ -5,8 +5,8 @@ type: zbo
 title: Beleidsregel Uitstel jaarverantwoording
 ministry: Nederlandse Zorgautoriteit
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 1
+latest_state: "2026-01-01"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Beleidsregel Uitstel jaarverantwoording
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse Zorgautoriteit
-**ELI:** [/eli/nl/zbo/2025/beleidsregel-uitstel-jaarverantwoording](https://wetten.ai/eli/nl/zbo/2025/beleidsregel-uitstel-jaarverantwoording)
+**ELI:** [/eli/nl/zbo/2025/beleidsregel-uitstel-jaarverantwoording](https://wettenbank.online/eli/nl/zbo/2025/beleidsregel-uitstel-jaarverantwoording)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |

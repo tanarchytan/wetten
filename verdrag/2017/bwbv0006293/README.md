@@ -5,8 +5,8 @@ type: verdrag
 title: Algemeen Reglement van de Wereldpostunie
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-03-27"
-state_count: 11
+latest_state: "2026-01-01"
+state_count: 12
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 11
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-03-27 | heden | [2025-03-27.md](./2025-03-27.md) |
 | 2024-03-01 | 2025-03-26 | [2024-03-01.md](./2024-03-01.md) |
 | 2023-06-06 | 2024-02-29 | [2023-06-06.md](./2023-06-06.md) |

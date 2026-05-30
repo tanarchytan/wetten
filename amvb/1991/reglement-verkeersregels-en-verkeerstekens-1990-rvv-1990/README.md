@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 26 juli 1990, houdende vaststelling van een nieuw Reglement verkeersregels en verkeerstekens
 ministry: Infrastructuur en Milieu
 abbreviation: RVV
-latest_state: "2024-07-01"
-state_count: 36
+latest_state: "2026-01-01"
+state_count: 35
 ---
 
 
@@ -17,18 +17,17 @@ state_count: 36
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RVV
-**ELI:** [/eli/nl/amvb/1991/reglement-verkeersregels-en-verkeerstekens-1990-rvv-1990](https://wetten.ai/eli/nl/amvb/1991/reglement-verkeersregels-en-verkeerstekens-1990-rvv-1990)
+**ELI:** [/eli/nl/amvb/1991/reglement-verkeersregels-en-verkeerstekens-1990-rvv-1990](https://wettenbank.online/eli/nl/amvb/1991/reglement-verkeersregels-en-verkeerstekens-1990-rvv-1990)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-07-01 | heden | [2024-07-01.md](./2024-07-01.md) |
 | 2023-07-01 | 2024-06-30 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-07-01 | 2022-12-31 | [2021-07-01.md](./2021-07-01.md) |
-| 2021-07-01 | 2022-12-31 | [2021-07-01.md](./2021-07-01.md) |
-| 2021-01-01 | 2021-06-30 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-06-30 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-01 | 2019-12-31 | [2019-07-01.md](./2019-07-01.md) |

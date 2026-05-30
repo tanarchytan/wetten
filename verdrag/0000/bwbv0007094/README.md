@@ -5,8 +5,8 @@ type: verdrag
 title: Protocol tot wijziging van het Verdrag over de status en werkzaamheden van de Internationale Commissie voor Vermiste Personen
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-16"
-state_count: 1
+latest_state: "2026-04-24"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-24 | heden | [2026-04-24.md](./2026-04-24.md) |
 | 2024-12-16 | heden | [2024-12-16.md](./2024-12-16.md) |

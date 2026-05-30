@@ -5,8 +5,8 @@ type: pbo
 title: Verordening van de Sociaal-Economische Raad van 26 september 2024 houdende regels voor de samenstelling en de werkwijze van bedrijfscommissies (Verordening op de bedrijfscommissies 2024)
 ministry: Sociaal-Economische Raad
 abbreviation: null
-latest_state: "2024-10-15"
-state_count: 1
+latest_state: "2026-01-31"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Verordening op de bedrijfscommissies 2024
 **Type:** pbo
 **Verantwoordelijk ministerie:** Sociaal-Economische Raad
-**ELI:** [/eli/nl/pbo/2024/verordening-op-de-bedrijfscommissies-2024](https://wetten.ai/eli/nl/pbo/2024/verordening-op-de-bedrijfscommissies-2024)
+**ELI:** [/eli/nl/pbo/2024/verordening-op-de-bedrijfscommissies-2024](https://wettenbank.online/eli/nl/pbo/2024/verordening-op-de-bedrijfscommissies-2024)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-31 | heden | [2026-01-31.md](./2026-01-31.md) |
 | 2024-10-15 | heden | [2024-10-15.md](./2024-10-15.md) |

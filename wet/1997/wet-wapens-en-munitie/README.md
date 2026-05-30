@@ -5,7 +5,7 @@ type: wet
 title: Wet van 5 juli 1997, houdende regels inzake het vervaardigen, verhandelen, vervoeren, voorhanden hebben, dragen enz. van wapens en munitie (Wet wapens en munitie)
 ministry: Veiligheid en Justitie
 abbreviation: WWM
-latest_state: "2024-07-01"
+latest_state: "2026-01-01"
 state_count: 37
 ---
 
@@ -17,12 +17,13 @@ state_count: 37
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WWM
-**ELI:** [/eli/nl/wet/1997/wet-wapens-en-munitie](https://wetten.ai/eli/nl/wet/1997/wet-wapens-en-munitie)
+**ELI:** [/eli/nl/wet/1997/wet-wapens-en-munitie](https://wettenbank.online/eli/nl/wet/1997/wet-wapens-en-munitie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-07-01 | heden | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-07-01 | 2023-12-31 | [2022-07-01.md](./2022-07-01.md) |
@@ -33,7 +34,6 @@ state_count: 37
 | 2019-05-01 | 2019-07-22 | [2019-05-01.md](./2019-05-01.md) |
 | 2018-10-16 | 2019-04-30 | [2018-10-16.md](./2018-10-16.md) |
 | 2018-07-28 | 2018-10-15 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-03-01 | 2018-05-24 | [2018-03-01.md](./2018-03-01.md) |
 | 2017-09-01 | 2018-02-28 | [2017-09-01.md](./2017-09-01.md) |

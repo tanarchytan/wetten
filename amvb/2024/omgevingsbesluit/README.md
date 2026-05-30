@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 3 juli 2018, houdende procedurele regels en regels over algemene onderwerpen over het beschermen en benutten van de fysieke leefomgeving (Omgevingsbesluit)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Ob
-latest_state: "2025-08-29"
-state_count: 6
+latest_state: "2026-01-21"
+state_count: 9
 ---
 
 
@@ -17,12 +17,15 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Ob
-**ELI:** [/eli/nl/amvb/2024/omgevingsbesluit](https://wetten.ai/eli/nl/amvb/2024/omgevingsbesluit)
+**ELI:** [/eli/nl/amvb/2024/omgevingsbesluit](https://wettenbank.online/eli/nl/amvb/2024/omgevingsbesluit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-21 | heden | [2026-01-21.md](./2026-01-21.md) |
+| 2026-01-01 | 2026-01-20 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-30 | 2025-12-31 | [2025-12-30.md](./2025-12-30.md) |
 | 2025-08-29 | heden | [2025-08-29.md](./2025-08-29.md) |
 | 2025-07-01 | 2025-08-28 | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 11 december 2024, houdende regels over energiemarkten en energiesystemen (Energiewet)
 ministry: Klimaat en Groene Groei
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 2
+latest_state: "2026-02-14"
+state_count: 4
 ---
 
 
@@ -16,11 +16,13 @@ state_count: 2
 **Citeertitel:** Energiewet
 **Type:** wet
 **Verantwoordelijk ministerie:** Klimaat en Groene Groei
-**ELI:** [/eli/nl/wet/2025/energiewet](https://wetten.ai/eli/nl/wet/2025/energiewet)
+**ELI:** [/eli/nl/wet/2025/energiewet](https://wettenbank.online/eli/nl/wet/2025/energiewet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-14 | heden | [2026-02-14.md](./2026-02-14.md) |
+| 2026-01-01 | 2026-02-13 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-02-22 | 2025-06-30 | [2025-02-22.md](./2025-02-22.md) |

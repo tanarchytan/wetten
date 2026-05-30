@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 12 februari 2019 nr. WJZ/1091575(8144), houdende vaststelling van beleidsregels en een subsidieplafond inzake een subsidie ten behoeve van de instandhouding van woonhuis-rijksmonumenten (Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-02-13"
-state_count: 7
+latest_state: "2025-12-09"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Besluit vaststelling beleidsregels instandhoudingssubsidie woonhuis-rijksmonumenten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-instandhoudingssubsidie-w](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-instandhoudingssubsidie-w)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-instandhoudingssubsidie-w](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-instandhoudingssubsidie-w)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-09 | heden | [2025-12-09.md](./2025-12-09.md) |
 | 2025-02-13 | heden | [2025-02-13.md](./2025-02-13.md) |
 | 2024-02-14 | 2025-02-12 | [2024-02-14.md](./2024-02-14.md) |
 | 2023-04-29 | 2024-02-13 | [2023-04-29.md](./2023-04-29.md) |

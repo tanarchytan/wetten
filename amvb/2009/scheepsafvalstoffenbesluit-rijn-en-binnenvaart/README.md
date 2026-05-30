@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 18 december 2000, houdende regels ter uitvoering van het op 9 september 1996 te Straatsburg tot stand gekomen Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (Trb. 1996, 293) (Scheepsafvalstoffenbesluit Rijn- en binnenvaart)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2024-10-01"
-state_count: 11
+latest_state: "2025-12-30"
+state_count: 12
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 11
 **Citeertitel:** Scheepsafvalstoffenbesluit Rijn- en binnenvaart
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2009/scheepsafvalstoffenbesluit-rijn-en-binnenvaart](https://wetten.ai/eli/nl/amvb/2009/scheepsafvalstoffenbesluit-rijn-en-binnenvaart)
+**ELI:** [/eli/nl/amvb/2009/scheepsafvalstoffenbesluit-rijn-en-binnenvaart](https://wettenbank.online/eli/nl/amvb/2009/scheepsafvalstoffenbesluit-rijn-en-binnenvaart)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-30 | heden | [2025-12-30.md](./2025-12-30.md) |
 | 2024-10-01 | heden | [2024-10-01.md](./2024-10-01.md) |
 | 2024-07-01 | 2024-09-30 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. MJZ2003071600, Centrale Directie Juridische Zaken Afdeling Wetgeving, houdende aanpassing en samenvoeging van ministeriële regelingen als gevolg van de invoering van de Uitvoeringswet huurprijzen woonruimte (Uitvoeringsregeling huurprijzen woonruimte)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Urhw
-latest_state: "2025-07-01"
-state_count: 45
+latest_state: "2026-01-01"
+state_count: 43
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 45
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Urhw
-**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-huurprijzen-woonruimte](https://wetten.ai/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-huurprijzen-woonruimte)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-huurprijzen-woonruimte](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-huurprijzen-woonruimte)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
@@ -30,14 +31,12 @@ state_count: 45
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-12-23 | 2023-06-30 | [2022-12-23.md](./2022-12-23.md) |
 | 2022-07-01 | 2022-12-22 | [2022-07-01.md](./2022-07-01.md) |
-| 2022-07-01 | 2022-12-22 | [2022-07-01.md](./2022-07-01.md) |
 | 2021-07-01 | 2022-06-30 | [2021-07-01.md](./2021-07-01.md) |
 | 2020-07-01 | 2021-06-30 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-01-01 | 2020-06-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-01 | 2019-12-31 | [2019-07-01.md](./2019-07-01.md) |
 | 2018-07-01 | 2019-06-30 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-02-16 | 2018-06-30 | [2018-02-16.md](./2018-02-16.md) |
-| 2018-01-01 | 2018-02-15 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-15 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
@@ -51,7 +50,6 @@ state_count: 45
 | 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-06-29 | 2013-06-30 | [2013-06-29.md](./2013-06-29.md) |
-| 2013-05-01 | 2013-06-28 | [2013-05-01.md](./2013-05-01.md) |
 | 2013-05-01 | 2013-06-28 | [2013-05-01.md](./2013-05-01.md) |
 | 2012-07-01 | 2013-04-30 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |

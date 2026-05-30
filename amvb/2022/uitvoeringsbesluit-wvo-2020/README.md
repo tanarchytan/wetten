@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 14 oktober 2021, houdende nadere regels over de inrichting, examinering en bekostiging van en deelname aan het voortgezet onderwijs (Uitvoeringsbesluit WVO 2020)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: UWVO 2020
-latest_state: "2024-08-01"
-state_count: 8
+latest_state: "2025-10-01"
+state_count: 9
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** UWVO 2020
-**ELI:** [/eli/nl/amvb/2022/uitvoeringsbesluit-wvo-2020](https://wetten.ai/eli/nl/amvb/2022/uitvoeringsbesluit-wvo-2020)
+**ELI:** [/eli/nl/amvb/2022/uitvoeringsbesluit-wvo-2020](https://wettenbank.online/eli/nl/amvb/2022/uitvoeringsbesluit-wvo-2020)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-01 | heden | [2025-10-01.md](./2025-10-01.md) |
 | 2024-08-01 | heden | [2024-08-01.md](./2024-08-01.md) |
 | 2024-01-31 | 2024-07-31 | [2024-01-31.md](./2024-01-31.md) |
 | 2024-01-01 | 2024-01-30 | [2024-01-01.md](./2024-01-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2025-07-16"
-state_count: 52
+latest_state: "2026-05-01"
+state_count: 50
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 52
 **Citeertitel:** Regeling vaststelling keuzedelen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-vaststelling-keuzedelen](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-vaststelling-keuzedelen)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-vaststelling-keuzedelen](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-vaststelling-keuzedelen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-01 | heden | [2026-05-01.md](./2026-05-01.md) |
+| 2026-01-23 | 2026-04-30 | [2026-01-23.md](./2026-01-23.md) |
+| 2025-10-15 | 2026-01-22 | [2025-10-15.md](./2025-10-15.md) |
 | 2025-07-16 | heden | [2025-07-16.md](./2025-07-16.md) |
 | 2025-05-01 | 2025-07-15 | [2025-05-01.md](./2025-05-01.md) |
 | 2025-01-25 | 2025-04-30 | [2025-01-25.md](./2025-01-25.md) |
@@ -52,18 +55,13 @@ state_count: 52
 | 2019-08-23 | 2019-10-28 | [2019-08-23.md](./2019-08-23.md) |
 | 2019-05-08 | 2019-08-22 | [2019-05-08.md](./2019-05-08.md) |
 | 2019-04-01 | 2019-05-07 | [2019-04-01.md](./2019-04-01.md) |
-| 2019-04-01 | 2019-05-07 | [2019-04-01.md](./2019-04-01.md) |
 | 2019-01-29 | 2019-03-31 | [2019-01-29.md](./2019-01-29.md) |
-| 2019-01-01 | 2019-01-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-01-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-10-31 | 2018-12-31 | [2018-10-31.md](./2018-10-31.md) |
 | 2018-10-01 | 2018-10-30 | [2018-10-01.md](./2018-10-01.md) |
-| 2018-10-01 | 2018-10-30 | [2018-10-01.md](./2018-10-01.md) |
 | 2018-07-25 | 2018-09-30 | [2018-07-25.md](./2018-07-25.md) |
 | 2018-07-01 | 2018-07-24 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-24 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-04-13 | 2018-06-30 | [2018-04-13.md](./2018-04-13.md) |
-| 2018-04-01 | 2018-04-12 | [2018-04-01.md](./2018-04-01.md) |
 | 2018-04-01 | 2018-04-12 | [2018-04-01.md](./2018-04-01.md) |
 | 2018-01-04 | 2018-03-31 | [2018-01-04.md](./2018-01-04.md) |
 | 2017-10-26 | 2018-01-03 | [2017-10-26.md](./2017-10-26.md) |

@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tussen het Koninkrijk der Nederlanden en de Portugese Republiek inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2024-12-11"
-state_count: 1
+latest_state: "2026-05-01"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-01 | heden | [2026-05-01.md](./2026-05-01.md) |
 | 2024-12-11 | heden | [2024-12-11.md](./2024-12-11.md) |

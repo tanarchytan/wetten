@@ -5,8 +5,8 @@ type: circulaire-bes
 title: Circulaire toelating en uitzetting Bonaire, Sint Eustatius en Saba
 ministry: Veiligheid en Justitie
 abbreviation: CTU-BES
-latest_state: "2025-04-01"
-state_count: 11
+latest_state: "2026-01-01"
+state_count: 12
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 11
 **Type:** circulaire-bes
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** CTU-BES
-**ELI:** [/eli/nl/circulaire-bes/2010/circulaire-toelating-en-uitzetting-bonaire-sint-eustatius-en](https://wetten.ai/eli/nl/circulaire-bes/2010/circulaire-toelating-en-uitzetting-bonaire-sint-eustatius-en)
+**ELI:** [/eli/nl/circulaire-bes/2010/circulaire-toelating-en-uitzetting-bonaire-sint-eustatius-en](https://wettenbank.online/eli/nl/circulaire-bes/2010/circulaire-toelating-en-uitzetting-bonaire-sint-eustatius-en)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2024-08-07 | 2025-03-31 | [2024-08-07.md](./2024-08-07.md) |
 | 2024-07-01 | 2024-08-06 | [2024-07-01.md](./2024-07-01.md) |

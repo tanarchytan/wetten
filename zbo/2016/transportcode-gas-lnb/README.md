@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202163, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12b van de Gaswet (Transportcode gas LNB)
 ministry: Autoriteit Consument en Markt
 abbreviation: null
-latest_state: "2025-04-10"
-state_count: 21
+latest_state: "2026-01-01"
+state_count: 23
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 21
 **Citeertitel:** Transportcode gas LNB
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2016/transportcode-gas-lnb](https://wetten.ai/eli/nl/zbo/2016/transportcode-gas-lnb)
+**ELI:** [/eli/nl/zbo/2016/transportcode-gas-lnb](https://wettenbank.online/eli/nl/zbo/2016/transportcode-gas-lnb)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | 2026-02-20 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-31 | 2025-12-31 | [2025-12-31.md](./2025-12-31.md) |
 | 2025-04-10 | heden | [2025-04-10.md](./2025-04-10.md) |
 | 2024-12-24 | 2025-04-09 | [2024-12-24.md](./2024-12-24.md) |
 | 2024-11-21 | 2024-12-23 | [2024-11-21.md](./2024-11-21.md) |

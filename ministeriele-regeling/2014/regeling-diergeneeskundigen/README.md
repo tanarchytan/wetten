@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Economische Zaken van 23 juni 2014, nr. WJZ / 14101632, houdende regels voor diergeneeskundigen (Regeling diergeneeskundigen)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-07-03"
-state_count: 33
+latest_state: "2026-01-01"
+state_count: 28
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 33
 **Citeertitel:** Regeling diergeneeskundigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-diergeneeskundigen](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-diergeneeskundigen)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-diergeneeskundigen](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-diergeneeskundigen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-03 | heden | [2025-07-03.md](./2025-07-03.md) |
 | 2025-07-01 | 2025-07-02 | [2025-07-01.md](./2025-07-01.md) |
 | 2025-04-01 | 2025-06-30 | [2025-04-01.md](./2025-04-01.md) |
@@ -39,19 +40,13 @@ state_count: 33
 | 2020-01-01 | 2020-02-20 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-06-01 | 2019-12-31 | [2019-06-01.md](./2019-06-01.md) |
 | 2018-09-01 | 2019-05-31 | [2018-09-01.md](./2018-09-01.md) |
-| 2018-09-01 | 2019-05-31 | [2018-09-01.md](./2018-09-01.md) |
 | 2018-07-07 | 2018-08-31 | [2018-07-07.md](./2018-07-07.md) |
-| 2018-07-07 | 2018-08-31 | [2018-07-07.md](./2018-07-07.md) |
-| 2018-01-01 | 2018-07-06 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-07-06 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-10-15 | 2016-12-31 | [2016-10-15.md](./2016-10-15.md) |
 | 2016-07-13 | 2016-10-14 | [2016-07-13.md](./2016-07-13.md) |
 | 2016-01-01 | 2016-07-12 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-07-12 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-06-01 | 2015-06-30 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-06-01 | 2015-06-30 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-01-01 | 2015-05-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |

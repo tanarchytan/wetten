@@ -5,8 +5,8 @@ type: wet
 title: Wet van 20 december 2017 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2018)
 ministry: Financiën
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 10
+latest_state: "2026-01-01"
+state_count: 11
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 10
 **Citeertitel:** Overige fiscale maatregelen 2018
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2018/overige-fiscale-maatregelen-2018](https://wetten.ai/eli/nl/wet/2018/overige-fiscale-maatregelen-2018)
+**ELI:** [/eli/nl/wet/2018/overige-fiscale-maatregelen-2018](https://wettenbank.online/eli/nl/wet/2018/overige-fiscale-maatregelen-2018)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2020-01-01 | 2023-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-01-01 | 2019-12-31 | [2018-01-01.md](./2018-01-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 10 februari 2023, kenmerk 3503357-1042699-PDPP, houdende het verstrekken van een specifieke uitkering voor het versterken van de GGD’en in verband met infectieziektebestrijding (Regeling specifieke uitkering versterking GGD'en)"
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-08-21"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling specifieke uitkering versterking GGD’en
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-versterking-ggd-en](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-versterking-ggd-en)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-versterking-ggd-en](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-versterking-ggd-en)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-21 | heden | [2025-08-21.md](./2025-08-21.md) |
 | 2025-06-03 | 2025-08-20 | [2025-06-03.md](./2025-06-03.md) |
 | 2025-01-01 | 2025-06-02 | [2025-01-01.md](./2025-01-01.md) |

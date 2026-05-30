@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2024-10-12"
-state_count: 4
+latest_state: "2025-10-16"
+state_count: 5
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 4
 **Citeertitel:** Benoemingsbesluit leden beoordelingscommissie MDT
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2023/benoemingsbesluit-leden-beoordelingscommissie-mdt](https://wetten.ai/eli/nl/ministeriele-regeling/2023/benoemingsbesluit-leden-beoordelingscommissie-mdt)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/benoemingsbesluit-leden-beoordelingscommissie-mdt](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/benoemingsbesluit-leden-beoordelingscommissie-mdt)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-10-16 | heden | [2025-10-16.md](./2025-10-16.md) |
 | 2024-10-12 | heden | [2024-10-12.md](./2024-10-12.md) |
 | 2024-07-09 | 2024-10-11 | [2024-07-09.md](./2024-07-09.md) |
 | 2023-12-08 | 2024-07-08 | [2023-12-08.md](./2023-12-08.md) |

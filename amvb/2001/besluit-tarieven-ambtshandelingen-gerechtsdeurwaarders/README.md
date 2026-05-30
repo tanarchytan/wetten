@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 4 juli 2001, houdende nadere regels inzake de ambtshandelingen van gerechtsdeurwaarders en de tarieven (Besluit tarieven ambtshandelingen gerechtsdeurwaarders)
 ministry: Veiligheid en Justitie
 abbreviation: Btag
-latest_state: "2025-01-01"
-state_count: 41
+latest_state: "2026-01-01"
+state_count: 39
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 41
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Btag
-**ELI:** [/eli/nl/amvb/2001/besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders](https://wetten.ai/eli/nl/amvb/2001/besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders)
+**ELI:** [/eli/nl/amvb/2001/besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders](https://wettenbank.online/eli/nl/amvb/2001/besluit-tarieven-ambtshandelingen-gerechtsdeurwaarders)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-10-01 | 2023-12-31 | [2023-10-01.md](./2023-10-01.md) |
@@ -33,14 +34,11 @@ state_count: 41
 | 2021-04-01 | 2021-06-30 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-01-27 | 2021-03-31 | [2021-01-27.md](./2021-01-27.md) |
 | 2021-01-02 | 2021-01-26 | [2021-01-02.md](./2021-01-02.md) |
-| 2021-01-02 | 2021-01-26 | [2021-01-02.md](./2021-01-02.md) |
 | 2021-01-01 | 2021-01-01 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-17 | 2020-12-31 | [2020-01-17.md](./2020-01-17.md) |
 | 2020-01-01 | 2020-01-16 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-01-16 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-02-17 | 2018-12-31 | [2018-02-17.md](./2018-02-17.md) |
-| 2018-01-01 | 2018-02-16 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-16 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-09-01 | 2017-12-31 | [2017-09-01.md](./2017-09-01.md) |
 | 2017-03-01 | 2017-08-31 | [2017-03-01.md](./2017-03-01.md) |

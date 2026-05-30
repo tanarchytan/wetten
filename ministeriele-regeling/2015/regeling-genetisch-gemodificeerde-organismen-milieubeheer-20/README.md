@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 14 april 2014, nr. IenM/BSK-2014/88344, houdende regels met betrekking tot het ingeperkt gebruik en de doelbewuste introductie in het milieu van genetisch gemodificeerde organismen (Regeling genetisch gemodificeerde organismen milieubeheer 2013)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 35
+latest_state: "2026-04-01"
+state_count: 37
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 35
 **Citeertitel:** Regeling genetisch gemodificeerde organismen milieubeheer 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-genetisch-gemodificeerde-organismen-milieubeheer-20](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-genetisch-gemodificeerde-organismen-milieubeheer-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-genetisch-gemodificeerde-organismen-milieubeheer-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-genetisch-gemodificeerde-organismen-milieubeheer-20)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
+| 2026-01-01 | 2026-03-31 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |

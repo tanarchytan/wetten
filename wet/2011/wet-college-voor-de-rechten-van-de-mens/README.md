@@ -5,8 +5,8 @@ type: wet
 title: Wet van 24 november 2011, houdende de oprichting van het College voor de rechten van de mens (Wet College voor de rechten van de mens)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2020-01-01"
-state_count: 6
+latest_state: "2026-01-01"
+state_count: 7
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 6
 **Citeertitel:** Wet College voor de rechten van de mens
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2011/wet-college-voor-de-rechten-van-de-mens](https://wetten.ai/eli/nl/wet/2011/wet-college-voor-de-rechten-van-de-mens)
+**ELI:** [/eli/nl/wet/2011/wet-college-voor-de-rechten-van-de-mens](https://wettenbank.online/eli/nl/wet/2011/wet-college-voor-de-rechten-van-de-mens)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2016-01-18 | 2018-12-31 | [2016-01-18.md](./2016-01-18.md) |

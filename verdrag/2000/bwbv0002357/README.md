@@ -5,8 +5,8 @@ type: verdrag
 title: Protocol van 1988 bij het Internationaal Verdrag voor de Beveiliging van Mensenlevens op zee, 1974
 ministry: Buitenlandse Zaken
 abbreviation: SOLAS 1988
-latest_state: "2017-01-01"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -23,6 +23,7 @@ state_count: 9
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2014-07-01 | 2016-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 2012-07-01 | 2014-06-30 | [2012-07-01.md](./2012-07-01.md) |

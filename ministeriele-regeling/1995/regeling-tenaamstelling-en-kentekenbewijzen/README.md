@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling kentekenbewijzen
 ministry: Infrastructuur en Milieu
 abbreviation: RKb
-latest_state: "2025-07-01"
+latest_state: "2026-01-01"
 state_count: 14
 ---
 
@@ -17,16 +17,16 @@ state_count: 14
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RKb
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-tenaamstelling-en-kentekenbewijzen](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-tenaamstelling-en-kentekenbewijzen)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-tenaamstelling-en-kentekenbewijzen](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-tenaamstelling-en-kentekenbewijzen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2022-01-01 | 2025-06-30 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-05 | 2021-12-31 | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2015-04-01 | 2020-12-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2014-01-01 | 2015-03-31 | [2014-01-01.md](./2014-01-01.md) |

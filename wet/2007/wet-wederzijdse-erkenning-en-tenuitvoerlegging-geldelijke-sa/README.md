@@ -5,8 +5,8 @@ type: wet
 title: Wet van 27 september 2007 tot implementatie van het kaderbesluit nr. 2005/214/JBZ van de Raad van de Europese Unie van 24 februari 2005 inzake de toepassing van het beginsel van wederzijdse erkenning op geldelijke sancties (PbEG L 76) (Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties)
 ministry: Veiligheid en Justitie
 abbreviation: WETSS 2008
-latest_state: "2023-04-19"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 14
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WETSS 2008
-**ELI:** [/eli/nl/wet/2007/wet-wederzijdse-erkenning-en-tenuitvoerlegging-geldelijke-sa](https://wetten.ai/eli/nl/wet/2007/wet-wederzijdse-erkenning-en-tenuitvoerlegging-geldelijke-sa)
+**ELI:** [/eli/nl/wet/2007/wet-wederzijdse-erkenning-en-tenuitvoerlegging-geldelijke-sa](https://wettenbank.online/eli/nl/wet/2007/wet-wederzijdse-erkenning-en-tenuitvoerlegging-geldelijke-sa)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-04-19 | heden | [2023-04-19.md](./2023-04-19.md) |
 | 2023-01-01 | 2023-04-18 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-10-01 | 2022-12-31 | [2022-10-01.md](./2022-10-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei 2007, nr. VGP/PSL 2769921, houdende aanwijzing van Europese normen die voldoen aan het algemeen veiligheidsvereiste van richtlijn 2001/95/EG (Warenwetregeling aanwijzing algemene veiligheidsnormen)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-02-28"
-state_count: 10
+latest_state: "2026-03-13"
+state_count: 11
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 10
 **Citeertitel:** Warenwetregeling aanwijzing algemene veiligheidsnormen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/warenwetregeling-aanwijzing-algemene-veiligheidsnormen](https://wetten.ai/eli/nl/ministeriele-regeling/2007/warenwetregeling-aanwijzing-algemene-veiligheidsnormen)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/warenwetregeling-aanwijzing-algemene-veiligheidsnormen](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/warenwetregeling-aanwijzing-algemene-veiligheidsnormen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-13 | heden | [2026-03-13.md](./2026-03-13.md) |
 | 2025-02-28 | heden | [2025-02-28.md](./2025-02-28.md) |
 | 2024-12-31 | 2025-02-27 | [2024-12-31.md](./2024-12-31.md) |
 | 2022-09-27 | 2024-12-30 | [2022-09-27.md](./2022-09-27.md) |

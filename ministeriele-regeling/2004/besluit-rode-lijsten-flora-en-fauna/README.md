@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 4 november 2004, nr. TRCJZ/2004/5727, houdende vaststelling van Rode lijsten flora en fauna
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-10-03"
-state_count: 9
+latest_state: "2026-04-23"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Besluit Rode lijsten flora en fauna
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-rode-lijsten-flora-en-fauna](https://wetten.ai/eli/nl/ministeriele-regeling/2004/besluit-rode-lijsten-flora-en-fauna)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-rode-lijsten-flora-en-fauna](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/besluit-rode-lijsten-flora-en-fauna)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-23 | heden | [2026-04-23.md](./2026-04-23.md) |
 | 2024-10-03 | heden | [2024-10-03.md](./2024-10-03.md) |
 | 2024-03-14 | 2024-10-02 | [2024-03-14.md](./2024-03-14.md) |
 | 2020-11-04 | 2024-03-13 | [2020-11-04.md](./2020-11-04.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Buitenlandse Zaken van 19 maart 2014, nr. MinBuZa.2014.119597, houdende beperkende maatregelen in verband met acties die de territoriale integriteit, soevereiniteit en onafhankelijkheid van Oekraïne ondermijnen of bedreigen (Sanctieregeling territoriale integriteit Oekraïne 2014)
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-08-09"
-state_count: 51
+latest_state: "2026-03-05"
+state_count: 49
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 51
 **Citeertitel:** Sanctieregeling territoriale integriteit Oekraïne 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/sanctieregeling-territoriale-integriteit-oekra-ne-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2014/sanctieregeling-territoriale-integriteit-oekra-ne-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/sanctieregeling-territoriale-integriteit-oekra-ne-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/sanctieregeling-territoriale-integriteit-oekra-ne-2014)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-05 | heden | [2026-03-05.md](./2026-03-05.md) |
+| 2026-01-01 | 2026-03-04 | [2026-01-01.md](./2026-01-01.md) |
 | 2025-08-09 | heden | [2025-08-09.md](./2025-08-09.md) |
 | 2025-07-04 | 2025-08-08 | [2025-07-04.md](./2025-07-04.md) |
 | 2025-04-01 | 2025-07-03 | [2025-04-01.md](./2025-04-01.md) |
@@ -51,11 +53,7 @@ state_count: 51
 | 2022-04-13 | 2022-05-04 | [2022-04-13.md](./2022-04-13.md) |
 | 2022-04-12 | 2022-04-12 | [2022-04-12.md](./2022-04-12.md) |
 | 2022-04-07 | 2022-04-11 | [2022-04-07.md](./2022-04-07.md) |
-| 2022-04-07 | 2022-04-11 | [2022-04-07.md](./2022-04-07.md) |
 | 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-05 | 2022-04-06 | [2022-04-05.md](./2022-04-05.md) |
-| 2022-04-01 | 2022-04-04 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-04-01 | 2022-04-04 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-03-18 | 2022-03-31 | [2022-03-18.md](./2022-03-18.md) |
 | 2022-03-12 | 2022-03-17 | [2022-03-12.md](./2022-03-12.md) |

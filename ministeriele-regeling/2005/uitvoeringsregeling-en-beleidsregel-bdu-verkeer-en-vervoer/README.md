@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling tot vaststelling van regels ter uitvoering van de BDU verkeer en vervoer en van een beleidsregel ter uitvoering van artikel 11, eerste lid, onderdeel b, van de Wet BDU verkeer en vervoer (Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2024-11-28"
-state_count: 21
+latest_state: "2025-11-12"
+state_count: 22
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 21
 **Citeertitel:** Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/uitvoeringsregeling-en-beleidsregel-bdu-verkeer-en-vervoer](https://wetten.ai/eli/nl/ministeriele-regeling/2005/uitvoeringsregeling-en-beleidsregel-bdu-verkeer-en-vervoer)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/uitvoeringsregeling-en-beleidsregel-bdu-verkeer-en-vervoer](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/uitvoeringsregeling-en-beleidsregel-bdu-verkeer-en-vervoer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-12 | heden | [2025-11-12.md](./2025-11-12.md) |
 | 2024-11-28 | heden | [2024-11-28.md](./2024-11-28.md) |
 | 2023-12-09 | 2024-11-27 | [2023-12-09.md](./2023-12-09.md) |
 | 2022-12-17 | 2023-12-08 | [2022-12-17.md](./2022-12-17.md) |

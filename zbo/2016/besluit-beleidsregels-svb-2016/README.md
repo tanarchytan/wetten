@@ -5,8 +5,8 @@ type: zbo
 title: Besluit Beleidsregels SVB 2016
 ministry: Sociale Verzekeringsbank
 abbreviation: null
-latest_state: "2024-11-28"
-state_count: 15
+latest_state: "2026-04-01"
+state_count: 17
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 15
 **Citeertitel:** Besluit Beleidsregels SVB 2016
 **Type:** zbo
 **Verantwoordelijk ministerie:** Sociale Verzekeringsbank
-**ELI:** [/eli/nl/zbo/2016/besluit-beleidsregels-svb-2016](https://wetten.ai/eli/nl/zbo/2016/besluit-beleidsregels-svb-2016)
+**ELI:** [/eli/nl/zbo/2016/besluit-beleidsregels-svb-2016](https://wettenbank.online/eli/nl/zbo/2016/besluit-beleidsregels-svb-2016)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
+| 2025-12-03 | 2026-03-31 | [2025-12-03.md](./2025-12-03.md) |
 | 2024-11-28 | heden | [2024-11-28.md](./2024-11-28.md) |
 | 2024-05-02 | 2024-11-27 | [2024-05-02.md](./2024-05-02.md) |
 | 2024-03-08 | 2024-05-01 | [2024-03-08.md](./2024-03-08.md) |

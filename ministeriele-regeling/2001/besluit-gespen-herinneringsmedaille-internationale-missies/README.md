@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit gespen Herinneringsmedaille Vredesoperaties
 ministry: Defensie
 abbreviation: null
-latest_state: "2025-04-23"
-state_count: 45
+latest_state: "2026-05-20"
+state_count: 41
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 45
 **Citeertitel:** Besluit gespen Herinneringsmedaille Internationale Missies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2001/besluit-gespen-herinneringsmedaille-internationale-missies](https://wetten.ai/eli/nl/ministeriele-regeling/2001/besluit-gespen-herinneringsmedaille-internationale-missies)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/besluit-gespen-herinneringsmedaille-internationale-missies](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/besluit-gespen-herinneringsmedaille-internationale-missies)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-20 | heden | [2026-05-20.md](./2026-05-20.md) |
+| 2025-10-08 | 2026-05-19 | [2025-10-08.md](./2025-10-08.md) |
 | 2025-04-23 | heden | [2025-04-23.md](./2025-04-23.md) |
 | 2024-09-03 | 2025-04-22 | [2024-09-03.md](./2024-09-03.md) |
 | 2023-12-02 | 2024-09-02 | [2023-12-02.md](./2023-12-02.md) |
@@ -31,18 +33,14 @@ state_count: 45
 | 2020-05-12 | 2021-08-27 | [2020-05-12.md](./2020-05-12.md) |
 | 2019-11-08 | 2020-05-11 | [2019-11-08.md](./2019-11-08.md) |
 | 2019-10-01 | 2019-11-07 | [2019-10-01.md](./2019-10-01.md) |
-| 2019-10-01 | 2019-11-07 | [2019-10-01.md](./2019-10-01.md) |
 | 2018-07-01 | 2019-09-30 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-03-01 | 2018-06-30 | [2017-03-01.md](./2017-03-01.md) |
 | 2016-07-01 | 2017-02-28 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-06-23 | 2016-06-30 | [2016-06-23.md](./2016-06-23.md) |
 | 2015-11-01 | 2016-06-22 | [2015-11-01.md](./2015-11-01.md) |
-| 2015-11-01 | 2016-06-22 | [2015-11-01.md](./2015-11-01.md) |
 | 2015-06-11 | 2015-10-31 | [2015-06-11.md](./2015-06-11.md) |
 | 2015-05-01 | 2015-06-10 | [2015-05-01.md](./2015-05-01.md) |
-| 2015-05-01 | 2015-06-10 | [2015-05-01.md](./2015-05-01.md) |
 | 2014-07-05 | 2015-04-30 | [2014-07-05.md](./2014-07-05.md) |
-| 2014-06-02 | 2014-07-04 | [2014-06-02.md](./2014-06-02.md) |
 | 2014-06-02 | 2014-07-04 | [2014-06-02.md](./2014-06-02.md) |
 | 2014-05-31 | 2014-06-01 | [2014-05-31.md](./2014-05-31.md) |
 | 2014-01-08 | 2014-05-30 | [2014-01-08.md](./2014-01-08.md) |
@@ -64,6 +62,4 @@ state_count: 45
 | 2006-05-26 | 2007-03-17 | [2006-05-26.md](./2006-05-26.md) |
 | 2005-08-18 | 2006-05-25 | [2005-08-18.md](./2005-08-18.md) |
 | 2003-10-01 | 2005-08-17 | [2003-10-01.md](./2003-10-01.md) |
-| 2003-10-01 | 2005-08-17 | [2003-10-01.md](./2003-10-01.md) |
-| 2002-10-26 | 2003-09-30 | [2002-10-26.md](./2002-10-26.md) |
 | 2002-10-26 | 2003-09-30 | [2002-10-26.md](./2002-10-26.md) |

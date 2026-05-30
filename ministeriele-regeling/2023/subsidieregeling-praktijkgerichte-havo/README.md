@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 mei 2023, nr. VO/38233241 houdende regels voor de subsidieverstrekking aan scholen voor deelnemen aan het doorontwikkeltraject van praktijkgerichte programma’s voor het havo en voor het deelnemen aan de pilot met de praktijkroute havo-Educatie (Subsidieregeling praktijkgerichte havo)
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
-latest_state: "2024-12-31"
-state_count: 2
+latest_state: "2025-11-28"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Subsidieregeling praktijkgerichte havo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2023/subsidieregeling-praktijkgerichte-havo](https://wetten.ai/eli/nl/ministeriele-regeling/2023/subsidieregeling-praktijkgerichte-havo)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/subsidieregeling-praktijkgerichte-havo](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/subsidieregeling-praktijkgerichte-havo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-28 | heden | [2025-11-28.md](./2025-11-28.md) |
 | 2024-12-31 | heden | [2024-12-31.md](./2024-12-31.md) |
 | 2023-05-23 | 2024-12-30 | [2023-05-23.md](./2023-05-23.md) |

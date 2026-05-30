@@ -5,8 +5,8 @@ type: ministeriele-regeling-bes
 title: Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 16 september 2010, nr. 2010-0000605688, houdende regels ter uitvoering van de Wet basisadministraties persoonsgegevens BES en het Besluit basisadministraties persoonsgegevens BES (Regeling basisadministraties persoonsgegevens BES)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 10
+latest_state: "2025-12-06"
+state_count: 12
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 10
 **Citeertitel:** Regeling basisadministraties persoonsgegevens BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-basisadministraties-persoonsgegevens-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/regeling-basisadministraties-persoonsgegevens-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/regeling-basisadministraties-persoonsgegevens-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2010/regeling-basisadministraties-persoonsgegevens-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-06 | heden | [2025-12-06.md](./2025-12-06.md) |
+| 2025-11-11 | 2025-12-05 | [2025-11-11.md](./2025-11-11.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |

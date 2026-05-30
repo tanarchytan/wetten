@@ -5,8 +5,8 @@ type: wet
 title: Wet van 6 november 1997, houdende regels betreffende het toezicht aan boord van schepen onder buitenlandse vlag in Nederlandse havens op de naleving van internationale voorschriften op het gebied van de veiligheid, voorkoming van verontreiniging en leef- en werkomstandigheden (Wet havenstaatcontrole)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 12
+latest_state: "2025-09-17"
+state_count: 13
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 12
 **Citeertitel:** Wet havenstaatcontrole
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/1998/wet-havenstaatcontrole](https://wetten.ai/eli/nl/wet/1998/wet-havenstaatcontrole)
+**ELI:** [/eli/nl/wet/1998/wet-havenstaatcontrole](https://wettenbank.online/eli/nl/wet/1998/wet-havenstaatcontrole)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-17 | heden | [2025-09-17.md](./2025-09-17.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2021-07-01 | 2025-06-30 | [2021-07-01.md](./2021-07-01.md) |
 | 2018-02-17 | 2021-06-30 | [2018-02-17.md](./2018-02-17.md) |

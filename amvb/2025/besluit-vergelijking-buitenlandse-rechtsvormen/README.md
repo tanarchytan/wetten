@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 9 november 2024, houdende Besluit vergelijking buitenlandse rechtsvormen
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 1
+latest_state: "2025-12-12"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Besluit vergelijking buitenlandse rechtsvormen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2025/besluit-vergelijking-buitenlandse-rechtsvormen](https://wetten.ai/eli/nl/amvb/2025/besluit-vergelijking-buitenlandse-rechtsvormen)
+**ELI:** [/eli/nl/amvb/2025/besluit-vergelijking-buitenlandse-rechtsvormen](https://wettenbank.online/eli/nl/amvb/2025/besluit-vergelijking-buitenlandse-rechtsvormen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-12-12 | heden | [2025-12-12.md](./2025-12-12.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |

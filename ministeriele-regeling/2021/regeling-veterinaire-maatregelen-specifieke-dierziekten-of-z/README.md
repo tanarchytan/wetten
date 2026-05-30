@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12 april 2021, nr. WJZ/21076966 , houdende regels ter voorkoming van specifieke besmettelijke dierziekten of zoönosen (Regeling veterinaire maatregelen specifieke dierziekten of zoönosen)
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
-latest_state: "2025-07-08"
-state_count: 77
+latest_state: "2026-04-21"
+state_count: 69
 ---
 
 
@@ -16,12 +16,18 @@ state_count: 77
 **Citeertitel:** Regeling veterinaire maatregelen specifieke dierziekten of zoönosen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-veterinaire-maatregelen-specifieke-dierziekten-of-z](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-veterinaire-maatregelen-specifieke-dierziekten-of-z)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-veterinaire-maatregelen-specifieke-dierziekten-of-z](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-veterinaire-maatregelen-specifieke-dierziekten-of-z)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-21 | heden | [2026-04-21.md](./2026-04-21.md) |
+| 2026-04-03 | 2026-04-20 | [2026-04-03.md](./2026-04-03.md) |
+| 2025-12-03 | 2026-04-02 | [2025-12-03.md](./2025-12-03.md) |
+| 2025-11-26 | 2025-12-02 | [2025-11-26.md](./2025-11-26.md) |
+| 2025-11-22 | 2025-11-25 | [2025-11-22.md](./2025-11-22.md) |
+| 2025-10-16 | 2025-11-21 | [2025-10-16.md](./2025-10-16.md) |
 | 2025-07-08 | heden | [2025-07-08.md](./2025-07-08.md) |
 | 2025-07-04 | 2025-07-07 | [2025-07-04.md](./2025-07-04.md) |
 | 2025-06-04 | 2025-07-03 | [2025-06-04.md](./2025-06-04.md) |
@@ -36,31 +42,17 @@ state_count: 77
 | 2024-09-01 | 2024-11-19 | [2024-09-01.md](./2024-09-01.md) |
 | 2024-06-21 | 2024-08-31 | [2024-06-21.md](./2024-06-21.md) |
 | 2024-04-24 | 2024-06-20 | [2024-04-24.md](./2024-04-24.md) |
-| 2024-04-24 | 2024-06-20 | [2024-04-24.md](./2024-04-24.md) |
-| 2024-04-17 | 2024-04-23 | [2024-04-17.md](./2024-04-17.md) |
 | 2024-04-17 | 2024-04-23 | [2024-04-17.md](./2024-04-17.md) |
 | 2024-03-26 | 2024-04-16 | [2024-03-26.md](./2024-03-26.md) |
-| 2024-03-26 | 2024-04-16 | [2024-03-26.md](./2024-03-26.md) |
-| 2024-03-26 | 2024-04-16 | [2024-03-26.md](./2024-03-26.md) |
-| 2024-03-14 | 2024-03-25 | [2024-03-14.md](./2024-03-14.md) |
 | 2024-03-14 | 2024-03-25 | [2024-03-14.md](./2024-03-14.md) |
 | 2024-01-29 | 2024-03-13 | [2024-01-29.md](./2024-01-29.md) |
-| 2024-01-29 | 2024-03-13 | [2024-01-29.md](./2024-01-29.md) |
-| 2023-11-28 | 2024-01-28 | [2023-11-28.md](./2023-11-28.md) |
 | 2023-11-28 | 2024-01-28 | [2023-11-28.md](./2023-11-28.md) |
 | 2023-11-14 | 2023-11-27 | [2023-11-14.md](./2023-11-14.md) |
-| 2023-11-14 | 2023-11-27 | [2023-11-14.md](./2023-11-14.md) |
-| 2023-11-11 | 2023-11-13 | [2023-11-11.md](./2023-11-11.md) |
 | 2023-11-11 | 2023-11-13 | [2023-11-11.md](./2023-11-11.md) |
 | 2023-11-03 | 2023-11-10 | [2023-11-03.md](./2023-11-03.md) |
-| 2023-11-03 | 2023-11-10 | [2023-11-03.md](./2023-11-03.md) |
-| 2023-08-30 | 2023-11-02 | [2023-08-30.md](./2023-08-30.md) |
 | 2023-08-30 | 2023-11-02 | [2023-08-30.md](./2023-08-30.md) |
 | 2023-07-22 | 2023-08-29 | [2023-07-22.md](./2023-07-22.md) |
-| 2023-07-22 | 2023-08-29 | [2023-07-22.md](./2023-07-22.md) |
 | 2023-07-06 | 2023-07-21 | [2023-07-06.md](./2023-07-06.md) |
-| 2023-07-06 | 2023-07-21 | [2023-07-06.md](./2023-07-06.md) |
-| 2023-01-01 | 2023-07-05 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-07-05 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-12-16 | 2022-12-31 | [2022-12-16.md](./2022-12-16.md) |
 | 2022-11-15 | 2022-12-15 | [2022-11-15.md](./2022-11-15.md) |

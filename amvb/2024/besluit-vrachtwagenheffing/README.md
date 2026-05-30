@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 19 september 2023 houdende regels ter uitvoering van de Wet vrachtwagenheffing (Besluit vrachtwagenheffing)
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 1
+latest_state: "2026-03-01"
+state_count: 3
 ---
 
 
@@ -16,10 +16,12 @@ state_count: 1
 **Citeertitel:** Besluit vrachtwagenheffing
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/amvb/2024/besluit-vrachtwagenheffing](https://wetten.ai/eli/nl/amvb/2024/besluit-vrachtwagenheffing)
+**ELI:** [/eli/nl/amvb/2024/besluit-vrachtwagenheffing](https://wettenbank.online/eli/nl/amvb/2024/besluit-vrachtwagenheffing)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-01 | heden | [2026-03-01.md](./2026-03-01.md) |
+| 2025-09-01 | 2026-02-28 | [2025-09-01.md](./2025-09-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 24 juni 2015, houdende regels omtrent windenergie op zee (Wet windenergie op zee)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 6
+latest_state: "2026-01-01"
+state_count: 7
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 6
 **Citeertitel:** Wet windenergie op zee
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2015/wet-windenergie-op-zee](https://wetten.ai/eli/nl/wet/2015/wet-windenergie-op-zee)
+**ELI:** [/eli/nl/wet/2015/wet-windenergie-op-zee](https://wettenbank.online/eli/nl/wet/2015/wet-windenergie-op-zee)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2021-11-11 | 2023-12-31 | [2021-11-11.md](./2021-11-11.md) |
 | 2020-01-01 | 2021-11-10 | [2020-01-01.md](./2020-01-01.md) |

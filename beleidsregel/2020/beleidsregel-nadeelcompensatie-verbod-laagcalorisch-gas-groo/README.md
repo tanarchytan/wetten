@@ -5,8 +5,8 @@ type: beleidsregel
 title: Besluit van de Minister van Economische Zaken en Klimaat van 30 juni 2020, nr. WJZ/ 20169432, tot vaststelling van beleidsregels voor de beoordeling van verzoeken om een vergoeding op grond van artikel 10m van de Gaswet (Beleidsregel nadeelcompensatie verbod laagcalorisch gas grootste afnemers)
 ministry: Economische Zaken en Klimaat
 abbreviation: null
-latest_state: "2020-07-04"
-state_count: 1
+latest_state: "2026-01-01"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Beleidsregel nadeelcompensatie verbod laagcalorisch gas grootste afnemers
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/beleidsregel/2020/beleidsregel-nadeelcompensatie-verbod-laagcalorisch-gas-groo](https://wetten.ai/eli/nl/beleidsregel/2020/beleidsregel-nadeelcompensatie-verbod-laagcalorisch-gas-groo)
+**ELI:** [/eli/nl/beleidsregel/2020/beleidsregel-nadeelcompensatie-verbod-laagcalorisch-gas-groo](https://wettenbank.online/eli/nl/beleidsregel/2020/beleidsregel-nadeelcompensatie-verbod-laagcalorisch-gas-groo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-07-04 | heden | [2020-07-04.md](./2020-07-04.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 mei 2016, kenmerk 966398-150196-WJZ houdende regels inzake de productie, de presentatie en de verkoop van tabaksproducten en aanverwante producten (Tabaks- en rookwarenregeling)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-04-01"
-state_count: 23
+latest_state: "2026-01-01"
+state_count: 24
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 23
 **Citeertitel:** Tabaks- en rookwarenregeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2016/tabaks-en-rookwarenregeling](https://wetten.ai/eli/nl/ministeriele-regeling/2016/tabaks-en-rookwarenregeling)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/tabaks-en-rookwarenregeling](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/tabaks-en-rookwarenregeling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2025-01-01 | 2025-03-31 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-05-20 | 2024-12-31 | [2024-05-20.md](./2024-05-20.md) |

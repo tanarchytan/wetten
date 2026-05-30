@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken en Klimaat van 1 februari 2018, nr. WJZ/17203973, houdende regels voor het verstrekken van subsidies door de Ministeries van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit aan de instituten voor toegepast onderzoek (Subsidieregeling instituten voor toegepast onderzoek)
 ministry: Economische Zaken en Klimaat
 abbreviation: null
-latest_state: "2025-07-29"
-state_count: 24
+latest_state: "2026-04-01"
+state_count: 25
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 24
 **Citeertitel:** Subsidieregeling instituten voor toegepast onderzoek
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-instituten-voor-toegepast-onderzoek](https://wetten.ai/eli/nl/ministeriele-regeling/2018/subsidieregeling-instituten-voor-toegepast-onderzoek)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-instituten-voor-toegepast-onderzoek](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/subsidieregeling-instituten-voor-toegepast-onderzoek)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
+| 2025-11-21 | 2026-03-31 | [2025-11-21.md](./2025-11-21.md) |
 | 2025-07-29 | heden | [2025-07-29.md](./2025-07-29.md) |
 | 2025-07-26 | 2025-07-28 | [2025-07-26.md](./2025-07-26.md) |
 | 2025-03-06 | 2025-07-25 | [2025-03-06.md](./2025-03-06.md) |
@@ -40,7 +42,6 @@ state_count: 24
 | 2020-07-14 | 2020-12-15 | [2020-07-14.md](./2020-07-14.md) |
 | 2019-12-04 | 2020-07-13 | [2019-12-04.md](./2019-12-04.md) |
 | 2019-11-27 | 2019-12-03 | [2019-11-27.md](./2019-11-27.md) |
-| 2019-08-01 | 2019-11-26 | [2019-08-01.md](./2019-08-01.md) |
 | 2019-08-01 | 2019-11-26 | [2019-08-01.md](./2019-08-01.md) |
 | 2019-07-23 | 2019-07-31 | [2019-07-23.md](./2019-07-23.md) |
 | 2019-04-06 | 2019-07-22 | [2019-04-06.md](./2019-04-06.md) |

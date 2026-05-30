@@ -5,8 +5,8 @@ type: wet
 title: Wet van 2 maart 1994, houdende algemene regels ter bescherming tegen discriminatie op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: AWGB
-latest_state: "2020-01-01"
-state_count: 15
+latest_state: "2026-01-01"
+state_count: 16
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 15
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** AWGB
-**ELI:** [/eli/nl/wet/1994/algemene-wet-gelijke-behandeling](https://wetten.ai/eli/nl/wet/1994/algemene-wet-gelijke-behandeling)
+**ELI:** [/eli/nl/wet/1994/algemene-wet-gelijke-behandeling](https://wettenbank.online/eli/nl/wet/1994/algemene-wet-gelijke-behandeling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2019-11-01 | 2019-12-31 | [2019-11-01.md](./2019-11-01.md) |
 | 2015-07-01 | 2019-10-31 | [2015-07-01.md](./2015-07-01.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit digitale vervanging archief
 ministry: Financiën
 abbreviation: null
-latest_state: "2015-09-09"
-state_count: 1
+latest_state: "2025-09-18"
+state_count: 2
 ---
 
 
@@ -16,10 +16,11 @@ state_count: 1
 **Citeertitel:** Besluit digitale vervanging archief
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-digitale-vervanging-archief](https://wetten.ai/eli/nl/ministeriele-regeling/2015/besluit-digitale-vervanging-archief)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-digitale-vervanging-archief](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/besluit-digitale-vervanging-archief)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-18 | heden | [2025-09-18.md](./2025-09-18.md) |
 | 2015-09-09 | heden | [2015-09-09.md](./2015-09-09.md) |

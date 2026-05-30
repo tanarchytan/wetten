@@ -5,8 +5,8 @@ type: wet
 title: Wet van 26 februari 2011, houdende regels omtrent energie-efficiëntie (Wet implementatie EG-richtlijnen energie-efficiëntie)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2023-04-19"
-state_count: 18
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 18
 **Citeertitel:** Wet uitvoering EU-handelingen energie-efficiëntie
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2011/wet-uitvoering-eu-handelingen-energie-effici-ntie](https://wetten.ai/eli/nl/wet/2011/wet-uitvoering-eu-handelingen-energie-effici-ntie)
+**ELI:** [/eli/nl/wet/2011/wet-uitvoering-eu-handelingen-energie-effici-ntie](https://wettenbank.online/eli/nl/wet/2011/wet-uitvoering-eu-handelingen-energie-effici-ntie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2023-04-19 | heden | [2023-04-19.md](./2023-04-19.md) |
 | 2021-07-23 | 2023-04-18 | [2021-07-23.md](./2021-07-23.md) |
 | 2021-07-01 | 2021-07-22 | [2021-07-01.md](./2021-07-01.md) |

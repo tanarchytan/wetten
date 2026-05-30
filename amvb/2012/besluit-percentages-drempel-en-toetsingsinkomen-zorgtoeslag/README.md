@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 6 december 2011, houdende wijziging van de percentages van het drempel- en het toetsingsinkomen voor de berekening van de zorgtoeslag (Besluit percentages drempel- en toetsingsinkomen zorgtoeslag)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 10
+latest_state: "2026-01-01"
+state_count: 11
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 10
 **Citeertitel:** Besluit percentages drempel- en toetsingsinkomen zorgtoeslag
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2012/besluit-percentages-drempel-en-toetsingsinkomen-zorgtoeslag](https://wetten.ai/eli/nl/amvb/2012/besluit-percentages-drempel-en-toetsingsinkomen-zorgtoeslag)
+**ELI:** [/eli/nl/amvb/2012/besluit-percentages-drempel-en-toetsingsinkomen-zorgtoeslag](https://wettenbank.online/eli/nl/amvb/2012/besluit-percentages-drempel-en-toetsingsinkomen-zorgtoeslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-01-01 | 2024-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |

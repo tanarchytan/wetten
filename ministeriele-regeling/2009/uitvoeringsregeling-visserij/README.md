@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 september 2008, nr. TRCJZ/2007/3190, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de visserij (Uitvoeringsregeling visserij)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-08-26"
-state_count: 61
+latest_state: "2026-04-01"
+state_count: 59
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 61
 **Citeertitel:** Uitvoeringsregeling visserij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/uitvoeringsregeling-visserij](https://wetten.ai/eli/nl/ministeriele-regeling/2009/uitvoeringsregeling-visserij)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/uitvoeringsregeling-visserij](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/uitvoeringsregeling-visserij)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
+| 2025-12-31 | 2026-03-31 | [2025-12-31.md](./2025-12-31.md) |
+| 2025-10-22 | 2025-12-30 | [2025-10-22.md](./2025-10-22.md) |
 | 2025-08-26 | heden | [2025-08-26.md](./2025-08-26.md) |
 | 2025-07-05 | 2025-08-25 | [2025-07-05.md](./2025-07-05.md) |
 | 2025-01-01 | 2025-07-04 | [2025-01-01.md](./2025-01-01.md) |
@@ -40,8 +43,6 @@ state_count: 61
 | 2017-01-01 | 2017-05-01 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-11-18 | 2016-12-31 | [2016-11-18.md](./2016-11-18.md) |
 | 2016-06-07 | 2016-11-17 | [2016-06-07.md](./2016-06-07.md) |
-| 2016-06-07 | 2016-11-17 | [2016-06-07.md](./2016-06-07.md) |
-| 2016-04-01 | 2016-06-06 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-04-01 | 2016-06-06 | [2016-04-01.md](./2016-04-01.md) |
 | 2015-09-22 | 2016-03-31 | [2015-09-22.md](./2015-09-22.md) |
 | 2015-07-15 | 2015-09-21 | [2015-07-15.md](./2015-07-15.md) |
@@ -52,8 +53,6 @@ state_count: 61
 | 2014-11-01 | 2014-11-14 | [2014-11-01.md](./2014-11-01.md) |
 | 2014-10-21 | 2014-10-31 | [2014-10-21.md](./2014-10-21.md) |
 | 2014-07-04 | 2014-10-20 | [2014-07-04.md](./2014-07-04.md) |
-| 2014-07-04 | 2014-10-20 | [2014-07-04.md](./2014-07-04.md) |
-| 2014-06-01 | 2014-07-03 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-06-01 | 2014-07-03 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-04-25 | 2014-05-31 | [2014-04-25.md](./2014-04-25.md) |
 | 2014-01-01 | 2014-04-24 | [2014-01-01.md](./2014-01-01.md) |
@@ -62,7 +61,6 @@ state_count: 61
 | 2013-02-16 | 2013-03-25 | [2013-02-16.md](./2013-02-16.md) |
 | 2013-01-01 | 2013-02-15 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-10-18 | 2012-12-31 | [2012-10-18.md](./2012-10-18.md) |
-| 2012-10-01 | 2012-10-17 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-10-01 | 2012-10-17 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-07-07 | 2012-09-30 | [2012-07-07.md](./2012-07-07.md) |
 | 2012-05-15 | 2012-07-06 | [2012-05-15.md](./2012-05-15.md) |

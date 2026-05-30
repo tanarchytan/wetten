@@ -5,8 +5,8 @@ type: zbo
 title: Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026
 ministry: Raad voor Rechtsbijstand
 abbreviation: null
-latest_state: "2024-04-18"
-state_count: 2
+latest_state: "2026-01-01"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Subsidieregeling werkzaamheden ten behoeve van rechtsbijstand in locaties voor Wijkrechtspraak 2024–2026
 **Type:** zbo
 **Verantwoordelijk ministerie:** Raad voor Rechtsbijstand
-**ELI:** [/eli/nl/zbo/2024/subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan-bwbr0049573](https://wetten.ai/eli/nl/zbo/2024/subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan-bwbr0049573)
+**ELI:** [/eli/nl/zbo/2024/subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan-bwbr0049573](https://wettenbank.online/eli/nl/zbo/2024/subsidieregeling-werkzaamheden-ten-behoeve-van-rechtsbijstan-bwbr0049573)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-04-18 | heden | [2024-04-18.md](./2024-04-18.md) |
 | 2024-01-01 | 2024-04-17 | [2024-01-01.md](./2024-01-01.md) |

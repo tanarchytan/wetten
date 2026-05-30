@@ -5,8 +5,8 @@ type: wet
 title: Wet van 26 juli 2017, houdende regels met betrekking tot de inlichtingen- en veiligheidsdiensten alsmede wijziging van enkele wetten (Wet op de inlichtingen- en veiligheidsdiensten 2017)
 ministry: Algemene Zaken
 abbreviation: null
-latest_state: "2025-02-12"
-state_count: 9
+latest_state: "2026-01-01"
+state_count: 10
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 9
 **Citeertitel:** Wet op de inlichtingen- en veiligheidsdiensten 2017
 **Type:** wet
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/wet/2017/wet-op-de-inlichtingen-en-veiligheidsdiensten-2017](https://wetten.ai/eli/nl/wet/2017/wet-op-de-inlichtingen-en-veiligheidsdiensten-2017)
+**ELI:** [/eli/nl/wet/2017/wet-op-de-inlichtingen-en-veiligheidsdiensten-2017](https://wettenbank.online/eli/nl/wet/2017/wet-op-de-inlichtingen-en-veiligheidsdiensten-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-02-12 | heden | [2025-02-12.md](./2025-02-12.md) |
 | 2024-01-01 | 2025-02-11 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-05-01 | 2023-12-31 | [2022-05-01.md](./2022-05-01.md) |

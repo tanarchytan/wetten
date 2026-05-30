@@ -5,7 +5,7 @@ type: amvb
 title: Besluit van 18 december 2006 tot vaststelling van een algemene maatregel van bestuur betreffende de verlening van een tegemoetkoming aan personen die een uitkering ontvangen op grond van de Algemene nabestaandenwet, de vaststelling van de hoogte van de AOW-tegemoetkoming en enige andere wijzigingen (Besluit tegemoetkoming Anw-ers en vaststelling AOW- en Anw-tegemoetkoming 2007)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-01-01"
+latest_state: "2026-01-01"
 state_count: 24
 ---
 
@@ -16,12 +16,13 @@ state_count: 24
 **Citeertitel:** Besluit tegemoetkoming Anw-ers
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2007/besluit-tegemoetkoming-anw-ers](https://wetten.ai/eli/nl/amvb/2007/besluit-tegemoetkoming-anw-ers)
+**ELI:** [/eli/nl/amvb/2007/besluit-tegemoetkoming-anw-ers](https://wettenbank.online/eli/nl/amvb/2007/besluit-tegemoetkoming-anw-ers)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -40,7 +41,6 @@ state_count: 24
 | 2012-12-21 | 2013-06-30 | [2012-12-21.md](./2012-12-21.md) |
 | 2012-01-01 | 2012-12-20 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-12 | 2011-12-31 | [2011-01-12.md](./2011-01-12.md) |
-| 2011-01-01 | 2011-01-11 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-01-11 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |

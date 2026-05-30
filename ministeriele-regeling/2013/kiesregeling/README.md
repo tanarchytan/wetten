@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2013, nr. 2013-0000435969, houdende regels ter uitvoering van de Kieswet en het Kiesbesluit (Kiesregeling)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-08-01"
-state_count: 34
+latest_state: "2026-02-16"
+state_count: 38
 ---
 
 
@@ -16,12 +16,16 @@ state_count: 34
 **Citeertitel:** Kiesregeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2013/kiesregeling](https://wetten.ai/eli/nl/ministeriele-regeling/2013/kiesregeling)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/kiesregeling](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/kiesregeling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-16 | heden | [2026-02-16.md](./2026-02-16.md) |
+| 2026-01-01 | 2026-02-15 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-31 | 2025-12-31 | [2025-12-31.md](./2025-12-31.md) |
+| 2025-11-01 | 2025-12-30 | [2025-11-01.md](./2025-11-01.md) |
 | 2025-08-01 | heden | [2025-08-01.md](./2025-08-01.md) |
 | 2024-04-01 | 2025-07-31 | [2024-04-01.md](./2024-04-01.md) |
 | 2023-11-01 | 2024-03-31 | [2023-11-01.md](./2023-11-01.md) |

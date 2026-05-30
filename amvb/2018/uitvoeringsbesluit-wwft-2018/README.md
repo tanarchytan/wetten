@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 17 juli 2018, houdende nadere regels met betrekking tot uiteindelijk belanghebbenden en politiek prominente personen, het vaststellen van indicatoren voor het melden van ongebruikelijke transacties en tot wijziging van enige andere besluiten in verband met de implementatie van de vierde anti-witwasrichtlijn en de verordening betreffende bij geldovermakingen te voegen informatie (Uitvoeringsbesluit Wwft 2018)
 ministry: Financiën
 abbreviation: null
-latest_state: "2025-02-04"
-state_count: 8
+latest_state: "2026-04-30"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Uitvoeringsbesluit Wwft 2018
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2018/uitvoeringsbesluit-wwft-2018](https://wetten.ai/eli/nl/amvb/2018/uitvoeringsbesluit-wwft-2018)
+**ELI:** [/eli/nl/amvb/2018/uitvoeringsbesluit-wwft-2018](https://wettenbank.online/eli/nl/amvb/2018/uitvoeringsbesluit-wwft-2018)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-30 | heden | [2026-04-30.md](./2026-04-30.md) |
 | 2025-02-04 | heden | [2025-02-04.md](./2025-02-04.md) |
 | 2024-07-01 | 2025-02-03 | [2024-07-01.md](./2024-07-01.md) |
 | 2022-11-01 | 2024-06-30 | [2022-11-01.md](./2022-11-01.md) |

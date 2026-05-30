@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling vermogenswaardering Ioaz
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 47
+latest_state: "2026-01-01"
+state_count: 48
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 47
 **Citeertitel:** Regeling vermogenswaardering Ioaz
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-vermogenswaardering-ioaz](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-vermogenswaardering-ioaz)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-vermogenswaardering-ioaz](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-vermogenswaardering-ioaz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |

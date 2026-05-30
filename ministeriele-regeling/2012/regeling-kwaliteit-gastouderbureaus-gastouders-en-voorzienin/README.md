@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 29 mei 2012, nr. KO/2012/7794 , tot uitvoering van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Regeling kwaliteit kinderopvang en peuterspeelzalen)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2024-01-01"
-state_count: 12
+latest_state: "2026-01-01"
+state_count: 13
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 12
 **Citeertitel:** Regeling kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-kwaliteit-gastouderbureaus-gastouders-en-voorzienin](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-kwaliteit-gastouderbureaus-gastouders-en-voorzienin)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-kwaliteit-gastouderbureaus-gastouders-en-voorzienin](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-kwaliteit-gastouderbureaus-gastouders-en-voorzienin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2018-01-01 | 2023-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-09-01 | 2017-12-31 | [2016-09-01.md](./2016-09-01.md) |

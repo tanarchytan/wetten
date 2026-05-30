@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Mb Szw
-latest_state: "2022-01-01"
-state_count: 13
+latest_state: "2026-01-01"
+state_count: 14
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 13
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Mb Szw
-**ELI:** [/eli/nl/amvb/2008/maatregelenbesluit-socialezekerheidswetten](https://wetten.ai/eli/nl/amvb/2008/maatregelenbesluit-socialezekerheidswetten)
+**ELI:** [/eli/nl/amvb/2008/maatregelenbesluit-socialezekerheidswetten](https://wettenbank.online/eli/nl/amvb/2008/maatregelenbesluit-socialezekerheidswetten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2020-01-01 | 2021-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-01-01 | 2019-12-31 | [2018-01-01.md](./2018-01-01.md) |

@@ -5,8 +5,8 @@ type: wet
 title: Wet van 16 maart 1995, houdende regelen met betrekking tot de vervaardiging, het in de handel brengen en de in-, uit- en doorvoer van bepaalde chemicaliën ter voorkoming van misbruik
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2022-01-01"
-state_count: 5
+latest_state: "2026-01-01"
+state_count: 6
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 5
 **Citeertitel:** Wet voorkoming misbruik chemicaliën
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/1995/wet-voorkoming-misbruik-chemicali-n](https://wetten.ai/eli/nl/wet/1995/wet-voorkoming-misbruik-chemicali-n)
+**ELI:** [/eli/nl/wet/1995/wet-voorkoming-misbruik-chemicali-n](https://wettenbank.online/eli/nl/wet/1995/wet-voorkoming-misbruik-chemicali-n)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2018-11-01 | 2021-12-31 | [2018-11-01.md](./2018-11-01.md) |
 | 2008-08-01 | 2018-10-31 | [2008-08-01.md](./2008-08-01.md) |

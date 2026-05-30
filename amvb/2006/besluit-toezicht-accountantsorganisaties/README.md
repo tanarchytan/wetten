@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 16 augustus 2006, houdende regels ter zake van de uitvoering van de Wet toezicht accountantsorganisaties (Besluit toezicht accountantsorganisaties)
 ministry: Financiën
 abbreviation: Bta
-latest_state: "2020-10-29"
-state_count: 13
+latest_state: "2026-05-20"
+state_count: 15
 ---
 
 
@@ -17,12 +17,14 @@ state_count: 13
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Bta
-**ELI:** [/eli/nl/amvb/2006/besluit-toezicht-accountantsorganisaties](https://wetten.ai/eli/nl/amvb/2006/besluit-toezicht-accountantsorganisaties)
+**ELI:** [/eli/nl/amvb/2006/besluit-toezicht-accountantsorganisaties](https://wettenbank.online/eli/nl/amvb/2006/besluit-toezicht-accountantsorganisaties)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-20 | heden | [2026-05-20.md](./2026-05-20.md) |
+| 2026-01-01 | 2026-05-19 | [2026-01-01.md](./2026-01-01.md) |
 | 2020-10-29 | heden | [2020-10-29.md](./2020-10-29.md) |
 | 2020-01-01 | 2020-10-28 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-07-01 | 2019-12-31 | [2018-07-01.md](./2018-07-01.md) |

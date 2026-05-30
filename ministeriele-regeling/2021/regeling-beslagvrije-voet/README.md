@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 25 november 2020, nr. 2020-0000159922, houdende regels in verband met de vereenvoudiging en de berekening van de beslagvrije voet (Regeling beslagvrije voet)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 8
+latest_state: "2026-04-16"
+state_count: 11
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 8
 **Citeertitel:** Regeling beslagvrije voet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-beslagvrije-voet](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-beslagvrije-voet)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-beslagvrije-voet](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-beslagvrije-voet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-16 | heden | [2026-04-16.md](./2026-04-16.md) |
+| 2026-01-01 | 2026-04-15 | [2026-01-01.md](./2026-01-01.md) |
+| 2025-10-01 | 2025-12-31 | [2025-10-01.md](./2025-10-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-03-08 | 2024-12-31 | [2024-03-08.md](./2024-03-08.md) |
 | 2024-01-01 | 2024-03-07 | [2024-01-01.md](./2024-01-01.md) |

@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 18 oktober 2004, houdende regels over de tegemoetkomingen in de kosten van kinderopvang (Besluit tegemoetkoming kosten kinderopvang)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Besluit KOT
-latest_state: "2025-01-01"
-state_count: 39
+latest_state: "2026-01-01"
+state_count: 30
 ---
 
 
@@ -17,32 +17,23 @@ state_count: 39
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Besluit KOT
-**ELI:** [/eli/nl/amvb/2004/besluit-kinderopvangtoeslag](https://wetten.ai/eli/nl/amvb/2004/besluit-kinderopvangtoeslag)
+**ELI:** [/eli/nl/amvb/2004/besluit-kinderopvangtoeslag](https://wettenbank.online/eli/nl/amvb/2004/besluit-kinderopvangtoeslag)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-06-15 | 2024-12-31 | [2024-06-15.md](./2024-06-15.md) |
 | 2024-01-01 | 2024-06-14 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-06-14 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-08 | 2023-12-31 | [2023-07-08.md](./2023-07-08.md) |
-| 2023-01-01 | 2023-07-07 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-07-07 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-09-07 | 2022-12-31 | [2022-09-07.md](./2022-09-07.md) |
 | 2022-01-01 | 2022-09-06 | [2022-01-01.md](./2022-01-01.md) |
-| 2022-01-01 | 2022-09-06 | [2022-01-01.md](./2022-01-01.md) |
-| 2021-09-18 | 2021-12-31 | [2021-09-18.md](./2021-09-18.md) |
 | 2021-09-18 | 2021-12-31 | [2021-09-18.md](./2021-09-18.md) |
 | 2021-02-09 | 2021-09-17 | [2021-02-09.md](./2021-02-09.md) |
-| 2021-02-09 | 2021-09-17 | [2021-02-09.md](./2021-02-09.md) |
-| 2021-02-09 | 2021-09-17 | [2021-02-09.md](./2021-02-09.md) |
 | 2021-01-01 | 2021-02-08 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-02-08 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-02-08 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-02-08 | [2021-01-01.md](./2021-01-01.md) |
-| 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |

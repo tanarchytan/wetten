@@ -5,8 +5,8 @@ type: wet
 title: Wet van 9 februari 2012 tot het geven aan gemeenten van de verantwoordelijkheid voor schuldhulpverlening (Wet gemeentelijke schuldhulpverlening)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2022-01-01"
-state_count: 8
+latest_state: "2026-01-01"
+state_count: 9
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 8
 **Citeertitel:** Wet gemeentelijke schuldhulpverlening
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/2012/wet-gemeentelijke-schuldhulpverlening](https://wetten.ai/eli/nl/wet/2012/wet-gemeentelijke-schuldhulpverlening)
+**ELI:** [/eli/nl/wet/2012/wet-gemeentelijke-schuldhulpverlening](https://wettenbank.online/eli/nl/wet/2012/wet-gemeentelijke-schuldhulpverlening)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2017-04-01 | 2020-12-31 | [2017-04-01.md](./2017-04-01.md) |

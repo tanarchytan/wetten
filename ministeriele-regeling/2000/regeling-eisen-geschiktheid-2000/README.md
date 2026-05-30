@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling eisen geschiktheid 2000
 ministry: Infrastructuur en Milieu
 abbreviation: REG 2000
-latest_state: "2025-04-01"
-state_count: 35
+latest_state: "2026-04-01"
+state_count: 34
 ---
 
 
@@ -17,20 +17,19 @@ state_count: 35
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** REG 2000
-**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-eisen-geschiktheid-2000](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-eisen-geschiktheid-2000)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-eisen-geschiktheid-2000](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/regeling-eisen-geschiktheid-2000)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-01 | heden | [2026-04-01.md](./2026-04-01.md) |
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2021-07-01 | 2025-03-31 | [2021-07-01.md](./2021-07-01.md) |
 | 2021-04-17 | 2021-06-30 | [2021-04-17.md](./2021-04-17.md) |
 | 2021-04-01 | 2021-04-16 | [2021-04-01.md](./2021-04-01.md) |
-| 2021-04-01 | 2021-04-16 | [2021-04-01.md](./2021-04-01.md) |
 | 2020-10-01 | 2021-03-31 | [2020-10-01.md](./2020-10-01.md) |
 | 2019-11-23 | 2020-09-30 | [2019-11-23.md](./2019-11-23.md) |
-| 2019-11-01 | 2019-11-22 | [2019-11-01.md](./2019-11-01.md) |
 | 2019-11-01 | 2019-11-22 | [2019-11-01.md](./2019-11-01.md) |
 | 2018-07-01 | 2019-10-31 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |

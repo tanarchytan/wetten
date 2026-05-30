@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 25 november 2013, houdende regels inzake de in het kader van de Kernenergiewet in rekening te brengen kosten (Besluit vergoedingen Kernenergiewet)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 14
 **Citeertitel:** Besluit vergoedingen Kernenergiewet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2014/besluit-vergoedingen-kernenergiewet](https://wetten.ai/eli/nl/amvb/2014/besluit-vergoedingen-kernenergiewet)
+**ELI:** [/eli/nl/amvb/2014/besluit-vergoedingen-kernenergiewet](https://wettenbank.online/eli/nl/amvb/2014/besluit-vergoedingen-kernenergiewet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

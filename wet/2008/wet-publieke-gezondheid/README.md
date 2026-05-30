@@ -5,8 +5,8 @@ type: wet
 title: Wet van 9 oktober 2008, houdende bepalingen over de zorg voor de publieke gezondheid (Wet publieke gezondheid)
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Wpg
-latest_state: "2025-07-05"
-state_count: 45
+latest_state: "2026-01-01"
+state_count: 46
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 45
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Wpg
-**ELI:** [/eli/nl/wet/2008/wet-publieke-gezondheid](https://wetten.ai/eli/nl/wet/2008/wet-publieke-gezondheid)
+**ELI:** [/eli/nl/wet/2008/wet-publieke-gezondheid](https://wettenbank.online/eli/nl/wet/2008/wet-publieke-gezondheid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-05 | heden | [2025-07-05.md](./2025-07-05.md) |
 | 2025-03-01 | 2025-07-04 | [2025-03-01.md](./2025-03-01.md) |
 | 2025-01-01 | 2025-02-28 | [2025-01-01.md](./2025-01-01.md) |

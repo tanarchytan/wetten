@@ -5,8 +5,8 @@ type: wet
 title: Wet van 8 februari 2007 tot vaststelling van een nieuwe Geneesmiddelenwet
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Gnw
-latest_state: "2025-07-05"
-state_count: 29
+latest_state: "2025-09-09"
+state_count: 30
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 29
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Gnw
-**ELI:** [/eli/nl/wet/2007/geneesmiddelenwet](https://wetten.ai/eli/nl/wet/2007/geneesmiddelenwet)
+**ELI:** [/eli/nl/wet/2007/geneesmiddelenwet](https://wettenbank.online/eli/nl/wet/2007/geneesmiddelenwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-09-09 | heden | [2025-09-09.md](./2025-09-09.md) |
 | 2025-07-05 | heden | [2025-07-05.md](./2025-07-05.md) |
 | 2025-01-01 | 2025-07-04 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |

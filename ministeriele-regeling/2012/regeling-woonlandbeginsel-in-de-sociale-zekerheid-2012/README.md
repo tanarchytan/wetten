@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 april 2012, nr. IVV/OOG/2012/6311, houdende nadere regels in verband met aanpassing van de hoogte van de uitkering aan het woonland (Regeling woonlandbeginsel in de sociale zekerheid)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 16
+latest_state: "2026-01-01"
+state_count: 17
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 16
 **Citeertitel:** Regeling woonlandbeginsel in de sociale zekerheid 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-woonlandbeginsel-in-de-sociale-zekerheid-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-woonlandbeginsel-in-de-sociale-zekerheid-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-woonlandbeginsel-in-de-sociale-zekerheid-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-woonlandbeginsel-in-de-sociale-zekerheid-2012)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 25 oktober 1994, houdende het Warenwetbesluit Zuivel
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
-latest_state: "2016-12-22"
-state_count: 12
+latest_state: "2026-01-01"
+state_count: 13
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 12
 **Citeertitel:** Warenwetbesluit Zuivel
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1995/warenwetbesluit-zuivel](https://wetten.ai/eli/nl/amvb/1995/warenwetbesluit-zuivel)
+**ELI:** [/eli/nl/amvb/1995/warenwetbesluit-zuivel](https://wettenbank.online/eli/nl/amvb/1995/warenwetbesluit-zuivel)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2016-12-22 | heden | [2016-12-22.md](./2016-12-22.md) |
 | 2016-02-19 | 2016-12-21 | [2016-02-19.md](./2016-02-19.md) |
 | 2014-12-13 | 2016-02-18 | [2014-12-13.md](./2014-12-13.md) |

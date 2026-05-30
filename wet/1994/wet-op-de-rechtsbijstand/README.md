@@ -5,7 +5,7 @@ type: wet
 title: Wet van 23 december 1993, houdende regelen omtrent de door de overheid gefinancierde rechtsbijstand
 ministry: Veiligheid en Justitie
 abbreviation: WRB
-latest_state: "2025-01-01"
+latest_state: "2026-01-01"
 state_count: 59
 ---
 
@@ -17,12 +17,13 @@ state_count: 59
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** WRB
-**ELI:** [/eli/nl/wet/1994/wet-op-de-rechtsbijstand](https://wetten.ai/eli/nl/wet/1994/wet-op-de-rechtsbijstand)
+**ELI:** [/eli/nl/wet/1994/wet-op-de-rechtsbijstand](https://wettenbank.online/eli/nl/wet/1994/wet-op-de-rechtsbijstand)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-07-01 | 2024-12-31 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
@@ -32,7 +33,6 @@ state_count: 59
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-03-04 | 2019-12-31 | [2019-03-04.md](./2019-03-04.md) |
-| 2019-01-01 | 2019-03-03 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-03-03 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-09-01 | 2017-12-31 | [2017-09-01.md](./2017-09-01.md) |

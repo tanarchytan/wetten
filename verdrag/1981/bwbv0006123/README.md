@@ -5,8 +5,8 @@ type: verdrag
 title: Protocol van 1978 bij het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2017-01-01"
-state_count: 3
+latest_state: "2026-01-01"
+state_count: 4
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 3
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2014-07-01 | 2016-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 1992-02-01 | 2014-06-30 | [1992-02-01.md](./1992-02-01.md) |

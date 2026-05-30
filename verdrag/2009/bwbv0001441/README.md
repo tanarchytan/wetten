@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart
 ministry: Buitenlandse Zaken
 abbreviation: CDNI
-latest_state: "2025-01-01"
-state_count: 26
+latest_state: "2026-01-01"
+state_count: 29
 ---
 
 
@@ -23,7 +23,10 @@ state_count: 26
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-07-03 | 2025-12-31 | [2025-07-03.md](./2025-07-03.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
+| 2024-12-12 | 2024-12-31 | [2024-12-12.md](./2024-12-12.md) |
 | 2024-10-01 | 2024-12-31 | [2024-10-01.md](./2024-10-01.md) |
 | 2024-07-01 | 2024-09-30 | [2024-07-01.md](./2024-07-01.md) |
 | 2023-12-19 | 2024-06-30 | [2023-12-19.md](./2023-12-19.md) |

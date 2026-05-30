@@ -5,8 +5,8 @@ type: zbo
 title: Regeling Artistic & Design Research for Immersive Experiences 2025-2029
 ministry: Stichting Stimuleringsfonds Creatieve Industrie
 abbreviation: null
-latest_state: "2025-04-09"
-state_count: 2
+latest_state: "2026-03-26"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Regeling Artistic & Design Research for Immersive Experiences 2025-2029
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stichting Stimuleringsfonds Creatieve Industrie
-**ELI:** [/eli/nl/zbo/2025/regeling-artistic-design-research-for-immersive-experiences-](https://wetten.ai/eli/nl/zbo/2025/regeling-artistic-design-research-for-immersive-experiences-)
+**ELI:** [/eli/nl/zbo/2025/regeling-artistic-design-research-for-immersive-experiences-](https://wettenbank.online/eli/nl/zbo/2025/regeling-artistic-design-research-for-immersive-experiences-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-03-26 | heden | [2026-03-26.md](./2026-03-26.md) |
 | 2025-04-09 | heden | [2025-04-09.md](./2025-04-09.md) |
 | 2025-04-01 | 2025-04-08 | [2025-04-01.md](./2025-04-01.md) |

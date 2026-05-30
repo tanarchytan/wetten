@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 21 december 2000, houdende regels met betrekking tot de gevallen waarin en de voorwaarden waaronder een bedrijfstakpensioenfonds vrijstelling van de verplichte deelname aan een bedrijfstakpensioenfonds verleent, kan verlenen, intrekt en kan intrekken (Vrijstellingsbesluit Wet Bpf 2000)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2023-07-01"
-state_count: 11
+latest_state: "2026-01-01"
+state_count: 14
 ---
 
 
@@ -16,12 +16,15 @@ state_count: 11
 **Citeertitel:** Vrijstellings- en boetebesluit Wet Bpf 2000
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2001/vrijstellings-en-boetebesluit-wet-bpf-2000](https://wetten.ai/eli/nl/amvb/2001/vrijstellings-en-boetebesluit-wet-bpf-2000)
+**ELI:** [/eli/nl/amvb/2001/vrijstellings-en-boetebesluit-wet-bpf-2000](https://wettenbank.online/eli/nl/amvb/2001/vrijstellings-en-boetebesluit-wet-bpf-2000)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-20 | 2025-12-31 | [2025-12-20.md](./2025-12-20.md) |
+| 2025-09-30 | 2025-12-19 | [2025-09-30.md](./2025-09-30.md) |
 | 2023-07-01 | heden | [2023-07-01.md](./2023-07-01.md) |
 | 2015-01-01 | 2023-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-08-07 | 2014-12-31 | [2013-08-07.md](./2013-08-07.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Besluit van de plaatsvervangend directeur-generaal Dienst Justitiële Inrichtingen van 14 december 2022, nr. 4362619, houdende verlening van ondermandaat, volmacht en machtiging aan de onder de plaatsvervangend directeur-generaal DJI ressorterende ambtenaren (Mandaatbesluit plv directeur-generaal DJI)
 ministry: Justitie en Veiligheid
 abbreviation: null
-latest_state: "2023-01-10"
-state_count: 2
+latest_state: "2026-01-01"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Mandaatbesluit plv directeur-generaal DJI
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatbesluit-plv-directeur-generaal-dji](https://wetten.ai/eli/nl/ministeriele-regeling/2023/mandaatbesluit-plv-directeur-generaal-dji)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatbesluit-plv-directeur-generaal-dji](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/mandaatbesluit-plv-directeur-generaal-dji)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | 2026-01-15 | [2026-01-01.md](./2026-01-01.md) |
 | 2023-01-10 | heden | [2023-01-10.md](./2023-01-10.md) |
 | 2022-05-01 | 2023-01-09 | [2022-05-01.md](./2022-05-01.md) |

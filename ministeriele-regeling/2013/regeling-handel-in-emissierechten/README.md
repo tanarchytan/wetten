@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Infrastructuur en Milieu van 5 december 2012 nr. IenM/BSK-2012/239553, ter implementatie en uitvoering van het Europese systeem van handel in broeikasgasemissierechten (Regeling handel in emissierechten)
 ministry: Infrastructuur en Milieu
 abbreviation: null
-latest_state: "2025-04-05"
-state_count: 23
+latest_state: "2026-01-01"
+state_count: 17
 ---
 
 
@@ -16,23 +16,17 @@ state_count: 23
 **Citeertitel:** Regeling handel in emissierechten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-handel-in-emissierechten](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-handel-in-emissierechten)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-handel-in-emissierechten](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-handel-in-emissierechten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-04-05 | heden | [2025-04-05.md](./2025-04-05.md) |
 | 2025-01-01 | 2025-04-04 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-04-04 | [2025-01-01.md](./2025-01-01.md) |
-| 2024-08-17 | 2024-12-31 | [2024-08-17.md](./2024-08-17.md) |
 | 2024-08-17 | 2024-12-31 | [2024-08-17.md](./2024-08-17.md) |
 | 2024-04-16 | 2024-08-16 | [2024-04-16.md](./2024-04-16.md) |
-| 2024-04-16 | 2024-08-16 | [2024-04-16.md](./2024-04-16.md) |
-| 2024-04-16 | 2024-08-16 | [2024-04-16.md](./2024-04-16.md) |
-| 2024-01-01 | 2024-04-15 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-04-15 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-04-15 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-04-15 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-01-01 | 2022-12-31 | [2021-01-01.md](./2021-01-01.md) |

@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 4 februari 2009, houdende regels met betrekking tot de eigen bijdrage voor de rechtzoekende in geval van verlening van gesubsidieerde rechtsbijstand alsmede enige nadere regels omtrent de vaststelling van de financiële draagkracht van de rechtzoekende (Besluit eigen bijdrage rechtsbijstand)
 ministry: Veiligheid en Justitie
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 29
+latest_state: "2026-01-01"
+state_count: 26
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 29
 **Citeertitel:** Besluit eigen bijdrage rechtsbijstand
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2009/besluit-eigen-bijdrage-rechtsbijstand](https://wetten.ai/eli/nl/amvb/2009/besluit-eigen-bijdrage-rechtsbijstand)
+**ELI:** [/eli/nl/amvb/2009/besluit-eigen-bijdrage-rechtsbijstand](https://wettenbank.online/eli/nl/amvb/2009/besluit-eigen-bijdrage-rechtsbijstand)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
@@ -30,16 +31,12 @@ state_count: 29
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-30 | 2019-12-31 | [2019-07-30.md](./2019-07-30.md) |
 | 2019-03-04 | 2019-07-29 | [2019-03-04.md](./2019-03-04.md) |
-| 2019-03-04 | 2019-07-29 | [2019-03-04.md](./2019-03-04.md) |
-| 2019-01-01 | 2019-03-03 | [2019-01-01.md](./2019-01-01.md) |
-| 2019-01-01 | 2019-03-03 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-03-03 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-12-17 | 2016-12-31 | [2015-12-17.md](./2015-12-17.md) |
 | 2015-03-01 | 2015-12-16 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-02-01 | 2015-02-28 | [2015-02-01.md](./2015-02-01.md) |
-| 2015-01-01 | 2015-01-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-01-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-12-23 | 2014-12-31 | [2013-12-23.md](./2013-12-23.md) |
 | 2013-10-01 | 2013-12-22 | [2013-10-01.md](./2013-10-01.md) |

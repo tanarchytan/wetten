@@ -5,8 +5,8 @@ type: wet
 title: Wet van 4 juni 2014, houdende nieuwe regels met betrekking tot de verdeling van woonruimte en de samenstelling van de woonruimtevoorraad (Huisvestingswet 2014)
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
-latest_state: "2025-07-01"
-state_count: 14
+latest_state: "2026-01-01"
+state_count: 15
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 14
 **Citeertitel:** Huisvestingswet 2014
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2015/huisvestingswet-2014](https://wetten.ai/eli/nl/wet/2015/huisvestingswet-2014)
+**ELI:** [/eli/nl/wet/2015/huisvestingswet-2014](https://wettenbank.online/eli/nl/wet/2015/huisvestingswet-2014)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-02-12 | 2025-06-30 | [2025-02-12.md](./2025-02-12.md) |
 | 2025-01-01 | 2025-02-11 | [2025-01-01.md](./2025-01-01.md) |

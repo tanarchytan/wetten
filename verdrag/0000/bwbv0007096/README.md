@@ -5,8 +5,8 @@ type: verdrag
 title: Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Cyprus tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en het voorkomen van het ontduiken en ontwijken van belasting
 ministry: Buitenlandse Zaken
 abbreviation: null
-latest_state: "2025-04-23"
-state_count: 1
+latest_state: "2026-02-28"
+state_count: 2
 ---
 
 
@@ -22,4 +22,5 @@ state_count: 1
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-02-28 | heden | [2026-02-28.md](./2026-02-28.md) |
 | 2025-04-23 | heden | [2025-04-23.md](./2025-04-23.md) |

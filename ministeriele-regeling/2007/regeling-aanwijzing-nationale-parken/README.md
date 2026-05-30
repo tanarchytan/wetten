@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 augustus 2007, nr. TRCJZ/2007/1221, houdende aanwijzing nationale parken (Regeling aanwijzing nationale parken)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2024-10-17"
-state_count: 7
+latest_state: "2026-05-12"
+state_count: 9
 ---
 
 
@@ -16,12 +16,14 @@ state_count: 7
 **Citeertitel:** Regeling aanwijzing nationale parken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-nationale-parken](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-nationale-parken)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-nationale-parken](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-nationale-parken)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-05-12 | heden | [2026-05-12.md](./2026-05-12.md) |
+| 2026-04-29 | 2026-05-11 | [2026-04-29.md](./2026-04-29.md) |
 | 2024-10-17 | heden | [2024-10-17.md](./2024-10-17.md) |
 | 2018-10-01 | 2024-10-16 | [2018-10-01.md](./2018-10-01.md) |
 | 2016-12-22 | 2018-09-30 | [2016-12-22.md](./2016-12-22.md) |

@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling van de Minister van Economische Zaken van 7 december 2012, nr. WJZ/12346914, houdende regels met betrekking tot dierlijke producten (Regeling dierlijke producten)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2023-10-01"
+latest_state: "2026-04-17"
 state_count: 32
 ---
 
@@ -16,20 +16,20 @@ state_count: 32
 **Citeertitel:** Regeling dierlijke producten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-dierlijke-producten](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-dierlijke-producten)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-dierlijke-producten](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-dierlijke-producten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-04-17 | heden | [2026-04-17.md](./2026-04-17.md) |
+| 2025-11-27 | 2026-04-16 | [2025-11-27.md](./2025-11-27.md) |
+| 2025-10-01 | 2025-11-26 | [2025-10-01.md](./2025-10-01.md) |
 | 2023-10-01 | heden | [2023-10-01.md](./2023-10-01.md) |
 | 2022-09-06 | 2023-09-30 | [2022-09-06.md](./2022-09-06.md) |
 | 2022-05-05 | 2022-09-05 | [2022-05-05.md](./2022-05-05.md) |
 | 2022-04-30 | 2022-05-04 | [2022-04-30.md](./2022-04-30.md) |
-| 2022-04-30 | 2022-05-04 | [2022-04-30.md](./2022-04-30.md) |
 | 2022-04-01 | 2022-04-29 | [2022-04-01.md](./2022-04-01.md) |
-| 2022-04-01 | 2022-04-29 | [2022-04-01.md](./2022-04-01.md) |
-| 2022-01-01 | 2022-03-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-03-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-07-01 | 2021-12-31 | [2021-07-01.md](./2021-07-01.md) |
 | 2021-04-21 | 2021-06-30 | [2021-04-21.md](./2021-04-21.md) |

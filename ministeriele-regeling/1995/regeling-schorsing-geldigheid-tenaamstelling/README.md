@@ -5,7 +5,7 @@ type: ministeriele-regeling
 title: Regeling schorsing geldigheid kentekenbewijs
 ministry: Infrastructuur en Milieu
 abbreviation: RSGK
-latest_state: "2020-06-06"
+latest_state: "2026-01-01"
 state_count: 9
 ---
 
@@ -17,14 +17,14 @@ state_count: 9
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RSGK
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-schorsing-geldigheid-tenaamstelling](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-schorsing-geldigheid-tenaamstelling)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-schorsing-geldigheid-tenaamstelling](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-schorsing-geldigheid-tenaamstelling)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2020-06-06 | heden | [2020-06-06.md](./2020-06-06.md) |
-| 2019-01-01 | 2020-06-05 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2020-06-05 | [2019-01-01.md](./2019-01-01.md) |
 | 2014-01-01 | 2018-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-08-31 | 2013-12-31 | [2013-08-31.md](./2013-08-31.md) |

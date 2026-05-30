@@ -5,8 +5,8 @@ type: wet
 title: Wet van 15 juli 2008, houdende samenvoeging van de Wet identificatie bij dienstverlening en de Wet melding ongebruikelijke transacties (Wet ter voorkoming van witwassen en financieren van terrorisme)
 ministry: Financiën
 abbreviation: Wv Wft
-latest_state: "2025-07-01"
-state_count: 42
+latest_state: "2026-01-01"
+state_count: 36
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 42
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Wv Wft
-**ELI:** [/eli/nl/wet/2008/wet-ter-voorkoming-van-witwassen-en-financieren-van-terroris](https://wetten.ai/eli/nl/wet/2008/wet-ter-voorkoming-van-witwassen-en-financieren-van-terroris)
+**ELI:** [/eli/nl/wet/2008/wet-ter-voorkoming-van-witwassen-en-financieren-van-terroris](https://wettenbank.online/eli/nl/wet/2008/wet-ter-voorkoming-van-witwassen-en-financieren-van-terroris)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2025-03-01 | 2025-06-30 | [2025-03-01.md](./2025-03-01.md) |
 | 2025-02-04 | 2025-02-28 | [2025-02-04.md](./2025-02-04.md) |
@@ -53,15 +54,8 @@ state_count: 42
 | 2012-07-01 | 2012-09-30 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-04-30 | 2011-06-30 | [2011-04-30.md](./2011-04-30.md) |
-| 2011-04-30 | 2011-06-30 | [2011-04-30.md](./2011-04-30.md) |
 | 2011-04-30 | 2011-06-30 | [2011-04-30.md](./2011-04-30.md) |
 | 2009-11-01 | 2011-04-29 | [2009-11-01.md](./2009-11-01.md) |
-| 2009-11-01 | 2011-04-29 | [2009-11-01.md](./2009-11-01.md) |
-| 2009-08-01 | 2009-10-31 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-08-01 | 2009-10-31 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-07-01 | 2009-07-31 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-07-31 | [2009-07-01.md](./2009-07-01.md) |
-| 2008-08-01 | 2009-06-30 | [2008-08-01.md](./2008-08-01.md) |
 | 2008-08-01 | 2009-06-30 | [2008-08-01.md](./2008-08-01.md) |

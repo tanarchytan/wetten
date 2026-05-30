@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Economische Zaken van 14 juli 2008, nr. WJZ 8086374, houdende regels ten aanzien van het afnemen van examens ten behoeve van frequentiegebruik (Examenregeling frequentiegebruik 2008)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2025-01-01"
-state_count: 7
+latest_state: "2026-01-01"
+state_count: 8
 ---
 
 
@@ -16,12 +16,13 @@ state_count: 7
 **Citeertitel:** Examenregeling frequentiegebruik 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2008/examenregeling-frequentiegebruik-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/examenregeling-frequentiegebruik-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/examenregeling-frequentiegebruik-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/examenregeling-frequentiegebruik-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |

@@ -5,7 +5,7 @@ type: amvb
 title: Besluit van 18 december 2006, houdende regels met betrekking tot het financiële toetsingskader op grond van de Pensioenwet en de Wet verplichte beroepspensioenregeling (Besluit financieel toetsingskader pensioenfondsen)
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
-latest_state: "2025-06-12"
+latest_state: "2026-01-01"
 state_count: 32
 ---
 
@@ -16,16 +16,17 @@ state_count: 32
 **Citeertitel:** Besluit financieel toetsingskader pensioenfondsen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2007/besluit-financieel-toetsingskader-pensioenfondsen](https://wetten.ai/eli/nl/amvb/2007/besluit-financieel-toetsingskader-pensioenfondsen)
+**ELI:** [/eli/nl/amvb/2007/besluit-financieel-toetsingskader-pensioenfondsen](https://wettenbank.online/eli/nl/amvb/2007/besluit-financieel-toetsingskader-pensioenfondsen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
+| 2025-12-20 | 2025-12-31 | [2025-12-20.md](./2025-12-20.md) |
 | 2025-06-12 | heden | [2025-06-12.md](./2025-06-12.md) |
 | 2025-01-17 | 2025-06-11 | [2025-01-17.md](./2025-01-17.md) |
 | 2024-06-25 | 2025-01-16 | [2024-06-25.md](./2024-06-25.md) |
-| 2024-01-01 | 2024-06-24 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-06-24 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-04-22 | 2023-06-30 | [2023-04-22.md](./2023-04-22.md) |
@@ -49,7 +50,6 @@ state_count: 32
 | 2011-01-01 | 2011-01-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-08-04 | 2010-12-31 | [2010-08-04.md](./2010-08-04.md) |
 | 2010-07-17 | 2010-08-03 | [2010-07-17.md](./2010-07-17.md) |
-| 2010-04-01 | 2010-07-16 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-04-01 | 2010-07-16 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2007-12-29 | 2009-12-31 | [2007-12-29.md](./2007-12-29.md) |

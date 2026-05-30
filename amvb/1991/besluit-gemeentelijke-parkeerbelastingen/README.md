@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 22 november 1990, houdende nadere regels ter uitvoering van de artikelen 283a en 283b van de gemeentewet
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Bgpb
-latest_state: "2025-01-01"
-state_count: 27
+latest_state: "2026-01-01"
+state_count: 28
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 27
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Bgpb
-**ELI:** [/eli/nl/amvb/1991/besluit-gemeentelijke-parkeerbelastingen](https://wetten.ai/eli/nl/amvb/1991/besluit-gemeentelijke-parkeerbelastingen)
+**ELI:** [/eli/nl/amvb/1991/besluit-gemeentelijke-parkeerbelastingen](https://wettenbank.online/eli/nl/amvb/1991/besluit-gemeentelijke-parkeerbelastingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |

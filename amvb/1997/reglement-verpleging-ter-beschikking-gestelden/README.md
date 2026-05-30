@@ -5,8 +5,8 @@ type: amvb
 title: Besluit van 22 mei 1997, houdende regels omtrent de tenuitvoerlegging van de maatregel van terbeschikkingstelling en de verpleging van ter beschikking gestelden en overige verpleegden strafrechtstoepassing (Reglement verpleging ter beschikking gestelden)
 ministry: Veiligheid en Justitie
 abbreviation: Rvt
-latest_state: "2022-01-01"
-state_count: 20
+latest_state: "2026-01-01"
+state_count: 19
 ---
 
 
@@ -17,12 +17,13 @@ state_count: 20
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Rvt
-**ELI:** [/eli/nl/amvb/1997/reglement-verpleging-ter-beschikking-gestelden](https://wetten.ai/eli/nl/amvb/1997/reglement-verpleging-ter-beschikking-gestelden)
+**ELI:** [/eli/nl/amvb/1997/reglement-verpleging-ter-beschikking-gestelden](https://wettenbank.online/eli/nl/amvb/1997/reglement-verpleging-ter-beschikking-gestelden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-01-01 | heden | [2026-01-01.md](./2026-01-01.md) |
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
@@ -35,8 +36,6 @@ state_count: 20
 | 2010-08-04 | 2010-12-31 | [2010-08-04.md](./2010-08-04.md) |
 | 2008-12-17 | 2010-08-03 | [2008-12-17.md](./2008-12-17.md) |
 | 2008-06-27 | 2008-12-16 | [2008-06-27.md](./2008-06-27.md) |
-| 2008-06-27 | 2008-12-16 | [2008-06-27.md](./2008-06-27.md) |
-| 2008-01-01 | 2008-06-26 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-06-26 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-08-03 | 2005-12-31 | [2005-08-03.md](./2005-08-03.md) |

@@ -5,8 +5,8 @@ type: zbo
 title: Besluit van het Stimuleringsfonds voor de Journalistiek van 11 juni 2025, nr. ROJ2526, tot vaststelling van een subsidieregeling Ruimte voor Onderzoeksjournalistiek 2025–2026
 ministry: Stimuleringsfonds voor de Journalistiek
 abbreviation: null
-latest_state: "2025-07-30"
-state_count: 2
+latest_state: "2025-11-21"
+state_count: 3
 ---
 
 
@@ -16,11 +16,12 @@ state_count: 2
 **Citeertitel:** Regeling Ruimte voor Onderzoeksjournalistiek 2025–2026
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stimuleringsfonds voor de Journalistiek
-**ELI:** [/eli/nl/zbo/2025/regeling-ruimte-voor-onderzoeksjournalistiek-2025-2026](https://wetten.ai/eli/nl/zbo/2025/regeling-ruimte-voor-onderzoeksjournalistiek-2025-2026)
+**ELI:** [/eli/nl/zbo/2025/regeling-ruimte-voor-onderzoeksjournalistiek-2025-2026](https://wettenbank.online/eli/nl/zbo/2025/regeling-ruimte-voor-onderzoeksjournalistiek-2025-2026)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2025-11-21 | heden | [2025-11-21.md](./2025-11-21.md) |
 | 2025-07-30 | heden | [2025-07-30.md](./2025-07-30.md) |
 | 2025-06-11 | 2025-07-29 | [2025-06-11.md](./2025-06-11.md) |
