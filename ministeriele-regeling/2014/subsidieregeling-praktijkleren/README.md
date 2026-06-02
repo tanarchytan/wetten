@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 31 okt
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-09-03"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Subsidieregeling praktijkleren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2014/subsidieregeling-praktijkleren](https://wetten.ai/eli/nl/ministeriele-regeling/2014/subsidieregeling-praktijkleren)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/subsidieregeling-praktijkleren](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/subsidieregeling-praktijkleren)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 23
 |---|---|---|
 | 2025-09-03 | heden | [2025-09-03.md](./2025-09-03.md) |
 | 2025-09-01 | 2025-09-02 | [2025-09-01.md](./2025-09-01.md) |
-| 2025-09-01 | 2025-09-02 | [2025-09-01.md](./2025-09-01.md) |
-| 2024-04-07 | 2025-08-31 | [2024-04-07.md](./2024-04-07.md) |
 | 2024-04-07 | 2025-08-31 | [2024-04-07.md](./2024-04-07.md) |
 | 2024-01-01 | 2024-04-06 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-03-16 | 2023-12-31 | [2023-03-16.md](./2023-03-16.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 29 juni 2021, kenmerk 236
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-05-12"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Subsidieregeling brancheopleidingen Logistiek, Groenvoorziening en Facilitair
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-brancheopleidingen-logistiek-groenvoorzieni](https://wetten.ai/eli/nl/ministeriele-regeling/2021/subsidieregeling-brancheopleidingen-logistiek-groenvoorzieni)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-brancheopleidingen-logistiek-groenvoorzieni](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/subsidieregeling-brancheopleidingen-logistiek-groenvoorzieni)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2022-05-12 | 2025-02-28 | [2022-05-12.md](./2022-05-12.md) |
 | 2022-02-10 | 2022-05-11 | [2022-02-10.md](./2022-02-10.md) |
-| 2022-01-17 | 2022-02-09 | [2022-01-17.md](./2022-01-17.md) |
 | 2022-01-17 | 2022-02-09 | [2022-01-17.md](./2022-01-17.md) |
 | 2021-07-19 | 2022-01-16 | [2021-07-19.md](./2021-07-19.md) |

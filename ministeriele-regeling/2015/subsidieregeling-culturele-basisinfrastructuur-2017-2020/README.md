@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 25 okto
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-01-15"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Subsidieregeling culturele basisinfrastructuur 2017–2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-culturele-basisinfrastructuur-2017-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2015/subsidieregeling-culturele-basisinfrastructuur-2017-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-culturele-basisinfrastructuur-2017-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/subsidieregeling-culturele-basisinfrastructuur-2017-2020)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-01-15 | 2021-03-31 | [2016-01-15.md](./2016-01-15.md) |
-| 2015-11-04 | 2016-01-14 | [2015-11-04.md](./2015-11-04.md) |
 | 2015-11-04 | 2016-01-14 | [2015-11-04.md](./2015-11-04.md) |

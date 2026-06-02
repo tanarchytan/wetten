@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling intensivering Nederlandse taal en rekenen mbo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-intensivering-nederlandse-taal-en-rekenen-mbo](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-intensivering-nederlandse-taal-en-rekenen-mbo)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-intensivering-nederlandse-taal-en-rekenen-mbo](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-intensivering-nederlandse-taal-en-rekenen-mbo)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2011-11-09 | 2012-12-03 | [2011-11-09.md](./2011-11-09.md) |
 | 2010-11-17 | 2011-11-08 | [2010-11-17.md](./2010-11-17.md) |
 | 2010-05-26 | 2010-11-16 | [2010-05-26.md](./2010-05-26.md) |
-| 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |

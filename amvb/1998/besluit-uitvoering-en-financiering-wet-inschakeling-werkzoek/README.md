@@ -6,7 +6,7 @@ title: Besluit van 17 december 1997, houdende regels inzake de uitvoering en fin
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2003-01-01"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit uitvoering en financiering Wet inschakeling werkzoekenden
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/1998/besluit-uitvoering-en-financiering-wet-inschakeling-werkzoek](https://wetten.ai/eli/nl/amvb/1998/besluit-uitvoering-en-financiering-wet-inschakeling-werkzoek)
+**ELI:** [/eli/nl/amvb/1998/besluit-uitvoering-en-financiering-wet-inschakeling-werkzoek](https://wettenbank.online/eli/nl/amvb/1998/besluit-uitvoering-en-financiering-wet-inschakeling-werkzoek)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2003-01-01 | 2003-12-31 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-07-03 | 2002-12-31 | [2002-07-03.md](./2002-07-03.md) |
-| 2002-07-03 | 2002-12-31 | [2002-07-03.md](./2002-07-03.md) |
-| 2002-01-01 | 2002-07-02 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-07-02 | [2002-01-01.md](./2002-01-01.md) |

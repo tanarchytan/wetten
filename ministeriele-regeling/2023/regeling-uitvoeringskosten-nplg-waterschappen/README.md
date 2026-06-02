@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Natuur en Stikstof van 12 oktober 2023, nr.
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2024-04-18"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling uitvoeringskosten NPLG waterschappen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-uitvoeringskosten-nplg-waterschappen](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-uitvoeringskosten-nplg-waterschappen)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-uitvoeringskosten-nplg-waterschappen](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-uitvoeringskosten-nplg-waterschappen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-04-18 | heden | [2024-04-18.md](./2024-04-18.md) |
-| 2023-10-18 | 2024-04-17 | [2023-10-18.md](./2023-10-18.md) |
 | 2023-10-18 | 2024-04-17 | [2023-10-18.md](./2023-10-18.md) |

@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 12 november 2009 tot 
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2010-07-18"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening HPA aardappelzetmeelcontingent, aardappelzetmeelpremie en steun voor zetmeelaardappelen 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2010/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp](https://wetten.ai/eli/nl/pbo/2010/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp)
+**ELI:** [/eli/nl/pbo/2010/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp](https://wettenbank.online/eli/nl/pbo/2010/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-07-18 | 2013-05-17 | [2010-07-18.md](./2010-07-18.md) |
-| 2010-05-01 | 2010-07-17 | [2010-05-01.md](./2010-05-01.md) |
 | 2010-05-01 | 2010-07-17 | [2010-05-01.md](./2010-05-01.md) |
 | 2010-02-07 | 2010-04-30 | [2010-02-07.md](./2010-02-07.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken van 7 juni 2010, nr. WJZ/
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2021-06-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit aanwijzing hoofd begeleidingsteam Uitvoeringswet verdrag chemische wapens 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-aanwijzing-hoofd-begeleidingsteam-uitvoeringswet-ver](https://wetten.ai/eli/nl/ministeriele-regeling/2010/besluit-aanwijzing-hoofd-begeleidingsteam-uitvoeringswet-ver)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-aanwijzing-hoofd-begeleidingsteam-uitvoeringswet-ver](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/besluit-aanwijzing-hoofd-begeleidingsteam-uitvoeringswet-ver)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-06-23 | heden | [2021-06-23.md](./2021-06-23.md) |
-| 2021-01-01 | 2021-06-22 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-06-22 | [2021-01-01.md](./2021-01-01.md) |
 | 2010-06-16 | 2020-12-31 | [2010-06-16.md](./2010-06-16.md) |
 | 2010-01-01 | 2010-06-15 | [2010-01-01.md](./2010-01-01.md) |

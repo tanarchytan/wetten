@@ -6,7 +6,7 @@ title: Instellingsbesluit Programmacommissie programmaonderzoek ondernemerschap 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2005-03-10"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Instellingsbesluit Programmacommissie programmaonderzoek ondernemerschap en MKB
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2001/instellingsbesluit-programmacommissie-programmaonderzoek-ond](https://wetten.ai/eli/nl/ministeriele-regeling/2001/instellingsbesluit-programmacommissie-programmaonderzoek-ond)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/instellingsbesluit-programmacommissie-programmaonderzoek-ond](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/instellingsbesluit-programmacommissie-programmaonderzoek-ond)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-03-10 | 2005-12-31 | [2005-03-10.md](./2005-03-10.md) |
-| 2005-01-01 | 2005-03-09 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-09 | [2005-01-01.md](./2005-01-01.md) |
 | 2001-07-13 | 2004-12-31 | [2001-07-13.md](./2001-07-13.md) |

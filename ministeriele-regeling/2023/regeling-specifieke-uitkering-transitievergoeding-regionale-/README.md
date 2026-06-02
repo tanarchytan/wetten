@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 13
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2023-07-04"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling specifieke uitkering transitievergoeding regionale OV-concessies 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-transitievergoeding-regionale-](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-transitievergoeding-regionale-)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-transitievergoeding-regionale-](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-transitievergoeding-regionale-)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2023-07-04 | 2023-12-31 | [2023-07-04.md](./2023-07-04.md) |
 | 2023-02-21 | 2023-07-03 | [2023-02-21.md](./2023-02-21.md) |
-| 2023-02-21 | 2023-07-03 | [2023-02-21.md](./2023-02-21.md) |
-| 2023-01-01 | 2023-02-20 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-02-20 | [2023-01-01.md](./2023-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Veiligheid en Justitie van 23 decembe
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-12-24"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Gemeentelijk Versnellingsarrangement
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2016/gemeentelijk-versnellingsarrangement](https://wetten.ai/eli/nl/ministeriele-regeling/2016/gemeentelijk-versnellingsarrangement)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/gemeentelijk-versnellingsarrangement](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/gemeentelijk-versnellingsarrangement)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2016-12-24 | 2018-12-31 | [2016-12-24.md](./2016-12-24.md) |
 | 2016-08-01 | 2016-12-23 | [2016-08-01.md](./2016-08-01.md) |
-| 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |

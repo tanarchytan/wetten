@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 de
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-12-09"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/warenwetregeling-aanwijzing-en-werkwijze-toezichthouders-cok](https://wetten.ai/eli/nl/ministeriele-regeling/2006/warenwetregeling-aanwijzing-en-werkwijze-toezichthouders-cok)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/warenwetregeling-aanwijzing-en-werkwijze-toezichthouders-cok](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/warenwetregeling-aanwijzing-en-werkwijze-toezichthouders-cok)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 10
 | 2020-12-09 | heden | [2020-12-09.md](./2020-12-09.md) |
 | 2019-12-14 | 2020-12-08 | [2019-12-14.md](./2019-12-14.md) |
 | 2018-02-01 | 2019-12-13 | [2018-02-01.md](./2018-02-01.md) |
-| 2017-07-01 | 2018-01-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-07-01 | 2018-01-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2012-07-01 | 2017-06-30 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-01-19 | 2012-06-30 | [2012-01-19.md](./2012-01-19.md) |

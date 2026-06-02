@@ -6,7 +6,7 @@ title: Besluit van 27 maart 1963 ter uitvoering van artikel 60 van de Luchtvaart
 ministry: Defensie
 abbreviation: null
 latest_state: "2009-07-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Schadeloosstellingsregeling Luchtvaartwet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/1963/schadeloosstellingsregeling-luchtvaartwet](https://wetten.ai/eli/nl/amvb/1963/schadeloosstellingsregeling-luchtvaartwet)
+**ELI:** [/eli/nl/amvb/1963/schadeloosstellingsregeling-luchtvaartwet](https://wettenbank.online/eli/nl/amvb/1963/schadeloosstellingsregeling-luchtvaartwet)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2009-07-01 | heden | [2009-07-01.md](./2009-07-01.md) |
 | 2007-10-31 | 2009-06-30 | [2007-10-31.md](./2007-10-31.md) |
-| 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
 | 1994-01-01 | 2007-08-31 | [1994-01-01.md](./1994-01-01.md) |

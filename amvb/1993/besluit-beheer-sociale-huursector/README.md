@@ -6,7 +6,7 @@ title: Besluit van 9 oktober 1992, houdende regels betreffende instellingen, wer
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: BBSH
 latest_state: "2015-01-01"
-state_count: 46
+state_count: 44
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 46
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** BBSH
-**ELI:** [/eli/nl/amvb/1993/besluit-beheer-sociale-huursector](https://wetten.ai/eli/nl/amvb/1993/besluit-beheer-sociale-huursector)
+**ELI:** [/eli/nl/amvb/1993/besluit-beheer-sociale-huursector](https://wettenbank.online/eli/nl/amvb/1993/besluit-beheer-sociale-huursector)
 
 ## Versies
 
@@ -50,8 +50,6 @@ state_count: 46
 | 2009-01-01 | 2009-02-28 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-11-05 | 2008-12-31 | [2008-11-05.md](./2008-11-05.md) |
 | 2008-10-06 | 2008-11-04 | [2008-10-06.md](./2008-10-06.md) |
-| 2008-10-06 | 2008-11-04 | [2008-10-06.md](./2008-10-06.md) |
-| 2008-07-01 | 2008-10-05 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2008-10-05 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-03-01 | 2008-06-30 | [2008-03-01.md](./2008-03-01.md) |
 | 2007-12-21 | 2008-02-29 | [2007-12-21.md](./2007-12-21.md) |

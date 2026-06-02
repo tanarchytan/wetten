@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 okt
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2019-12-20"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Tijdelijke regeling tegemoetkoming Dagloonbesluit werknemersverzekeringen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2017/tijdelijke-regeling-tegemoetkoming-dagloonbesluit-werknemers](https://wetten.ai/eli/nl/ministeriele-regeling/2017/tijdelijke-regeling-tegemoetkoming-dagloonbesluit-werknemers)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/tijdelijke-regeling-tegemoetkoming-dagloonbesluit-werknemers](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/tijdelijke-regeling-tegemoetkoming-dagloonbesluit-werknemers)
 
 ## Versies
 
@@ -25,11 +25,6 @@ state_count: 11
 | 2019-12-20 | 2020-12-31 | [2019-12-20.md](./2019-12-20.md) |
 | 2019-06-20 | 2019-12-19 | [2019-06-20.md](./2019-06-20.md) |
 | 2018-07-01 | 2019-06-19 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2019-06-19 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-04-01 | 2018-06-30 | [2018-04-01.md](./2018-04-01.md) |
 | 2018-04-01 | 2018-06-30 | [2018-04-01.md](./2018-04-01.md) |
 | 2017-12-14 | 2018-03-31 | [2017-12-14.md](./2017-12-14.md) |
-| 2017-12-14 | 2018-03-31 | [2017-12-14.md](./2017-12-14.md) |
-| 2017-04-01 | 2017-12-13 | [2017-04-01.md](./2017-04-01.md) |
-| 2017-04-01 | 2017-12-13 | [2017-04-01.md](./2017-04-01.md) |
 | 2017-04-01 | 2017-12-13 | [2017-04-01.md](./2017-04-01.md) |

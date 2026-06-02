@@ -6,7 +6,7 @@ title: Wet van 26 november 2014 tot wijziging van enkele wetten van het Minister
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2017-04-01"
-state_count: 19
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 19
 **Citeertitel:** Verzamelwet SZW 2015
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/2015/verzamelwet-szw-2015](https://wetten.ai/eli/nl/wet/2015/verzamelwet-szw-2015)
+**ELI:** [/eli/nl/wet/2015/verzamelwet-szw-2015](https://wettenbank.online/eli/nl/wet/2015/verzamelwet-szw-2015)
 
 ## Versies
 
@@ -33,11 +33,7 @@ state_count: 19
 | 2015-04-01 | 2015-05-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-01-02 | 2015-03-31 | [2015-01-02.md](./2015-01-02.md) |
 | 2015-01-01 | 2015-01-01 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-01-01 | [2015-01-01.md](./2015-01-01.md) |
-| 2014-10-18 | 2014-12-31 | [2014-10-18.md](./2014-10-18.md) |
 | 2014-10-18 | 2014-12-31 | [2014-10-18.md](./2014-10-18.md) |
 | 2014-01-01 | 2014-10-17 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-10-17 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-10-01 | 2013-12-31 | [2013-10-01.md](./2013-10-01.md) |
 | 2013-10-01 | 2013-12-31 | [2013-10-01.md](./2013-10-01.md) |
 | 2013-01-01 | 2013-09-30 | [2013-01-01.md](./2013-01-01.md) |

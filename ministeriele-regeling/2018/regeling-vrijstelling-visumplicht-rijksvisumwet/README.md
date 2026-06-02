@@ -6,7 +6,7 @@ title: Regeling van de Minister van Buitenlandse Zaken van 14 juni 2018, nr Min-
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2022-03-21"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling vrijstelling visumplicht Rijksvisumwet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-vrijstelling-visumplicht-rijksvisumwet](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-vrijstelling-visumplicht-rijksvisumwet)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-vrijstelling-visumplicht-rijksvisumwet](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-vrijstelling-visumplicht-rijksvisumwet)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 10
 | 2022-01-15 | 2022-03-20 | [2022-01-15.md](./2022-01-15.md) |
 | 2021-03-01 | 2022-01-14 | [2021-03-01.md](./2021-03-01.md) |
 | 2021-01-30 | 2021-02-28 | [2021-01-30.md](./2021-01-30.md) |
-| 2021-01-15 | 2021-01-29 | [2021-01-15.md](./2021-01-15.md) |
 | 2021-01-15 | 2021-01-29 | [2021-01-15.md](./2021-01-15.md) |
 | 2019-12-01 | 2021-01-14 | [2019-12-01.md](./2019-12-01.md) |
 | 2019-09-04 | 2019-11-30 | [2019-09-04.md](./2019-09-04.md) |

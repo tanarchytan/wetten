@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat, houdende nadere regel
 ministry: Infrastructuur en Milieu
 abbreviation: RMRG
 latest_state: "2011-11-01"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RMRG
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-maatregelen-rijvaardigheid-en-geschiktheid](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-maatregelen-rijvaardigheid-en-geschiktheid)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-maatregelen-rijvaardigheid-en-geschiktheid](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-maatregelen-rijvaardigheid-en-geschiktheid)
 
 ## Versies
 
@@ -33,7 +33,6 @@ state_count: 17
 | 2008-02-01 | 2008-09-30 | [2008-02-01.md](./2008-02-01.md) |
 | 2006-10-01 | 2008-01-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-02-08 | 2006-09-30 | [2006-02-08.md](./2006-02-08.md) |
-| 2006-01-01 | 2006-02-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-02-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-04-01 | 2005-12-31 | [2005-04-01.md](./2005-04-01.md) |
 | 2004-05-15 | 2005-03-31 | [2004-05-15.md](./2004-05-15.md) |

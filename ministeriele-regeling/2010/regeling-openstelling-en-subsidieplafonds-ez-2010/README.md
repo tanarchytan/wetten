@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 10 december 2009, nr. 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-05-04"
-state_count: 35
+state_count: 33
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 35
 **Citeertitel:** Regeling openstelling en subsidieplafonds EZ 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-openstelling-en-subsidieplafonds-ez-2010](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-openstelling-en-subsidieplafonds-ez-2010)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-openstelling-en-subsidieplafonds-ez-2010](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-openstelling-en-subsidieplafonds-ez-2010)
 
 ## Versies
 
@@ -38,8 +38,6 @@ state_count: 35
 | 2010-07-30 | 2010-08-02 | [2010-07-30.md](./2010-07-30.md) |
 | 2010-07-13 | 2010-07-29 | [2010-07-13.md](./2010-07-13.md) |
 | 2010-07-07 | 2010-07-12 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-07-07 | 2010-07-12 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-07-01 | 2010-07-06 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-07-01 | 2010-07-06 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-06-30 | 2010-06-30 | [2010-06-30.md](./2010-06-30.md) |
 | 2010-06-25 | 2010-06-29 | [2010-06-25.md](./2010-06-25.md) |

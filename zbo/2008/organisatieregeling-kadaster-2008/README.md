@@ -6,7 +6,7 @@ title: Organisatieregeling Kadaster 2008
 ministry: Kadaster
 abbreviation: null
 latest_state: "2022-03-31"
-state_count: 18
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Organisatieregeling Kadaster 2008
 **Type:** zbo
 **Verantwoordelijk ministerie:** Kadaster
-**ELI:** [/eli/nl/zbo/2008/organisatieregeling-kadaster-2008](https://wetten.ai/eli/nl/zbo/2008/organisatieregeling-kadaster-2008)
+**ELI:** [/eli/nl/zbo/2008/organisatieregeling-kadaster-2008](https://wettenbank.online/eli/nl/zbo/2008/organisatieregeling-kadaster-2008)
 
 ## Versies
 
@@ -30,10 +30,7 @@ state_count: 18
 | 2009-12-01 | 2010-05-31 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-09-17 | 2009-11-30 | [2009-09-17.md](./2009-09-17.md) |
 | 2009-08-03 | 2009-09-16 | [2009-08-03.md](./2009-08-03.md) |
-| 2009-08-03 | 2009-09-16 | [2009-08-03.md](./2009-08-03.md) |
 | 2009-07-13 | 2009-08-02 | [2009-07-13.md](./2009-07-13.md) |
-| 2009-07-13 | 2009-08-02 | [2009-07-13.md](./2009-07-13.md) |
-| 2009-04-20 | 2009-07-12 | [2009-04-20.md](./2009-04-20.md) |
 | 2009-04-20 | 2009-07-12 | [2009-04-20.md](./2009-04-20.md) |
 | 2009-03-20 | 2009-04-19 | [2009-03-20.md](./2009-03-20.md) |
 | 2008-11-21 | 2009-03-19 | [2008-11-21.md](./2008-11-21.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 16 februari 20
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling fosfaatreductieplan 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-fosfaatreductieplan-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-fosfaatreductieplan-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-fosfaatreductieplan-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-fosfaatreductieplan-2017)
 
 ## Versies
 
@@ -26,7 +26,4 @@ state_count: 8
 | 2017-06-01 | 2019-12-31 | [2017-06-01.md](./2017-06-01.md) |
 | 2017-05-01 | 2017-05-31 | [2017-05-01.md](./2017-05-01.md) |
 | 2017-03-31 | 2017-04-30 | [2017-03-31.md](./2017-03-31.md) |
-| 2017-03-31 | 2017-04-30 | [2017-03-31.md](./2017-03-31.md) |
-| 2017-03-01 | 2017-03-30 | [2017-03-01.md](./2017-03-01.md) |
-| 2017-03-01 | 2017-03-30 | [2017-03-01.md](./2017-03-01.md) |
 | 2017-03-01 | 2017-03-30 | [2017-03-01.md](./2017-03-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie en Veiligheid van 19 januari 2021 h
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2023-10-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling bescherming koopvaardij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-bescherming-koopvaardij](https://wetten.ai/eli/nl/ministeriele-regeling/2022/regeling-bescherming-koopvaardij)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-bescherming-koopvaardij](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/regeling-bescherming-koopvaardij)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-10-12 | heden | [2023-10-12.md](./2023-10-12.md) |
-| 2023-10-01 | 2023-10-11 | [2023-10-01.md](./2023-10-01.md) |
 | 2023-10-01 | 2023-10-11 | [2023-10-01.md](./2023-10-01.md) |
 | 2022-02-01 | 2023-09-30 | [2022-02-01.md](./2022-02-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 9 februari 2006, houdende regels inzake de openbaarmaking van bel
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: Wopt
 latest_state: "2009-12-09"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** Wopt
-**ELI:** [/eli/nl/wet/2006/wet-openbaarmaking-uit-publieke-middelen-gefinancierde-topin](https://wetten.ai/eli/nl/wet/2006/wet-openbaarmaking-uit-publieke-middelen-gefinancierde-topin)
+**ELI:** [/eli/nl/wet/2006/wet-openbaarmaking-uit-publieke-middelen-gefinancierde-topin](https://wettenbank.online/eli/nl/wet/2006/wet-openbaarmaking-uit-publieke-middelen-gefinancierde-topin)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 5
 |---|---|---|
 | 2009-12-09 | 2012-12-31 | [2009-12-09.md](./2009-12-09.md) |
 | 2007-04-27 | 2009-12-08 | [2007-04-27.md](./2007-04-27.md) |
-| 2007-01-01 | 2007-04-26 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-04-26 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-03-01 | 2006-12-31 | [2006-03-01.md](./2006-03-01.md) |

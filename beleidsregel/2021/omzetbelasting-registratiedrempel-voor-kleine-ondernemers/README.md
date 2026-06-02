@@ -6,7 +6,7 @@ title: Omzetbelasting, registratiedrempel voor kleine ondernemers
 ministry: Financiën
 abbreviation: null
 latest_state: "2021-07-23"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Omzetbelasting, registratiedrempel voor kleine ondernemers
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/beleidsregel/2021/omzetbelasting-registratiedrempel-voor-kleine-ondernemers](https://wetten.ai/eli/nl/beleidsregel/2021/omzetbelasting-registratiedrempel-voor-kleine-ondernemers)
+**ELI:** [/eli/nl/beleidsregel/2021/omzetbelasting-registratiedrempel-voor-kleine-ondernemers](https://wettenbank.online/eli/nl/beleidsregel/2021/omzetbelasting-registratiedrempel-voor-kleine-ondernemers)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2021-07-23 | 2024-12-31 | [2021-07-23.md](./2021-07-23.md) |
 | 2021-06-19 | 2021-07-22 | [2021-06-19.md](./2021-06-19.md) |
-| 2021-06-19 | 2021-07-22 | [2021-06-19.md](./2021-06-19.md) |
-| 2021-06-10 | 2021-06-18 | [2021-06-10.md](./2021-06-10.md) |
 | 2021-06-10 | 2021-06-18 | [2021-06-10.md](./2021-06-10.md) |
 | 2020-01-02 | 2021-06-09 | [2020-01-02.md](./2020-01-02.md) |

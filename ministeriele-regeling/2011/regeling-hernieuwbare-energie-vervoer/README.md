@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu van 2 mei 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling hernieuwbare energie vervoer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-hernieuwbare-energie-vervoer](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-hernieuwbare-energie-vervoer)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-hernieuwbare-energie-vervoer](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-hernieuwbare-energie-vervoer)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-06-05 | 2013-12-31 | [2013-06-05.md](./2013-06-05.md) |
-| 2013-01-01 | 2013-06-04 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-04 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2011-05-12 | 2012-06-30 | [2011-05-12.md](./2011-05-12.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2012-01-05"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling normen studiefinanciering en tegemoetkoming onderwijsbijdrage en schoolkosten 2011 en 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-normen-studiefinanciering-en-tegemoetkoming-onderwi](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-normen-studiefinanciering-en-tegemoetkoming-onderwi)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-normen-studiefinanciering-en-tegemoetkoming-onderwi](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-normen-studiefinanciering-en-tegemoetkoming-onderwi)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-01-05 | 2013-07-31 | [2012-01-05.md](./2012-01-05.md) |
-| 2012-01-01 | 2012-01-04 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-01-04 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-09-01 | 2010-12-31 | [2010-09-01.md](./2010-09-01.md) |

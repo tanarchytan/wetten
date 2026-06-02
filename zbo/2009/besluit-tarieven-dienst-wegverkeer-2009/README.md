@@ -6,7 +6,7 @@ title: Besluit tarieven Dienst Wegverkeer 2009
 ministry: Dienst Wegverkeer
 abbreviation: null
 latest_state: "2009-09-27"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit tarieven Dienst Wegverkeer 2009
 **Type:** zbo
 **Verantwoordelijk ministerie:** Dienst Wegverkeer
-**ELI:** [/eli/nl/zbo/2009/besluit-tarieven-dienst-wegverkeer-2009](https://wetten.ai/eli/nl/zbo/2009/besluit-tarieven-dienst-wegverkeer-2009)
+**ELI:** [/eli/nl/zbo/2009/besluit-tarieven-dienst-wegverkeer-2009](https://wettenbank.online/eli/nl/zbo/2009/besluit-tarieven-dienst-wegverkeer-2009)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2009-09-27 | 2009-12-31 | [2009-09-27.md](./2009-09-27.md) |
 | 2009-07-01 | 2009-09-26 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-05-01 | 2009-06-30 | [2009-05-01.md](./2009-05-01.md) |
 | 2009-05-01 | 2009-06-30 | [2009-05-01.md](./2009-05-01.md) |
 | 2009-01-01 | 2009-04-30 | [2009-01-01.md](./2009-01-01.md) |

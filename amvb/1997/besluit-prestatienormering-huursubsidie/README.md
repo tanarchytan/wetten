@@ -6,7 +6,7 @@ title: Besluit van 25 juni 1997 tot het stellen van regels met betrekking tot de
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2004-03-26"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit prestatienormering huursubsidie
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1997/besluit-prestatienormering-huursubsidie](https://wetten.ai/eli/nl/amvb/1997/besluit-prestatienormering-huursubsidie)
+**ELI:** [/eli/nl/amvb/1997/besluit-prestatienormering-huursubsidie](https://wettenbank.online/eli/nl/amvb/1997/besluit-prestatienormering-huursubsidie)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2004-03-26 | 2005-12-31 | [2004-03-26.md](./2004-03-26.md) |
 | 2003-07-01 | 2004-03-25 | [2003-07-01.md](./2003-07-01.md) |
-| 2003-07-01 | 2004-03-25 | [2003-07-01.md](./2003-07-01.md) |
-| 2002-07-01 | 2003-06-30 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-07-01 | 2003-06-30 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-01-01 | 2002-06-30 | [2002-01-01.md](./2002-01-01.md) |

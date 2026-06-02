@@ -6,7 +6,7 @@ title: Wet van 24 december 1997, houdende het onder de werkingssfeer van de wett
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: OOW
 latest_state: "2018-01-01"
-state_count: 17
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** OOW
-**ELI:** [/eli/nl/wet/1997/wet-overheidspersoneel-onder-de-werknemersverzekeringen](https://wetten.ai/eli/nl/wet/1997/wet-overheidspersoneel-onder-de-werknemersverzekeringen)
+**ELI:** [/eli/nl/wet/1997/wet-overheidspersoneel-onder-de-werknemersverzekeringen](https://wettenbank.online/eli/nl/wet/1997/wet-overheidspersoneel-onder-de-werknemersverzekeringen)
 
 ## Versies
 
@@ -33,9 +33,6 @@ state_count: 17
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-28 | 2005-12-31 | [2005-12-28.md](./2005-12-28.md) |
 | 2005-12-09 | 2005-12-27 | [2005-12-09.md](./2005-12-09.md) |
-| 2005-12-09 | 2005-12-27 | [2005-12-09.md](./2005-12-09.md) |
-| 2004-10-01 | 2005-12-08 | [2004-10-01.md](./2004-10-01.md) |
-| 2004-10-01 | 2005-12-08 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-10-01 | 2005-12-08 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-01-01 | 2004-09-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2002-09-01 | 2003-12-31 | [2002-09-01.md](./2002-09-01.md) |

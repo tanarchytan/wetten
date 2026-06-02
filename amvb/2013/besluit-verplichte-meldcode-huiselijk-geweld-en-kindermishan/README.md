@@ -6,7 +6,7 @@ title: Besluit van 16 juli 2013, houdende vaststelling van de minimumeisen voor 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-10-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit verplichte meldcode huiselijk geweld en kindermishandeling
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2013/besluit-verplichte-meldcode-huiselijk-geweld-en-kindermishan](https://wetten.ai/eli/nl/amvb/2013/besluit-verplichte-meldcode-huiselijk-geweld-en-kindermishan)
+**ELI:** [/eli/nl/amvb/2013/besluit-verplichte-meldcode-huiselijk-geweld-en-kindermishan](https://wettenbank.online/eli/nl/amvb/2013/besluit-verplichte-meldcode-huiselijk-geweld-en-kindermishan)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2020-10-01 | heden | [2020-10-01.md](./2020-10-01.md) |
 | 2019-01-01 | 2020-09-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-01-01 | 2018-05-24 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-31 | 2014-12-31 | [2013-07-31.md](./2013-07-31.md) |

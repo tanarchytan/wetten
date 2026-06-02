@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-08-13"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Instellingsbesluit visitatiecommissies cultuurinstellingen 2009–2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-visitatiecommissies-cultuurinstellingen-2](https://wetten.ai/eli/nl/ministeriele-regeling/2010/instellingsbesluit-visitatiecommissies-cultuurinstellingen-2)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-visitatiecommissies-cultuurinstellingen-2](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/instellingsbesluit-visitatiecommissies-cultuurinstellingen-2)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2010-08-13 | 2011-10-31 | [2010-08-13.md](./2010-08-13.md) |
 | 2010-07-01 | 2010-08-12 | [2010-07-01.md](./2010-07-01.md) |
-| 2010-07-01 | 2010-08-12 | [2010-07-01.md](./2010-07-01.md) |
-| 2010-05-12 | 2010-06-30 | [2010-05-12.md](./2010-05-12.md) |
 | 2010-05-12 | 2010-06-30 | [2010-05-12.md](./2010-05-12.md) |
 | 2009-09-01 | 2010-05-11 | [2009-09-01.md](./2009-09-01.md) |

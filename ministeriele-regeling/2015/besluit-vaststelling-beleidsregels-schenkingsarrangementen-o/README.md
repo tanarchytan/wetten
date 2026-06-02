@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2021-10-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit vaststelling beleidsregels schenkingsarrangementen (ontwikkeling en aanbesteding ontwikkelingsrelevante infrastructurele projecten (Develop2Build))
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-schenkingsarrangementen-o](https://wetten.ai/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-schenkingsarrangementen-o)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-schenkingsarrangementen-o](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-schenkingsarrangementen-o)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2017-05-10 | 2019-12-27 | [2017-05-10.md](./2017-05-10.md) |
 | 2016-11-18 | 2017-05-09 | [2016-11-18.md](./2016-11-18.md) |
 | 2016-05-24 | 2016-11-17 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-01-01 | 2016-05-23 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-05-23 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-06-17 | 2015-12-31 | [2015-06-17.md](./2015-06-17.md) |

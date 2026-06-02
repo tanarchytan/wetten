@@ -6,7 +6,7 @@ title: Besluit van 4 oktober 2012, houdende regels omtrent de doeleinden waarvoo
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit verplichte politiegegevens
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2013/besluit-verplichte-politiegegevens](https://wetten.ai/eli/nl/amvb/2013/besluit-verplichte-politiegegevens)
+**ELI:** [/eli/nl/amvb/2013/besluit-verplichte-politiegegevens](https://wettenbank.online/eli/nl/amvb/2013/besluit-verplichte-politiegegevens)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2021-10-01 | 2023-12-31 | [2021-10-01.md](./2021-10-01.md) |
 | 2017-11-29 | 2021-09-30 | [2017-11-29.md](./2017-11-29.md) |
-| 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |

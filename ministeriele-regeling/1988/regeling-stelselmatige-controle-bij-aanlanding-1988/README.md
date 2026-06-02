@@ -6,7 +6,7 @@ title: Regeling stelselmatige controle bij aanlanding 1988
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 25
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 25
 **Citeertitel:** Regeling stelselmatige controle bij aanlanding 1988
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1988/regeling-stelselmatige-controle-bij-aanlanding-1988](https://wetten.ai/eli/nl/ministeriele-regeling/1988/regeling-stelselmatige-controle-bij-aanlanding-1988)
+**ELI:** [/eli/nl/ministeriele-regeling/1988/regeling-stelselmatige-controle-bij-aanlanding-1988](https://wettenbank.online/eli/nl/ministeriele-regeling/1988/regeling-stelselmatige-controle-bij-aanlanding-1988)
 
 ## Versies
 
@@ -34,12 +34,10 @@ state_count: 25
 | 2007-02-01 | 2007-04-30 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-04 | 2007-01-31 | [2007-01-04.md](./2007-01-04.md) |
 | 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-24 | 2006-12-31 | [2006-12-24.md](./2006-12-24.md) |
 | 2006-11-02 | 2006-12-23 | [2006-11-02.md](./2006-11-02.md) |
 | 2006-07-14 | 2006-11-01 | [2006-07-14.md](./2006-07-14.md) |
 | 2006-02-01 | 2006-07-13 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-02-01 | 2005-12-31 | [2005-02-01.md](./2005-02-01.md) |
 | 2005-01-01 | 2005-01-31 | [2005-01-01.md](./2005-01-01.md) |

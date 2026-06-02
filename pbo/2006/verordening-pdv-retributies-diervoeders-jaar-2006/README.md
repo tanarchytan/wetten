@@ -6,7 +6,7 @@ title: Verordening van het Productschap Diervoeder van 9 november 2005, houdende
 ministry: Productschap Diervoeder
 abbreviation: null
 latest_state: "2007-01-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Verordening PDV retributies diervoeders jaar 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Diervoeder
-**ELI:** [/eli/nl/pbo/2006/verordening-pdv-retributies-diervoeders-jaar-2006](https://wetten.ai/eli/nl/pbo/2006/verordening-pdv-retributies-diervoeders-jaar-2006)
+**ELI:** [/eli/nl/pbo/2006/verordening-pdv-retributies-diervoeders-jaar-2006](https://wettenbank.online/eli/nl/pbo/2006/verordening-pdv-retributies-diervoeders-jaar-2006)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2007-01-01 | 2007-05-26 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-05-14 | 2006-12-31 | [2006-05-14.md](./2006-05-14.md) |
 | 2006-01-22 | 2006-05-13 | [2006-01-22.md](./2006-01-22.md) |
-| 2006-01-22 | 2006-05-13 | [2006-01-22.md](./2006-01-22.md) |
-| 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |

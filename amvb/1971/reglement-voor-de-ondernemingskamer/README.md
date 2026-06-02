@@ -6,7 +6,7 @@ title: Besluit van 2 december 1970, houdende uitvoering van artikel 72 van de We
 ministry: Veiligheid en Justitie
 abbreviation: Regl  Ok
 latest_state: "2025-05-27"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Regl  Ok
-**ELI:** [/eli/nl/amvb/1971/reglement-voor-de-ondernemingskamer](https://wetten.ai/eli/nl/amvb/1971/reglement-voor-de-ondernemingskamer)
+**ELI:** [/eli/nl/amvb/1971/reglement-voor-de-ondernemingskamer](https://wettenbank.online/eli/nl/amvb/1971/reglement-voor-de-ondernemingskamer)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 10
 |---|---|---|
 | 2025-05-27 | heden | [2025-05-27.md](./2025-05-27.md) |
 | 2025-01-01 | 2025-05-26 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-05-26 | [2025-01-01.md](./2025-01-01.md) |
 | 2014-10-15 | 2024-12-31 | [2014-10-15.md](./2014-10-15.md) |
-| 2013-07-01 | 2014-10-14 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2014-10-14 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-07-01 | 2012-12-31 | [2010-07-01.md](./2010-07-01.md) |

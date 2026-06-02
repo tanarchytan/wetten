@@ -6,7 +6,7 @@ title: Wijzigingsregeling diverse Uitvoeringsregelingen Ministerie van Financië
 ministry: Financiën
 abbreviation: null
 latest_state: "2009-02-12"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Wijzigingsregeling diverse Uitvoeringsregelingen Ministerie van Financiën
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2006/wijzigingsregeling-diverse-uitvoeringsregelingen-ministerie-](https://wetten.ai/eli/nl/ministeriele-regeling/2006/wijzigingsregeling-diverse-uitvoeringsregelingen-ministerie-)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/wijzigingsregeling-diverse-uitvoeringsregelingen-ministerie-](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/wijzigingsregeling-diverse-uitvoeringsregelingen-ministerie-)
 
 ## Versies
 
@@ -24,12 +24,7 @@ state_count: 11
 |---|---|---|
 | 2009-02-12 | heden | [2009-02-12.md](./2009-02-12.md) |
 | 2006-07-01 | 2009-02-11 | [2006-07-01.md](./2006-07-01.md) |
-| 2006-07-01 | 2009-02-11 | [2006-07-01.md](./2006-07-01.md) |
-| 2006-01-01 | 2006-06-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-06-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
-| 2001-01-01 | 2003-12-31 | [2001-01-01.md](./2001-01-01.md) |
 | 2001-01-01 | 2003-12-31 | [2001-01-01.md](./2001-01-01.md) |

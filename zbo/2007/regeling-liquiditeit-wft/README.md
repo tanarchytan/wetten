@@ -6,7 +6,7 @@ title: Regeling van De Nederlandsche Bank N.V. van 6 december 2006, nr. Juza/20
 ministry: De Nederlandsche Bank N.V.
 abbreviation: Rl Wft
 latest_state: "2007-12-20"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -17,12 +17,11 @@ state_count: 3
 **Type:** zbo
 **Verantwoordelijk ministerie:** De Nederlandsche Bank N.V.
 **Afkorting:** Rl Wft
-**ELI:** [/eli/nl/zbo/2007/regeling-liquiditeit-wft](https://wetten.ai/eli/nl/zbo/2007/regeling-liquiditeit-wft)
+**ELI:** [/eli/nl/zbo/2007/regeling-liquiditeit-wft](https://wettenbank.online/eli/nl/zbo/2007/regeling-liquiditeit-wft)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-12-20 | 2011-04-30 | [2007-12-20.md](./2007-12-20.md) |
-| 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling bekendmaking percentage heffingsrente en invorderingsrente bij b
 ministry: Financiën
 abbreviation: null
 latest_state: "2012-11-16"
-state_count: 41
+state_count: 40
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 41
 **Citeertitel:** Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/1992/regeling-bekendmaking-percentage-heffingsrente-en-invorderin](https://wetten.ai/eli/nl/ministeriele-regeling/1992/regeling-bekendmaking-percentage-heffingsrente-en-invorderin)
+**ELI:** [/eli/nl/ministeriele-regeling/1992/regeling-bekendmaking-percentage-heffingsrente-en-invorderin](https://wettenbank.online/eli/nl/ministeriele-regeling/1992/regeling-bekendmaking-percentage-heffingsrente-en-invorderin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-11-16 | heden | [2012-11-16.md](./2012-11-16.md) |
-| 2012-10-01 | 2012-11-15 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-10-01 | 2012-11-15 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-07-01 | 2012-09-30 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-04-01 | 2012-06-30 | [2012-04-01.md](./2012-04-01.md) |

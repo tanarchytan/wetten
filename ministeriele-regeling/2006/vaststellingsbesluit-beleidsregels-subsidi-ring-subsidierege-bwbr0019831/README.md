@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Ontwikkelingssamenwerking van 5 mei 2006, n
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2007-04-12"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Vaststellingsbesluit beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (ORET)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/vaststellingsbesluit-beleidsregels-subsidi-ring-subsidierege-bwbr0019831](https://wetten.ai/eli/nl/ministeriele-regeling/2006/vaststellingsbesluit-beleidsregels-subsidi-ring-subsidierege-bwbr0019831)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/vaststellingsbesluit-beleidsregels-subsidi-ring-subsidierege-bwbr0019831](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/vaststellingsbesluit-beleidsregels-subsidi-ring-subsidierege-bwbr0019831)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2007-04-12 | 2008-07-26 | [2007-04-12.md](./2007-04-12.md) |
 | 2007-01-10 | 2007-04-11 | [2007-01-10.md](./2007-01-10.md) |
-| 2007-01-01 | 2007-01-09 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-09 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-11 | 2006-12-31 | [2006-10-11.md](./2006-10-11.md) |
 | 2006-05-20 | 2006-10-10 | [2006-05-20.md](./2006-05-20.md) |

@@ -6,7 +6,7 @@ title: Besluit van 25 januari 1973, houdende nieuwe regelen nopens de aflevering
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Bvaz
 latest_state: "2004-05-19"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Bvaz
-**ELI:** [/eli/nl/amvb/1974/besluit-vergiften-in-apotheken-en-ziekenhuizen-1973](https://wetten.ai/eli/nl/amvb/1974/besluit-vergiften-in-apotheken-en-ziekenhuizen-1973)
+**ELI:** [/eli/nl/amvb/1974/besluit-vergiften-in-apotheken-en-ziekenhuizen-1973](https://wettenbank.online/eli/nl/amvb/1974/besluit-vergiften-in-apotheken-en-ziekenhuizen-1973)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-05-19 | 2007-06-30 | [2004-05-19.md](./2004-05-19.md) |
-| 2003-03-17 | 2004-05-18 | [2003-03-17.md](./2003-03-17.md) |
 | 2003-03-17 | 2004-05-18 | [2003-03-17.md](./2003-03-17.md) |
 | 1998-06-19 | 2003-03-16 | [1998-06-19.md](./1998-06-19.md) |

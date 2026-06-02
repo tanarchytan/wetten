@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling regels vergoedingen bestuur van de Stichting donorgegevens kunstmatige bevruchting
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-regels-vergoedingen-bestuur-van-de-stichting-donorg](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-regels-vergoedingen-bestuur-van-de-stichting-donorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-regels-vergoedingen-bestuur-van-de-stichting-donorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-regels-vergoedingen-bestuur-van-de-stichting-donorg)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2020-01-01 | 2025-03-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2005-01-23 | 2019-12-31 | [2005-01-23.md](./2005-01-23.md) |
-| 2005-01-01 | 2005-01-22 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-01-22 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-05-13 | 2004-12-31 | [2004-05-13.md](./2004-05-13.md) |
 | 2004-05-01 | 2004-05-12 | [2004-05-01.md](./2004-05-01.md) |

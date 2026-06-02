@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken en Klimaat van 5 juli 2022,
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2022-12-21"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit aanwijzing beheerautoriteit en auditautoriteit voor het Programma EFRO 2021–2027 Oost-Nederland
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2022/besluit-aanwijzing-beheerautoriteit-en-auditautoriteit-voor--bwbr0046930](https://wetten.ai/eli/nl/ministeriele-regeling/2022/besluit-aanwijzing-beheerautoriteit-en-auditautoriteit-voor--bwbr0046930)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/besluit-aanwijzing-beheerautoriteit-en-auditautoriteit-voor--bwbr0046930](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/besluit-aanwijzing-beheerautoriteit-en-auditautoriteit-voor--bwbr0046930)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-12-21 | heden | [2022-12-21.md](./2022-12-21.md) |
-| 2022-11-10 | 2022-12-20 | [2022-11-10.md](./2022-11-10.md) |
 | 2022-11-10 | 2022-12-20 | [2022-11-10.md](./2022-11-10.md) |
 | 2022-07-16 | 2022-11-09 | [2022-07-16.md](./2022-07-16.md) |

@@ -6,7 +6,7 @@ title: Wet van 25 mei 1998, houdende regels ter bescherming van in het wild leve
 ministry: Economische Zaken
 abbreviation: Ffw
 latest_state: "2016-04-14"
-state_count: 27
+state_count: 25
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 27
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Ffw
-**ELI:** [/eli/nl/wet/1999/flora-en-faunawet](https://wetten.ai/eli/nl/wet/1999/flora-en-faunawet)
+**ELI:** [/eli/nl/wet/1999/flora-en-faunawet](https://wettenbank.online/eli/nl/wet/1999/flora-en-faunawet)
 
 ## Versies
 
@@ -41,8 +41,6 @@ state_count: 27
 | 2008-02-01 | 2008-07-31 | [2008-02-01.md](./2008-02-01.md) |
 | 2008-01-01 | 2008-01-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-10-17 | 2007-12-31 | [2007-10-17.md](./2007-10-17.md) |
-| 2007-10-17 | 2007-12-31 | [2007-10-17.md](./2007-10-17.md) |
-| 2007-07-01 | 2007-10-16 | [2007-07-01.md](./2007-07-01.md) |
 | 2007-07-01 | 2007-10-16 | [2007-07-01.md](./2007-07-01.md) |
 | 2006-05-12 | 2007-06-30 | [2006-05-12.md](./2006-05-12.md) |
 | 2006-03-08 | 2006-05-11 | [2006-03-08.md](./2006-03-08.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2010-05-05"
-state_count: 15
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Regeling budgetverdeling politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-budgetverdeling-politie](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-budgetverdeling-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-budgetverdeling-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-budgetverdeling-politie)
 
 ## Versies
 
@@ -24,16 +24,8 @@ state_count: 15
 |---|---|---|
 | 2010-05-05 | 2012-12-31 | [2010-05-05.md](./2010-05-05.md) |
 | 2009-04-02 | 2010-05-04 | [2009-04-02.md](./2009-04-02.md) |
-| 2009-04-02 | 2010-05-04 | [2009-04-02.md](./2009-04-02.md) |
-| 2009-01-01 | 2009-04-01 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-04-01 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-04-01 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-04-02 | 2008-12-31 | [2008-04-02.md](./2008-04-02.md) |
-| 2008-04-02 | 2008-12-31 | [2008-04-02.md](./2008-04-02.md) |
-| 2008-01-01 | 2008-04-01 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-04-01 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-04-01 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-09-05 | 2007-12-31 | [2007-09-05.md](./2007-09-05.md) |
-| 2007-09-05 | 2007-12-31 | [2007-09-05.md](./2007-09-05.md) |
-| 2007-01-01 | 2007-09-04 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-09-04 | [2007-01-01.md](./2007-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 17 juni
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-03-20"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Instellingsbesluit Commissie Doelmatigheid Hoger Onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-commissie-doelmatigheid-hoger-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2009/instellingsbesluit-commissie-doelmatigheid-hoger-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-commissie-doelmatigheid-hoger-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/instellingsbesluit-commissie-doelmatigheid-hoger-onderwijs)
 
 ## Versies
 
@@ -24,11 +24,9 @@ state_count: 10
 |---|---|---|
 | 2024-03-20 | heden | [2024-03-20.md](./2024-03-20.md) |
 | 2023-04-01 | 2024-03-19 | [2023-04-01.md](./2023-04-01.md) |
-| 2023-04-01 | 2024-03-19 | [2023-04-01.md](./2023-04-01.md) |
 | 2020-01-01 | 2023-03-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-08-01 | 2019-12-31 | [2017-08-01.md](./2017-08-01.md) |
 | 2013-07-23 | 2017-07-31 | [2013-07-23.md](./2013-07-23.md) |
-| 2013-07-01 | 2013-07-22 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-07-22 | [2013-07-01.md](./2013-07-01.md) |
 | 2011-10-01 | 2013-06-30 | [2011-10-01.md](./2011-10-01.md) |
 | 2009-07-01 | 2011-09-30 | [2009-07-01.md](./2009-07-01.md) |

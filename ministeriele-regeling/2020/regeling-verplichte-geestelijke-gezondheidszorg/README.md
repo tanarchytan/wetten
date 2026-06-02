@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Rvggz
 latest_state: "2023-09-02"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Rvggz
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-verplichte-geestelijke-gezondheidszorg](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-verplichte-geestelijke-gezondheidszorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-verplichte-geestelijke-gezondheidszorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-verplichte-geestelijke-gezondheidszorg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-09-02 | heden | [2023-09-02.md](./2023-09-02.md) |
-| 2023-01-01 | 2023-09-01 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-09-01 | [2023-01-01.md](./2023-01-01.md) |
 | 2020-01-01 | 2022-12-31 | [2020-01-01.md](./2020-01-01.md) |

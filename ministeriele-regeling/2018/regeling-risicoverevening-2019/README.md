@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 24 september 2018, kenmer
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-07-02"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling risicoverevening 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-risicoverevening-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-risicoverevening-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-risicoverevening-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-risicoverevening-2019)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-07-02 | heden | [2022-07-02.md](./2022-07-02.md) |
-| 2018-09-30 | 2022-07-01 | [2018-09-30.md](./2018-09-30.md) |
 | 2018-09-30 | 2022-07-01 | [2018-09-30.md](./2018-09-30.md) |

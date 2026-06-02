@@ -6,7 +6,7 @@ title: Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2018-07-10"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Benoemingsbesluit referendumcommissie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2015/benoemingsbesluit-referendumcommissie](https://wetten.ai/eli/nl/ministeriele-regeling/2015/benoemingsbesluit-referendumcommissie)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/benoemingsbesluit-referendumcommissie](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/benoemingsbesluit-referendumcommissie)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2018-07-10 | 2018-07-11 | [2018-07-10.md](./2018-07-10.md) |
 | 2016-06-17 | 2018-07-09 | [2016-06-17.md](./2016-06-17.md) |
 | 2016-04-01 | 2016-06-16 | [2016-04-01.md](./2016-04-01.md) |
-| 2016-04-01 | 2016-06-16 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-01-30 | 2016-03-31 | [2016-01-30.md](./2016-01-30.md) |
-| 2015-12-01 | 2016-01-29 | [2015-12-01.md](./2015-12-01.md) |
 | 2015-12-01 | 2016-01-29 | [2015-12-01.md](./2015-12-01.md) |
 | 2015-10-01 | 2015-11-30 | [2015-10-01.md](./2015-10-01.md) |

@@ -6,7 +6,7 @@ title: "Regeling van de Minister van Financiën en de Staatssecretaris van Socia
 ministry: Financiën
 abbreviation: null
 latest_state: "2016-11-09"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling bekostiging financieel toezicht 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-bekostiging-financieel-toezicht-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-bekostiging-financieel-toezicht-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-bekostiging-financieel-toezicht-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-bekostiging-financieel-toezicht-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-11-09 | 2018-12-31 | [2016-11-09.md](./2016-11-09.md) |
-| 2015-05-30 | 2016-11-08 | [2015-05-30.md](./2015-05-30.md) |
 | 2015-05-30 | 2016-11-08 | [2015-05-30.md](./2015-05-30.md) |

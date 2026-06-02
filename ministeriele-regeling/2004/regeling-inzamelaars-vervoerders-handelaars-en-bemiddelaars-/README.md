@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2022-10-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling inzamelaars, vervoerders, handelaars en bemiddelaars van afvalstoffen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-inzamelaars-vervoerders-handelaars-en-bemiddelaars-](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-inzamelaars-vervoerders-handelaars-en-bemiddelaars-)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-inzamelaars-vervoerders-handelaars-en-bemiddelaars-](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-inzamelaars-vervoerders-handelaars-en-bemiddelaars-)
 
 ## Versies
 
@@ -30,5 +30,4 @@ state_count: 10
 | 2006-05-25 | 2009-06-30 | [2006-05-25.md](./2006-05-25.md) |
 | 2005-01-01 | 2006-05-24 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-09-11 | 2004-12-31 | [2004-09-11.md](./2004-09-11.md) |
-| 2004-05-01 | 2004-09-10 | [2004-05-01.md](./2004-05-01.md) |
 | 2004-05-01 | 2004-09-10 | [2004-05-01.md](./2004-05-01.md) |

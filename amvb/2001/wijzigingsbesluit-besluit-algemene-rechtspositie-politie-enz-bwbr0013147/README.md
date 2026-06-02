@@ -6,7 +6,7 @@ title: Besluit van 11 december 2001 tot wijziging van het Besluit algemene recht
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2006-12-22"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Wijzigingsbesluit Besluit algemene rechtspositie politie, enz. (Akkoord Arbeidsvoorwaarden sector politie voor de periode van 1 januari 2001 tot en met 31 december 2003)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2001/wijzigingsbesluit-besluit-algemene-rechtspositie-politie-enz-bwbr0013147](https://wetten.ai/eli/nl/amvb/2001/wijzigingsbesluit-besluit-algemene-rechtspositie-politie-enz-bwbr0013147)
+**ELI:** [/eli/nl/amvb/2001/wijzigingsbesluit-besluit-algemene-rechtspositie-politie-enz-bwbr0013147](https://wettenbank.online/eli/nl/amvb/2001/wijzigingsbesluit-besluit-algemene-rechtspositie-politie-enz-bwbr0013147)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-12-22 | 2012-12-31 | [2006-12-22.md](./2006-12-22.md) |
-| 2006-01-01 | 2006-12-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2002-08-28 | 2005-12-31 | [2002-08-28.md](./2002-08-28.md) |
 | 2002-01-01 | 2002-08-27 | [2002-01-01.md](./2002-01-01.md) |

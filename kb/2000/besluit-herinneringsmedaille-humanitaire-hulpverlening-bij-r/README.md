@@ -6,7 +6,7 @@ title: Besluit van 1 februari 2000, houdende hernieuwde vaststelling van het bes
 ministry: Defensie
 abbreviation: null
 latest_state: "2018-07-25"
-state_count: 15
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Besluit Herinneringsmedaille Humanitaire hulpverlening bij Rampen
 **Type:** kb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/kb/2000/besluit-herinneringsmedaille-humanitaire-hulpverlening-bij-r](https://wetten.ai/eli/nl/kb/2000/besluit-herinneringsmedaille-humanitaire-hulpverlening-bij-r)
+**ELI:** [/eli/nl/kb/2000/besluit-herinneringsmedaille-humanitaire-hulpverlening-bij-r](https://wettenbank.online/eli/nl/kb/2000/besluit-herinneringsmedaille-humanitaire-hulpverlening-bij-r)
 
 ## Versies
 
@@ -24,12 +24,8 @@ state_count: 15
 |---|---|---|
 | 2018-07-25 | heden | [2018-07-25.md](./2018-07-25.md) |
 | 2018-07-01 | 2018-07-24 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-24 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-07-09 | 2017-12-31 | [2016-07-09.md](./2016-07-09.md) |
-| 2016-07-09 | 2017-12-31 | [2016-07-09.md](./2016-07-09.md) |
-| 2016-01-01 | 2016-07-08 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-07-08 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-03 | 2015-12-31 | [2015-04-03.md](./2015-04-03.md) |
 | 2010-07-24 | 2015-04-02 | [2010-07-24.md](./2010-07-24.md) |

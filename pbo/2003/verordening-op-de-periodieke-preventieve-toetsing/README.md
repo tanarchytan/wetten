@@ -6,7 +6,7 @@ title: Verordening op de Periodieke Preventieve Toetsing
 ministry: Nederlandse Orde van Accountants-Administratieconsulenten
 abbreviation: null
 latest_state: "2012-07-02"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Verordening op de periodieke preventieve toetsing
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse Orde van Accountants-Administratieconsulenten
-**ELI:** [/eli/nl/pbo/2003/verordening-op-de-periodieke-preventieve-toetsing](https://wetten.ai/eli/nl/pbo/2003/verordening-op-de-periodieke-preventieve-toetsing)
+**ELI:** [/eli/nl/pbo/2003/verordening-op-de-periodieke-preventieve-toetsing](https://wettenbank.online/eli/nl/pbo/2003/verordening-op-de-periodieke-preventieve-toetsing)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 14
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-08-01 | 2009-12-31 | [2009-08-01.md](./2009-08-01.md) |
-| 2009-07-02 | 2009-07-31 | [2009-07-02.md](./2009-07-02.md) |
 | 2009-07-02 | 2009-07-31 | [2009-07-02.md](./2009-07-02.md) |
 | 2009-02-01 | 2009-07-01 | [2009-02-01.md](./2009-02-01.md) |
 | 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |

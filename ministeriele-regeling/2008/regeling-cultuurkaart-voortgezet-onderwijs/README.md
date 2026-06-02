@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2013-12-20"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling Cultuurkaart voortgezet onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-cultuurkaart-voortgezet-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-cultuurkaart-voortgezet-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-cultuurkaart-voortgezet-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-cultuurkaart-voortgezet-onderwijs)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2013-12-20 | 2014-10-31 | [2013-12-20.md](./2013-12-20.md) |
 | 2013-11-01 | 2013-12-19 | [2013-11-01.md](./2013-11-01.md) |
-| 2013-11-01 | 2013-12-19 | [2013-11-01.md](./2013-11-01.md) |
 | 2011-12-10 | 2013-10-31 | [2011-12-10.md](./2011-12-10.md) |
-| 2011-09-01 | 2011-12-09 | [2011-09-01.md](./2011-09-01.md) |
 | 2011-09-01 | 2011-12-09 | [2011-09-01.md](./2011-09-01.md) |
 | 2008-07-26 | 2011-08-31 | [2008-07-26.md](./2008-07-26.md) |
 | 2008-05-01 | 2008-07-25 | [2008-05-01.md](./2008-05-01.md) |

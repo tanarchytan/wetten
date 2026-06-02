@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Economische Zaken en Klimaat en de Staat
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-05-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Beleidsregel tegemoetkoming getroffen ondernemers COVID-19 BES
 **Type:** beleidsregel-bes
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/beleidsregel-bes/2020/beleidsregel-tegemoetkoming-getroffen-ondernemers-covid-19-b](https://wetten.ai/eli/nl/beleidsregel-bes/2020/beleidsregel-tegemoetkoming-getroffen-ondernemers-covid-19-b)
+**ELI:** [/eli/nl/beleidsregel-bes/2020/beleidsregel-tegemoetkoming-getroffen-ondernemers-covid-19-b](https://wettenbank.online/eli/nl/beleidsregel-bes/2020/beleidsregel-tegemoetkoming-getroffen-ondernemers-covid-19-b)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-05-23 | 2020-12-31 | [2020-05-23.md](./2020-05-23.md) |
-| 2020-05-14 | 2020-05-22 | [2020-05-14.md](./2020-05-14.md) |
 | 2020-05-14 | 2020-05-22 | [2020-05-14.md](./2020-05-14.md) |
 | 2020-04-25 | 2020-05-13 | [2020-04-25.md](./2020-04-25.md) |
 | 2020-04-23 | 2020-04-24 | [2020-04-23.md](./2020-04-23.md) |

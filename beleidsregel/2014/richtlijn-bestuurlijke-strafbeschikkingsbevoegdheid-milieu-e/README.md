@@ -6,7 +6,7 @@ title: Richtlijn bestuurlijke strafbeschikkingsbevoegdheid milieu- en keurfeiten
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2023-03-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Richtlijn bestuurlijke strafbeschikkingsbevoegdheid milieu- en keurfeiten (art. 257ba, tweede lid, Sv)
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/beleidsregel/2014/richtlijn-bestuurlijke-strafbeschikkingsbevoegdheid-milieu-e](https://wetten.ai/eli/nl/beleidsregel/2014/richtlijn-bestuurlijke-strafbeschikkingsbevoegdheid-milieu-e)
+**ELI:** [/eli/nl/beleidsregel/2014/richtlijn-bestuurlijke-strafbeschikkingsbevoegdheid-milieu-e](https://wettenbank.online/eli/nl/beleidsregel/2014/richtlijn-bestuurlijke-strafbeschikkingsbevoegdheid-milieu-e)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 12
 | 2021-01-01 | 2022-02-28 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-05 | 2019-12-31 | [2019-01-05.md](./2019-01-05.md) |
-| 2019-01-01 | 2019-01-04 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-01-04 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie van 13 december 2006, nr. 5457714/0
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Instellingsbesluit FIU-Nederland
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2006/instellingsbesluit-fiu-nederland](https://wetten.ai/eli/nl/ministeriele-regeling/2006/instellingsbesluit-fiu-nederland)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/instellingsbesluit-fiu-nederland](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/instellingsbesluit-fiu-nederland)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2013-01-01 | 2013-05-24 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-12-17 | 2012-12-31 | [2011-12-17.md](./2011-12-17.md) |
-| 2010-10-10 | 2011-12-16 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-12-16 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-09-22 | 2010-10-09 | [2010-09-22.md](./2010-09-22.md) |
 | 2008-08-01 | 2010-09-21 | [2008-08-01.md](./2008-08-01.md) |

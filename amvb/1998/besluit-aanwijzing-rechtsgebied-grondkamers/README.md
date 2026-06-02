@@ -6,7 +6,7 @@ title: Besluit van 12 september 1997, houdende aanwijzing van rechtsgebied en st
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2003-04-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit aanwijzing rechtsgebied grondkamers
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/1998/besluit-aanwijzing-rechtsgebied-grondkamers](https://wetten.ai/eli/nl/amvb/1998/besluit-aanwijzing-rechtsgebied-grondkamers)
+**ELI:** [/eli/nl/amvb/1998/besluit-aanwijzing-rechtsgebied-grondkamers](https://wettenbank.online/eli/nl/amvb/1998/besluit-aanwijzing-rechtsgebied-grondkamers)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-04-09 | 2007-10-30 | [2003-04-09.md](./2003-04-09.md) |
-| 2002-09-01 | 2003-04-08 | [2002-09-01.md](./2002-09-01.md) |
 | 2002-09-01 | 2003-04-08 | [2002-09-01.md](./2002-09-01.md) |
 | 1998-01-01 | 2002-08-31 | [1998-01-01.md](./1998-01-01.md) |

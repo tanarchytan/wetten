@@ -6,7 +6,7 @@ title: Uitvoeringsregeling loonbelasting BES
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-04-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Uitvoeringsregeling loonbelasting BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/uitvoeringsregeling-loonbelasting-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2011/uitvoeringsregeling-loonbelasting-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/uitvoeringsregeling-loonbelasting-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2011/uitvoeringsregeling-loonbelasting-bes)
 
 ## Versies
 
@@ -31,6 +31,5 @@ state_count: 12
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-02-06 | 2013-12-31 | [2013-02-06.md](./2013-02-06.md) |
-| 2013-01-01 | 2013-02-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-02-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-01-01 | 2012-12-31 | [2011-01-01.md](./2011-01-01.md) |

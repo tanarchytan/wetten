@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 juni 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-02-25"
-state_count: 11
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-aanvullende-ondersteuning-culturele-en-creatieve-se](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-aanvullende-ondersteuning-culturele-en-creatieve-se)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-aanvullende-ondersteuning-culturele-en-creatieve-se](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-aanvullende-ondersteuning-culturele-en-creatieve-se)
 
 ## Versies
 
@@ -26,10 +26,6 @@ state_count: 11
 | 2021-12-29 | 2022-02-24 | [2021-12-29.md](./2021-12-29.md) |
 | 2021-07-03 | 2021-12-28 | [2021-07-03.md](./2021-07-03.md) |
 | 2021-03-20 | 2021-07-02 | [2021-03-20.md](./2021-03-20.md) |
-| 2021-03-20 | 2021-07-02 | [2021-03-20.md](./2021-03-20.md) |
 | 2021-01-28 | 2021-03-19 | [2021-01-28.md](./2021-01-28.md) |
-| 2021-01-28 | 2021-03-19 | [2021-01-28.md](./2021-01-28.md) |
-| 2021-01-28 | 2021-03-19 | [2021-01-28.md](./2021-01-28.md) |
-| 2020-06-12 | 2021-01-27 | [2020-06-12.md](./2020-06-12.md) |
 | 2020-06-12 | 2021-01-27 | [2020-06-12.md](./2020-06-12.md) |
 | 2017-04-11 | 2020-06-11 | [2017-04-11.md](./2017-04-11.md) |

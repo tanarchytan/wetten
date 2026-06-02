@@ -6,7 +6,7 @@ title: Regeling van De Nederlandsche Bank N.V. van 30 maart 2007, nr. Juza/200
 ministry: De Nederlandsche Bank N.V.
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling informatieverstrekking pensioenfondsen
 **Type:** zbo
 **Verantwoordelijk ministerie:** De Nederlandsche Bank N.V.
-**ELI:** [/eli/nl/zbo/2007/regeling-informatieverstrekking-pensioenfondsen](https://wetten.ai/eli/nl/zbo/2007/regeling-informatieverstrekking-pensioenfondsen)
+**ELI:** [/eli/nl/zbo/2007/regeling-informatieverstrekking-pensioenfondsen](https://wettenbank.online/eli/nl/zbo/2007/regeling-informatieverstrekking-pensioenfondsen)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 12
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-02 | 2010-12-31 | [2010-01-02.md](./2010-01-02.md) |
 | 2009-09-11 | 2010-01-01 | [2009-09-11.md](./2009-09-11.md) |
-| 2009-01-01 | 2009-09-10 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-09-10 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-05-08 | 2008-12-31 | [2008-05-08.md](./2008-05-08.md) |
 | 2007-04-12 | 2008-05-07 | [2007-04-12.md](./2007-04-12.md) |

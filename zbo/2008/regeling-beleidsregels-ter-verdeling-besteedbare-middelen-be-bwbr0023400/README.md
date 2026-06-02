@@ -6,7 +6,7 @@ title: Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten v
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2009-04-09"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2008
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2008/regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0023400](https://wetten.ai/eli/nl/zbo/2008/regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0023400)
+**ELI:** [/eli/nl/zbo/2008/regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0023400](https://wettenbank.online/eli/nl/zbo/2008/regeling-beleidsregels-ter-verdeling-besteedbare-middelen-be-bwbr0023400)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-04-09 | heden | [2009-04-09.md](./2009-04-09.md) |
-| 2009-01-01 | 2009-04-08 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-04-08 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-01 | 2008-12-31 | [2008-02-01.md](./2008-02-01.md) |
 | 2008-01-01 | 2008-01-31 | [2008-01-01.md](./2008-01-01.md) |

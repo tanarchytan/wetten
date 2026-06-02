@@ -6,7 +6,7 @@ title: Wet van 14 november, houdende vaststelling van bepalingen betreffende wat
 ministry: Infrastructuur en Milieu
 abbreviation: WBR
 latest_state: "2023-06-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WBR
-**ELI:** [/eli/nl/wet/1997/wet-beheer-rijkswaterstaatswerken](https://wetten.ai/eli/nl/wet/1997/wet-beheer-rijkswaterstaatswerken)
+**ELI:** [/eli/nl/wet/1997/wet-beheer-rijkswaterstaatswerken](https://wettenbank.online/eli/nl/wet/1997/wet-beheer-rijkswaterstaatswerken)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 10
 | 2023-06-01 | 2023-12-31 | [2023-06-01.md](./2023-06-01.md) |
 | 2015-01-01 | 2023-05-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2010-12-23 | 2014-12-31 | [2010-12-23.md](./2010-12-23.md) |
-| 2010-12-19 | 2010-12-22 | [2010-12-19.md](./2010-12-19.md) |
 | 2010-12-19 | 2010-12-22 | [2010-12-19.md](./2010-12-19.md) |
 | 2010-03-31 | 2010-12-18 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-12-22 | 2010-03-30 | [2009-12-22.md](./2009-12-22.md) |

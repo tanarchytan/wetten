@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid en van de M
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2024-11-16"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling Rijksbijdrage kosten heffingskortingen en Ouderdomsfonds 2024
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wetten.ai/eli/nl/ministeriele-regeling/2024/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2024-11-16 | 2024-12-31 | [2024-11-16.md](./2024-11-16.md) |
 | 2024-05-28 | 2024-11-15 | [2024-05-28.md](./2024-05-28.md) |
-| 2024-05-28 | 2024-11-15 | [2024-05-28.md](./2024-05-28.md) |
-| 2024-01-01 | 2024-05-27 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-05-27 | [2024-01-01.md](./2024-01-01.md) |

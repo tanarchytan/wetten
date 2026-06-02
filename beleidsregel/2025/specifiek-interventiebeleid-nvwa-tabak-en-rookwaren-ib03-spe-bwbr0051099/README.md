@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Specifiek interventiebeleid NVWA tabak en rookwaren (IB03-SPEC 31, versie 21)
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/beleidsregel/2025/specifiek-interventiebeleid-nvwa-tabak-en-rookwaren-ib03-spe-bwbr0051099](https://wetten.ai/eli/nl/beleidsregel/2025/specifiek-interventiebeleid-nvwa-tabak-en-rookwaren-ib03-spe-bwbr0051099)
+**ELI:** [/eli/nl/beleidsregel/2025/specifiek-interventiebeleid-nvwa-tabak-en-rookwaren-ib03-spe-bwbr0051099](https://wettenbank.online/eli/nl/beleidsregel/2025/specifiek-interventiebeleid-nvwa-tabak-en-rookwaren-ib03-spe-bwbr0051099)
 
 ## Versies
 

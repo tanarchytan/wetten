@@ -6,7 +6,7 @@ title: Regeling tarieven in burgerlijke zaken
 ministry: Veiligheid en Justitie
 abbreviation: RTBZ
 latest_state: "2009-10-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 7
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** RTBZ
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-tarieven-in-burgerlijke-zaken](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-tarieven-in-burgerlijke-zaken)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-tarieven-in-burgerlijke-zaken](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-tarieven-in-burgerlijke-zaken)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 7
 | 2009-10-01 | 2010-10-31 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-01-01 | 2009-09-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2005-10-12 | 2008-12-31 | [2005-10-12.md](./2005-10-12.md) |
-| 2005-05-01 | 2005-10-11 | [2005-05-01.md](./2005-05-01.md) |
 | 2005-05-01 | 2005-10-11 | [2005-05-01.md](./2005-05-01.md) |
 | 2004-09-04 | 2005-04-30 | [2004-09-04.md](./2004-09-04.md) |
 | 2003-01-01 | 2004-09-03 | [2003-01-01.md](./2003-01-01.md) |

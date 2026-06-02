@@ -6,7 +6,7 @@ title: Besluit van 22 januari 2002, houdende nieuwe regels met betrekking tot co
 ministry: Infrastructuur en Milieu
 abbreviation: VWB
 latest_state: "2024-10-01"
-state_count: 36
+state_count: 35
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 36
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** VWB
-**ELI:** [/eli/nl/amvb/2002/vuurwerkbesluit](https://wetten.ai/eli/nl/amvb/2002/vuurwerkbesluit)
+**ELI:** [/eli/nl/amvb/2002/vuurwerkbesluit](https://wettenbank.online/eli/nl/amvb/2002/vuurwerkbesluit)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 36
 | 2015-09-22 | 2016-10-16 | [2015-09-22.md](./2015-09-22.md) |
 | 2014-12-13 | 2015-09-21 | [2014-12-13.md](./2014-12-13.md) |
 | 2014-07-16 | 2014-12-12 | [2014-07-16.md](./2014-07-16.md) |
-| 2013-07-04 | 2014-07-15 | [2013-07-04.md](./2013-07-04.md) |
 | 2013-07-04 | 2014-07-15 | [2013-07-04.md](./2013-07-04.md) |
 | 2013-01-01 | 2013-07-03 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |

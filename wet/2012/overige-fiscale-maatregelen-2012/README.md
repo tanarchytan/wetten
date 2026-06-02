@@ -6,7 +6,7 @@ title: Wet van 22 december 2011 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2015-06-30"
-state_count: 20
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Overige fiscale maatregelen 2012
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2012/overige-fiscale-maatregelen-2012](https://wetten.ai/eli/nl/wet/2012/overige-fiscale-maatregelen-2012)
+**ELI:** [/eli/nl/wet/2012/overige-fiscale-maatregelen-2012](https://wettenbank.online/eli/nl/wet/2012/overige-fiscale-maatregelen-2012)
 
 ## Versies
 
@@ -26,16 +26,10 @@ state_count: 20
 | 2013-12-01 | 2015-06-29 | [2013-12-01.md](./2013-12-01.md) |
 | 2013-01-01 | 2013-11-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
-| 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
-| 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-12-31 | 2011-12-31 | [2011-12-31.md](./2011-12-31.md) |
-| 2011-12-31 | 2011-12-31 | [2011-12-31.md](./2011-12-31.md) |
-| 2011-10-01 | 2011-12-30 | [2011-10-01.md](./2011-10-01.md) |
 | 2011-10-01 | 2011-12-30 | [2011-10-01.md](./2011-10-01.md) |
 | 2011-07-01 | 2011-09-30 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-07-01 | 2011-09-30 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-05-01 | 2010-12-31 | [2010-05-01.md](./2010-05-01.md) |
 | 2010-04-01 | 2010-04-30 | [2010-04-01.md](./2010-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 17 ja
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2009-02-08"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Wijzigingsregeling Subsidieregeling ‘Digitaliseren met beleid’ en vaststelling subsidieplafonds 2008 ontwikkelingsprojecten en informatieplannen en indieningperioden voor ontwikkelingsprojecten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/wijzigingsregeling-subsidieregeling-digitaliseren-met-beleid](https://wetten.ai/eli/nl/ministeriele-regeling/2008/wijzigingsregeling-subsidieregeling-digitaliseren-met-beleid)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/wijzigingsregeling-subsidieregeling-digitaliseren-met-beleid](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/wijzigingsregeling-subsidieregeling-digitaliseren-met-beleid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-02-08 | 2010-11-16 | [2009-02-08.md](./2009-02-08.md) |
-| 2008-09-01 | 2009-02-07 | [2008-09-01.md](./2008-09-01.md) |
 | 2008-09-01 | 2009-02-07 | [2008-09-01.md](./2008-09-01.md) |
 | 2008-02-07 | 2008-08-31 | [2008-02-07.md](./2008-02-07.md) |

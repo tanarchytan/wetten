@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu van 23 mei
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2021-08-02"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling bevordering aankoop schone en energiezuinige voertuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-bevordering-aankoop-schone-en-energiezuinige-voertu](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-bevordering-aankoop-schone-en-energiezuinige-voertu)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-bevordering-aankoop-schone-en-energiezuinige-voertu](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-bevordering-aankoop-schone-en-energiezuinige-voertu)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2021-08-02 | 2021-11-03 | [2021-08-02.md](./2021-08-02.md) |
 | 2020-12-19 | 2021-08-01 | [2020-12-19.md](./2020-12-19.md) |
-| 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2011-06-01 | 2020-08-31 | [2011-06-01.md](./2011-06-01.md) |

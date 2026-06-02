@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Infrastructuur en Milieu van 18 dece
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit aanwijzing toezichthouders en mandaat Regeling bedrijfsmatig tot ontbranding brengen van vuurwerk
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-toezichthouders-en-mandaat-regeling-bedri](https://wetten.ai/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-toezichthouders-en-mandaat-regeling-bedri)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-toezichthouders-en-mandaat-regeling-bedri](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-toezichthouders-en-mandaat-regeling-bedri)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2020-09-24 | 2023-12-31 | [2020-09-24.md](./2020-09-24.md) |
-| 2019-12-02 | 2020-09-23 | [2019-12-02.md](./2019-12-02.md) |
 | 2019-12-02 | 2020-09-23 | [2019-12-02.md](./2019-12-02.md) |
 | 2016-01-01 | 2019-12-01 | [2016-01-01.md](./2016-01-01.md) |
 | 2014-05-03 | 2015-12-31 | [2014-05-03.md](./2014-05-03.md) |

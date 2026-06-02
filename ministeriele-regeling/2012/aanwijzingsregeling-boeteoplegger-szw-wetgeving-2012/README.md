@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 nove
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-06-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Aanwijzingsregeling boeteoplegger SZW-wetgeving 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2012/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2012)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 9
 | 2023-06-01 | heden | [2023-06-01.md](./2023-06-01.md) |
 | 2022-01-01 | 2023-05-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2017-09-12 | 2021-12-31 | [2017-09-12.md](./2017-09-12.md) |
-| 2017-07-01 | 2017-09-11 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-07-01 | 2017-09-11 | [2017-07-01.md](./2017-07-01.md) |
 | 2016-06-18 | 2017-06-30 | [2016-06-18.md](./2016-06-18.md) |
 | 2015-06-27 | 2016-06-17 | [2015-06-27.md](./2015-06-27.md) |

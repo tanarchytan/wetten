@@ -6,7 +6,7 @@ title: Besluit van 8 november 2004, houdende voorlopige voorzieningen inzake het
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2018-07-28"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Tijdelijk besluit nummergebruik overheidstoegangsvoorziening
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2004/tijdelijk-besluit-nummergebruik-overheidstoegangsvoorziening](https://wetten.ai/eli/nl/amvb/2004/tijdelijk-besluit-nummergebruik-overheidstoegangsvoorziening)
+**ELI:** [/eli/nl/amvb/2004/tijdelijk-besluit-nummergebruik-overheidstoegangsvoorziening](https://wettenbank.online/eli/nl/amvb/2004/tijdelijk-besluit-nummergebruik-overheidstoegangsvoorziening)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-07-28 | heden | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-01-06 | 2018-05-24 | [2014-01-06.md](./2014-01-06.md) |
 | 2009-09-18 | 2014-01-05 | [2009-09-18.md](./2009-09-18.md) |

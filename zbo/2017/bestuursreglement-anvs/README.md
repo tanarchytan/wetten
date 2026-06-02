@@ -6,7 +6,7 @@ title: Besluit van de Autoriteit Nucleaire Veiligheid en Stralingsbescherming va
 ministry: Autoriteit Nucleaire Veiligheid en Stralingsbescherming
 abbreviation: null
 latest_state: "2023-09-21"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Bestuursreglement ANVS
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Nucleaire Veiligheid en Stralingsbescherming
-**ELI:** [/eli/nl/zbo/2017/bestuursreglement-anvs](https://wetten.ai/eli/nl/zbo/2017/bestuursreglement-anvs)
+**ELI:** [/eli/nl/zbo/2017/bestuursreglement-anvs](https://wettenbank.online/eli/nl/zbo/2017/bestuursreglement-anvs)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-09-21 | heden | [2023-09-21.md](./2023-09-21.md) |
-| 2023-02-01 | 2023-09-20 | [2023-02-01.md](./2023-02-01.md) |
 | 2023-02-01 | 2023-09-20 | [2023-02-01.md](./2023-02-01.md) |
 | 2020-03-07 | 2023-01-31 | [2020-03-07.md](./2020-03-07.md) |
 | 2017-09-16 | 2020-03-06 | [2017-09-16.md](./2017-09-16.md) |

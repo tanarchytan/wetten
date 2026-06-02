@@ -6,7 +6,7 @@ title: Wet van 17 juni 2004, houdende regels ter vergroting van de kenbaarheid v
 ministry: Infrastructuur en Milieu
 abbreviation: Wkpboz
 latest_state: "2024-01-01"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 15
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Wkpboz
-**ELI:** [/eli/nl/wet/2007/wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-za](https://wetten.ai/eli/nl/wet/2007/wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-za)
+**ELI:** [/eli/nl/wet/2007/wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-za](https://wettenbank.online/eli/nl/wet/2007/wet-kenbaarheid-publiekrechtelijke-beperkingen-onroerende-za)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 15
 | 2021-01-01 | 2023-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-04-01 | 2020-12-31 | [2020-04-01.md](./2020-04-01.md) |
 | 2018-07-28 | 2020-03-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-07-01 | 2018-05-24 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-01-01 | 2016-06-30 | [2015-01-01.md](./2015-01-01.md) |

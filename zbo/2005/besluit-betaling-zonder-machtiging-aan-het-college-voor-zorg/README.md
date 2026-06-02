@@ -6,7 +6,7 @@ title: Besluit betaling zonder machtiging aan het College voor zorgverzekeringen
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: null
 latest_state: "2011-07-14"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit betaling zonder machtiging aan het College voor zorgverzekeringen
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
-**ELI:** [/eli/nl/zbo/2005/besluit-betaling-zonder-machtiging-aan-het-college-voor-zorg](https://wetten.ai/eli/nl/zbo/2005/besluit-betaling-zonder-machtiging-aan-het-college-voor-zorg)
+**ELI:** [/eli/nl/zbo/2005/besluit-betaling-zonder-machtiging-aan-het-college-voor-zorg](https://wettenbank.online/eli/nl/zbo/2005/besluit-betaling-zonder-machtiging-aan-het-college-voor-zorg)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2011-07-14 | 2014-12-31 | [2011-07-14.md](./2011-07-14.md) |
 | 2010-08-19 | 2011-07-13 | [2010-08-19.md](./2010-08-19.md) |
-| 2010-01-01 | 2010-08-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-08-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2005-12-29 | 2009-12-31 | [2005-12-29.md](./2005-12-29.md) |

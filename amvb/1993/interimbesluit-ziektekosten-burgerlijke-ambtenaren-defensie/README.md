@@ -6,7 +6,7 @@ title: Besluit van 25 juni 1993, houdende bepalingen betreffende de ziektekosten
 ministry: Defensie
 abbreviation: null
 latest_state: "2003-12-10"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Interimbesluit ziektekosten burgerlijke ambtenaren defensie
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/1993/interimbesluit-ziektekosten-burgerlijke-ambtenaren-defensie](https://wetten.ai/eli/nl/amvb/1993/interimbesluit-ziektekosten-burgerlijke-ambtenaren-defensie)
+**ELI:** [/eli/nl/amvb/1993/interimbesluit-ziektekosten-burgerlijke-ambtenaren-defensie](https://wettenbank.online/eli/nl/amvb/1993/interimbesluit-ziektekosten-burgerlijke-ambtenaren-defensie)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2003-12-10 | 2005-05-10 | [2003-12-10.md](./2003-12-10.md) |
 | 2002-09-13 | 2003-12-09 | [2002-09-13.md](./2002-09-13.md) |
-| 2001-10-01 | 2002-09-12 | [2001-10-01.md](./2001-10-01.md) |
 | 2001-10-01 | 2002-09-12 | [2001-10-01.md](./2001-10-01.md) |
 | 2001-07-20 | 2001-09-30 | [2001-07-20.md](./2001-07-20.md) |

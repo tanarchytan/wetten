@@ -6,7 +6,7 @@ title: Maatregelenbesluit UWV
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: Mb UWV
 latest_state: "2007-05-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 9
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
 **Afkorting:** Mb UWV
-**ELI:** [/eli/nl/zbo/2004/maatregelenbesluit-uwv](https://wetten.ai/eli/nl/zbo/2004/maatregelenbesluit-uwv)
+**ELI:** [/eli/nl/zbo/2004/maatregelenbesluit-uwv](https://wettenbank.online/eli/nl/zbo/2004/maatregelenbesluit-uwv)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 9
 | 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-31 | 2005-12-31 | [2005-12-31.md](./2005-12-31.md) |
-| 2005-12-29 | 2005-12-30 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-12-29 | 2005-12-30 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-09-10 | 2005-12-28 | [2005-09-10.md](./2005-09-10.md) |
 | 2004-08-28 | 2005-09-09 | [2004-08-28.md](./2004-08-28.md) |

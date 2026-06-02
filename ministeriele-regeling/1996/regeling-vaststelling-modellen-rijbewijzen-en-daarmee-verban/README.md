@@ -6,7 +6,7 @@ title: Regeling vaststelling modellen rijbewijzen en daarmee verband houdende fo
 ministry: Infrastructuur en Milieu
 abbreviation: RVMRF
 latest_state: "2025-06-01"
-state_count: 20
+state_count: 18
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 20
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RVMRF
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-modellen-rijbewijzen-en-daarmee-verban](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-modellen-rijbewijzen-en-daarmee-verban)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-modellen-rijbewijzen-en-daarmee-verban](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-vaststelling-modellen-rijbewijzen-en-daarmee-verban)
 
 ## Versies
 
@@ -28,12 +28,10 @@ state_count: 20
 | 2021-08-01 | 2023-06-30 | [2021-08-01.md](./2021-08-01.md) |
 | 2018-06-14 | 2021-07-31 | [2018-06-14.md](./2018-06-14.md) |
 | 2018-05-26 | 2018-06-13 | [2018-05-26.md](./2018-05-26.md) |
-| 2018-05-26 | 2018-06-13 | [2018-05-26.md](./2018-05-26.md) |
 | 2018-03-01 | 2018-05-25 | [2018-03-01.md](./2018-03-01.md) |
 | 2017-07-12 | 2018-02-28 | [2017-07-12.md](./2017-07-12.md) |
 | 2016-07-01 | 2017-07-11 | [2016-07-01.md](./2016-07-01.md) |
 | 2014-12-02 | 2016-06-30 | [2014-12-02.md](./2014-12-02.md) |
-| 2014-11-01 | 2014-12-01 | [2014-11-01.md](./2014-11-01.md) |
 | 2014-11-01 | 2014-12-01 | [2014-11-01.md](./2014-11-01.md) |
 | 2013-01-19 | 2014-10-31 | [2013-01-19.md](./2013-01-19.md) |
 | 2012-01-01 | 2013-01-18 | [2012-01-01.md](./2012-01-01.md) |

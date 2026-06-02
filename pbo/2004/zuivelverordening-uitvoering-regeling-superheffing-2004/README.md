@@ -6,7 +6,7 @@ title: Verordening van het Productschap Zuivel van 16 juni 2004, houdende uitvoe
 ministry: Productschap Zuivel
 abbreviation: null
 latest_state: "2008-04-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Zuivelverordening uitvoering regeling superheffing 2004
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Zuivel
-**ELI:** [/eli/nl/pbo/2004/zuivelverordening-uitvoering-regeling-superheffing-2004](https://wetten.ai/eli/nl/pbo/2004/zuivelverordening-uitvoering-regeling-superheffing-2004)
+**ELI:** [/eli/nl/pbo/2004/zuivelverordening-uitvoering-regeling-superheffing-2004](https://wettenbank.online/eli/nl/pbo/2004/zuivelverordening-uitvoering-regeling-superheffing-2004)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2008-04-01 | 2009-01-09 | [2008-04-01.md](./2008-04-01.md) |
 | 2007-08-18 | 2008-03-31 | [2007-08-18.md](./2007-08-18.md) |
 | 2006-05-13 | 2007-08-17 | [2006-05-13.md](./2006-05-13.md) |
-| 2006-04-01 | 2006-05-12 | [2006-04-01.md](./2006-04-01.md) |
 | 2006-04-01 | 2006-05-12 | [2006-04-01.md](./2006-04-01.md) |
 | 2005-06-18 | 2006-03-31 | [2005-06-18.md](./2005-06-18.md) |
 | 2004-10-02 | 2005-06-17 | [2004-10-02.md](./2004-10-02.md) |

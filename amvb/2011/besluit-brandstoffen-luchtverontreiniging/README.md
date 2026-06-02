@@ -6,7 +6,7 @@ title: Besluit van 8 april 2011, houdende eisen met betrekking tot brandstoffen 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Besluit brandstoffen luchtverontreiniging
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2011/besluit-brandstoffen-luchtverontreiniging](https://wetten.ai/eli/nl/amvb/2011/besluit-brandstoffen-luchtverontreiniging)
+**ELI:** [/eli/nl/amvb/2011/besluit-brandstoffen-luchtverontreiniging](https://wettenbank.online/eli/nl/amvb/2011/besluit-brandstoffen-luchtverontreiniging)
 
 ## Versies
 
@@ -26,10 +26,8 @@ state_count: 16
 | 2023-04-19 | 2023-12-31 | [2023-04-19.md](./2023-04-19.md) |
 | 2023-02-16 | 2023-04-18 | [2023-02-16.md](./2023-02-16.md) |
 | 2023-02-13 | 2023-02-15 | [2023-02-13.md](./2023-02-13.md) |
-| 2023-02-13 | 2023-02-15 | [2023-02-13.md](./2023-02-13.md) |
 | 2019-10-01 | 2023-02-12 | [2019-10-01.md](./2019-10-01.md) |
 | 2018-07-01 | 2019-09-30 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-06-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-02-02 | 2017-12-31 | [2017-02-02.md](./2017-02-02.md) |
 | 2015-01-01 | 2017-02-01 | [2015-01-01.md](./2015-01-01.md) |

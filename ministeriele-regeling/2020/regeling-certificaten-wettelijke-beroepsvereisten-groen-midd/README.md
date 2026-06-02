@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-08-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling certificaten wettelijke beroepsvereisten groen middelbaar beroepsonderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-certificaten-wettelijke-beroepsvereisten-groen-midd](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-certificaten-wettelijke-beroepsvereisten-groen-midd)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-certificaten-wettelijke-beroepsvereisten-groen-midd](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-certificaten-wettelijke-beroepsvereisten-groen-midd)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2025-08-01 | heden | [2025-08-01.md](./2025-08-01.md) |
 | 2022-10-22 | 2025-07-31 | [2022-10-22.md](./2022-10-22.md) |
-| 2022-08-01 | 2022-10-21 | [2022-08-01.md](./2022-08-01.md) |
 | 2022-08-01 | 2022-10-21 | [2022-08-01.md](./2022-08-01.md) |
 | 2020-08-01 | 2022-07-31 | [2020-08-01.md](./2020-08-01.md) |

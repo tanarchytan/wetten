@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Waterstaat, van 12 septemb
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2019-10-12"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Tijdelijke subsidieregeling innovaties duurzame binnenvaart 2018–2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-innovaties-duurzame-binnenvaart-](https://wetten.ai/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-innovaties-duurzame-binnenvaart-)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-innovaties-duurzame-binnenvaart-](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-innovaties-duurzame-binnenvaart-)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2019-10-12 | heden | [2019-10-12.md](./2019-10-12.md) |
 | 2019-04-19 | 2019-10-11 | [2019-04-19.md](./2019-04-19.md) |
-| 2019-03-01 | 2019-04-18 | [2019-03-01.md](./2019-03-01.md) |
 | 2019-03-01 | 2019-04-18 | [2019-03-01.md](./2019-03-01.md) |
 | 2018-09-18 | 2019-02-28 | [2018-09-18.md](./2018-09-18.md) |

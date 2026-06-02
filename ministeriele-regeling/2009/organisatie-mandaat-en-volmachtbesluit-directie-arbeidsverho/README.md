@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 dece
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Arbeidsverhoudingen 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsverho](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsverho)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsverho](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsverho)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2019-01-01 | 2019-07-25 | [2019-01-01.md](./2019-01-01.md) |
 | 2016-05-21 | 2018-12-31 | [2016-05-21.md](./2016-05-21.md) |
 | 2011-06-18 | 2016-05-20 | [2011-06-18.md](./2011-06-18.md) |
-| 2011-01-01 | 2011-06-17 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-06-17 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-02-13 | 2010-12-31 | [2009-02-13.md](./2009-02-13.md) |
 | 2009-01-01 | 2009-02-12 | [2009-01-01.md](./2009-01-01.md) |

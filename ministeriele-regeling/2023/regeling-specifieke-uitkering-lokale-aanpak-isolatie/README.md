@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-07-02"
-state_count: 12
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling specifieke uitkering Lokale Aanpak Isolatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-lokale-aanpak-isolatie](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-lokale-aanpak-isolatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-lokale-aanpak-isolatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-lokale-aanpak-isolatie)
 
 ## Versies
 
@@ -27,10 +27,6 @@ state_count: 12
 | 2024-11-06 | 2025-03-31 | [2024-11-06.md](./2024-11-06.md) |
 | 2024-06-28 | 2024-11-05 | [2024-06-28.md](./2024-06-28.md) |
 | 2023-11-29 | 2024-06-27 | [2023-11-29.md](./2023-11-29.md) |
-| 2023-11-29 | 2024-06-27 | [2023-11-29.md](./2023-11-29.md) |
-| 2023-07-07 | 2023-11-28 | [2023-07-07.md](./2023-07-07.md) |
 | 2023-07-07 | 2023-11-28 | [2023-07-07.md](./2023-07-07.md) |
 | 2023-05-23 | 2023-07-06 | [2023-05-23.md](./2023-05-23.md) |
-| 2023-05-23 | 2023-07-06 | [2023-05-23.md](./2023-05-23.md) |
-| 2023-03-01 | 2023-05-22 | [2023-03-01.md](./2023-03-01.md) |
 | 2023-03-01 | 2023-05-22 | [2023-03-01.md](./2023-03-01.md) |

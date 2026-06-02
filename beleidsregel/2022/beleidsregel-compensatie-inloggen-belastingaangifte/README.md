@@ -6,7 +6,7 @@ title: Beleidsregel van de Staatssecretaris van Financiën – Fiscaliteit en Be
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-08-09"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Beleidsregel compensatie inloggen belastingaangifte
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/beleidsregel/2022/beleidsregel-compensatie-inloggen-belastingaangifte](https://wetten.ai/eli/nl/beleidsregel/2022/beleidsregel-compensatie-inloggen-belastingaangifte)
+**ELI:** [/eli/nl/beleidsregel/2022/beleidsregel-compensatie-inloggen-belastingaangifte](https://wettenbank.online/eli/nl/beleidsregel/2022/beleidsregel-compensatie-inloggen-belastingaangifte)
 
 ## Versies
 
@@ -25,7 +25,5 @@ state_count: 7
 | 2025-08-09 | heden | [2025-08-09.md](./2025-08-09.md) |
 | 2024-12-19 | 2025-08-08 | [2024-12-19.md](./2024-12-19.md) |
 | 2024-10-01 | 2024-12-18 | [2024-10-01.md](./2024-10-01.md) |
-| 2024-10-01 | 2024-12-18 | [2024-10-01.md](./2024-10-01.md) |
 | 2023-04-22 | 2024-09-30 | [2023-04-22.md](./2023-04-22.md) |
-| 2022-10-01 | 2023-04-21 | [2022-10-01.md](./2022-10-01.md) |
 | 2022-10-01 | 2023-04-21 | [2022-10-01.md](./2022-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 febr
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-05-15"
-state_count: 6
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling 5a – MDT Continueren en opschalen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2022/subsidieregeling-5a-mdt-continueren-en-opschalen](https://wetten.ai/eli/nl/ministeriele-regeling/2022/subsidieregeling-5a-mdt-continueren-en-opschalen)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/subsidieregeling-5a-mdt-continueren-en-opschalen](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/subsidieregeling-5a-mdt-continueren-en-opschalen)
 
 ## Versies
 
@@ -24,7 +24,4 @@ state_count: 6
 |---|---|---|
 | 2024-05-15 | heden | [2024-05-15.md](./2024-05-15.md) |
 | 2022-06-10 | 2024-05-14 | [2022-06-10.md](./2022-06-10.md) |
-| 2022-06-10 | 2024-05-14 | [2022-06-10.md](./2022-06-10.md) |
-| 2022-04-01 | 2022-06-09 | [2022-04-01.md](./2022-04-01.md) |
-| 2022-04-01 | 2022-06-09 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-04-01 | 2022-06-09 | [2022-04-01.md](./2022-04-01.md) |

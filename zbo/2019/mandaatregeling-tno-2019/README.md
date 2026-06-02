@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Mandaatregeling TNO 2019
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse organisatie voor toegepast-natuurwetenschappelijk onderzoek
-**ELI:** [/eli/nl/zbo/2019/mandaatregeling-tno-2019](https://wetten.ai/eli/nl/zbo/2019/mandaatregeling-tno-2019)
+**ELI:** [/eli/nl/zbo/2019/mandaatregeling-tno-2019](https://wettenbank.online/eli/nl/zbo/2019/mandaatregeling-tno-2019)
 
 ## Versies
 

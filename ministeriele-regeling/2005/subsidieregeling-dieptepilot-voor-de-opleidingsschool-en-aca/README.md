@@ -6,7 +6,7 @@ title: Subsidieregeling dieptepilot voor de opleidingsschool en academische scho
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2005-12-21"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling dieptepilot voor de opleidingsschool en academische school 2005–2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieptepilot-voor-de-opleidingsschool-en-aca](https://wetten.ai/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieptepilot-voor-de-opleidingsschool-en-aca)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieptepilot-voor-de-opleidingsschool-en-aca](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieptepilot-voor-de-opleidingsschool-en-aca)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-12-21 | 2010-12-31 | [2005-12-21.md](./2005-12-21.md) |
-| 2005-11-28 | 2005-12-20 | [2005-11-28.md](./2005-11-28.md) |
 | 2005-11-28 | 2005-12-20 | [2005-11-28.md](./2005-11-28.md) |
 | 2005-10-02 | 2005-11-27 | [2005-10-02.md](./2005-10-02.md) |

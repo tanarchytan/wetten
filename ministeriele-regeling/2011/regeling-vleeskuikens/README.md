@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innov
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-04-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling vleeskuikens
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vleeskuikens](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-vleeskuikens)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vleeskuikens](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-vleeskuikens)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2013-04-01 | 2014-06-30 | [2013-04-01.md](./2013-04-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-20 | 2012-12-31 | [2012-07-20.md](./2012-07-20.md) |
-| 2011-07-14 | 2012-07-19 | [2011-07-14.md](./2011-07-14.md) |
 | 2011-07-14 | 2012-07-19 | [2011-07-14.md](./2011-07-14.md) |
 | 2011-02-01 | 2011-07-13 | [2011-02-01.md](./2011-02-01.md) |

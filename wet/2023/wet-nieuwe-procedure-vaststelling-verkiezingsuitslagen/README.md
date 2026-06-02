@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Wet nieuwe procedure vaststelling verkiezingsuitslagen
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2023/wet-nieuwe-procedure-vaststelling-verkiezingsuitslagen](https://wetten.ai/eli/nl/wet/2023/wet-nieuwe-procedure-vaststelling-verkiezingsuitslagen)
+**ELI:** [/eli/nl/wet/2023/wet-nieuwe-procedure-vaststelling-verkiezingsuitslagen](https://wettenbank.online/eli/nl/wet/2023/wet-nieuwe-procedure-vaststelling-verkiezingsuitslagen)
 
 ## Versies
 

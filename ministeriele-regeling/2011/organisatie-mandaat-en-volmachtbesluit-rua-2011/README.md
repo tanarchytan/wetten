@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-03-16"
-state_count: 16
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit RUA 2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2011/organisatie-mandaat-en-volmachtbesluit-rua-2011](https://wetten.ai/eli/nl/ministeriele-regeling/2011/organisatie-mandaat-en-volmachtbesluit-rua-2011)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/organisatie-mandaat-en-volmachtbesluit-rua-2011](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/organisatie-mandaat-en-volmachtbesluit-rua-2011)
 
 ## Versies
 
@@ -24,17 +24,8 @@ state_count: 16
 |---|---|---|
 | 2013-03-16 | 2013-12-03 | [2013-03-16.md](./2013-03-16.md) |
 | 2012-10-01 | 2013-03-15 | [2012-10-01.md](./2012-10-01.md) |
-| 2012-10-01 | 2013-03-15 | [2012-10-01.md](./2012-10-01.md) |
-| 2011-12-17 | 2012-09-30 | [2011-12-17.md](./2011-12-17.md) |
 | 2011-12-17 | 2012-09-30 | [2011-12-17.md](./2011-12-17.md) |
 | 2011-09-01 | 2011-12-16 | [2011-09-01.md](./2011-09-01.md) |
-| 2011-09-01 | 2011-12-16 | [2011-09-01.md](./2011-09-01.md) |
-| 2011-09-01 | 2011-12-16 | [2011-09-01.md](./2011-09-01.md) |
-| 2011-06-18 | 2011-08-31 | [2011-06-18.md](./2011-06-18.md) |
 | 2011-06-18 | 2011-08-31 | [2011-06-18.md](./2011-06-18.md) |
 | 2011-01-05 | 2011-06-17 | [2011-01-05.md](./2011-01-05.md) |
-| 2011-01-05 | 2011-06-17 | [2011-01-05.md](./2011-01-05.md) |
-| 2011-01-05 | 2011-06-17 | [2011-01-05.md](./2011-01-05.md) |
-| 2011-01-01 | 2011-01-04 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-01-04 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-01-04 | [2011-01-01.md](./2011-01-01.md) |

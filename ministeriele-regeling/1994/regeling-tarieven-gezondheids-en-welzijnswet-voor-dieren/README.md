@@ -6,7 +6,7 @@ title: Regeling tarieven Gezondheids- en welzijnswet voor dieren
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2005-04-01"
-state_count: 18
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Regeling tarieven Gezondheids- en welzijnswet voor dieren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-tarieven-gezondheids-en-welzijnswet-voor-dieren](https://wetten.ai/eli/nl/ministeriele-regeling/1994/regeling-tarieven-gezondheids-en-welzijnswet-voor-dieren)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-tarieven-gezondheids-en-welzijnswet-voor-dieren](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/regeling-tarieven-gezondheids-en-welzijnswet-voor-dieren)
 
 ## Versies
 
@@ -35,8 +35,6 @@ state_count: 18
 | 2004-02-01 | 2004-06-30 | [2004-02-01.md](./2004-02-01.md) |
 | 2003-10-08 | 2004-01-31 | [2003-10-08.md](./2003-10-08.md) |
 | 2003-05-24 | 2003-10-07 | [2003-05-24.md](./2003-05-24.md) |
-| 2003-05-24 | 2003-10-07 | [2003-05-24.md](./2003-05-24.md) |
-| 2003-05-01 | 2003-05-23 | [2003-05-01.md](./2003-05-01.md) |
 | 2003-05-01 | 2003-05-23 | [2003-05-01.md](./2003-05-01.md) |
 | 2003-01-30 | 2003-04-30 | [2003-01-30.md](./2003-01-30.md) |
 | 2003-01-23 | 2003-01-29 | [2003-01-23.md](./2003-01-23.md) |

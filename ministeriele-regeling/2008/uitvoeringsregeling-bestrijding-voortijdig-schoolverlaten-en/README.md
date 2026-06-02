@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-06-22"
-state_count: 18
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-bestrijding-voortijdig-schoolverlaten-en](https://wetten.ai/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-bestrijding-voortijdig-schoolverlaten-en)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-bestrijding-voortijdig-schoolverlaten-en](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-bestrijding-voortijdig-schoolverlaten-en)
 
 ## Versies
 
@@ -24,19 +24,11 @@ state_count: 18
 |---|---|---|
 | 2011-06-22 | 2012-07-31 | [2011-06-22.md](./2011-06-22.md) |
 | 2011-01-01 | 2011-06-21 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-06-21 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-10-09 | 2010-12-31 | [2010-10-09.md](./2010-10-09.md) |
 | 2010-09-25 | 2010-10-08 | [2010-09-25.md](./2010-09-25.md) |
-| 2010-09-25 | 2010-10-08 | [2010-09-25.md](./2010-09-25.md) |
-| 2010-09-01 | 2010-09-24 | [2010-09-01.md](./2010-09-01.md) |
-| 2010-09-01 | 2010-09-24 | [2010-09-01.md](./2010-09-01.md) |
 | 2010-09-01 | 2010-09-24 | [2010-09-01.md](./2010-09-01.md) |
 | 2010-05-26 | 2010-08-31 | [2010-05-26.md](./2010-05-26.md) |
-| 2010-05-26 | 2010-08-31 | [2010-05-26.md](./2010-05-26.md) |
 | 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-09-27 | 2008-12-31 | [2008-09-27.md](./2008-09-27.md) |
 | 2008-04-30 | 2008-09-26 | [2008-04-30.md](./2008-04-30.md) |

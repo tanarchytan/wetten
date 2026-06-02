@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2004-05-09"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Subsidieregeling aanpak milieudrukvermindering 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-aanpak-milieudrukvermindering-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/subsidieregeling-aanpak-milieudrukvermindering-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-aanpak-milieudrukvermindering-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/subsidieregeling-aanpak-milieudrukvermindering-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-05-09 | 2005-01-02 | [2004-05-09.md](./2004-05-09.md) |
-| 2004-02-13 | 2004-05-08 | [2004-02-13.md](./2004-02-13.md) |
 | 2004-02-13 | 2004-05-08 | [2004-02-13.md](./2004-02-13.md) |

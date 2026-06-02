@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 augu
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2018-08-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Besluit taakuitoefening IGJ
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-taakuitoefening-igj](https://wetten.ai/eli/nl/ministeriele-regeling/2017/besluit-taakuitoefening-igj)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-taakuitoefening-igj](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/besluit-taakuitoefening-igj)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2018-08-01 | heden | [2018-08-01.md](./2018-08-01.md) |
 | 2017-10-24 | 2018-07-31 | [2017-10-24.md](./2017-10-24.md) |
-| 2017-10-01 | 2017-10-23 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-10-01 | 2017-10-23 | [2017-10-01.md](./2017-10-01.md) |

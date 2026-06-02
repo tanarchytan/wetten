@@ -6,7 +6,7 @@ title: Kadasterregeling 1994
 ministry: Dienst voor het kadaster en de openbare registers
 abbreviation: null
 latest_state: "2024-09-28"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Kadasterregeling 1994
 **Type:** zbo
 **Verantwoordelijk ministerie:** Dienst voor het kadaster en de openbare registers
-**ELI:** [/eli/nl/zbo/1994/kadasterregeling-1994](https://wetten.ai/eli/nl/zbo/1994/kadasterregeling-1994)
+**ELI:** [/eli/nl/zbo/1994/kadasterregeling-1994](https://wettenbank.online/eli/nl/zbo/1994/kadasterregeling-1994)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 15
 | 2024-09-28 | heden | [2024-09-28.md](./2024-09-28.md) |
 | 2021-02-24 | 2024-09-27 | [2021-02-24.md](./2021-02-24.md) |
 | 2020-04-19 | 2021-02-23 | [2020-04-19.md](./2020-04-19.md) |
-| 2020-04-01 | 2020-04-18 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-04-01 | 2020-04-18 | [2020-04-01.md](./2020-04-01.md) |
 | 2019-01-23 | 2020-03-31 | [2019-01-23.md](./2019-01-23.md) |
 | 2018-07-20 | 2019-01-22 | [2018-07-20.md](./2018-07-20.md) |

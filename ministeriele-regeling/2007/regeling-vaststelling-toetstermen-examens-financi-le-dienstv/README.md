@@ -6,7 +6,7 @@ title: Regeling vaststelling toetstermen examens financiële dienstverlening Wft
 ministry: Financiën
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling vaststelling toetstermen examens financiële dienstverlening Wft
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-vaststelling-toetstermen-examens-financi-le-dienstv](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-vaststelling-toetstermen-examens-financi-le-dienstv)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-vaststelling-toetstermen-examens-financi-le-dienstv](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-vaststelling-toetstermen-examens-financi-le-dienstv)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 10
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2010-01-01 | 2011-06-30 | [2010-01-01.md](./2010-01-01.md) |
 | 2008-07-01 | 2009-12-31 | [2008-07-01.md](./2008-07-01.md) |
-| 2008-06-01 | 2008-06-30 | [2008-06-01.md](./2008-06-01.md) |
 | 2008-06-01 | 2008-06-30 | [2008-06-01.md](./2008-06-01.md) |
 | 2008-02-07 | 2008-05-31 | [2008-02-07.md](./2008-02-07.md) |
 | 2008-01-01 | 2008-02-06 | [2008-01-01.md](./2008-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 25 januari 1951, houdende bepalingen voor toekenning van onde
 ministry: Defensie
 abbreviation: null
 latest_state: "2018-07-18"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit militaire medailles
 **Type:** kb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/kb/1951/besluit-militaire-medailles](https://wetten.ai/eli/nl/kb/1951/besluit-militaire-medailles)
+**ELI:** [/eli/nl/kb/1951/besluit-militaire-medailles](https://wettenbank.online/eli/nl/kb/1951/besluit-militaire-medailles)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 9
 |---|---|---|
 | 2018-07-18 | heden | [2018-07-18.md](./2018-07-18.md) |
 | 2017-07-01 | 2018-07-17 | [2017-07-01.md](./2017-07-01.md) |
-| 2017-07-01 | 2018-07-17 | [2017-07-01.md](./2017-07-01.md) |
 | 2003-05-23 | 2017-06-30 | [2003-05-23.md](./2003-05-23.md) |
 | 2002-10-09 | 2003-05-22 | [2002-10-09.md](./2002-10-09.md) |
-| 2002-10-09 | 2003-05-22 | [2002-10-09.md](./2002-10-09.md) |
-| 2001-06-01 | 2002-10-08 | [2001-06-01.md](./2001-06-01.md) |
 | 2001-06-01 | 2002-10-08 | [2001-06-01.md](./2001-06-01.md) |
 | 1987-03-28 | 2001-05-31 | [1987-03-28.md](./1987-03-28.md) |

@@ -6,7 +6,7 @@ title: Besluit van 23 december 1999, houdende afwijkende regels inzake het recht
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-11-14"
-state_count: 13
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit regels export uitkeringen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2000/besluit-regels-export-uitkeringen](https://wetten.ai/eli/nl/amvb/2000/besluit-regels-export-uitkeringen)
+**ELI:** [/eli/nl/amvb/2000/besluit-regels-export-uitkeringen](https://wettenbank.online/eli/nl/amvb/2000/besluit-regels-export-uitkeringen)
 
 ## Versies
 
@@ -24,12 +24,8 @@ state_count: 13
 |---|---|---|
 | 2018-11-14 | heden | [2018-11-14.md](./2018-11-14.md) |
 | 2015-01-01 | 2018-11-13 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2018-11-13 | [2015-01-01.md](./2015-01-01.md) |
-| 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-12-28 | 2013-06-30 | [2012-12-28.md](./2012-12-28.md) |
-| 2012-12-28 | 2013-06-30 | [2012-12-28.md](./2012-12-28.md) |
-| 2012-11-05 | 2012-12-27 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-11-05 | 2012-12-27 | [2012-11-05.md](./2012-11-05.md) |
 | 2010-10-10 | 2012-11-04 | [2010-10-10.md](./2010-10-10.md) |
 | 2005-12-29 | 2010-10-09 | [2005-12-29.md](./2005-12-29.md) |

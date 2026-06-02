@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 21 janu
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit instelling Audit Committee OCW 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-instelling-audit-committee-ocw-2010](https://wetten.ai/eli/nl/ministeriele-regeling/2010/besluit-instelling-audit-committee-ocw-2010)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-instelling-audit-committee-ocw-2010](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/besluit-instelling-audit-committee-ocw-2010)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2014-01-01 | 2014-08-27 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-08-22 | 2013-12-31 | [2013-08-22.md](./2013-08-22.md) |
-| 2013-01-01 | 2013-08-21 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-08-21 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-19 | 2012-12-31 | [2012-07-19.md](./2012-07-19.md) |
 | 2010-02-13 | 2012-07-18 | [2010-02-13.md](./2010-02-13.md) |

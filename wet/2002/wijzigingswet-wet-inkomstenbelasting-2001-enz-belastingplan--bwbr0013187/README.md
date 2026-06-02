@@ -6,7 +6,7 @@ title: Wet van 14 december 2001 tot wijziging van belastingwetten c.a. (Belastin
 ministry: Algemene Zaken
 abbreviation: WWbp 2002
 latest_state: "2004-03-01"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 7
 **Type:** wet
 **Verantwoordelijk ministerie:** Algemene Zaken
 **Afkorting:** WWbp 2002
-**ELI:** [/eli/nl/wet/2002/wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan--bwbr0013187](https://wetten.ai/eli/nl/wet/2002/wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan--bwbr0013187)
+**ELI:** [/eli/nl/wet/2002/wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan--bwbr0013187](https://wettenbank.online/eli/nl/wet/2002/wijzigingswet-wet-inkomstenbelasting-2001-enz-belastingplan--bwbr0013187)
 
 ## Versies
 
@@ -25,8 +25,5 @@ state_count: 7
 |---|---|---|
 | 2004-03-01 | heden | [2004-03-01.md](./2004-03-01.md) |
 | 2003-01-01 | 2004-02-29 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2004-02-29 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-07-16 | 2002-12-31 | [2002-07-16.md](./2002-07-16.md) |
-| 2002-07-16 | 2002-12-31 | [2002-07-16.md](./2002-07-16.md) |
-| 2002-03-29 | 2002-07-15 | [2002-03-29.md](./2002-03-29.md) |
 | 2002-03-29 | 2002-07-15 | [2002-03-29.md](./2002-03-29.md) |

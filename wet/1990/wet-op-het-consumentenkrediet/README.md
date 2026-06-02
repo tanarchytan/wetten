@@ -6,7 +6,7 @@ title: Wet van 4 juli 1990, houdende regels met betrekkking tot het consumentenk
 ministry: Economische Zaken
 abbreviation: WCK
 latest_state: "2019-01-01"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** WCK
-**ELI:** [/eli/nl/wet/1990/wet-op-het-consumentenkrediet](https://wetten.ai/eli/nl/wet/1990/wet-op-het-consumentenkrediet)
+**ELI:** [/eli/nl/wet/1990/wet-op-het-consumentenkrediet](https://wettenbank.online/eli/nl/wet/1990/wet-op-het-consumentenkrediet)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 19
 | 2014-04-01 | 2014-12-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2012-07-18 | 2014-03-31 | [2012-07-18.md](./2012-07-18.md) |
 | 2012-02-08 | 2012-07-17 | [2012-02-08.md](./2012-02-08.md) |
-| 2012-02-08 | 2012-07-17 | [2012-02-08.md](./2012-02-08.md) |
-| 2012-01-01 | 2012-02-07 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-02-07 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-05-25 | 2011-12-31 | [2011-05-25.md](./2011-05-25.md) |
 | 2009-10-01 | 2011-05-24 | [2009-10-01.md](./2009-10-01.md) |

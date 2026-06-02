@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken van 29Â november 2013, nr.Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2022-02-18"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit aanwijzing en taakvervulling toezichthouders Kernenergiewet 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-en-taakvervulling-toezichthouders-kernene](https://wetten.ai/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-en-taakvervulling-toezichthouders-kernene)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-en-taakvervulling-toezichthouders-kernene](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-en-taakvervulling-toezichthouders-kernene)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2018-08-01 | 2021-01-05 | [2018-08-01.md](./2018-08-01.md) |
 | 2017-08-01 | 2018-07-31 | [2017-08-01.md](./2017-08-01.md) |
 | 2015-03-24 | 2017-07-31 | [2015-03-24.md](./2015-03-24.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-12-11 | 2014-12-31 | [2013-12-11.md](./2013-12-11.md) |

@@ -6,7 +6,7 @@ title: Regeling inzake tijdstip van registratie van werknemers als werkzoekende 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-09-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling inzake tijdstip van registratie van werknemers als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-inzake-tijdstip-van-registratie-van-werknemers-als-](https://wetten.ai/eli/nl/ministeriele-regeling/1994/regeling-inzake-tijdstip-van-registratie-van-werknemers-als-)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-inzake-tijdstip-van-registratie-van-werknemers-als-](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/regeling-inzake-tijdstip-van-registratie-van-werknemers-als-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-09-25 | 2013-12-31 | [2010-09-25.md](./2010-09-25.md) |
-| 2009-01-01 | 2010-09-24 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2010-09-24 | [2009-01-01.md](./2009-01-01.md) |
 | 2002-03-23 | 2008-12-31 | [2002-03-23.md](./2002-03-23.md) |

@@ -6,7 +6,7 @@ title: Regeling van 15 december 2006, nr. 2006-0000405012, houdende de organisa
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2021-01-01"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling aanhoudings- en ondersteuningseenheid en samenwerking speciale eenheden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanhoudings-en-ondersteuningseenheid-en-samenwerkin](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-aanhoudings-en-ondersteuningseenheid-en-samenwerkin)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanhoudings-en-ondersteuningseenheid-en-samenwerkin](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-aanhoudings-en-ondersteuningseenheid-en-samenwerkin)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 10
 | 2021-01-01 | heden | [2021-01-01.md](./2021-01-01.md) |
 | 2018-02-27 | 2020-12-31 | [2018-02-27.md](./2018-02-27.md) |
 | 2017-03-18 | 2018-02-26 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-03-18 | 2018-02-26 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-07-01 | 2016-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2013-01-01 | 2015-06-30 | [2013-01-01.md](./2013-01-01.md) |

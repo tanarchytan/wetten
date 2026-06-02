@@ -6,7 +6,7 @@ title: Regeling vergoedingen van de Staatssecretaris van Economische Zaken van 1
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-12-23"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling vergoedingen OPTA 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vergoedingen-opta-2009](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-vergoedingen-opta-2009)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vergoedingen-opta-2009](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-vergoedingen-opta-2009)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2009-12-23 | 2009-12-31 | [2009-12-23.md](./2009-12-23.md) |
 | 2009-07-01 | 2009-12-22 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-12-22 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-04-01 | 2009-06-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-04-01 | 2009-06-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-01-01 | 2009-03-31 | [2009-01-01.md](./2009-01-01.md) |

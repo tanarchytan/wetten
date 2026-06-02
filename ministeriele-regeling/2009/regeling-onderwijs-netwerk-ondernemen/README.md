@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 9 apri
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-23"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling Onderwijs Netwerk Ondernemen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-onderwijs-netwerk-ondernemen](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-onderwijs-netwerk-ondernemen)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-onderwijs-netwerk-ondernemen](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-onderwijs-netwerk-ondernemen)
 
 ## Versies
 
@@ -28,6 +28,5 @@ state_count: 9
 | 2010-10-14 | 2010-11-08 | [2010-10-14.md](./2010-10-14.md) |
 | 2010-07-02 | 2010-10-13 | [2010-07-02.md](./2010-07-02.md) |
 | 2010-03-02 | 2010-07-01 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-04-19 | 2009-12-31 | [2009-04-19.md](./2009-04-19.md) |

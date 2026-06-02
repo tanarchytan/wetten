@@ -6,7 +6,7 @@ title: Wet van 21 december 2022 tot wijziging van het voordeel uit sparen en bel
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-07-19"
-state_count: 11
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Wet rechtsherstel box 3
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2022/wet-rechtsherstel-box-3](https://wetten.ai/eli/nl/wet/2022/wet-rechtsherstel-box-3)
+**ELI:** [/eli/nl/wet/2022/wet-rechtsherstel-box-3](https://wettenbank.online/eli/nl/wet/2022/wet-rechtsherstel-box-3)
 
 ## Versies
 
@@ -24,12 +24,6 @@ state_count: 11
 |---|---|---|
 | 2025-07-19 | heden | [2025-07-19.md](./2025-07-19.md) |
 | 2023-03-16 | 2025-07-18 | [2023-03-16.md](./2023-03-16.md) |
-| 2023-03-16 | 2025-07-18 | [2023-03-16.md](./2023-03-16.md) |
-| 2022-12-28 | 2023-03-15 | [2022-12-28.md](./2022-12-28.md) |
-| 2022-12-28 | 2023-03-15 | [2022-12-28.md](./2022-12-28.md) |
 | 2022-12-28 | 2023-03-15 | [2022-12-28.md](./2022-12-28.md) |
 | 2022-01-01 | 2022-12-27 | [2022-01-01.md](./2022-01-01.md) |
-| 2022-01-01 | 2022-12-27 | [2022-01-01.md](./2022-01-01.md) |
-| 2022-01-01 | 2022-12-27 | [2022-01-01.md](./2022-01-01.md) |
-| 2017-01-01 | 2021-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2021-12-31 | [2017-01-01.md](./2017-01-01.md) |

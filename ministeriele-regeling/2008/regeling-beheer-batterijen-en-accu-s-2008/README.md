@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 14
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling beheer batterijen en accu’s 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-beheer-batterijen-en-accu-s-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-beheer-batterijen-en-accu-s-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-beheer-batterijen-en-accu-s-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-beheer-batterijen-en-accu-s-2008)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 14
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-04-19 | 2023-06-30 | [2023-04-19.md](./2023-04-19.md) |
-| 2023-04-19 | 2023-06-30 | [2023-04-19.md](./2023-04-19.md) |
-| 2023-01-01 | 2023-04-18 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-04-18 | [2023-01-01.md](./2023-01-01.md) |
 | 2017-01-01 | 2022-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-09-26 | 2016-12-31 | [2016-09-26.md](./2016-09-26.md) |

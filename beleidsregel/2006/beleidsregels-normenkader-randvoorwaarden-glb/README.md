@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-09-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Beleidsregels normenkader randvoorwaarden GLB
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2006/beleidsregels-normenkader-randvoorwaarden-glb](https://wetten.ai/eli/nl/beleidsregel/2006/beleidsregels-normenkader-randvoorwaarden-glb)
+**ELI:** [/eli/nl/beleidsregel/2006/beleidsregels-normenkader-randvoorwaarden-glb](https://wettenbank.online/eli/nl/beleidsregel/2006/beleidsregels-normenkader-randvoorwaarden-glb)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 12
 | 2009-12-19 | 2010-07-19 | [2009-12-19.md](./2009-12-19.md) |
 | 2009-09-26 | 2009-12-18 | [2009-09-26.md](./2009-09-26.md) |
 | 2009-04-01 | 2009-09-25 | [2009-04-01.md](./2009-04-01.md) |
-| 2009-01-01 | 2009-03-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-03-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-04-20 | 2008-12-31 | [2008-04-20.md](./2008-04-20.md) |
 | 2008-01-01 | 2008-04-19 | [2008-01-01.md](./2008-01-01.md) |

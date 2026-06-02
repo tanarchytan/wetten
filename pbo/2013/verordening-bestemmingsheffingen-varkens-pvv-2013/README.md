@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vee en Vlees van 31 oktober 2012, houden
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2014-02-16"
-state_count: 9
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Verordening bestemmingsheffingen varkens (PVV) 2013
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2013/verordening-bestemmingsheffingen-varkens-pvv-2013](https://wetten.ai/eli/nl/pbo/2013/verordening-bestemmingsheffingen-varkens-pvv-2013)
+**ELI:** [/eli/nl/pbo/2013/verordening-bestemmingsheffingen-varkens-pvv-2013](https://wettenbank.online/eli/nl/pbo/2013/verordening-bestemmingsheffingen-varkens-pvv-2013)
 
 ## Versies
 
@@ -24,10 +24,6 @@ state_count: 9
 |---|---|---|
 | 2014-02-16 | 2021-09-29 | [2014-02-16.md](./2014-02-16.md) |
 | 2013-12-15 | 2014-02-15 | [2013-12-15.md](./2013-12-15.md) |
-| 2013-12-15 | 2014-02-15 | [2013-12-15.md](./2013-12-15.md) |
 | 2013-11-01 | 2013-12-14 | [2013-11-01.md](./2013-11-01.md) |
-| 2013-11-01 | 2013-12-14 | [2013-11-01.md](./2013-11-01.md) |
-| 2013-11-01 | 2013-12-14 | [2013-11-01.md](./2013-11-01.md) |
-| 2013-09-01 | 2013-10-31 | [2013-09-01.md](./2013-09-01.md) |
 | 2013-09-01 | 2013-10-31 | [2013-09-01.md](./2013-09-01.md) |
 | 2013-01-01 | 2013-08-31 | [2013-01-01.md](./2013-01-01.md) |

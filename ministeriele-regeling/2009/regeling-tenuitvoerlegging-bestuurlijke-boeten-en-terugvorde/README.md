@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 jun
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rtbbtob
 latest_state: "2025-01-01"
-state_count: 13
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rtbbtob
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-tenuitvoerlegging-bestuurlijke-boeten-en-terugvorde](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-tenuitvoerlegging-bestuurlijke-boeten-en-terugvorde)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-tenuitvoerlegging-bestuurlijke-boeten-en-terugvorde](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-tenuitvoerlegging-bestuurlijke-boeten-en-terugvorde)
 
 ## Versies
 
@@ -29,9 +29,6 @@ state_count: 13
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-12-07 | 2014-12-31 | [2013-12-07.md](./2013-12-07.md) |
 | 2013-06-11 | 2013-12-06 | [2013-06-11.md](./2013-06-11.md) |
-| 2013-06-11 | 2013-12-06 | [2013-06-11.md](./2013-06-11.md) |
-| 2013-01-01 | 2013-06-10 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-06-10 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-10 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-01-01 | 2012-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2023-03-16"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling jaarverslaggeving onderwijs BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2012/regeling-jaarverslaggeving-onderwijs-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2012/regeling-jaarverslaggeving-onderwijs-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2012/regeling-jaarverslaggeving-onderwijs-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2012/regeling-jaarverslaggeving-onderwijs-bes)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2022-08-01 | 2023-03-15 | [2022-08-01.md](./2022-08-01.md) |
 | 2021-08-01 | 2022-07-31 | [2021-08-01.md](./2021-08-01.md) |
 | 2015-06-23 | 2021-07-31 | [2015-06-23.md](./2015-06-23.md) |
-| 2014-01-01 | 2015-06-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2015-06-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2012-07-19 | 2013-12-31 | [2012-07-19.md](./2012-07-19.md) |

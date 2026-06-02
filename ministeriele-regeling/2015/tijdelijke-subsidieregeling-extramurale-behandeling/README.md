@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-12-01"
-state_count: 18
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Tijdelijke subsidieregeling extramurale behandeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2015/tijdelijke-subsidieregeling-extramurale-behandeling](https://wetten.ai/eli/nl/ministeriele-regeling/2015/tijdelijke-subsidieregeling-extramurale-behandeling)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/tijdelijke-subsidieregeling-extramurale-behandeling](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/tijdelijke-subsidieregeling-extramurale-behandeling)
 
 ## Versies
 
@@ -27,16 +27,8 @@ state_count: 18
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-10-23 | 2018-12-31 | [2018-10-23.md](./2018-10-23.md) |
 | 2018-01-01 | 2018-10-22 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-10-22 | [2018-01-01.md](./2018-01-01.md) |
-| 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-04-20 | 2016-12-31 | [2016-04-20.md](./2016-04-20.md) |
-| 2016-04-20 | 2016-12-31 | [2016-04-20.md](./2016-04-20.md) |
-| 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-23 | 2015-12-31 | [2015-04-23.md](./2015-04-23.md) |
-| 2015-04-23 | 2015-12-31 | [2015-04-23.md](./2015-04-23.md) |
-| 2015-01-01 | 2015-04-22 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-04-22 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-04-22 | [2015-01-01.md](./2015-01-01.md) |

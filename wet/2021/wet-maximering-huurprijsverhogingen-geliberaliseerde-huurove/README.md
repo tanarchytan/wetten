@@ -16,7 +16,7 @@ state_count: 2
 **Citeertitel:** Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2021/wet-maximering-huurprijsverhogingen-geliberaliseerde-huurove](https://wetten.ai/eli/nl/wet/2021/wet-maximering-huurprijsverhogingen-geliberaliseerde-huurove)
+**ELI:** [/eli/nl/wet/2021/wet-maximering-huurprijsverhogingen-geliberaliseerde-huurove](https://wettenbank.online/eli/nl/wet/2021/wet-maximering-huurprijsverhogingen-geliberaliseerde-huurove)
 
 ## Versies
 

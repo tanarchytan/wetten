@@ -6,7 +6,7 @@ title: Wet van 2 november 2000 tot vaststelling van een Beginselenwet justitiël
 ministry: Veiligheid en Justitie
 abbreviation: BJJI
 latest_state: "2023-01-01"
-state_count: 32
+state_count: 31
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 32
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** BJJI
-**ELI:** [/eli/nl/wet/2001/beginselenwet-justiti-le-jeugdinrichtingen](https://wetten.ai/eli/nl/wet/2001/beginselenwet-justiti-le-jeugdinrichtingen)
+**ELI:** [/eli/nl/wet/2001/beginselenwet-justiti-le-jeugdinrichtingen](https://wettenbank.online/eli/nl/wet/2001/beginselenwet-justiti-le-jeugdinrichtingen)
 
 ## Versies
 
@@ -39,7 +39,6 @@ state_count: 32
 | 2014-01-06 | 2014-02-14 | [2014-01-06.md](./2014-01-06.md) |
 | 2013-07-01 | 2014-01-05 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-07-01 | 2013-06-30 | [2012-07-01.md](./2012-07-01.md) |
-| 2011-07-02 | 2012-06-30 | [2011-07-02.md](./2011-07-02.md) |
 | 2011-07-02 | 2012-06-30 | [2011-07-02.md](./2011-07-02.md) |
 | 2011-07-01 | 2011-07-01 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |

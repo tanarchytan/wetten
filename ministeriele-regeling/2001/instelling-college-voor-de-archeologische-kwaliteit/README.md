@@ -6,7 +6,7 @@ title: Instelling College voor de archeologische kwaliteit
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2005-12-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Instelling College voor de archeologische kwaliteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2001/instelling-college-voor-de-archeologische-kwaliteit](https://wetten.ai/eli/nl/ministeriele-regeling/2001/instelling-college-voor-de-archeologische-kwaliteit)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/instelling-college-voor-de-archeologische-kwaliteit](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/instelling-college-voor-de-archeologische-kwaliteit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-12-22 | 2009-04-21 | [2005-12-22.md](./2005-12-22.md) |
-| 2005-12-01 | 2005-12-21 | [2005-12-01.md](./2005-12-01.md) |
 | 2005-12-01 | 2005-12-21 | [2005-12-01.md](./2005-12-01.md) |
 | 2001-10-04 | 2005-11-30 | [2001-10-04.md](./2001-10-04.md) |

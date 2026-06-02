@@ -6,7 +6,7 @@ title: Privacyreglement politieregister Financiële Criminaliteit
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2006-04-11"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Privacyreglement politieregister Financiële Criminaliteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2002/privacyreglement-politieregister-financi-le-criminaliteit](https://wetten.ai/eli/nl/ministeriele-regeling/2002/privacyreglement-politieregister-financi-le-criminaliteit)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/privacyreglement-politieregister-financi-le-criminaliteit](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/privacyreglement-politieregister-financi-le-criminaliteit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-04-11 | 2007-12-31 | [2006-04-11.md](./2006-04-11.md) |
-| 2005-10-02 | 2006-04-10 | [2005-10-02.md](./2005-10-02.md) |
 | 2005-10-02 | 2006-04-10 | [2005-10-02.md](./2005-10-02.md) |
 | 2002-05-01 | 2005-10-01 | [2002-05-01.md](./2002-05-01.md) |

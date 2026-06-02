@@ -6,7 +6,7 @@ title: Wet van 13 november 2008, houdende regeling van de vergoedingen voor advi
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wet vergoedingen adviescolleges en commissies
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2009/wet-vergoedingen-adviescolleges-en-commissies](https://wetten.ai/eli/nl/wet/2009/wet-vergoedingen-adviescolleges-en-commissies)
+**ELI:** [/eli/nl/wet/2009/wet-vergoedingen-adviescolleges-en-commissies](https://wettenbank.online/eli/nl/wet/2009/wet-vergoedingen-adviescolleges-en-commissies)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2014-06-28 | 2019-12-31 | [2014-06-28.md](./2014-06-28.md) |
-| 2013-01-01 | 2014-06-27 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2014-06-27 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-02-13 | 2012-12-31 | [2009-02-13.md](./2009-02-13.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2023-07-01"
-state_count: 31
+state_count: 30
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 31
 **Citeertitel:** Regeling Bouwbesluit 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-bouwbesluit-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-bouwbesluit-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-bouwbesluit-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-bouwbesluit-2012)
 
 ## Versies
 
@@ -48,7 +48,6 @@ state_count: 31
 | 2015-01-01 | 2015-03-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-04-01 | 2014-12-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-02-19 | 2014-03-31 | [2014-02-19.md](./2014-02-19.md) |
-| 2013-07-01 | 2014-02-18 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2014-02-18 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-03-01 | 2013-06-30 | [2013-03-01.md](./2013-03-01.md) |
 | 2012-07-01 | 2013-02-28 | [2012-07-01.md](./2012-07-01.md) |

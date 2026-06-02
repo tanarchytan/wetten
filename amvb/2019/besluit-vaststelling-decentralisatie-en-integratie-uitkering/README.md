@@ -6,7 +6,7 @@ title: Besluit van 26 maart 2019, houdende vaststelling van diverse decentralisa
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2020-10-20"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit vaststelling decentralisatie- en integratie-uitkeringen 2016
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2019/besluit-vaststelling-decentralisatie-en-integratie-uitkering](https://wetten.ai/eli/nl/amvb/2019/besluit-vaststelling-decentralisatie-en-integratie-uitkering)
+**ELI:** [/eli/nl/amvb/2019/besluit-vaststelling-decentralisatie-en-integratie-uitkering](https://wettenbank.online/eli/nl/amvb/2019/besluit-vaststelling-decentralisatie-en-integratie-uitkering)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2020-10-20 | heden | [2020-10-20.md](./2020-10-20.md) |
 | 2019-04-26 | 2020-10-19 | [2019-04-26.md](./2019-04-26.md) |
-| 2019-04-26 | 2020-10-19 | [2019-04-26.md](./2019-04-26.md) |
-| 2016-01-01 | 2019-04-25 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2019-04-25 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |

@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Onderwijs,Cultuur en Wetenschap van 26 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2007-08-11"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Beleidsregel Scholenplanning voortgezet onderwijs 2007 en 2008
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/beleidsregel/2006/beleidsregel-scholenplanning-voortgezet-onderwijs-2007-en-20](https://wetten.ai/eli/nl/beleidsregel/2006/beleidsregel-scholenplanning-voortgezet-onderwijs-2007-en-20)
+**ELI:** [/eli/nl/beleidsregel/2006/beleidsregel-scholenplanning-voortgezet-onderwijs-2007-en-20](https://wettenbank.online/eli/nl/beleidsregel/2006/beleidsregel-scholenplanning-voortgezet-onderwijs-2007-en-20)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-08-11 | 2008-07-31 | [2007-08-11.md](./2007-08-11.md) |
-| 2007-08-01 | 2007-08-10 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-08-01 | 2007-08-10 | [2007-08-01.md](./2007-08-01.md) |
 | 2006-11-09 | 2007-07-31 | [2006-11-09.md](./2006-11-09.md) |
 | 2006-08-01 | 2006-11-08 | [2006-08-01.md](./2006-08-01.md) |

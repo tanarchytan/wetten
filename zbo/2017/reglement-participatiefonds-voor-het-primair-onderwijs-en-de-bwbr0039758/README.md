@@ -6,7 +6,7 @@ title: Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecen
 ministry: Stichting Participatiefonds voor het Onderwijs
 abbreviation: null
 latest_state: "2019-01-22"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Reglement Participatiefonds voor het Primair Onderwijs en de Expertisecentra voor het schooljaar 2017–2018
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stichting Participatiefonds voor het Onderwijs
-**ELI:** [/eli/nl/zbo/2017/reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039758](https://wetten.ai/eli/nl/zbo/2017/reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039758)
+**ELI:** [/eli/nl/zbo/2017/reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039758](https://wettenbank.online/eli/nl/zbo/2017/reglement-participatiefonds-voor-het-primair-onderwijs-en-de-bwbr0039758)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2019-01-22 | heden | [2019-01-22.md](./2019-01-22.md) |
 | 2018-05-04 | 2019-01-21 | [2018-05-04.md](./2018-05-04.md) |
 | 2017-10-30 | 2018-05-03 | [2017-10-30.md](./2017-10-30.md) |
-| 2017-08-02 | 2017-10-29 | [2017-08-02.md](./2017-08-02.md) |
 | 2017-08-02 | 2017-10-29 | [2017-08-02.md](./2017-08-02.md) |
 | 2017-07-07 | 2017-08-01 | [2017-07-07.md](./2017-07-07.md) |

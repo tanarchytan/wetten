@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, va
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2021-11-24"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling uitvoering sociale werkvoorziening en begeleid werken 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-uitvoering-sociale-werkvoorziening-en-begeleid-werk](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-uitvoering-sociale-werkvoorziening-en-begeleid-werk)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-uitvoering-sociale-werkvoorziening-en-begeleid-werk](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-uitvoering-sociale-werkvoorziening-en-begeleid-werk)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 14
 | 2021-11-24 | heden | [2021-11-24.md](./2021-11-24.md) |
 | 2017-01-01 | 2021-11-23 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-09-25 | 2016-12-31 | [2015-09-25.md](./2015-09-25.md) |
-| 2015-05-01 | 2015-09-24 | [2015-05-01.md](./2015-05-01.md) |
 | 2015-05-01 | 2015-09-24 | [2015-05-01.md](./2015-05-01.md) |
 | 2015-01-01 | 2015-04-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-06 | 2014-12-31 | [2014-01-06.md](./2014-01-06.md) |

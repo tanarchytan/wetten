@@ -6,7 +6,7 @@ title: Regeling aanstellingseisen politie 2002
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-12-29"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling aanstellingseisen politie 2002
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-aanstellingseisen-politie-2002](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-aanstellingseisen-politie-2002)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-aanstellingseisen-politie-2002](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-aanstellingseisen-politie-2002)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 12
 |---|---|---|
 | 2020-12-29 | 2023-01-30 | [2020-12-29.md](./2020-12-29.md) |
 | 2020-09-01 | 2020-12-28 | [2020-09-01.md](./2020-09-01.md) |
-| 2020-09-01 | 2020-12-28 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-06-30 | 2020-08-31 | [2020-06-30.md](./2020-06-30.md) |
 | 2020-06-20 | 2020-06-29 | [2020-06-20.md](./2020-06-20.md) |
-| 2020-03-01 | 2020-06-19 | [2020-03-01.md](./2020-03-01.md) |
 | 2020-03-01 | 2020-06-19 | [2020-03-01.md](./2020-03-01.md) |
 | 2018-07-01 | 2020-02-29 | [2018-07-01.md](./2018-07-01.md) |
 | 2013-01-01 | 2018-06-30 | [2013-01-01.md](./2013-01-01.md) |

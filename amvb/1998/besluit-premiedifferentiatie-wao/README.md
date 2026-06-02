@@ -6,7 +6,7 @@ title: Besluit van 19 juli 1997 tot vaststelling van een algemene maatregel van 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit premiedifferentiatie WAO
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/1998/besluit-premiedifferentiatie-wao](https://wetten.ai/eli/nl/amvb/1998/besluit-premiedifferentiatie-wao)
+**ELI:** [/eli/nl/amvb/1998/besluit-premiedifferentiatie-wao](https://wettenbank.online/eli/nl/amvb/1998/besluit-premiedifferentiatie-wao)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 9
 |---|---|---|
 | 2006-01-01 | 2010-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-01-01 | 2005-08-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-01-01 | 2003-12-31 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-06-26 | 2002-12-31 | [2002-06-26.md](./2002-06-26.md) |
-| 2002-04-01 | 2002-06-25 | [2002-04-01.md](./2002-04-01.md) |
 | 2002-04-01 | 2002-06-25 | [2002-04-01.md](./2002-04-01.md) |

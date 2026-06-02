@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 26 
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-12-22"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling subsidie financiering vaste lasten MKB COVID-19
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-subsidie-financiering-vaste-lasten-mkb-covid-19](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-subsidie-financiering-vaste-lasten-mkb-covid-19)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-subsidie-financiering-vaste-lasten-mkb-covid-19](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-subsidie-financiering-vaste-lasten-mkb-covid-19)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-12-22 | 2021-02-12 | [2020-12-22.md](./2020-12-22.md) |
-| 2020-11-25 | 2020-12-21 | [2020-11-25.md](./2020-11-25.md) |
 | 2020-11-25 | 2020-12-21 | [2020-11-25.md](./2020-11-25.md) |
 | 2020-08-20 | 2020-11-24 | [2020-08-20.md](./2020-08-20.md) |
 | 2020-06-30 | 2020-08-19 | [2020-06-30.md](./2020-06-30.md) |

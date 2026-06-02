@@ -6,7 +6,7 @@ title: Bijstellingsregeling 2004
 ministry: Financiën
 abbreviation: null
 latest_state: "2004-05-14"
-state_count: 8
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Bijstellingsregeling 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2004/bijstellingsregeling-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/bijstellingsregeling-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/bijstellingsregeling-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/bijstellingsregeling-2004)
 
 ## Versies
 
@@ -24,9 +24,5 @@ state_count: 8
 |---|---|---|
 | 2004-05-14 | heden | [2004-05-14.md](./2004-05-14.md) |
 | 2004-02-01 | 2004-05-13 | [2004-02-01.md](./2004-02-01.md) |
-| 2004-02-01 | 2004-05-13 | [2004-02-01.md](./2004-02-01.md) |
 | 2004-01-31 | 2004-01-31 | [2004-01-31.md](./2004-01-31.md) |
-| 2004-01-31 | 2004-01-31 | [2004-01-31.md](./2004-01-31.md) |
-| 2004-01-01 | 2004-01-30 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-01-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-01-30 | [2004-01-01.md](./2004-01-01.md) |

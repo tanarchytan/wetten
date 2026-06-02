@@ -6,7 +6,7 @@ title: Besluit van 19 november 2014 tot wijziging van het Vreemdelingenbesluit 2
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wijzigingsbesluit Vreemdelingenbesluit 2000 (introductie grondslag toelating startende buitenlandse ondernemers en afschaffen meldplicht voor kort verblijf vreemdelingen van buiten de Europese Unie)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2014/wijzigingsbesluit-vreemdelingenbesluit-2000-introductie-gron](https://wetten.ai/eli/nl/amvb/2014/wijzigingsbesluit-vreemdelingenbesluit-2000-introductie-gron)
+**ELI:** [/eli/nl/amvb/2014/wijzigingsbesluit-vreemdelingenbesluit-2000-introductie-gron](https://wettenbank.online/eli/nl/amvb/2014/wijzigingsbesluit-vreemdelingenbesluit-2000-introductie-gron)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2015-01-01 | heden | [2015-01-01.md](./2015-01-01.md) |
 | 2014-11-28 | 2014-12-31 | [2014-11-28.md](./2014-11-28.md) |
-| 2014-11-28 | 2014-12-31 | [2014-11-28.md](./2014-11-28.md) |
-| 2014-01-01 | 2014-11-27 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-11-27 | [2014-01-01.md](./2014-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling luchtvaartmeteorologische inlichtingen 2006
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Regeling luchtvaartmeteorologische inlichtingen 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-luchtvaartmeteorologische-inlichtingen-2006](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-luchtvaartmeteorologische-inlichtingen-2006)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-luchtvaartmeteorologische-inlichtingen-2006](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-luchtvaartmeteorologische-inlichtingen-2006)
 
 ## Versies
 
@@ -32,10 +32,8 @@ state_count: 17
 | 2013-01-01 | 2014-12-11 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-07-16 | 2012-12-31 | [2011-07-16.md](./2011-07-16.md) |
 | 2011-03-15 | 2011-07-15 | [2011-03-15.md](./2011-03-15.md) |
-| 2011-03-15 | 2011-07-15 | [2011-03-15.md](./2011-03-15.md) |
 | 2008-11-05 | 2011-03-14 | [2008-11-05.md](./2008-11-05.md) |
 | 2008-05-28 | 2008-11-04 | [2008-05-28.md](./2008-05-28.md) |
 | 2007-09-19 | 2008-05-27 | [2007-09-19.md](./2007-09-19.md) |
-| 2007-08-01 | 2007-09-18 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-08-01 | 2007-09-18 | [2007-08-01.md](./2007-08-01.md) |
 | 2006-01-21 | 2007-07-31 | [2006-01-21.md](./2006-01-21.md) |

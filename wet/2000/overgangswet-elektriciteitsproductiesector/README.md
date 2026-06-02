@@ -6,7 +6,7 @@ title: Wet van 21 december 2000, houdende regels met betrekking tot het beëindi
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Overgangswet elektriciteitsproductiesector
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2000/overgangswet-elektriciteitsproductiesector](https://wetten.ai/eli/nl/wet/2000/overgangswet-elektriciteitsproductiesector)
+**ELI:** [/eli/nl/wet/2000/overgangswet-elektriciteitsproductiesector](https://wettenbank.online/eli/nl/wet/2000/overgangswet-elektriciteitsproductiesector)
 
 ## Versies
 
@@ -26,8 +26,5 @@ state_count: 9
 | 2008-04-01 | 2012-12-31 | [2008-04-01.md](./2008-04-01.md) |
 | 2004-12-24 | 2008-03-31 | [2004-12-24.md](./2004-12-24.md) |
 | 2003-08-19 | 2004-12-23 | [2003-08-19.md](./2003-08-19.md) |
-| 2003-08-19 | 2004-12-23 | [2003-08-19.md](./2003-08-19.md) |
 | 2003-01-01 | 2003-08-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-08-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

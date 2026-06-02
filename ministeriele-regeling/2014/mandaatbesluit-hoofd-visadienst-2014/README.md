@@ -6,7 +6,7 @@ title: Besluit van de Minister van Buitenlandse Zaken van 14 november 2014, nr.
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2022-02-04"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Mandaatbesluit Hoofd Visadienst 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/mandaatbesluit-hoofd-visadienst-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2014/mandaatbesluit-hoofd-visadienst-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/mandaatbesluit-hoofd-visadienst-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/mandaatbesluit-hoofd-visadienst-2014)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-02-04 | heden | [2022-02-04.md](./2022-02-04.md) |
-| 2022-02-01 | 2022-02-03 | [2022-02-01.md](./2022-02-01.md) |
 | 2022-02-01 | 2022-02-03 | [2022-02-01.md](./2022-02-01.md) |
 | 2014-11-25 | 2022-01-31 | [2014-11-25.md](./2014-11-25.md) |
 | 2013-06-01 | 2014-11-24 | [2013-06-01.md](./2013-06-01.md) |

@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vis van 1 oktober 2009, houdende regels 
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening financiering scholpromotie 2010
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2010/verordening-financiering-scholpromotie-2010](https://wetten.ai/eli/nl/pbo/2010/verordening-financiering-scholpromotie-2010)
+**ELI:** [/eli/nl/pbo/2010/verordening-financiering-scholpromotie-2010](https://wettenbank.online/eli/nl/pbo/2010/verordening-financiering-scholpromotie-2010)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-01-01 | 2019-10-18 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-09-11 | 2010-12-31 | [2010-09-11.md](./2010-09-11.md) |
-| 2010-09-11 | 2010-12-31 | [2010-09-11.md](./2010-09-11.md) |
-| 2010-01-01 | 2010-09-10 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-09-10 | [2010-01-01.md](./2010-01-01.md) |

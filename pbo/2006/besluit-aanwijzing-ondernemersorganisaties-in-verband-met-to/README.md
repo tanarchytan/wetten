@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Vee en Vlees van 26 oktober 
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2006-11-19"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit aanwijzing ondernemersorganisaties in verband met toepassing Schilthuisaftrek (PVV) 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2006/besluit-aanwijzing-ondernemersorganisaties-in-verband-met-to](https://wetten.ai/eli/nl/pbo/2006/besluit-aanwijzing-ondernemersorganisaties-in-verband-met-to)
+**ELI:** [/eli/nl/pbo/2006/besluit-aanwijzing-ondernemersorganisaties-in-verband-met-to](https://wettenbank.online/eli/nl/pbo/2006/besluit-aanwijzing-ondernemersorganisaties-in-verband-met-to)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-11-19 | 2021-09-29 | [2006-11-19.md](./2006-11-19.md) |
-| 2006-01-01 | 2006-11-18 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-11-18 | [2006-01-01.md](./2006-01-01.md) |

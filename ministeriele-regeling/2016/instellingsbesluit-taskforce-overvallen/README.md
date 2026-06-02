@@ -6,7 +6,7 @@ title: Besluit van de Minister van Veiligheid en Justitie van 17 augustus 2016,
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-06-19"
-state_count: 15
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Instellingsbesluit Taskforce overvallen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-taskforce-overvallen](https://wetten.ai/eli/nl/ministeriele-regeling/2016/instellingsbesluit-taskforce-overvallen)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-taskforce-overvallen](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/instellingsbesluit-taskforce-overvallen)
 
 ## Versies
 
@@ -24,11 +24,8 @@ state_count: 15
 |---|---|---|
 | 2025-06-19 | heden | [2025-06-19.md](./2025-06-19.md) |
 | 2025-05-12 | 2025-06-18 | [2025-05-12.md](./2025-05-12.md) |
-| 2025-05-12 | 2025-06-18 | [2025-05-12.md](./2025-05-12.md) |
 | 2024-03-28 | 2025-05-11 | [2024-03-28.md](./2024-03-28.md) |
 | 2023-11-17 | 2024-03-27 | [2023-11-17.md](./2023-11-17.md) |
-| 2023-11-17 | 2024-03-27 | [2023-11-17.md](./2023-11-17.md) |
-| 2023-01-27 | 2023-11-16 | [2023-01-27.md](./2023-01-27.md) |
 | 2023-01-27 | 2023-11-16 | [2023-01-27.md](./2023-01-27.md) |
 | 2022-12-06 | 2023-01-26 | [2022-12-06.md](./2022-12-06.md) |
 | 2022-01-01 | 2022-12-05 | [2022-01-01.md](./2022-01-01.md) |

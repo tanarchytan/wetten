@@ -6,7 +6,7 @@ title: Wet van 17 mei 2010, houdende regels met betrekking tot de openbare licha
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: WolBES
 latest_state: "2025-02-12"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** WolBES
-**ELI:** [/eli/nl/wet-bes/2010/wet-openbare-lichamen-bonaire-sint-eustatius-en-saba](https://wetten.ai/eli/nl/wet-bes/2010/wet-openbare-lichamen-bonaire-sint-eustatius-en-saba)
+**ELI:** [/eli/nl/wet-bes/2010/wet-openbare-lichamen-bonaire-sint-eustatius-en-saba](https://wettenbank.online/eli/nl/wet-bes/2010/wet-openbare-lichamen-bonaire-sint-eustatius-en-saba)
 
 ## Versies
 
@@ -36,6 +36,5 @@ state_count: 16
 | 2014-03-19 | 2015-01-29 | [2014-03-19.md](./2014-03-19.md) |
 | 2011-12-07 | 2014-03-18 | [2011-12-07.md](./2011-12-07.md) |
 | 2011-01-01 | 2011-12-06 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-10 | 2010-10-10 | [2010-10-10.md](./2010-10-10.md) |

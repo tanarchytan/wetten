@@ -6,7 +6,7 @@ title: Wet van 15 november 2000 ter stimulering van integrale stedelijke vernieu
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: WSV
 latest_state: "2011-01-01"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** WSV
-**ELI:** [/eli/nl/wet/2000/wet-stedelijke-vernieuwing](https://wetten.ai/eli/nl/wet/2000/wet-stedelijke-vernieuwing)
+**ELI:** [/eli/nl/wet/2000/wet-stedelijke-vernieuwing](https://wettenbank.online/eli/nl/wet/2000/wet-stedelijke-vernieuwing)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 13
 | 2011-01-01 | 2011-04-27 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-03-31 | 2010-12-31 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-01 | 2010-03-30 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2010-03-30 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-06-15 | 2009-06-30 | [2009-06-15.md](./2009-06-15.md) |
 | 2009-06-15 | 2009-06-30 | [2009-06-15.md](./2009-06-15.md) |
 | 2008-10-31 | 2009-06-14 | [2008-10-31.md](./2008-10-31.md) |
 | 2008-06-13 | 2008-10-30 | [2008-06-13.md](./2008-06-13.md) |

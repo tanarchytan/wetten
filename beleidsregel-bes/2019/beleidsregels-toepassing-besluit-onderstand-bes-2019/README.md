@@ -6,7 +6,7 @@ title: Beleidsregels van de Staatssecretaris van Sociale Zaken en Werkgelegenhei
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Beleidsregels toepassing Besluit onderstand BES 2019
 **Type:** beleidsregel-bes
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/beleidsregel-bes/2019/beleidsregels-toepassing-besluit-onderstand-bes-2019](https://wetten.ai/eli/nl/beleidsregel-bes/2019/beleidsregels-toepassing-besluit-onderstand-bes-2019)
+**ELI:** [/eli/nl/beleidsregel-bes/2019/beleidsregels-toepassing-besluit-onderstand-bes-2019](https://wettenbank.online/eli/nl/beleidsregel-bes/2019/beleidsregels-toepassing-besluit-onderstand-bes-2019)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 11
 | 2023-01-01 | 2023-12-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-04-29 | 2022-12-31 | [2022-04-29.md](./2022-04-29.md) |
 | 2022-01-25 | 2022-04-28 | [2022-01-25.md](./2022-01-25.md) |
-| 2022-01-01 | 2022-01-24 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-01-24 | [2022-01-01.md](./2022-01-01.md) |
 | 2020-01-01 | 2021-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-06 | 2019-12-31 | [2019-07-06.md](./2019-07-06.md) |

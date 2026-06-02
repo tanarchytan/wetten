@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-04-25"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling codetabellen school- en studiejaar 2016-2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-codetabellen-school-en-studiejaar-2016-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-codetabellen-school-en-studiejaar-2016-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-codetabellen-school-en-studiejaar-2016-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-codetabellen-school-en-studiejaar-2016-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-04-25 | 2017-07-31 | [2017-04-25.md](./2017-04-25.md) |
-| 2016-08-01 | 2017-04-24 | [2016-08-01.md](./2016-08-01.md) |
 | 2016-08-01 | 2017-04-24 | [2016-08-01.md](./2016-08-01.md) |

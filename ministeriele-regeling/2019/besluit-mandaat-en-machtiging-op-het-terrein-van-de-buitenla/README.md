@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2021-07-30"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit mandaat en machtiging op het terrein van de buitenlandse handel 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-mandaat-en-machtiging-op-het-terrein-van-de-buitenla](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-mandaat-en-machtiging-op-het-terrein-van-de-buitenla)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-mandaat-en-machtiging-op-het-terrein-van-de-buitenla](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-mandaat-en-machtiging-op-het-terrein-van-de-buitenla)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-07-30 | heden | [2021-07-30.md](./2021-07-30.md) |
-| 2021-01-01 | 2021-07-29 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-07-29 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-09-11 | 2020-12-31 | [2019-09-11.md](./2019-09-11.md) |
 | 2019-02-20 | 2019-09-10 | [2019-02-20.md](./2019-02-20.md) |

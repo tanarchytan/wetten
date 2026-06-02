@@ -6,7 +6,7 @@ title: Regeling invoer, uitvoer en verkeer van planten
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-07-01"
-state_count: 61
+state_count: 59
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 61
 **Citeertitel:** Regeling invoer, uitvoer en verkeer van planten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1993/regeling-invoer-uitvoer-en-verkeer-van-planten](https://wetten.ai/eli/nl/ministeriele-regeling/1993/regeling-invoer-uitvoer-en-verkeer-van-planten)
+**ELI:** [/eli/nl/ministeriele-regeling/1993/regeling-invoer-uitvoer-en-verkeer-van-planten](https://wettenbank.online/eli/nl/ministeriele-regeling/1993/regeling-invoer-uitvoer-en-verkeer-van-planten)
 
 ## Versies
 
@@ -56,7 +56,6 @@ state_count: 61
 | 2015-07-15 | 2015-08-28 | [2015-07-15.md](./2015-07-15.md) |
 | 2015-05-02 | 2015-07-14 | [2015-05-02.md](./2015-05-02.md) |
 | 2015-04-01 | 2015-05-01 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-04-01 | 2015-05-01 | [2015-04-01.md](./2015-04-01.md) |
 | 2014-12-18 | 2015-03-31 | [2014-12-18.md](./2014-12-18.md) |
 | 2014-11-11 | 2014-12-17 | [2014-11-11.md](./2014-11-11.md) |
 | 2014-10-07 | 2014-11-10 | [2014-10-07.md](./2014-10-07.md) |
@@ -81,5 +80,4 @@ state_count: 61
 | 2005-01-01 | 2007-09-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-18 | 2004-12-31 | [2004-12-18.md](./2004-12-18.md) |
 | 2003-05-25 | 2004-12-17 | [2003-05-25.md](./2003-05-25.md) |
-| 2003-04-01 | 2003-05-24 | [2003-04-01.md](./2003-04-01.md) |
 | 2003-04-01 | 2003-05-24 | [2003-04-01.md](./2003-04-01.md) |

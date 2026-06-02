@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 27 oktober 2016, nr. W
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2017-08-24"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling vergoedingen Agentschap Telecom 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vergoedingen-agentschap-telecom-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-vergoedingen-agentschap-telecom-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vergoedingen-agentschap-telecom-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-vergoedingen-agentschap-telecom-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-08-24 | 2017-12-31 | [2017-08-24.md](./2017-08-24.md) |
-| 2017-01-01 | 2017-08-23 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-08-23 | [2017-01-01.md](./2017-01-01.md) |

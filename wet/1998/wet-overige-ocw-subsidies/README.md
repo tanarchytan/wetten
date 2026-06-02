@@ -6,7 +6,7 @@ title: Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidi
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: WOOS
 latest_state: "2019-01-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** WOOS
-**ELI:** [/eli/nl/wet/1998/wet-overige-ocw-subsidies](https://wetten.ai/eli/nl/wet/1998/wet-overige-ocw-subsidies)
+**ELI:** [/eli/nl/wet/1998/wet-overige-ocw-subsidies](https://wettenbank.online/eli/nl/wet/1998/wet-overige-ocw-subsidies)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 13
 | 2015-01-01 | 2018-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2011-10-29 | 2014-12-31 | [2011-10-29.md](./2011-10-29.md) |
 | 2011-02-11 | 2011-10-28 | [2011-02-11.md](./2011-02-11.md) |
-| 2010-01-01 | 2011-02-10 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2011-02-10 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-01 | 2009-12-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |

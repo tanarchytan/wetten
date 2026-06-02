@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Wonen, Wijken en Integratie van 9 september
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2014-03-12"
-state_count: 21
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Mandaatbesluit Agentschap NL Regelingen Wonen, Wijken en Integratie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/mandaatbesluit-agentschap-nl-regelingen-wonen-wijken-en-inte](https://wetten.ai/eli/nl/ministeriele-regeling/2007/mandaatbesluit-agentschap-nl-regelingen-wonen-wijken-en-inte)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/mandaatbesluit-agentschap-nl-regelingen-wonen-wijken-en-inte](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/mandaatbesluit-agentschap-nl-regelingen-wonen-wijken-en-inte)
 
 ## Versies
 
@@ -24,14 +24,10 @@ state_count: 21
 |---|---|---|
 | 2014-03-12 | 2014-09-22 | [2014-03-12.md](./2014-03-12.md) |
 | 2014-01-01 | 2014-03-11 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-03-11 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-12-01 | 2013-12-31 | [2013-12-01.md](./2013-12-01.md) |
 | 2013-12-01 | 2013-12-31 | [2013-12-01.md](./2013-12-01.md) |
 | 2011-10-08 | 2013-11-30 | [2011-10-08.md](./2011-10-08.md) |
 | 2011-06-16 | 2011-10-07 | [2011-06-16.md](./2011-06-16.md) |
-| 2011-06-16 | 2011-10-07 | [2011-06-16.md](./2011-06-16.md) |
 | 2010-08-19 | 2011-06-15 | [2010-08-19.md](./2010-08-19.md) |
-| 2010-07-17 | 2010-08-18 | [2010-07-17.md](./2010-07-17.md) |
 | 2010-07-17 | 2010-08-18 | [2010-07-17.md](./2010-07-17.md) |
 | 2010-05-21 | 2010-07-16 | [2010-05-21.md](./2010-05-21.md) |
 | 2010-01-01 | 2010-05-20 | [2010-01-01.md](./2010-01-01.md) |

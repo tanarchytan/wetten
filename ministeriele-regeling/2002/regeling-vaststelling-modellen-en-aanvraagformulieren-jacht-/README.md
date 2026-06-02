@@ -6,7 +6,7 @@ title: Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers-
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2016-04-01"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-vaststelling-modellen-en-aanvraagformulieren-jacht-](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-vaststelling-modellen-en-aanvraagformulieren-jacht-)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-vaststelling-modellen-en-aanvraagformulieren-jacht-](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-vaststelling-modellen-en-aanvraagformulieren-jacht-)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 18
 | 2008-04-01 | 2009-03-31 | [2008-04-01.md](./2008-04-01.md) |
 | 2007-04-01 | 2008-03-31 | [2007-04-01.md](./2007-04-01.md) |
 | 2006-04-14 | 2007-03-31 | [2006-04-14.md](./2006-04-14.md) |
-| 2006-04-01 | 2006-04-13 | [2006-04-01.md](./2006-04-01.md) |
 | 2006-04-01 | 2006-04-13 | [2006-04-01.md](./2006-04-01.md) |
 | 2005-04-01 | 2006-03-31 | [2005-04-01.md](./2005-04-01.md) |
 | 2002-04-01 | 2005-03-31 | [2002-04-01.md](./2002-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Minis
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-05-27"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling aanvraag en vergelijkende toets vergunningen kavels A7 en A8 in de FM-band en aanvraag vergunningen voor frequentieruimte in band III
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-aanvraag-en-vergelijkende-toets-vergunningen-kavels](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-aanvraag-en-vergelijkende-toets-vergunningen-kavels)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-aanvraag-en-vergelijkende-toets-vergunningen-kavels](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-aanvraag-en-vergelijkende-toets-vergunningen-kavels)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-05-27 | 2013-03-14 | [2011-05-27.md](./2011-05-27.md) |
-| 2011-04-30 | 2011-05-26 | [2011-04-30.md](./2011-04-30.md) |
 | 2011-04-30 | 2011-05-26 | [2011-04-30.md](./2011-04-30.md) |

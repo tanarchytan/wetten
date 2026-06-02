@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 juni
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling kwaliteitsafspraken mbo 2019–2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-kwaliteitsafspraken-mbo-2019-2022](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-kwaliteitsafspraken-mbo-2019-2022)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-kwaliteitsafspraken-mbo-2019-2022](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-kwaliteitsafspraken-mbo-2019-2022)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 11
 |---|---|---|
 | 2022-08-01 | 2024-07-30 | [2022-08-01.md](./2022-08-01.md) |
 | 2022-07-12 | 2022-07-31 | [2022-07-12.md](./2022-07-12.md) |
-| 2021-11-01 | 2022-07-11 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-11-01 | 2022-07-11 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-07-23 | 2021-10-31 | [2021-07-23.md](./2021-07-23.md) |
 | 2020-11-25 | 2021-07-22 | [2020-11-25.md](./2020-11-25.md) |

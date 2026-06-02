@@ -6,7 +6,7 @@ title: Besluit van 7 mei 2001, houdende aanwijzing van verwerkingen van persoons
 ministry: Veiligheid en Justitie
 abbreviation: Vrijst besl  Wbp
 latest_state: "2018-01-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Vrijst besl  Wbp
-**ELI:** [/eli/nl/amvb/2001/vrijstellingsbesluit-wbp](https://wetten.ai/eli/nl/amvb/2001/vrijstellingsbesluit-wbp)
+**ELI:** [/eli/nl/amvb/2001/vrijstellingsbesluit-wbp](https://wettenbank.online/eli/nl/amvb/2001/vrijstellingsbesluit-wbp)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 12
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-05-25 | 2017-12-31 | [2017-05-25.md](./2017-05-25.md) |
 | 2017-01-01 | 2017-05-24 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-05-24 | [2017-01-01.md](./2017-01-01.md) |
-| 2016-08-21 | 2016-12-31 | [2016-08-21.md](./2016-08-21.md) |
 | 2016-08-21 | 2016-12-31 | [2016-08-21.md](./2016-08-21.md) |
 | 2015-01-01 | 2016-08-20 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-07-01 | 2014-12-31 | [2012-07-01.md](./2012-07-01.md) |

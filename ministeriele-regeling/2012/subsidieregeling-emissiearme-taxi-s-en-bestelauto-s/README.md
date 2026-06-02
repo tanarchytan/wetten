@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu van 25 sep
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-08-23"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Subsidieregeling emissiearme taxi’s en bestelauto’s
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/subsidieregeling-emissiearme-taxi-s-en-bestelauto-s](https://wetten.ai/eli/nl/ministeriele-regeling/2012/subsidieregeling-emissiearme-taxi-s-en-bestelauto-s)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/subsidieregeling-emissiearme-taxi-s-en-bestelauto-s](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/subsidieregeling-emissiearme-taxi-s-en-bestelauto-s)
 
 ## Versies
 
@@ -24,12 +24,7 @@ state_count: 11
 |---|---|---|
 | 2014-08-23 | 2015-03-31 | [2014-08-23.md](./2014-08-23.md) |
 | 2014-01-01 | 2014-08-22 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-08-22 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-12-31 | 2013-12-31 | [2013-12-31.md](./2013-12-31.md) |
 | 2013-12-31 | 2013-12-31 | [2013-12-31.md](./2013-12-31.md) |
 | 2013-09-18 | 2013-12-30 | [2013-09-18.md](./2013-09-18.md) |
-| 2013-09-18 | 2013-12-30 | [2013-09-18.md](./2013-09-18.md) |
 | 2013-01-01 | 2013-09-17 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-09-17 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-10-01 | 2012-12-31 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-10-01 | 2012-12-31 | [2012-10-01.md](./2012-10-01.md) |

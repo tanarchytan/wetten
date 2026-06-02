@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-11-30"
-state_count: 28
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 28
 **Citeertitel:** Openstellingsbesluit LNV-subsidies 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/openstellingsbesluit-lnv-subsidies-2010](https://wetten.ai/eli/nl/ministeriele-regeling/2010/openstellingsbesluit-lnv-subsidies-2010)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/openstellingsbesluit-lnv-subsidies-2010](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/openstellingsbesluit-lnv-subsidies-2010)
 
 ## Versies
 
@@ -25,20 +25,11 @@ state_count: 28
 | 2010-11-30 | 2010-12-31 | [2010-11-30.md](./2010-11-30.md) |
 | 2010-11-01 | 2010-11-29 | [2010-11-01.md](./2010-11-01.md) |
 | 2010-10-06 | 2010-10-31 | [2010-10-06.md](./2010-10-06.md) |
-| 2010-10-06 | 2010-10-31 | [2010-10-06.md](./2010-10-06.md) |
-| 2010-10-01 | 2010-10-05 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2010-10-05 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-09-11 | 2010-09-30 | [2010-09-11.md](./2010-09-11.md) |
-| 2010-09-11 | 2010-09-30 | [2010-09-11.md](./2010-09-11.md) |
-| 2010-07-22 | 2010-09-10 | [2010-07-22.md](./2010-07-22.md) |
 | 2010-07-22 | 2010-09-10 | [2010-07-22.md](./2010-07-22.md) |
 | 2010-07-07 | 2010-07-21 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-07-07 | 2010-07-21 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-07-07 | 2010-07-21 | [2010-07-07.md](./2010-07-07.md) |
 | 2010-07-02 | 2010-07-06 | [2010-07-02.md](./2010-07-02.md) |
-| 2010-07-02 | 2010-07-06 | [2010-07-02.md](./2010-07-02.md) |
-| 2010-07-02 | 2010-07-06 | [2010-07-02.md](./2010-07-02.md) |
-| 2010-07-01 | 2010-07-01 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-07-01 | 2010-07-01 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-06-01 | 2010-06-30 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-05-08 | 2010-05-31 | [2010-05-08.md](./2010-05-08.md) |

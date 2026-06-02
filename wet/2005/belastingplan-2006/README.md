@@ -6,7 +6,7 @@ title: Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (
 ministry: Financiën
 abbreviation: null
 latest_state: "2008-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Belastingplan 2006
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2005/belastingplan-2006](https://wetten.ai/eli/nl/wet/2005/belastingplan-2006)
+**ELI:** [/eli/nl/wet/2005/belastingplan-2006](https://wettenbank.online/eli/nl/wet/2005/belastingplan-2006)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 12
 | 2006-08-18 | 2007-04-10 | [2006-08-18.md](./2006-08-18.md) |
 | 2006-04-08 | 2006-08-17 | [2006-04-08.md](./2006-04-08.md) |
 | 2006-01-01 | 2006-04-07 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-12-31 | 2005-12-31 | [2005-12-31.md](./2005-12-31.md) |
 | 2005-12-31 | 2005-12-31 | [2005-12-31.md](./2005-12-31.md) |
 | 2005-11-16 | 2005-12-30 | [2005-11-16.md](./2005-11-16.md) |
 | 2005-07-01 | 2005-11-15 | [2005-07-01.md](./2005-07-01.md) |

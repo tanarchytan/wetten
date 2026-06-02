@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-10-19"
-state_count: 13
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Subsidieregeling dieselmotoren voor binnenvaartschepen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieselmotoren-voor-binnenvaartschepen](https://wetten.ai/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieselmotoren-voor-binnenvaartschepen)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieselmotoren-voor-binnenvaartschepen](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/subsidieregeling-dieselmotoren-voor-binnenvaartschepen)
 
 ## Versies
 
@@ -29,9 +29,6 @@ state_count: 13
 | 2008-03-27 | 2008-12-31 | [2008-03-27.md](./2008-03-27.md) |
 | 2007-12-21 | 2008-03-26 | [2007-12-21.md](./2007-12-21.md) |
 | 2007-06-13 | 2007-12-20 | [2007-06-13.md](./2007-06-13.md) |
-| 2007-06-13 | 2007-12-20 | [2007-06-13.md](./2007-06-13.md) |
 | 2006-12-01 | 2007-06-12 | [2006-12-01.md](./2006-12-01.md) |
-| 2006-12-01 | 2007-06-12 | [2006-12-01.md](./2006-12-01.md) |
-| 2006-10-16 | 2006-11-30 | [2006-10-16.md](./2006-10-16.md) |
 | 2006-10-16 | 2006-11-30 | [2006-10-16.md](./2006-10-16.md) |
 | 2005-11-12 | 2006-10-15 | [2005-11-12.md](./2005-11-12.md) |

@@ -6,7 +6,7 @@ title: Wet van 16 september 1993, houdende regels voor de besluitvorming met bet
 ministry: Infrastructuur en Milieu
 abbreviation: Tracew
 latest_state: "2021-07-01"
-state_count: 36
+state_count: 32
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 36
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Tracew
-**ELI:** [/eli/nl/wet/1994/trac-wet](https://wetten.ai/eli/nl/wet/1994/trac-wet)
+**ELI:** [/eli/nl/wet/1994/trac-wet](https://wettenbank.online/eli/nl/wet/1994/trac-wet)
 
 ## Versies
 
@@ -40,11 +40,7 @@ state_count: 36
 | 2010-03-31 | 2010-06-30 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-15 | 2010-03-30 | [2009-07-15.md](./2009-07-15.md) |
 | 2009-04-24 | 2009-07-14 | [2009-04-24.md](./2009-04-24.md) |
-| 2009-04-24 | 2009-07-14 | [2009-04-24.md](./2009-04-24.md) |
 | 2009-01-01 | 2009-04-23 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-04-23 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-04-23 | [2009-01-01.md](./2009-01-01.md) |
-| 2008-07-01 | 2008-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2008-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2006-12-13 | 2008-06-30 | [2006-12-13.md](./2006-12-13.md) |
 | 2006-05-25 | 2006-12-12 | [2006-05-25.md](./2006-05-25.md) |

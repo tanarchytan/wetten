@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-03-01"
-state_count: 38
+state_count: 32
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 38
 **Citeertitel:** Regeling diverse subsidieplafonds en aanvraagperioden LNV
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-diverse-subsidieplafonds-en-aanvraagperioden-lnv](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-diverse-subsidieplafonds-en-aanvraagperioden-lnv)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-diverse-subsidieplafonds-en-aanvraagperioden-lnv](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-diverse-subsidieplafonds-en-aanvraagperioden-lnv)
 
 ## Versies
 
@@ -28,8 +28,6 @@ state_count: 38
 | 2006-11-01 | 2006-11-29 | [2006-11-01.md](./2006-11-01.md) |
 | 2006-07-12 | 2006-10-31 | [2006-07-12.md](./2006-07-12.md) |
 | 2006-06-24 | 2006-07-11 | [2006-06-24.md](./2006-06-24.md) |
-| 2006-06-24 | 2006-07-11 | [2006-06-24.md](./2006-06-24.md) |
-| 2006-06-15 | 2006-06-23 | [2006-06-15.md](./2006-06-15.md) |
 | 2006-06-15 | 2006-06-23 | [2006-06-15.md](./2006-06-15.md) |
 | 2006-06-10 | 2006-06-14 | [2006-06-10.md](./2006-06-10.md) |
 | 2006-04-15 | 2006-06-09 | [2006-04-15.md](./2006-04-15.md) |
@@ -49,14 +47,10 @@ state_count: 38
 | 2004-12-15 | 2004-12-22 | [2004-12-15.md](./2004-12-15.md) |
 | 2004-12-12 | 2004-12-14 | [2004-12-12.md](./2004-12-12.md) |
 | 2004-12-09 | 2004-12-11 | [2004-12-09.md](./2004-12-09.md) |
-| 2004-12-09 | 2004-12-11 | [2004-12-09.md](./2004-12-09.md) |
 | 2004-11-03 | 2004-12-08 | [2004-11-03.md](./2004-11-03.md) |
-| 2004-11-01 | 2004-11-02 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-11-02 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-10-30 | 2004-10-31 | [2004-10-30.md](./2004-10-30.md) |
 | 2004-08-27 | 2004-10-29 | [2004-08-27.md](./2004-08-27.md) |
 | 2004-08-01 | 2004-08-26 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-08-01 | 2004-08-26 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-05-30 | 2004-07-31 | [2004-05-30.md](./2004-05-30.md) |
 | 2004-05-30 | 2004-07-31 | [2004-05-30.md](./2004-05-30.md) |
 | 2004-01-03 | 2004-05-29 | [2004-01-03.md](./2004-01-03.md) |

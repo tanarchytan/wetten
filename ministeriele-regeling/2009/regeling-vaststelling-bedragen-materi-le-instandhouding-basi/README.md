@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2009-02-28"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling vaststelling bedragen materiële instandhouding basisonderwijs, (v)so en samenwerkingsverband 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-bedragen-materi-le-instandhouding-basi](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-bedragen-materi-le-instandhouding-basi)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-bedragen-materi-le-instandhouding-basi](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-bedragen-materi-le-instandhouding-basi)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-02-28 | 2011-12-31 | [2009-02-28.md](./2009-02-28.md) |
-| 2009-01-01 | 2009-02-27 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-02-27 | [2009-01-01.md](./2009-01-01.md) |

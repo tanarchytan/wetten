@@ -6,7 +6,7 @@ title: Instellingsbesluit InnovatieNetwerk groene ruimte en agrocluster
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-09-08"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit InnovatieNetwerk
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2002/besluit-innovatienetwerk](https://wetten.ai/eli/nl/ministeriele-regeling/2002/besluit-innovatienetwerk)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/besluit-innovatienetwerk](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/besluit-innovatienetwerk)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-09-08 | 2008-07-19 | [2006-09-08.md](./2006-09-08.md) |
-| 2006-01-02 | 2006-09-07 | [2006-01-02.md](./2006-01-02.md) |
 | 2006-01-02 | 2006-09-07 | [2006-01-02.md](./2006-01-02.md) |
 | 2002-05-16 | 2006-01-01 | [2002-05-16.md](./2002-05-16.md) |

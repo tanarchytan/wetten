@@ -6,7 +6,7 @@ title: Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2016-04-09"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit Deskundigengroep Elektronisch stemmen en tellen in het stemlokaal
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2015/instellingsbesluit-deskundigengroep-elektronisch-stemmen-en-](https://wetten.ai/eli/nl/ministeriele-regeling/2015/instellingsbesluit-deskundigengroep-elektronisch-stemmen-en-)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/instellingsbesluit-deskundigengroep-elektronisch-stemmen-en-](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/instellingsbesluit-deskundigengroep-elektronisch-stemmen-en-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-04-09 | heden | [2016-04-09.md](./2016-04-09.md) |
-| 2015-09-01 | 2016-04-08 | [2015-09-01.md](./2015-09-01.md) |
 | 2015-09-01 | 2016-04-08 | [2015-09-01.md](./2015-09-01.md) |
 | 2015-05-14 | 2015-08-31 | [2015-05-14.md](./2015-05-14.md) |
 | 2015-04-28 | 2015-05-13 | [2015-04-28.md](./2015-04-28.md) |

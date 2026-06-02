@@ -6,7 +6,7 @@ title: Beschikking instantloterij 2011–2015
 ministry: Kansspelautoriteit
 abbreviation: null
 latest_state: "2013-02-28"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Beschikking instantloterij 2011–2015
 **Type:** zbo
 **Verantwoordelijk ministerie:** Kansspelautoriteit
-**ELI:** [/eli/nl/zbo/2011/beschikking-instantloterij-2011-2015](https://wetten.ai/eli/nl/zbo/2011/beschikking-instantloterij-2011-2015)
+**ELI:** [/eli/nl/zbo/2011/beschikking-instantloterij-2011-2015](https://wettenbank.online/eli/nl/zbo/2011/beschikking-instantloterij-2011-2015)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2013-02-28 | heden | [2013-02-28.md](./2013-02-28.md) |
 | 2012-12-20 | 2013-02-27 | [2012-12-20.md](./2012-12-20.md) |
-| 2012-12-20 | 2013-02-27 | [2012-12-20.md](./2012-12-20.md) |
-| 2012-01-01 | 2012-12-19 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-12-19 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-12-19 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-10-01 | 2011-12-31 | [2011-10-01.md](./2011-10-01.md) |

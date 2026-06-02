@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 apr
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2017-01-24"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Projectstimuleringsregeling Interreg V
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2015/projectstimuleringsregeling-interreg-v](https://wetten.ai/eli/nl/ministeriele-regeling/2015/projectstimuleringsregeling-interreg-v)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/projectstimuleringsregeling-interreg-v](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/projectstimuleringsregeling-interreg-v)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-01-24 | heden | [2017-01-24.md](./2017-01-24.md) |
-| 2015-05-01 | 2017-01-23 | [2015-05-01.md](./2015-05-01.md) |
 | 2015-05-01 | 2017-01-23 | [2015-05-01.md](./2015-05-01.md) |

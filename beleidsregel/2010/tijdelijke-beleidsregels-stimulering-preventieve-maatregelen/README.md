@@ -6,7 +6,7 @@ title: Tijdelijke beleidsregels van de Minister van Justitie van 26 april 2010,
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2014-05-10"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Tijdelijke beleidsregels stimulering preventieve maatregelen woning- en bedrijfsovervallen
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/beleidsregel/2010/tijdelijke-beleidsregels-stimulering-preventieve-maatregelen](https://wetten.ai/eli/nl/beleidsregel/2010/tijdelijke-beleidsregels-stimulering-preventieve-maatregelen)
+**ELI:** [/eli/nl/beleidsregel/2010/tijdelijke-beleidsregels-stimulering-preventieve-maatregelen](https://wettenbank.online/eli/nl/beleidsregel/2010/tijdelijke-beleidsregels-stimulering-preventieve-maatregelen)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2012-12-25 | 2014-05-09 | [2012-12-25.md](./2012-12-25.md) |
 | 2011-12-22 | 2012-12-24 | [2011-12-22.md](./2011-12-22.md) |
 | 2011-05-17 | 2011-12-21 | [2011-05-17.md](./2011-05-17.md) |
-| 2011-01-01 | 2011-05-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-05-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-05-19 | 2010-12-31 | [2010-05-19.md](./2010-05-19.md) |

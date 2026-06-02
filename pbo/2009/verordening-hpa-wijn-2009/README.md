@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 10 juni 2009, houdend
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2013-04-27"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening HPA wijn 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2009/verordening-hpa-wijn-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-hpa-wijn-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-hpa-wijn-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-hpa-wijn-2009)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2013-04-27 | 2014-12-31 | [2013-04-27.md](./2013-04-27.md) |
 | 2011-03-13 | 2013-04-26 | [2011-03-13.md](./2011-03-13.md) |
 | 2010-03-07 | 2011-03-12 | [2010-03-07.md](./2010-03-07.md) |
-| 2009-08-01 | 2010-03-06 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-08-01 | 2010-03-06 | [2009-08-01.md](./2009-08-01.md) |

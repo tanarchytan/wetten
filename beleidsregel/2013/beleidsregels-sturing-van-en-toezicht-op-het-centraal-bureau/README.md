@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 6 december 201
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2017-01-19"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Beleidsregels sturing van en toezicht op het Centraal Bureau Rijvaardigheidsbewijzen
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/beleidsregel/2013/beleidsregels-sturing-van-en-toezicht-op-het-centraal-bureau](https://wetten.ai/eli/nl/beleidsregel/2013/beleidsregels-sturing-van-en-toezicht-op-het-centraal-bureau)
+**ELI:** [/eli/nl/beleidsregel/2013/beleidsregels-sturing-van-en-toezicht-op-het-centraal-bureau](https://wettenbank.online/eli/nl/beleidsregel/2013/beleidsregels-sturing-van-en-toezicht-op-het-centraal-bureau)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-01-19 | heden | [2017-01-19.md](./2017-01-19.md) |
-| 2017-01-01 | 2017-01-18 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-01-18 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |

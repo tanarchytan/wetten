@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 se
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2004-12-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Mandaatbesluit LNV Voedsel en Waren Autoriteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/mandaatbesluit-lnv-voedsel-en-waren-autoriteit-bwbr0017173](https://wetten.ai/eli/nl/ministeriele-regeling/2004/mandaatbesluit-lnv-voedsel-en-waren-autoriteit-bwbr0017173)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/mandaatbesluit-lnv-voedsel-en-waren-autoriteit-bwbr0017173](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/mandaatbesluit-lnv-voedsel-en-waren-autoriteit-bwbr0017173)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2004-12-01 | 2005-11-12 | [2004-12-01.md](./2004-12-01.md) |
 | 2004-10-20 | 2004-11-30 | [2004-10-20.md](./2004-10-20.md) |
-| 2004-10-18 | 2004-10-19 | [2004-10-18.md](./2004-10-18.md) |
 | 2004-10-18 | 2004-10-19 | [2004-10-18.md](./2004-10-18.md) |
 | 2004-09-17 | 2004-10-17 | [2004-09-17.md](./2004-09-17.md) |
 | 2004-08-05 | 2004-09-16 | [2004-08-05.md](./2004-08-05.md) |

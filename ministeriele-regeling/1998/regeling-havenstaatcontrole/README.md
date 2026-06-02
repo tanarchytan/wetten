@@ -6,7 +6,7 @@ title: Regeling, houdende regels voor de aanwijzing van ambtenaren van de Scheep
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-12-31"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling havenstaatcontrole
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-havenstaatcontrole](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-havenstaatcontrole)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-havenstaatcontrole](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-havenstaatcontrole)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 10
 |---|---|---|
 | 2010-12-31 | 2010-12-31 | [2010-12-31.md](./2010-12-31.md) |
 | 2009-04-11 | 2010-12-30 | [2009-04-11.md](./2009-04-11.md) |
-| 2008-12-23 | 2009-04-10 | [2008-12-23.md](./2008-12-23.md) |
 | 2008-12-23 | 2009-04-10 | [2008-12-23.md](./2008-12-23.md) |
 | 2008-09-17 | 2008-12-22 | [2008-09-17.md](./2008-09-17.md) |
 | 2008-07-04 | 2008-09-16 | [2008-07-04.md](./2008-07-04.md) |

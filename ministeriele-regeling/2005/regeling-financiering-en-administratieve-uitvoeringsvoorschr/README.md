@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 20
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Regeling financiering en administratieve uitvoeringsvoorschriften WWIK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-financiering-en-administratieve-uitvoeringsvoorschr](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-financiering-en-administratieve-uitvoeringsvoorschr)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-financiering-en-administratieve-uitvoeringsvoorschr](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-financiering-en-administratieve-uitvoeringsvoorschr)
 
 ## Versies
 
@@ -31,13 +31,7 @@ state_count: 20
 | 2008-01-01 | 2008-04-19 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-07-11 | 2007-12-31 | [2007-07-11.md](./2007-07-11.md) |
 | 2007-04-18 | 2007-07-10 | [2007-04-18.md](./2007-04-18.md) |
-| 2007-04-18 | 2007-07-10 | [2007-04-18.md](./2007-04-18.md) |
 | 2007-01-25 | 2007-04-17 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-25 | 2007-04-17 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-25 | 2007-04-17 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-07-02 | 2006-12-31 | [2006-07-02.md](./2006-07-02.md) |
 | 2006-01-01 | 2006-07-01 | [2006-01-01.md](./2006-01-01.md) |

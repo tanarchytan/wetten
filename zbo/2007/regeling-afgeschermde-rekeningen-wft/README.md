@@ -6,7 +6,7 @@ title: Regeling van De Nederlandsche Bank N.V. van 6 december 2006, nr. Juza/200
 ministry: De Nederlandsche Bank N.V.
 abbreviation: Rar Wft
 latest_state: "2018-10-13"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** zbo
 **Verantwoordelijk ministerie:** De Nederlandsche Bank N.V.
 **Afkorting:** Rar Wft
-**ELI:** [/eli/nl/zbo/2007/regeling-afgeschermde-rekeningen-wft](https://wetten.ai/eli/nl/zbo/2007/regeling-afgeschermde-rekeningen-wft)
+**ELI:** [/eli/nl/zbo/2007/regeling-afgeschermde-rekeningen-wft](https://wettenbank.online/eli/nl/zbo/2007/regeling-afgeschermde-rekeningen-wft)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 6
 |---|---|---|
 | 2018-10-13 | heden | [2018-10-13.md](./2018-10-13.md) |
 | 2012-10-23 | 2018-10-12 | [2012-10-23.md](./2012-10-23.md) |
-| 2012-01-01 | 2012-10-22 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-10-22 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-09-04 | 2011-12-31 | [2010-09-04.md](./2010-09-04.md) |
 | 2007-01-01 | 2010-09-03 | [2007-01-01.md](./2007-01-01.md) |

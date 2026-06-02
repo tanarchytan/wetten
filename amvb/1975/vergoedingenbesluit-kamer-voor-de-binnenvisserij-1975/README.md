@@ -6,7 +6,7 @@ title: Besluit van 26 september 1975, tot vaststelling van het Vergoedingenbeslu
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Vergoedingenbesluit Kamer voor de Binnenvisserij 1975
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/1975/vergoedingenbesluit-kamer-voor-de-binnenvisserij-1975](https://wetten.ai/eli/nl/amvb/1975/vergoedingenbesluit-kamer-voor-de-binnenvisserij-1975)
+**ELI:** [/eli/nl/amvb/1975/vergoedingenbesluit-kamer-voor-de-binnenvisserij-1975](https://wettenbank.online/eli/nl/amvb/1975/vergoedingenbesluit-kamer-voor-de-binnenvisserij-1975)
 
 ## Versies
 
@@ -41,7 +41,5 @@ state_count: 23
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2003-06-04 | 2006-12-31 | [2003-06-04.md](./2003-06-04.md) |
-| 2002-01-01 | 2003-06-03 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2003-06-03 | [2002-01-01.md](./2002-01-01.md) |

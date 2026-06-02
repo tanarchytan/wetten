@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 23 september 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling tarieven bel-me-niet-register
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-tarieven-bel-me-niet-register](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-tarieven-bel-me-niet-register)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-tarieven-bel-me-niet-register](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-tarieven-bel-me-niet-register)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2014-01-01 | 2014-05-27 | [2014-01-01.md](./2014-01-01.md) |
 | 2012-07-17 | 2013-12-31 | [2012-07-17.md](./2012-07-17.md) |
 | 2011-04-06 | 2012-07-16 | [2011-04-06.md](./2011-04-06.md) |
-| 2011-01-01 | 2011-04-05 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-04-05 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-10-01 | 2010-12-31 | [2009-10-01.md](./2009-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van 7 juni 2005, nr. TRCJZ/2005/1411, houdende regels inzake pr
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2021-01-01"
-state_count: 88
+state_count: 77
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 88
 **Citeertitel:** Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-preventie-bestrijding-en-monitoring-van-besmettelij](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-preventie-bestrijding-en-monitoring-van-besmettelij)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-preventie-bestrijding-en-monitoring-van-besmettelij](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-preventie-bestrijding-en-monitoring-van-besmettelij)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 88
 | 2019-12-14 | 2020-05-19 | [2019-12-14.md](./2019-12-14.md) |
 | 2019-10-31 | 2019-12-13 | [2019-10-31.md](./2019-10-31.md) |
 | 2019-10-01 | 2019-10-30 | [2019-10-01.md](./2019-10-01.md) |
-| 2019-10-01 | 2019-10-30 | [2019-10-01.md](./2019-10-01.md) |
 | 2019-07-01 | 2019-09-30 | [2019-07-01.md](./2019-07-01.md) |
 | 2018-11-01 | 2019-06-30 | [2018-11-01.md](./2018-11-01.md) |
 | 2018-10-01 | 2018-10-31 | [2018-10-01.md](./2018-10-01.md) |
@@ -42,7 +41,6 @@ state_count: 88
 | 2016-04-01 | 2016-12-31 | [2016-04-01.md](./2016-04-01.md) |
 | 2015-12-04 | 2016-03-31 | [2015-12-04.md](./2015-12-04.md) |
 | 2015-10-01 | 2015-12-03 | [2015-10-01.md](./2015-10-01.md) |
-| 2015-01-01 | 2015-09-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-09-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-11-22 | 2014-12-31 | [2014-11-22.md](./2014-11-22.md) |
 | 2014-09-15 | 2014-11-21 | [2014-09-15.md](./2014-09-15.md) |
@@ -96,17 +94,8 @@ state_count: 88
 | 2006-03-01 | 2006-03-07 | [2006-03-01.md](./2006-03-01.md) |
 | 2006-02-01 | 2006-02-28 | [2006-02-01.md](./2006-02-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-12-24 | 2005-12-31 | [2005-12-24.md](./2005-12-24.md) |
-| 2005-12-24 | 2005-12-31 | [2005-12-24.md](./2005-12-24.md) |
 | 2005-12-24 | 2005-12-31 | [2005-12-24.md](./2005-12-24.md) |
 | 2005-10-24 | 2005-12-23 | [2005-10-24.md](./2005-10-24.md) |
-| 2005-10-24 | 2005-12-23 | [2005-10-24.md](./2005-10-24.md) |
-| 2005-10-24 | 2005-12-23 | [2005-10-24.md](./2005-10-24.md) |
 | 2005-10-07 | 2005-10-23 | [2005-10-07.md](./2005-10-07.md) |
-| 2005-10-07 | 2005-10-23 | [2005-10-07.md](./2005-10-07.md) |
-| 2005-10-07 | 2005-10-23 | [2005-10-07.md](./2005-10-07.md) |
-| 2005-06-27 | 2005-10-06 | [2005-06-27.md](./2005-06-27.md) |
-| 2005-06-27 | 2005-10-06 | [2005-06-27.md](./2005-06-27.md) |
 | 2005-06-27 | 2005-10-06 | [2005-06-27.md](./2005-06-27.md) |
 | 2005-06-26 | 2005-06-26 | [2005-06-26.md](./2005-06-26.md) |

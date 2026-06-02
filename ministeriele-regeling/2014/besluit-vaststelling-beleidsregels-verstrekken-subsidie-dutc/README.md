@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2024-08-03"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit vaststelling beleidsregels verstrekken subsidie Dutch Good Growth Fund
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-beleidsregels-verstrekken-subsidie-dutc](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-beleidsregels-verstrekken-subsidie-dutc)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-beleidsregels-verstrekken-subsidie-dutc](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-beleidsregels-verstrekken-subsidie-dutc)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 13
 | 2018-12-05 | 2020-05-19 | [2018-12-05.md](./2018-12-05.md) |
 | 2017-05-17 | 2018-12-04 | [2017-05-17.md](./2017-05-17.md) |
 | 2016-04-20 | 2017-05-16 | [2016-04-20.md](./2016-04-20.md) |
-| 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-05-01 | 2015-12-31 | [2015-05-01.md](./2015-05-01.md) |
 | 2015-01-01 | 2015-04-30 | [2015-01-01.md](./2015-01-01.md) |

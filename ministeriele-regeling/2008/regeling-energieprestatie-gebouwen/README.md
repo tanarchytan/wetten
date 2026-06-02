@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2023-07-25"
-state_count: 23
+state_count: 22
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Regeling energieprestatie gebouwen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-energieprestatie-gebouwen](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-energieprestatie-gebouwen)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-energieprestatie-gebouwen](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-energieprestatie-gebouwen)
 
 ## Versies
 
@@ -32,7 +32,6 @@ state_count: 23
 | 2020-03-10 | 2020-07-16 | [2020-03-10.md](./2020-03-10.md) |
 | 2019-10-22 | 2020-03-09 | [2019-10-22.md](./2019-10-22.md) |
 | 2019-01-01 | 2019-10-21 | [2019-01-01.md](./2019-01-01.md) |
-| 2018-05-25 | 2018-12-31 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-12-31 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-03-29 | 2018-05-24 | [2018-03-29.md](./2018-03-29.md) |
 | 2018-01-01 | 2018-03-28 | [2018-01-01.md](./2018-01-01.md) |

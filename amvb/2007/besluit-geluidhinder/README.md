@@ -6,7 +6,7 @@ title: Besluit van 20 oktober 2006 tot ontwerp van een algemene maatregel van be
 ministry: Infrastructuur en Milieu
 abbreviation: BGH
 latest_state: "2022-07-01"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** BGH
-**ELI:** [/eli/nl/amvb/2007/besluit-geluidhinder](https://wetten.ai/eli/nl/amvb/2007/besluit-geluidhinder)
+**ELI:** [/eli/nl/amvb/2007/besluit-geluidhinder](https://wettenbank.online/eli/nl/amvb/2007/besluit-geluidhinder)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 18
 | 2015-07-04 | 2018-02-28 | [2015-07-04.md](./2015-07-04.md) |
 | 2015-07-01 | 2015-07-03 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-05-02 | 2015-06-30 | [2015-05-02.md](./2015-05-02.md) |
-| 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-11-01 | 2014-12-31 | [2014-11-01.md](./2014-11-01.md) |
 | 2014-01-01 | 2014-10-31 | [2014-01-01.md](./2014-01-01.md) |

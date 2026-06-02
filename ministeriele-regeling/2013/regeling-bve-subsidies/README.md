@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 feb
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling BVE-subsidies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-bve-subsidies](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-bve-subsidies)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-bve-subsidies](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-bve-subsidies)
 
 ## Versies
 
@@ -25,7 +25,5 @@ state_count: 7
 | 2014-01-01 | 2017-06-30 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-12-18 | 2013-12-31 | [2013-12-18.md](./2013-12-18.md) |
 | 2013-03-12 | 2013-12-17 | [2013-03-12.md](./2013-03-12.md) |
-| 2013-03-12 | 2013-12-17 | [2013-03-12.md](./2013-03-12.md) |
-| 2013-01-02 | 2013-03-11 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-02 | 2013-03-11 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-01 | 2013-01-01 | [2013-01-01.md](./2013-01-01.md) |

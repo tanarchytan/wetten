@@ -6,7 +6,7 @@ title: Regeling van De Nederlandsche Bank N.V. van 11 december 2006, nr. Juza/2
 ministry: De Nederlandsche Bank N.V.
 abbreviation: Rsm 2011
 latest_state: "2011-12-31"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** zbo
 **Verantwoordelijk ministerie:** De Nederlandsche Bank N.V.
 **Afkorting:** Rsm 2011
-**ELI:** [/eli/nl/zbo/2007/regeling-solvabiliteitseisen-marktrisico-wft-2011](https://wetten.ai/eli/nl/zbo/2007/regeling-solvabiliteitseisen-marktrisico-wft-2011)
+**ELI:** [/eli/nl/zbo/2007/regeling-solvabiliteitseisen-marktrisico-wft-2011](https://wettenbank.online/eli/nl/zbo/2007/regeling-solvabiliteitseisen-marktrisico-wft-2011)
 
 ## Versies
 
@@ -26,5 +26,4 @@ state_count: 5
 | 2011-12-31 | 2013-12-31 | [2011-12-31.md](./2011-12-31.md) |
 | 2010-10-31 | 2011-12-30 | [2010-10-31.md](./2010-10-31.md) |
 | 2007-12-20 | 2010-10-30 | [2007-12-20.md](./2007-12-20.md) |
-| 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |

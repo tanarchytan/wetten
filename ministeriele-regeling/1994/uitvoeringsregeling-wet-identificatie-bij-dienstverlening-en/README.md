@@ -6,7 +6,7 @@ title: Uitvoeringsregeling Wet identificatie bij dienstverlening
 ministry: Financiën
 abbreviation: Ur Wid & Wet MOT
 latest_state: "2007-11-24"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Ur Wid & Wet MOT
-**ELI:** [/eli/nl/ministeriele-regeling/1994/uitvoeringsregeling-wet-identificatie-bij-dienstverlening-en](https://wetten.ai/eli/nl/ministeriele-regeling/1994/uitvoeringsregeling-wet-identificatie-bij-dienstverlening-en)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/uitvoeringsregeling-wet-identificatie-bij-dienstverlening-en](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/uitvoeringsregeling-wet-identificatie-bij-dienstverlening-en)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 8
 | 2006-07-09 | 2007-11-23 | [2006-07-09.md](./2006-07-09.md) |
 | 2005-04-23 | 2006-07-08 | [2005-04-23.md](./2005-04-23.md) |
 | 2004-08-22 | 2005-04-22 | [2004-08-22.md](./2004-08-22.md) |
-| 2003-09-12 | 2004-08-21 | [2003-09-12.md](./2003-09-12.md) |
 | 2003-09-12 | 2004-08-21 | [2003-09-12.md](./2003-09-12.md) |
 | 2003-05-30 | 2003-09-11 | [2003-05-30.md](./2003-05-30.md) |
 | 2003-03-30 | 2003-05-29 | [2003-03-30.md](./2003-03-30.md) |

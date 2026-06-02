@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordenin
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit mandaat, volmacht en machtiging Agentschap NL Afvalstoffen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-afvalst](https://wetten.ai/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-afvalst)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-afvalst](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-afvalst)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2010-01-01 | 2012-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2007-09-02 | 2009-12-31 | [2007-09-02.md](./2007-09-02.md) |
 | 2007-07-12 | 2007-09-01 | [2007-07-12.md](./2007-07-12.md) |
-| 2007-07-12 | 2007-09-01 | [2007-07-12.md](./2007-07-12.md) |
-| 2007-02-22 | 2007-07-11 | [2007-02-22.md](./2007-02-22.md) |
 | 2007-02-22 | 2007-07-11 | [2007-02-22.md](./2007-02-22.md) |
 | 2006-03-08 | 2007-02-21 | [2006-03-08.md](./2006-03-08.md) |
 | 2004-11-22 | 2006-03-07 | [2004-11-22.md](./2004-11-22.md) |

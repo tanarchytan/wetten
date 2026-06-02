@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 27 november 2019, kenmerk
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2024-12-31"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Subsidieregeling kunstmatige inseminatie met donorsemen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-kunstmatige-inseminatie-met-donorsemen](https://wetten.ai/eli/nl/ministeriele-regeling/2020/subsidieregeling-kunstmatige-inseminatie-met-donorsemen)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-kunstmatige-inseminatie-met-donorsemen](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/subsidieregeling-kunstmatige-inseminatie-met-donorsemen)
 
 ## Versies
 
@@ -25,7 +25,5 @@ state_count: 7
 | 2024-12-31 | heden | [2024-12-31.md](./2024-12-31.md) |
 | 2021-03-13 | 2024-12-30 | [2021-03-13.md](./2021-03-13.md) |
 | 2021-01-01 | 2021-03-12 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-03-12 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-03-27 | 2020-12-31 | [2020-03-27.md](./2020-03-27.md) |
-| 2020-01-01 | 2020-03-26 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-03-26 | [2020-01-01.md](./2020-01-01.md) |

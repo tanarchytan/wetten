@@ -6,7 +6,7 @@ title: Wet van 29 september 2011, houdende regels inzake de controle op diensten
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2024-12-19"
-state_count: 18
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Wet strategische diensten
 **Type:** wet
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/wet/2012/wet-strategische-diensten](https://wetten.ai/eli/nl/wet/2012/wet-strategische-diensten)
+**ELI:** [/eli/nl/wet/2012/wet-strategische-diensten](https://wettenbank.online/eli/nl/wet/2012/wet-strategische-diensten)
 
 ## Versies
 
@@ -28,15 +28,9 @@ state_count: 18
 | 2019-12-24 | 2021-09-08 | [2019-12-24.md](./2019-12-24.md) |
 | 2019-01-01 | 2019-12-23 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-01 | 2018-12-31 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-12-31 | [2018-07-01.md](./2018-07-01.md) |
-| 2016-01-01 | 2018-06-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2018-06-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
-| 2013-07-01 | 2015-03-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2015-03-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-11-05 | 2012-12-31 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-11-05 | 2012-12-31 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-01-01 | 2012-11-04 | [2012-01-01.md](./2012-01-01.md) |

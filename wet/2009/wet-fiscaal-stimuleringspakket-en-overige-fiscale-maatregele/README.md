@@ -6,7 +6,7 @@ title: Wet van 1 juli 2009, houdende Fiscaal stimuleringspakket en overige fisca
 ministry: Financiën
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Wet Fiscaal stimuleringspakket en overige fiscale maatregelen
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2009/wet-fiscaal-stimuleringspakket-en-overige-fiscale-maatregele](https://wetten.ai/eli/nl/wet/2009/wet-fiscaal-stimuleringspakket-en-overige-fiscale-maatregele)
+**ELI:** [/eli/nl/wet/2009/wet-fiscaal-stimuleringspakket-en-overige-fiscale-maatregele](https://wettenbank.online/eli/nl/wet/2009/wet-fiscaal-stimuleringspakket-en-overige-fiscale-maatregele)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-01-01 | heden | [2010-01-01.md](./2010-01-01.md) |
-| 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-07-02 | 2009-12-30 | [2009-07-02.md](./2009-07-02.md) |
 | 2009-07-01 | 2009-07-01 | [2009-07-01.md](./2009-07-01.md) |

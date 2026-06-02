@@ -6,7 +6,7 @@ title: Wet van 20 april 1994, houdende bepalingen inzake niet gelijktijdig met h
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2024-12-11"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Wet Incompatibiliteiten Staten-Generaal en Europees Parlement
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/1994/wet-incompatibiliteiten-staten-generaal-en-europees-parlemen](https://wetten.ai/eli/nl/wet/1994/wet-incompatibiliteiten-staten-generaal-en-europees-parlemen)
+**ELI:** [/eli/nl/wet/1994/wet-incompatibiliteiten-staten-generaal-en-europees-parlemen](https://wettenbank.online/eli/nl/wet/1994/wet-incompatibiliteiten-staten-generaal-en-europees-parlemen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-12-11 | heden | [2024-12-11.md](./2024-12-11.md) |
-| 2020-01-01 | 2024-12-10 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2024-12-10 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-05-01 | 2019-12-31 | [2018-05-01.md](./2018-05-01.md) |
 | 2011-02-23 | 2018-04-30 | [2011-02-23.md](./2011-02-23.md) |

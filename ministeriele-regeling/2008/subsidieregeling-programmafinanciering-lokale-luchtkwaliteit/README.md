@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-11-02"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-programmafinanciering-lokale-luchtkwaliteit](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-programmafinanciering-lokale-luchtkwaliteit)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-programmafinanciering-lokale-luchtkwaliteit](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-programmafinanciering-lokale-luchtkwaliteit)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2011-11-02 | heden | [2011-11-02.md](./2011-11-02.md) |
 | 2011-02-05 | 2011-11-01 | [2011-02-05.md](./2011-02-05.md) |
 | 2008-10-11 | 2011-02-04 | [2008-10-11.md](./2008-10-11.md) |
-| 2008-10-11 | 2011-02-04 | [2008-10-11.md](./2008-10-11.md) |
-| 2008-01-01 | 2008-10-10 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-10-10 | [2008-01-01.md](./2008-01-01.md) |

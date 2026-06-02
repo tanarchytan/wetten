@@ -6,7 +6,7 @@ title: Regeling vaststelling beleidsregels schadevergoeding Faunafonds
 ministry: Faunafonds
 abbreviation: null
 latest_state: "2012-09-27"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling vaststelling beleidsregels schadevergoeding Faunafonds
 **Type:** zbo
 **Verantwoordelijk ministerie:** Faunafonds
-**ELI:** [/eli/nl/zbo/2002/regeling-vaststelling-beleidsregels-schadevergoeding-faunafo](https://wetten.ai/eli/nl/zbo/2002/regeling-vaststelling-beleidsregels-schadevergoeding-faunafo)
+**ELI:** [/eli/nl/zbo/2002/regeling-vaststelling-beleidsregels-schadevergoeding-faunafo](https://wettenbank.online/eli/nl/zbo/2002/regeling-vaststelling-beleidsregels-schadevergoeding-faunafo)
 
 ## Versies
 
@@ -25,11 +25,9 @@ state_count: 12
 | 2012-09-27 | 2013-06-11 | [2012-09-27.md](./2012-09-27.md) |
 | 2011-05-11 | 2012-09-26 | [2011-05-11.md](./2011-05-11.md) |
 | 2011-03-03 | 2011-05-10 | [2011-03-03.md](./2011-03-03.md) |
-| 2011-03-03 | 2011-05-10 | [2011-03-03.md](./2011-03-03.md) |
 | 2009-07-01 | 2011-03-02 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-04-26 | 2009-06-30 | [2009-04-26.md](./2009-04-26.md) |
 | 2008-03-09 | 2009-04-25 | [2008-03-09.md](./2008-03-09.md) |
-| 2007-12-01 | 2008-03-08 | [2007-12-01.md](./2007-12-01.md) |
 | 2007-12-01 | 2008-03-08 | [2007-12-01.md](./2007-12-01.md) |
 | 2006-01-01 | 2007-11-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-05-29 | 2005-12-31 | [2005-05-29.md](./2005-05-29.md) |

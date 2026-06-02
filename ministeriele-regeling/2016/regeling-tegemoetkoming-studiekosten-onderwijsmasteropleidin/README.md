@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-08-23"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling tegemoetkoming studiekosten onderwijsmasteropleidingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-tegemoetkoming-studiekosten-onderwijsmasteropleidin](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-tegemoetkoming-studiekosten-onderwijsmasteropleidin)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-tegemoetkoming-studiekosten-onderwijsmasteropleidin](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-tegemoetkoming-studiekosten-onderwijsmasteropleidin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-08-23 | 2018-10-31 | [2017-08-23.md](./2017-08-23.md) |
-| 2017-08-01 | 2017-08-22 | [2017-08-01.md](./2017-08-01.md) |
 | 2017-08-01 | 2017-08-22 | [2017-08-01.md](./2017-08-01.md) |
 | 2016-09-06 | 2017-07-31 | [2016-09-06.md](./2016-09-06.md) |

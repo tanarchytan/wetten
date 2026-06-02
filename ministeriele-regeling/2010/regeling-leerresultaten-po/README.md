@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 juli
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2013-02-26"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling leerresultaten PO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-leerresultaten-po](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-leerresultaten-po)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-leerresultaten-po](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-leerresultaten-po)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2013-02-26 | 2014-12-31 | [2013-02-26.md](./2013-02-26.md) |
 | 2012-05-10 | 2013-02-25 | [2012-05-10.md](./2012-05-10.md) |
 | 2012-01-01 | 2012-05-09 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-05-09 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-08-01 | 2011-12-31 | [2011-08-01.md](./2011-08-01.md) |
 | 2010-12-14 | 2011-07-31 | [2010-12-14.md](./2010-12-14.md) |
-| 2010-08-01 | 2010-12-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-12-13 | [2010-08-01.md](./2010-08-01.md) |

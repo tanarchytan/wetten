@@ -6,7 +6,7 @@ title: Besluit van 25 maart 2009, houdende regels betreffende de postale dienstv
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Postbesluit 2009
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2009/postbesluit-2009](https://wetten.ai/eli/nl/amvb/2009/postbesluit-2009)
+**ELI:** [/eli/nl/amvb/2009/postbesluit-2009](https://wettenbank.online/eli/nl/amvb/2009/postbesluit-2009)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-04-01 | 2014-12-31 | [2013-04-01.md](./2013-04-01.md) |
 | 2010-07-01 | 2013-03-31 | [2010-07-01.md](./2010-07-01.md) |
-| 2009-04-01 | 2010-06-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-04-01 | 2010-06-30 | [2009-04-01.md](./2009-04-01.md) |

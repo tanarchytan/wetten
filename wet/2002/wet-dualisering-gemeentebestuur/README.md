@@ -6,7 +6,7 @@ title: Wet van 28 februari 2002 tot wijziging van de Gemeentewet en enige andere
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2012-10-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Wet dualisering gemeentebestuur
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2002/wet-dualisering-gemeentebestuur](https://wetten.ai/eli/nl/wet/2002/wet-dualisering-gemeentebestuur)
+**ELI:** [/eli/nl/wet/2002/wet-dualisering-gemeentebestuur](https://wettenbank.online/eli/nl/wet/2002/wet-dualisering-gemeentebestuur)
 
 ## Versies
 
@@ -28,6 +28,4 @@ state_count: 9
 | 2003-10-17 | 2005-11-01 | [2003-10-17.md](./2003-10-17.md) |
 | 2003-02-19 | 2003-10-16 | [2003-02-19.md](./2003-02-19.md) |
 | 2003-01-01 | 2003-02-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-02-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-03-07 | 2002-12-31 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-03-07 | 2002-12-31 | [2002-03-07.md](./2002-03-07.md) |

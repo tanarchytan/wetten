@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-11-05"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit Commissie Internationaal Review Panel Profiel en Positie Open Universiteit Nederland (Review Panel OU)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/instellingsbesluit-commissie-internationaal-review-panel-pro](https://wetten.ai/eli/nl/ministeriele-regeling/2011/instellingsbesluit-commissie-internationaal-review-panel-pro)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/instellingsbesluit-commissie-internationaal-review-panel-pro](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/instellingsbesluit-commissie-internationaal-review-panel-pro)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-11-05 | 2011-12-31 | [2011-11-05.md](./2011-11-05.md) |
-| 2011-08-01 | 2011-11-04 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-08-01 | 2011-11-04 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-07-01 | 2011-07-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-05-01 | 2011-06-30 | [2011-05-01.md](./2011-05-01.md) |

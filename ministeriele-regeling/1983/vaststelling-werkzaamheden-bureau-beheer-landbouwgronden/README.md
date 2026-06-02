@@ -16,7 +16,7 @@ state_count: 2
 **Citeertitel:** Vaststelling werkzaamheden bureau beheer landbouwgronden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1983/vaststelling-werkzaamheden-bureau-beheer-landbouwgronden](https://wetten.ai/eli/nl/ministeriele-regeling/1983/vaststelling-werkzaamheden-bureau-beheer-landbouwgronden)
+**ELI:** [/eli/nl/ministeriele-regeling/1983/vaststelling-werkzaamheden-bureau-beheer-landbouwgronden](https://wettenbank.online/eli/nl/ministeriele-regeling/1983/vaststelling-werkzaamheden-bureau-beheer-landbouwgronden)
 
 ## Versies
 

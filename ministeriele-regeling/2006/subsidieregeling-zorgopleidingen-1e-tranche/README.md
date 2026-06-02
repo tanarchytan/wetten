@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 dec
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2012-09-28"
-state_count: 17
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Subsidieregeling zorgopleidingen 1e tranche
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-zorgopleidingen-1e-tranche](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-zorgopleidingen-1e-tranche)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-zorgopleidingen-1e-tranche](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-zorgopleidingen-1e-tranche)
 
 ## Versies
 
@@ -26,12 +26,8 @@ state_count: 17
 | 2011-08-06 | 2012-09-27 | [2011-08-06.md](./2011-08-06.md) |
 | 2010-12-07 | 2011-08-05 | [2010-12-07.md](./2010-12-07.md) |
 | 2010-09-10 | 2010-12-06 | [2010-09-10.md](./2010-09-10.md) |
-| 2010-09-10 | 2010-12-06 | [2010-09-10.md](./2010-09-10.md) |
-| 2009-12-16 | 2010-09-09 | [2009-12-16.md](./2009-12-16.md) |
 | 2009-12-16 | 2010-09-09 | [2009-12-16.md](./2009-12-16.md) |
 | 2009-11-07 | 2009-12-15 | [2009-11-07.md](./2009-11-07.md) |
-| 2009-11-07 | 2009-12-15 | [2009-11-07.md](./2009-11-07.md) |
-| 2009-10-14 | 2009-11-06 | [2009-10-14.md](./2009-10-14.md) |
 | 2009-10-14 | 2009-11-06 | [2009-10-14.md](./2009-10-14.md) |
 | 2009-07-25 | 2009-10-13 | [2009-07-25.md](./2009-07-25.md) |
 | 2008-09-21 | 2009-07-24 | [2008-09-21.md](./2008-09-21.md) |

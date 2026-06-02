@@ -6,7 +6,7 @@ title: Besluit instelling adviescommissie Benoeming raad van toezicht NOS
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2005-11-03"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit instelling adviescommissie Benoeming raad van toezicht NOS
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-instelling-adviescommissie-benoeming-raad-van-toezic](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-instelling-adviescommissie-benoeming-raad-van-toezic)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-instelling-adviescommissie-benoeming-raad-van-toezic](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-instelling-adviescommissie-benoeming-raad-van-toezic)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-11-03 | 2021-03-31 | [2005-11-03.md](./2005-11-03.md) |
-| 2005-11-01 | 2005-11-02 | [2005-11-01.md](./2005-11-01.md) |
 | 2005-11-01 | 2005-11-02 | [2005-11-01.md](./2005-11-01.md) |
 | 2005-09-01 | 2005-10-31 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-08-19 | 2005-08-31 | [2005-08-19.md](./2005-08-19.md) |

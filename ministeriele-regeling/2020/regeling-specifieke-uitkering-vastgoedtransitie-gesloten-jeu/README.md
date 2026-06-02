@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 16 sep
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2021-04-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling specifieke uitkering vastgoedtransitie gesloten jeugdhulp 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-vastgoedtransitie-gesloten-jeu](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-vastgoedtransitie-gesloten-jeu)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-vastgoedtransitie-gesloten-jeu](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-vastgoedtransitie-gesloten-jeu)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-04-20 | 2021-10-08 | [2021-04-20.md](./2021-04-20.md) |
-| 2021-04-01 | 2021-04-19 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-04-01 | 2021-04-19 | [2021-04-01.md](./2021-04-01.md) |
 | 2020-09-26 | 2021-03-31 | [2020-09-26.md](./2020-09-26.md) |

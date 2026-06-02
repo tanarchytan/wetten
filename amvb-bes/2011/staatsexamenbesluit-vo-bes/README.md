@@ -6,7 +6,7 @@ title: Besluit van 28 april 2011, houdende bepalingen inzake de staatsexamens vw
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-04-06"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Staatsexamenbesluit VO BES
 **Type:** amvb-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb-bes/2011/staatsexamenbesluit-vo-bes](https://wetten.ai/eli/nl/amvb-bes/2011/staatsexamenbesluit-vo-bes)
+**ELI:** [/eli/nl/amvb-bes/2011/staatsexamenbesluit-vo-bes](https://wettenbank.online/eli/nl/amvb-bes/2011/staatsexamenbesluit-vo-bes)
 
 ## Versies
 
@@ -31,10 +31,8 @@ state_count: 17
 | 2016-08-01 | 2017-07-31 | [2016-08-01.md](./2016-08-01.md) |
 | 2015-11-24 | 2016-07-31 | [2015-11-24.md](./2015-11-24.md) |
 | 2015-08-01 | 2015-11-23 | [2015-08-01.md](./2015-08-01.md) |
-| 2015-08-01 | 2015-11-23 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-03-18 | 2015-07-31 | [2015-03-18.md](./2015-03-18.md) |
 | 2014-11-14 | 2015-03-17 | [2014-11-14.md](./2014-11-14.md) |
-| 2014-08-01 | 2014-11-13 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2014-11-13 | [2014-08-01.md](./2014-08-01.md) |
 | 2012-08-01 | 2014-07-31 | [2012-08-01.md](./2012-08-01.md) |
 | 2012-01-01 | 2012-07-31 | [2012-01-01.md](./2012-01-01.md) |

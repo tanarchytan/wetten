@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rvv szw
 latest_state: "2020-09-01"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 15
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rvv szw
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-vrijstelling-verplichtingen-sociale-zekerheidswette](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-vrijstelling-verplichtingen-sociale-zekerheidswette)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-vrijstelling-verplichtingen-sociale-zekerheidswette](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-vrijstelling-verplichtingen-sociale-zekerheidswette)
 
 ## Versies
 
@@ -36,5 +36,4 @@ state_count: 15
 | 2006-10-01 | 2008-12-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-06-30 | 2006-09-30 | [2006-06-30.md](./2006-06-30.md) |
 | 2006-04-09 | 2006-06-29 | [2006-04-09.md](./2006-04-09.md) |
-| 2005-12-29 | 2006-04-08 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-12-29 | 2006-04-08 | [2005-12-29.md](./2005-12-29.md) |

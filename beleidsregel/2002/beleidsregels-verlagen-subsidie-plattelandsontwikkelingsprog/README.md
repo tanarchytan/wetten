@@ -6,7 +6,7 @@ title: Beleidsregels verlagen subsidie Plattelandsontwikkelingsprogramma
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-02-24"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Beleidsregels verlagen subsidie Plattelandsontwikkelingsprogramma
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2002/beleidsregels-verlagen-subsidie-plattelandsontwikkelingsprog](https://wetten.ai/eli/nl/beleidsregel/2002/beleidsregels-verlagen-subsidie-plattelandsontwikkelingsprog)
+**ELI:** [/eli/nl/beleidsregel/2002/beleidsregels-verlagen-subsidie-plattelandsontwikkelingsprog](https://wettenbank.online/eli/nl/beleidsregel/2002/beleidsregels-verlagen-subsidie-plattelandsontwikkelingsprog)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2010-02-24 | 2016-05-24 | [2010-02-24.md](./2010-02-24.md) |
 | 2010-01-01 | 2010-02-23 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-02-23 | [2010-01-01.md](./2010-01-01.md) |
 | 2007-01-01 | 2009-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2009-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2002-02-01 | 2005-12-31 | [2002-02-01.md](./2002-02-01.md) |

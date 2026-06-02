@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-05-30"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling inhouding vaste vergoeding bij buitengewoon verlof op grond van artikel 45 Wet rechtspositie rechterlijke ambtenaren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-inhouding-vaste-vergoeding-bij-buitengewoon-verlof-](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-inhouding-vaste-vergoeding-bij-buitengewoon-verlof-)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-inhouding-vaste-vergoeding-bij-buitengewoon-verlof-](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-inhouding-vaste-vergoeding-bij-buitengewoon-verlof-)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2020-05-30 | heden | [2020-05-30.md](./2020-05-30.md) |
 | 2020-01-01 | 2020-05-29 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-05-29 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-09-27 | 2019-12-31 | [2017-09-27.md](./2017-09-27.md) |
-| 2017-01-01 | 2017-09-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-09-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-07-01 | 2016-12-31 | [2013-07-01.md](./2013-07-01.md) |

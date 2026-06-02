@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Vis van 24 maart 2005 tot aa
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2008-04-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit Productschap Vis toezichthouders tuchtrecht 2005
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2006/besluit-productschap-vis-toezichthouders-tuchtrecht-2005](https://wetten.ai/eli/nl/pbo/2006/besluit-productschap-vis-toezichthouders-tuchtrecht-2005)
+**ELI:** [/eli/nl/pbo/2006/besluit-productschap-vis-toezichthouders-tuchtrecht-2005](https://wettenbank.online/eli/nl/pbo/2006/besluit-productschap-vis-toezichthouders-tuchtrecht-2005)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-04-12 | 2014-12-31 | [2008-04-12.md](./2008-04-12.md) |
-| 2007-04-14 | 2008-04-11 | [2007-04-14.md](./2007-04-14.md) |
 | 2007-04-14 | 2008-04-11 | [2007-04-14.md](./2007-04-14.md) |
 | 2006-06-25 | 2007-04-13 | [2006-06-25.md](./2006-06-25.md) |

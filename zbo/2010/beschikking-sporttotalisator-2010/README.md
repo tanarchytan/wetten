@@ -6,7 +6,7 @@ title: Beschikking van de Minister van Justitie van 14 januari 2010, nr. 5637097
 ministry: Kansspelautoriteit
 abbreviation: null
 latest_state: "2014-08-04"
-state_count: 14
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Beschikking Sporttotalisator 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Kansspelautoriteit
-**ELI:** [/eli/nl/zbo/2010/beschikking-sporttotalisator-2010](https://wetten.ai/eli/nl/zbo/2010/beschikking-sporttotalisator-2010)
+**ELI:** [/eli/nl/zbo/2010/beschikking-sporttotalisator-2010](https://wettenbank.online/eli/nl/zbo/2010/beschikking-sporttotalisator-2010)
 
 ## Versies
 
@@ -27,12 +27,7 @@ state_count: 14
 | 2013-08-06 | 2014-07-02 | [2013-08-06.md](./2013-08-06.md) |
 | 2013-02-28 | 2013-08-05 | [2013-02-28.md](./2013-02-28.md) |
 | 2012-12-20 | 2013-02-27 | [2012-12-20.md](./2012-12-20.md) |
-| 2012-12-20 | 2013-02-27 | [2012-12-20.md](./2012-12-20.md) |
 | 2012-03-01 | 2012-12-19 | [2012-03-01.md](./2012-03-01.md) |
-| 2012-03-01 | 2012-12-19 | [2012-03-01.md](./2012-03-01.md) |
-| 2012-03-01 | 2012-12-19 | [2012-03-01.md](./2012-03-01.md) |
-| 2012-01-01 | 2012-02-29 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-02-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-02-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-02-01 | 2011-12-31 | [2011-02-01.md](./2011-02-01.md) |
 | 2010-01-16 | 2011-01-31 | [2010-01-16.md](./2010-01-16.md) |

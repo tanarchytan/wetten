@@ -8,7 +8,7 @@ title: "Nadere regeling van de Autoriteit Financiële Markten van 15 november 2
 ministry: Autoriteit Financiële Markten
 abbreviation: Nrgfo Wft
 latest_state: "2023-04-01"
-state_count: 23
+state_count: 22
 ---
 
 
@@ -21,7 +21,7 @@ state_count: 23
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Financiële Markten
 **Afkorting:** Nrgfo Wft
-**ELI:** [/eli/nl/zbo/2007/nadere-regeling-gedragstoezicht-financi-le-ondernemingen-wft](https://wetten.ai/eli/nl/zbo/2007/nadere-regeling-gedragstoezicht-financi-le-ondernemingen-wft)
+**ELI:** [/eli/nl/zbo/2007/nadere-regeling-gedragstoezicht-financi-le-ondernemingen-wft](https://wettenbank.online/eli/nl/zbo/2007/nadere-regeling-gedragstoezicht-financi-le-ondernemingen-wft)
 
 ## Versies
 
@@ -39,7 +39,6 @@ state_count: 23
 | 2016-03-18 | 2016-03-31 | [2016-03-18.md](./2016-03-18.md) |
 | 2015-07-21 | 2016-03-17 | [2015-07-21.md](./2015-07-21.md) |
 | 2013-07-02 | 2015-07-20 | [2013-07-02.md](./2013-07-02.md) |
-| 2013-07-01 | 2013-07-01 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-07-01 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-09-01 | 2013-06-30 | [2012-09-01.md](./2012-09-01.md) |
 | 2012-01-22 | 2012-08-31 | [2012-01-22.md](./2012-01-22.md) |

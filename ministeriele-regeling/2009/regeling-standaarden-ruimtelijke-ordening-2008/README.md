@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-03-08"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling standaarden ruimtelijke ordening 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-standaarden-ruimtelijke-ordening-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-standaarden-ruimtelijke-ordening-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-standaarden-ruimtelijke-ordening-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-standaarden-ruimtelijke-ordening-2008)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2011-03-08 | 2012-09-30 | [2011-03-08.md](./2011-03-08.md) |
 | 2010-10-01 | 2011-03-07 | [2010-10-01.md](./2010-10-01.md) |
 | 2009-11-03 | 2010-09-30 | [2009-11-03.md](./2009-11-03.md) |
-| 2009-07-01 | 2009-11-02 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2009-11-02 | [2009-07-01.md](./2009-07-01.md) |

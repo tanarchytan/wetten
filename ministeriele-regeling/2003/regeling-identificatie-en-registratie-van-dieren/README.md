@@ -6,7 +6,7 @@ title: Regeling identificatie en registratie van dieren
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2021-04-21"
-state_count: 52
+state_count: 51
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 52
 **Citeertitel:** Regeling identificatie en registratie van dieren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-identificatie-en-registratie-van-dieren](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-identificatie-en-registratie-van-dieren)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-identificatie-en-registratie-van-dieren](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-identificatie-en-registratie-van-dieren)
 
 ## Versies
 
@@ -54,7 +54,6 @@ state_count: 52
 | 2011-01-01 | 2011-03-03 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-07-01 | 2010-12-31 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-06-09 | 2010-06-30 | [2010-06-09.md](./2010-06-09.md) |
-| 2010-04-01 | 2010-06-08 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-04-01 | 2010-06-08 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-03-01 | 2010-03-31 | [2010-03-01.md](./2010-03-01.md) |
 | 2010-01-01 | 2010-02-28 | [2010-01-01.md](./2010-01-01.md) |

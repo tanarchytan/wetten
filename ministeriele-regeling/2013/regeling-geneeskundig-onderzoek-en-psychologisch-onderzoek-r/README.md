@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie van 18 juni 2013, nr
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-05-30"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling geneeskundig onderzoek en psychologisch onderzoek rechterlijke macht
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-geneeskundig-onderzoek-en-psychologisch-onderzoek-r](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-geneeskundig-onderzoek-en-psychologisch-onderzoek-r)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-geneeskundig-onderzoek-en-psychologisch-onderzoek-r](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-geneeskundig-onderzoek-en-psychologisch-onderzoek-r)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-05-30 | heden | [2020-05-30.md](./2020-05-30.md) |
-| 2020-01-01 | 2020-05-29 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-05-29 | [2020-01-01.md](./2020-01-01.md) |
 | 2013-07-01 | 2019-12-31 | [2013-07-01.md](./2013-07-01.md) |

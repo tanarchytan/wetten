@@ -6,7 +6,7 @@ title: Wet van 30 september 1981, houdende bepalingen ter bevordering van de vei
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2008-11-07"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Binnenschepenwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/1982/binnenschepenwet](https://wetten.ai/eli/nl/wet/1982/binnenschepenwet)
+**ELI:** [/eli/nl/wet/1982/binnenschepenwet](https://wettenbank.online/eli/nl/wet/1982/binnenschepenwet)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 8
 |---|---|---|
 | 2008-11-07 | 2009-06-30 | [2008-11-07.md](./2008-11-07.md) |
 | 2008-08-01 | 2008-11-06 | [2008-08-01.md](./2008-08-01.md) |
-| 2008-08-01 | 2008-11-06 | [2008-08-01.md](./2008-08-01.md) |
-| 2008-04-01 | 2008-07-31 | [2008-04-01.md](./2008-04-01.md) |
 | 2008-04-01 | 2008-07-31 | [2008-04-01.md](./2008-04-01.md) |
 | 2004-11-01 | 2008-03-31 | [2004-11-01.md](./2004-11-01.md) |
 | 2003-04-01 | 2004-10-31 | [2003-04-01.md](./2003-04-01.md) |

@@ -6,7 +6,7 @@ title: Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 12 n
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2008-01-16"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering vrije prijsvorming oefentherapie)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-aanwijzing-ex-artikel-7-wet-marktordening-gezondheid-bwbr0022893](https://wetten.ai/eli/nl/ministeriele-regeling/2007/besluit-aanwijzing-ex-artikel-7-wet-marktordening-gezondheid-bwbr0022893)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-aanwijzing-ex-artikel-7-wet-marktordening-gezondheid-bwbr0022893](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/besluit-aanwijzing-ex-artikel-7-wet-marktordening-gezondheid-bwbr0022893)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-01-16 | heden | [2008-01-16.md](./2008-01-16.md) |
-| 2007-11-23 | 2008-01-15 | [2007-11-23.md](./2007-11-23.md) |
 | 2007-11-23 | 2008-01-15 | [2007-11-23.md](./2007-11-23.md) |
 | 2007-11-12 | 2007-11-22 | [2007-11-12.md](./2007-11-12.md) |

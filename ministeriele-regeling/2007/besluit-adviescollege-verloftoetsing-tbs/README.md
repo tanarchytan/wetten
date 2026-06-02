@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Justitie van 27 september 2007, houde
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2013-10-19"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit Adviescollege Verloftoetsing tbs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-adviescollege-verloftoetsing-tbs](https://wetten.ai/eli/nl/ministeriele-regeling/2007/besluit-adviescollege-verloftoetsing-tbs)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-adviescollege-verloftoetsing-tbs](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/besluit-adviescollege-verloftoetsing-tbs)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2013-10-19 | heden | [2013-10-19.md](./2013-10-19.md) |
 | 2011-12-20 | 2013-10-18 | [2011-12-20.md](./2011-12-20.md) |
-| 2011-07-01 | 2011-12-19 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-07-01 | 2011-12-19 | [2011-07-01.md](./2011-07-01.md) |
 | 2010-09-17 | 2011-06-30 | [2010-09-17.md](./2010-09-17.md) |
 | 2010-03-13 | 2010-09-16 | [2010-03-13.md](./2010-03-13.md) |

@@ -6,7 +6,7 @@ title: Regeling voorschotverlening op uitkeringen Wlz en vaststelling kosten van
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2018-03-29"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling voorschotverlening op uitkeringen en vergoedingen Wlz 2015
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2015/regeling-voorschotverlening-op-uitkeringen-en-vergoedingen-w](https://wetten.ai/eli/nl/zbo/2015/regeling-voorschotverlening-op-uitkeringen-en-vergoedingen-w)
+**ELI:** [/eli/nl/zbo/2015/regeling-voorschotverlening-op-uitkeringen-en-vergoedingen-w](https://wettenbank.online/eli/nl/zbo/2015/regeling-voorschotverlening-op-uitkeringen-en-vergoedingen-w)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 9
 |---|---|---|
 | 2018-03-29 | heden | [2018-03-29.md](./2018-03-29.md) |
 | 2018-01-01 | 2018-03-28 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-03-28 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-02-05 | 2017-12-31 | [2016-02-05.md](./2016-02-05.md) |
 | 2015-03-07 | 2016-02-04 | [2015-03-07.md](./2015-03-07.md) |
-| 2015-03-07 | 2016-02-04 | [2015-03-07.md](./2015-03-07.md) |
-| 2015-01-02 | 2015-03-06 | [2015-01-02.md](./2015-01-02.md) |
 | 2015-01-02 | 2015-03-06 | [2015-01-02.md](./2015-01-02.md) |
 | 2015-01-01 | 2015-01-01 | [2015-01-01.md](./2015-01-01.md) |

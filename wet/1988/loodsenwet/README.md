@@ -6,7 +6,7 @@ title: Wet van 7 juli 1988, houdende regels betreffende loodsen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 30
+state_count: 29
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 30
 **Citeertitel:** Loodsenwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/1988/loodsenwet](https://wetten.ai/eli/nl/wet/1988/loodsenwet)
+**ELI:** [/eli/nl/wet/1988/loodsenwet](https://wettenbank.online/eli/nl/wet/1988/loodsenwet)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 30
 | 2020-01-01 | 2020-06-22 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-07-01 | 2018-05-24 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-01-18 | 2016-06-30 | [2016-01-18.md](./2016-01-18.md) |

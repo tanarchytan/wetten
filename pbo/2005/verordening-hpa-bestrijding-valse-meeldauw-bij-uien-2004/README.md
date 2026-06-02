@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 11 november 2004 houd
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2007-04-15"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening HPA bestrijding valse meeldauw bij uien 2004
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2005/verordening-hpa-bestrijding-valse-meeldauw-bij-uien-2004](https://wetten.ai/eli/nl/pbo/2005/verordening-hpa-bestrijding-valse-meeldauw-bij-uien-2004)
+**ELI:** [/eli/nl/pbo/2005/verordening-hpa-bestrijding-valse-meeldauw-bij-uien-2004](https://wettenbank.online/eli/nl/pbo/2005/verordening-hpa-bestrijding-valse-meeldauw-bij-uien-2004)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2007-04-15 | 2014-12-31 | [2007-04-15.md](./2007-04-15.md) |
 | 2006-05-28 | 2007-04-14 | [2006-05-28.md](./2006-05-28.md) |
-| 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-02-13 | 2005-12-31 | [2005-02-13.md](./2005-02-13.md) |

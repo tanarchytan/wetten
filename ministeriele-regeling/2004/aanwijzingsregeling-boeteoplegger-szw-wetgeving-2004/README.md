@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2009-09-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 8
 **Citeertitel:** Aanwijzingsregeling boeteoplegger SZW-wetgeving 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/aanwijzingsregeling-boeteoplegger-szw-wetgeving-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-09-01 | 2011-12-31 | [2009-09-01.md](./2009-09-01.md) |
-| 2009-07-01 | 2009-08-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2009-08-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-05-04 | 2008-12-31 | [2007-05-04.md](./2007-05-04.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-07-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregels verlagen subsidie POP2
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2010/beleidsregels-verlagen-subsidie-pop2](https://wetten.ai/eli/nl/beleidsregel/2010/beleidsregels-verlagen-subsidie-pop2)
+**ELI:** [/eli/nl/beleidsregel/2010/beleidsregels-verlagen-subsidie-pop2](https://wettenbank.online/eli/nl/beleidsregel/2010/beleidsregels-verlagen-subsidie-pop2)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2013-07-01 | 2016-05-24 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-04-14 | 2013-06-30 | [2012-04-14.md](./2012-04-14.md) |
-| 2012-01-01 | 2012-04-13 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-04-13 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-10-26 | 2011-12-31 | [2010-10-26.md](./2010-10-26.md) |

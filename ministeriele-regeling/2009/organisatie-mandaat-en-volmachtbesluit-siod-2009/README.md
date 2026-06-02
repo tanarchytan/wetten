@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 feb
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit SIOD 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-siod-2009](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-siod-2009)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-siod-2009](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-siod-2009)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2012-01-01 | 2012-08-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2009-07-29 | 2011-12-31 | [2009-07-29.md](./2009-07-29.md) |
-| 2009-06-01 | 2009-07-28 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-06-01 | 2009-07-28 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-03-06 | 2009-05-31 | [2009-03-06.md](./2009-03-06.md) |
 | 2009-01-01 | 2009-03-05 | [2009-01-01.md](./2009-01-01.md) |

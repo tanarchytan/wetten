@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling bekostiging personeel PO 2009–2010 en aanpassing bedragen leerlinggebonden budget VO 2009–2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-bekostiging-personeel-po-2009-2010-en-aanpassing-be-bwbr0026267](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-bekostiging-personeel-po-2009-2010-en-aanpassing-be-bwbr0026267)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-bekostiging-personeel-po-2009-2010-en-aanpassing-be-bwbr0026267](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-bekostiging-personeel-po-2009-2010-en-aanpassing-be-bwbr0026267)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2010-01-01 | 2011-04-07 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |
-| 2009-08-22 | 2009-11-30 | [2009-08-22.md](./2009-08-22.md) |
 | 2009-08-22 | 2009-11-30 | [2009-08-22.md](./2009-08-22.md) |
 | 2009-08-01 | 2009-08-21 | [2009-08-01.md](./2009-08-01.md) |

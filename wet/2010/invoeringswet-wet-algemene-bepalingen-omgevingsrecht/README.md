@@ -6,7 +6,7 @@ title: Wet van 25 maart 2010 tot vaststelling van overgangsrecht en wijziging va
 ministry: Infrastructuur en Milieu
 abbreviation: Invoeringswet Wabo
 latest_state: "2015-07-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Invoeringswet Wabo
-**ELI:** [/eli/nl/wet/2010/invoeringswet-wet-algemene-bepalingen-omgevingsrecht](https://wetten.ai/eli/nl/wet/2010/invoeringswet-wet-algemene-bepalingen-omgevingsrecht)
+**ELI:** [/eli/nl/wet/2010/invoeringswet-wet-algemene-bepalingen-omgevingsrecht](https://wettenbank.online/eli/nl/wet/2010/invoeringswet-wet-algemene-bepalingen-omgevingsrecht)
 
 ## Versies
 
@@ -26,6 +26,4 @@ state_count: 6
 | 2015-07-01 | heden | [2015-07-01.md](./2015-07-01.md) |
 | 2012-03-23 | 2015-06-30 | [2012-03-23.md](./2012-03-23.md) |
 | 2011-12-31 | 2012-03-22 | [2011-12-31.md](./2011-12-31.md) |
-| 2011-12-31 | 2012-03-22 | [2011-12-31.md](./2011-12-31.md) |
-| 2010-10-01 | 2011-12-30 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2011-12-30 | [2010-10-01.md](./2010-10-01.md) |

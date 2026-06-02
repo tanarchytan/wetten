@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2007-10-24"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2007/aanwijzingsregeling-willekeurige-afschrijving-en-investering](https://wetten.ai/eli/nl/ministeriele-regeling/2007/aanwijzingsregeling-willekeurige-afschrijving-en-investering)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/aanwijzingsregeling-willekeurige-afschrijving-en-investering](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/aanwijzingsregeling-willekeurige-afschrijving-en-investering)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2007-10-24 | 2007-12-31 | [2007-10-24.md](./2007-10-24.md) |
 | 2007-06-30 | 2007-10-23 | [2007-06-30.md](./2007-06-30.md) |
 | 2007-03-01 | 2007-06-29 | [2007-03-01.md](./2007-03-01.md) |
-| 2007-01-01 | 2007-02-28 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-02-28 | [2007-01-01.md](./2007-01-01.md) |

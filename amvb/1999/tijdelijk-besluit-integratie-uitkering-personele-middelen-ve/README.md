@@ -6,7 +6,7 @@ title: Besluit van 9 september 1999 tot verdeling van middelen voor de personele
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2003-12-10"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijk besluit integratie-uitkering personele middelen VERDI
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1999/tijdelijk-besluit-integratie-uitkering-personele-middelen-ve](https://wetten.ai/eli/nl/amvb/1999/tijdelijk-besluit-integratie-uitkering-personele-middelen-ve)
+**ELI:** [/eli/nl/amvb/1999/tijdelijk-besluit-integratie-uitkering-personele-middelen-ve](https://wettenbank.online/eli/nl/amvb/1999/tijdelijk-besluit-integratie-uitkering-personele-middelen-ve)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-12-10 | 2007-05-03 | [2003-12-10.md](./2003-12-10.md) |
-| 2003-01-01 | 2003-12-09 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-12-09 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

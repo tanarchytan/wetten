@@ -6,7 +6,7 @@ title: Nadere regels attractie- en speeltoestellen
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2017-02-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Nadere regels attractie- en speeltoestellen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/1997/nadere-regels-attractie-en-speeltoestellen](https://wetten.ai/eli/nl/ministeriele-regeling/1997/nadere-regels-attractie-en-speeltoestellen)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/nadere-regels-attractie-en-speeltoestellen](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/nadere-regels-attractie-en-speeltoestellen)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 12
 | 2014-04-25 | 2014-09-30 | [2014-04-25.md](./2014-04-25.md) |
 | 2009-11-24 | 2014-04-24 | [2009-11-24.md](./2009-11-24.md) |
 | 2008-10-03 | 2009-11-23 | [2008-10-03.md](./2008-10-03.md) |
-| 2006-07-13 | 2008-10-02 | [2006-07-13.md](./2006-07-13.md) |
 | 2006-07-13 | 2008-10-02 | [2006-07-13.md](./2006-07-13.md) |
 | 2006-06-09 | 2006-07-12 | [2006-06-09.md](./2006-06-09.md) |
 | 2003-09-01 | 2006-06-08 | [2003-09-01.md](./2003-09-01.md) |

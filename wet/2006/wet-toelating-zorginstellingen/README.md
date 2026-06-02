@@ -6,7 +6,7 @@ title: Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheids
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: WTZi
 latest_state: "2022-01-01"
-state_count: 25
+state_count: 20
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 25
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** WTZi
-**ELI:** [/eli/nl/wet/2006/wet-toelating-zorginstellingen](https://wetten.ai/eli/nl/wet/2006/wet-toelating-zorginstellingen)
+**ELI:** [/eli/nl/wet/2006/wet-toelating-zorginstellingen](https://wettenbank.online/eli/nl/wet/2006/wet-toelating-zorginstellingen)
 
 ## Versies
 
@@ -31,8 +31,6 @@ state_count: 25
 | 2017-07-01 | 2018-07-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2016-08-01 | 2017-06-30 | [2016-08-01.md](./2016-08-01.md) |
 | 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-06-14 | 2014-12-31 | [2014-06-14.md](./2014-06-14.md) |
 | 2014-04-01 | 2014-06-13 | [2014-04-01.md](./2014-04-01.md) |
@@ -43,8 +41,5 @@ state_count: 25
 | 2007-12-21 | 2008-05-31 | [2007-12-21.md](./2007-12-21.md) |
 | 2007-01-01 | 2007-12-20 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
-| 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-04-01 | 2006-09-30 | [2006-04-01.md](./2006-04-01.md) |
-| 2006-04-01 | 2006-09-30 | [2006-04-01.md](./2006-04-01.md) |
-| 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |

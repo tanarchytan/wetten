@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 11 sep
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2024-05-25"
-state_count: 20
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Subsidieregeling bonus zorgprofessionals COVID-19
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-bonus-zorgprofessionals-covid-19](https://wetten.ai/eli/nl/ministeriele-regeling/2020/subsidieregeling-bonus-zorgprofessionals-covid-19)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-bonus-zorgprofessionals-covid-19](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/subsidieregeling-bonus-zorgprofessionals-covid-19)
 
 ## Versies
 
@@ -25,20 +25,7 @@ state_count: 20
 | 2024-05-25 | heden | [2024-05-25.md](./2024-05-25.md) |
 | 2022-10-22 | 2024-05-24 | [2022-10-22.md](./2022-10-22.md) |
 | 2022-06-28 | 2022-10-21 | [2022-06-28.md](./2022-06-28.md) |
-| 2022-06-28 | 2022-10-21 | [2022-06-28.md](./2022-06-28.md) |
-| 2021-06-15 | 2022-06-27 | [2021-06-15.md](./2021-06-15.md) |
-| 2021-06-15 | 2022-06-27 | [2021-06-15.md](./2021-06-15.md) |
 | 2021-06-15 | 2022-06-27 | [2021-06-15.md](./2021-06-15.md) |
 | 2021-03-01 | 2021-06-14 | [2021-03-01.md](./2021-03-01.md) |
-| 2021-03-01 | 2021-06-14 | [2021-03-01.md](./2021-03-01.md) |
-| 2021-03-01 | 2021-06-14 | [2021-03-01.md](./2021-03-01.md) |
-| 2021-03-01 | 2021-06-14 | [2021-03-01.md](./2021-03-01.md) |
 | 2020-12-02 | 2021-02-28 | [2020-12-02.md](./2020-12-02.md) |
-| 2020-12-02 | 2021-02-28 | [2020-12-02.md](./2020-12-02.md) |
-| 2020-12-02 | 2021-02-28 | [2020-12-02.md](./2020-12-02.md) |
-| 2020-12-02 | 2021-02-28 | [2020-12-02.md](./2020-12-02.md) |
-| 2020-10-01 | 2020-12-01 | [2020-10-01.md](./2020-10-01.md) |
-| 2020-10-01 | 2020-12-01 | [2020-10-01.md](./2020-10-01.md) |
-| 2020-10-01 | 2020-12-01 | [2020-10-01.md](./2020-10-01.md) |
-| 2020-10-01 | 2020-12-01 | [2020-10-01.md](./2020-10-01.md) |
 | 2020-10-01 | 2020-12-01 | [2020-10-01.md](./2020-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 22 sep
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-03-02"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke stimuleringsregeling Leven Lang Leren in het HBO 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leven-lang-leren-in-het-hbo-](https://wetten.ai/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leven-lang-leren-in-het-hbo-)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leven-lang-leren-in-het-hbo-](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leven-lang-leren-in-het-hbo-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-03-02 | 2012-12-30 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-10-09 | 2009-12-31 | [2009-10-09.md](./2009-10-09.md) |

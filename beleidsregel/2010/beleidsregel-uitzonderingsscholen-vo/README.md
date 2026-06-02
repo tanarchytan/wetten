@@ -6,7 +6,7 @@ title: Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2012-06-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Beleidsregel uitzonderingsscholen VO
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/beleidsregel/2010/beleidsregel-uitzonderingsscholen-vo](https://wetten.ai/eli/nl/beleidsregel/2010/beleidsregel-uitzonderingsscholen-vo)
+**ELI:** [/eli/nl/beleidsregel/2010/beleidsregel-uitzonderingsscholen-vo](https://wettenbank.online/eli/nl/beleidsregel/2010/beleidsregel-uitzonderingsscholen-vo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-06-22 | 2012-12-31 | [2012-06-22.md](./2012-06-22.md) |
-| 2012-01-02 | 2012-06-21 | [2012-01-02.md](./2012-01-02.md) |
 | 2012-01-02 | 2012-06-21 | [2012-01-02.md](./2012-01-02.md) |
 | 2010-10-07 | 2012-01-01 | [2010-10-07.md](./2010-10-07.md) |

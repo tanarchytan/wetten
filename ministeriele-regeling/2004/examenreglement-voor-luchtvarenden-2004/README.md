@@ -6,7 +6,7 @@ title: Regeling tot vaststelling van een nieuw examenreglement met betrekking to
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 23
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Examenreglement voor luchtvarenden 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/examenreglement-voor-luchtvarenden-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/examenreglement-voor-luchtvarenden-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/examenreglement-voor-luchtvarenden-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/examenreglement-voor-luchtvarenden-2004)
 
 ## Versies
 
@@ -29,17 +29,13 @@ state_count: 23
 | 2020-01-01 | 2021-04-19 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-04-21 | 2019-12-31 | [2017-04-21.md](./2017-04-21.md) |
 | 2017-04-01 | 2017-04-20 | [2017-04-01.md](./2017-04-01.md) |
-| 2017-04-01 | 2017-04-20 | [2017-04-01.md](./2017-04-01.md) |
 | 2016-11-24 | 2017-03-31 | [2016-11-24.md](./2016-11-24.md) |
 | 2016-02-11 | 2016-11-23 | [2016-02-11.md](./2016-02-11.md) |
-| 2016-01-01 | 2016-02-10 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-02-10 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-05-08 | 2015-12-31 | [2015-05-08.md](./2015-05-08.md) |
 | 2014-03-15 | 2015-05-07 | [2014-03-15.md](./2014-03-15.md) |
 | 2013-08-23 | 2014-03-14 | [2013-08-23.md](./2013-08-23.md) |
 | 2013-04-08 | 2013-08-22 | [2013-04-08.md](./2013-04-08.md) |
-| 2013-04-08 | 2013-08-22 | [2013-04-08.md](./2013-04-08.md) |
-| 2013-01-01 | 2013-04-07 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-04-07 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-03-12 | 2012-12-31 | [2009-03-12.md](./2009-03-12.md) |
 | 2008-08-01 | 2009-03-11 | [2008-08-01.md](./2008-08-01.md) |

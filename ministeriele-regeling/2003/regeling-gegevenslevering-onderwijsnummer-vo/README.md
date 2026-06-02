@@ -6,7 +6,7 @@ title: Regeling van de minister van onderwijs, cultuur en wetenschappen houdende
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-08-01"
-state_count: 20
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Regeling gegevenslevering onderwijsnummer VO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-gegevenslevering-onderwijsnummer-vo](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-gegevenslevering-onderwijsnummer-vo)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-gegevenslevering-onderwijsnummer-vo](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-gegevenslevering-onderwijsnummer-vo)
 
 ## Versies
 
@@ -32,13 +32,10 @@ state_count: 20
 | 2012-08-01 | 2013-06-30 | [2012-08-01.md](./2012-08-01.md) |
 | 2012-01-07 | 2012-07-31 | [2012-01-07.md](./2012-01-07.md) |
 | 2012-01-01 | 2012-01-06 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-01-06 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-01-01 | 2011-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2008-08-08 | 2009-12-31 | [2008-08-08.md](./2008-08-08.md) |
 | 2007-12-15 | 2008-08-07 | [2007-12-15.md](./2007-12-15.md) |
 | 2006-10-01 | 2007-12-14 | [2006-10-01.md](./2006-10-01.md) |
-| 2006-10-01 | 2007-12-14 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-08-19 | 2006-09-30 | [2006-08-19.md](./2006-08-19.md) |
-| 2006-08-01 | 2006-08-18 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2006-08-18 | [2006-08-01.md](./2006-08-01.md) |
 | 2003-08-01 | 2006-07-31 | [2003-08-01.md](./2003-08-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 27 juni 2018, kenmerk 136
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2018-11-13"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling energiebesparende maatregelen en duurzame energie bij zorginstellingen 2018 (EDZ 2018)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-energiebesparende-maatregelen-en-duurzame-e](https://wetten.ai/eli/nl/ministeriele-regeling/2018/subsidieregeling-energiebesparende-maatregelen-en-duurzame-e)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-energiebesparende-maatregelen-en-duurzame-e](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/subsidieregeling-energiebesparende-maatregelen-en-duurzame-e)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-11-13 | 2018-12-31 | [2018-11-13.md](./2018-11-13.md) |
-| 2018-10-30 | 2018-11-12 | [2018-10-30.md](./2018-10-30.md) |
 | 2018-10-30 | 2018-11-12 | [2018-10-30.md](./2018-10-30.md) |
 | 2018-07-16 | 2018-10-29 | [2018-07-16.md](./2018-07-16.md) |

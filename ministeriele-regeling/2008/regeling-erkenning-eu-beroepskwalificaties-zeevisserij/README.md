@@ -6,7 +6,7 @@ title: Regeling houdende regels met betrekking tot de erkenning van EG-beroepskw
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling erkenning EU-beroepskwalificaties zeevisserij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-zeevisserij](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-zeevisserij)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-zeevisserij](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-zeevisserij)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2016-01-23 | 2025-06-30 | [2016-01-23.md](./2016-01-23.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2014-05-03 | 2016-01-17 | [2014-05-03.md](./2014-05-03.md) |
 | 2013-08-20 | 2014-05-02 | [2013-08-20.md](./2013-08-20.md) |

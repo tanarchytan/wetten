@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 11 juli 2012,
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-12-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling standaarden ruimtelijke ordening 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-standaarden-ruimtelijke-ordening-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-standaarden-ruimtelijke-ordening-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-standaarden-ruimtelijke-ordening-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-standaarden-ruimtelijke-ordening-2012)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2023-12-23 | 2023-12-31 | [2023-12-23.md](./2023-12-23.md) |
 | 2015-01-01 | 2023-12-22 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-12-04 | 2014-12-31 | [2013-12-04.md](./2013-12-04.md) |
-| 2012-10-01 | 2013-12-03 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-10-01 | 2013-12-03 | [2012-10-01.md](./2012-10-01.md) |

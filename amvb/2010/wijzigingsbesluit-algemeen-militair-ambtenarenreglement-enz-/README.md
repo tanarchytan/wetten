@@ -6,7 +6,7 @@ title: Besluit van 8 februari 2010 tot vaststelling van een eenmalige uitkering 
 ministry: Defensie
 abbreviation: null
 latest_state: "2011-02-01"
-state_count: 12
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Wijzigingsbesluit Algemeen militair ambtenarenreglement, enz. (arbeidsvoorwaardenovereenkomst sector Defensie over de periode 1 maart 2009 tot en met 28 februari 2010 en vaststelling eenmalige uitkering 2009)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/2010/wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-](https://wetten.ai/eli/nl/amvb/2010/wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-)
+**ELI:** [/eli/nl/amvb/2010/wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-](https://wettenbank.online/eli/nl/amvb/2010/wijzigingsbesluit-algemeen-militair-ambtenarenreglement-enz-)
 
 ## Versies
 
@@ -24,13 +24,8 @@ state_count: 12
 |---|---|---|
 | 2011-02-01 | heden | [2011-02-01.md](./2011-02-01.md) |
 | 2010-03-03 | 2011-01-31 | [2010-03-03.md](./2010-03-03.md) |
-| 2010-03-03 | 2011-01-31 | [2010-03-03.md](./2010-03-03.md) |
-| 2009-07-01 | 2010-03-02 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2010-03-02 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-04-01 | 2009-06-30 | [2009-04-01.md](./2009-04-01.md) |
-| 2009-04-01 | 2009-06-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-03-01 | 2009-03-31 | [2009-03-01.md](./2009-03-01.md) |
-| 2009-03-01 | 2009-03-31 | [2009-03-01.md](./2009-03-01.md) |
-| 2008-01-01 | 2009-02-28 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2009-02-28 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-10-01 | 2007-12-31 | [2006-10-01.md](./2006-10-01.md) |

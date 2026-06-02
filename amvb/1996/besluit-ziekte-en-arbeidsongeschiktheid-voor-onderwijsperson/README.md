@@ -6,7 +6,7 @@ title: Besluit van 21 december 1995, houdende vaststelling van het tijdelijk Bes
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: BZA
 latest_state: "2009-07-01"
-state_count: 30
+state_count: 22
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 30
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** BZA
-**ELI:** [/eli/nl/amvb/1996/besluit-ziekte-en-arbeidsongeschiktheid-voor-onderwijsperson](https://wetten.ai/eli/nl/amvb/1996/besluit-ziekte-en-arbeidsongeschiktheid-voor-onderwijsperson)
+**ELI:** [/eli/nl/amvb/1996/besluit-ziekte-en-arbeidsongeschiktheid-voor-onderwijsperson](https://wettenbank.online/eli/nl/amvb/1996/besluit-ziekte-en-arbeidsongeschiktheid-voor-onderwijsperson)
 
 ## Versies
 
@@ -29,19 +29,11 @@ state_count: 30
 | 2007-07-01 | 2007-09-30 | [2007-07-01.md](./2007-07-01.md) |
 | 2007-03-01 | 2007-06-30 | [2007-03-01.md](./2007-03-01.md) |
 | 2007-01-01 | 2007-02-28 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-02-28 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-04 | 2006-12-31 | [2006-10-04.md](./2006-10-04.md) |
 | 2006-09-06 | 2006-10-03 | [2006-09-06.md](./2006-09-06.md) |
-| 2006-09-06 | 2006-10-03 | [2006-09-06.md](./2006-09-06.md) |
-| 2006-08-01 | 2006-09-05 | [2006-08-01.md](./2006-08-01.md) |
-| 2006-08-01 | 2006-09-05 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2006-09-05 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-05-10 | 2006-07-31 | [2006-05-10.md](./2006-05-10.md) |
-| 2006-05-10 | 2006-07-31 | [2006-05-10.md](./2006-05-10.md) |
 | 2006-01-01 | 2006-05-09 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-05-09 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-05-09 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-08-01 | 2005-12-28 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-07-01 | 2005-07-31 | [2005-07-01.md](./2005-07-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 11 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-08-18"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vaststellingsbesluit aanvullende korting bedrijfstoeslagregeling nationale reserve
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/vaststellingsbesluit-aanvullende-korting-bedrijfstoeslagrege](https://wetten.ai/eli/nl/ministeriele-regeling/2007/vaststellingsbesluit-aanvullende-korting-bedrijfstoeslagrege)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/vaststellingsbesluit-aanvullende-korting-bedrijfstoeslagrege](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/vaststellingsbesluit-aanvullende-korting-bedrijfstoeslagrege)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-08-18 | 2009-12-31 | [2007-08-18.md](./2007-08-18.md) |
-| 2007-01-19 | 2007-08-17 | [2007-01-19.md](./2007-01-19.md) |
 | 2007-01-19 | 2007-08-17 | [2007-01-19.md](./2007-01-19.md) |
 | 2007-01-18 | 2007-01-18 | [2007-01-18.md](./2007-01-18.md) |

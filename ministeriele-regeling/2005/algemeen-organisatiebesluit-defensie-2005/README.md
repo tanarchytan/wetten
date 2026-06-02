@@ -6,7 +6,7 @@ title: Besluit van de Minister van Defensie houdende vaststelling van een nieuw 
 ministry: Defensie
 abbreviation: null
 latest_state: "2013-11-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Algemeen organisatiebesluit Defensie 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2005/algemeen-organisatiebesluit-defensie-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/algemeen-organisatiebesluit-defensie-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/algemeen-organisatiebesluit-defensie-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/algemeen-organisatiebesluit-defensie-2005)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 9
 |---|---|---|
 | 2013-11-01 | 2013-11-11 | [2013-11-01.md](./2013-11-01.md) |
 | 2012-02-15 | 2013-10-31 | [2012-02-15.md](./2012-02-15.md) |
-| 2012-01-01 | 2012-02-14 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-02-14 | [2012-01-01.md](./2012-01-01.md) |
 | 2009-07-18 | 2011-12-31 | [2009-07-18.md](./2009-07-18.md) |
 | 2008-02-22 | 2009-07-17 | [2008-02-22.md](./2008-02-22.md) |

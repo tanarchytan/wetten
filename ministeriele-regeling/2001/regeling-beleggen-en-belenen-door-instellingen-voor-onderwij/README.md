@@ -6,7 +6,7 @@ title: Regeling beleggen en belenen door instellingen voor onderwijs en onderzoe
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-02-14"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling beleggen en belenen door instellingen voor onderwijs en onderzoek
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-beleggen-en-belenen-door-instellingen-voor-onderwij](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-beleggen-en-belenen-door-instellingen-voor-onderwij)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-beleggen-en-belenen-door-instellingen-voor-onderwij](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-beleggen-en-belenen-door-instellingen-voor-onderwij)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-02-14 | 2009-12-31 | [2007-02-14.md](./2007-02-14.md) |
-| 2007-01-02 | 2007-02-13 | [2007-01-02.md](./2007-01-02.md) |
 | 2007-01-02 | 2007-02-13 | [2007-01-02.md](./2007-01-02.md) |
 | 2001-07-28 | 2007-01-01 | [2001-07-28.md](./2001-07-28.md) |

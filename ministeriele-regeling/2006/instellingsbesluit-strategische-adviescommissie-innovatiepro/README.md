@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Economische Zaken van 11 augustus 20
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-10-06"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Instellingsbesluit Strategische Adviescommissie Innovatieprogramma’s
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/instellingsbesluit-strategische-adviescommissie-innovatiepro](https://wetten.ai/eli/nl/ministeriele-regeling/2006/instellingsbesluit-strategische-adviescommissie-innovatiepro)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/instellingsbesluit-strategische-adviescommissie-innovatiepro](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/instellingsbesluit-strategische-adviescommissie-innovatiepro)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-10-06 | 2012-07-23 | [2010-10-06.md](./2010-10-06.md) |
-| 2010-08-01 | 2010-10-05 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-10-05 | [2010-08-01.md](./2010-08-01.md) |
 | 2007-10-11 | 2010-07-31 | [2007-10-11.md](./2007-10-11.md) |
 | 2006-08-19 | 2007-10-10 | [2006-08-19.md](./2006-08-19.md) |

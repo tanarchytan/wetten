@@ -6,7 +6,7 @@ title: Wet van 11 juni 1975, tot uitvoering van het op 29 november 1969 te Bruss
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 14
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Wet aansprakelijkheid olietankschepen
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/wet/1975/wet-aansprakelijkheid-olietankschepen](https://wetten.ai/eli/nl/wet/1975/wet-aansprakelijkheid-olietankschepen)
+**ELI:** [/eli/nl/wet/1975/wet-aansprakelijkheid-olietankschepen](https://wettenbank.online/eli/nl/wet/1975/wet-aansprakelijkheid-olietankschepen)
 
 ## Versies
 
@@ -33,6 +33,4 @@ state_count: 14
 | 2006-05-10 | 2006-12-31 | [2006-05-10.md](./2006-05-10.md) |
 | 2005-09-01 | 2006-05-09 | [2005-09-01.md](./2005-09-01.md) |
 | 2004-07-01 | 2005-08-31 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2005-08-31 | [2004-07-01.md](./2004-07-01.md) |
-| 1999-02-17 | 2004-06-30 | [1999-02-17.md](./1999-02-17.md) |
 | 1999-02-17 | 2004-06-30 | [1999-02-17.md](./1999-02-17.md) |

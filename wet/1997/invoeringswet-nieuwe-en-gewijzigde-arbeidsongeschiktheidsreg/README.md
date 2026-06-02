@@ -6,7 +6,7 @@ title: Wet van 24 april 1997, houdende overgangs- en invoeringsrecht voor de tot
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2021-01-01"
-state_count: 15
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Invoeringswet nieuwe en gewijzigde arbeidsongeschiktheidsregelingen
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/1997/invoeringswet-nieuwe-en-gewijzigde-arbeidsongeschiktheidsreg](https://wetten.ai/eli/nl/wet/1997/invoeringswet-nieuwe-en-gewijzigde-arbeidsongeschiktheidsreg)
+**ELI:** [/eli/nl/wet/1997/invoeringswet-nieuwe-en-gewijzigde-arbeidsongeschiktheidsreg](https://wettenbank.online/eli/nl/wet/1997/invoeringswet-nieuwe-en-gewijzigde-arbeidsongeschiktheidsreg)
 
 ## Versies
 
@@ -30,10 +30,8 @@ state_count: 15
 | 2008-01-01 | 2009-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-28 | 2007-12-31 | [2007-12-28.md](./2007-12-28.md) |
 | 2007-07-01 | 2007-12-27 | [2007-07-01.md](./2007-07-01.md) |
-| 2007-07-01 | 2007-12-27 | [2007-07-01.md](./2007-07-01.md) |
 | 2006-01-01 | 2007-06-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-10-01 | 2005-12-31 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-08-01 | 2004-09-30 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-01-01 | 2004-07-31 | [2004-01-01.md](./2004-01-01.md) |
-| 2002-01-01 | 2003-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2003-12-31 | [2002-01-01.md](./2002-01-01.md) |

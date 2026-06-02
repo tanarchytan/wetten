@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat houdende mandaat medis
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2013-04-08"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit mandaat medische verklaringen voor de luchtvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/besluit-mandaat-medische-verklaringen-voor-de-luchtvaart](https://wetten.ai/eli/nl/ministeriele-regeling/2008/besluit-mandaat-medische-verklaringen-voor-de-luchtvaart)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/besluit-mandaat-medische-verklaringen-voor-de-luchtvaart](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/besluit-mandaat-medische-verklaringen-voor-de-luchtvaart)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2013-04-08 | 2015-09-04 | [2013-04-08.md](./2013-04-08.md) |
 | 2010-01-22 | 2013-04-07 | [2010-01-22.md](./2010-01-22.md) |
 | 2009-01-30 | 2010-01-21 | [2009-01-30.md](./2009-01-30.md) |
-| 2008-12-15 | 2009-01-29 | [2008-12-15.md](./2008-12-15.md) |
 | 2008-12-15 | 2009-01-29 | [2008-12-15.md](./2008-12-15.md) |
 | 2008-07-11 | 2008-12-14 | [2008-07-11.md](./2008-07-11.md) |

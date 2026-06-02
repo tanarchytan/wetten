@@ -6,7 +6,7 @@ title: Besluit van de Minister van Justitie van 1 november 2005, nr. 5383512/50
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2010-07-13"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Besluit buitengewoon opsporingsambtenaar openbaar vervoersbedrijven 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-buitengewoon-opsporingsambtenaar-openbaar-vervoersbe](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-buitengewoon-opsporingsambtenaar-openbaar-vervoersbe)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-buitengewoon-opsporingsambtenaar-openbaar-vervoersbe](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-buitengewoon-opsporingsambtenaar-openbaar-vervoersbe)
 
 ## Versies
 
@@ -30,6 +30,5 @@ state_count: 11
 | 2008-05-09 | 2008-11-07 | [2008-05-09.md](./2008-05-09.md) |
 | 2007-08-05 | 2008-05-08 | [2007-08-05.md](./2007-08-05.md) |
 | 2007-02-04 | 2007-08-04 | [2007-02-04.md](./2007-02-04.md) |
-| 2007-01-01 | 2007-02-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-02-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2005-12-01 | 2006-12-31 | [2005-12-01.md](./2005-12-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 sep
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2017-10-10"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling risicoverevening 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-risicoverevening-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-risicoverevening-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-risicoverevening-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-risicoverevening-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-10-10 | heden | [2017-10-10.md](./2017-10-10.md) |
-| 2016-09-30 | 2017-10-09 | [2016-09-30.md](./2016-09-30.md) |
 | 2016-09-30 | 2017-10-09 | [2016-09-30.md](./2016-09-30.md) |

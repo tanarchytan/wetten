@@ -6,7 +6,7 @@ title: Besluit van 13 oktober 2012, houdende regels over de bewapening, de uitru
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-04-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit bewapening en uitrusting politie
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2013/besluit-bewapening-en-uitrusting-politie](https://wetten.ai/eli/nl/amvb/2013/besluit-bewapening-en-uitrusting-politie)
+**ELI:** [/eli/nl/amvb/2013/besluit-bewapening-en-uitrusting-politie](https://wettenbank.online/eli/nl/amvb/2013/besluit-bewapening-en-uitrusting-politie)
 
 ## Versies
 
@@ -31,6 +31,5 @@ state_count: 12
 | 2020-01-01 | 2020-08-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-07-01 | 2019-12-31 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-06-23 | 2018-06-30 | [2017-06-23.md](./2017-06-23.md) |
-| 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |

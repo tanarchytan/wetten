@@ -6,7 +6,7 @@ title: Wet van 7 juli 1987, houdende herziene regeling van de Nederlandse organi
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: NWO-wet
 latest_state: "2024-10-29"
-state_count: 19
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** NWO-wet
-**ELI:** [/eli/nl/wet/1988/wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onde](https://wetten.ai/eli/nl/wet/1988/wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onde)
+**ELI:** [/eli/nl/wet/1988/wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onde](https://wettenbank.online/eli/nl/wet/1988/wet-op-de-nederlandse-organisatie-voor-wetenschappelijk-onde)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 19
 |---|---|---|
 | 2024-10-29 | heden | [2024-10-29.md](./2024-10-29.md) |
 | 2024-07-01 | 2024-10-28 | [2024-07-01.md](./2024-07-01.md) |
-| 2024-07-01 | 2024-10-28 | [2024-07-01.md](./2024-07-01.md) |
-| 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-05-01 | 2023-12-31 | [2022-05-01.md](./2022-05-01.md) |
 | 2021-07-01 | 2022-04-30 | [2021-07-01.md](./2021-07-01.md) |
@@ -36,7 +34,6 @@ state_count: 19
 | 2015-11-01 | 2017-01-31 | [2015-11-01.md](./2015-11-01.md) |
 | 2012-07-01 | 2015-10-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2005-12-30 | 2012-06-30 | [2005-12-30.md](./2005-12-30.md) |
-| 2005-08-01 | 2005-12-29 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-08-01 | 2005-12-29 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-05-01 | 2005-07-31 | [2005-05-01.md](./2005-05-01.md) |
 | 2004-02-13 | 2005-04-30 | [2004-02-13.md](./2004-02-13.md) |

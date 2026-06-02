@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 aug
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2021-03-27"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 11
 **Citeertitel:** Scholingsregeling WW
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/scholingsregeling-ww](https://wetten.ai/eli/nl/ministeriele-regeling/2004/scholingsregeling-ww)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/scholingsregeling-ww](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/scholingsregeling-ww)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-03-27 | heden | [2021-03-27.md](./2021-03-27.md) |
-| 2021-01-01 | 2021-03-26 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-03-26 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-07-04 | 2020-12-31 | [2019-07-04.md](./2019-07-04.md) |
 | 2018-07-01 | 2019-07-03 | [2018-07-01.md](./2018-07-01.md) |

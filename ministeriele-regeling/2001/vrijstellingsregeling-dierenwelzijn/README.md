@@ -6,7 +6,7 @@ title: Vrijstellingsregeling ingrepen
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-07-01"
-state_count: 28
+state_count: 25
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 28
 **Citeertitel:** Vrijstellingsregeling dierenwelzijn
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2001/vrijstellingsregeling-dierenwelzijn](https://wetten.ai/eli/nl/ministeriele-regeling/2001/vrijstellingsregeling-dierenwelzijn)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/vrijstellingsregeling-dierenwelzijn](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/vrijstellingsregeling-dierenwelzijn)
 
 ## Versies
 
@@ -25,12 +25,9 @@ state_count: 28
 | 2013-07-01 | 2014-06-30 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-06-29 | 2013-06-30 | [2013-06-29.md](./2013-06-29.md) |
 | 2013-06-01 | 2013-06-28 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-06-01 | 2013-06-28 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-05-01 | 2013-05-31 | [2013-05-01.md](./2013-05-01.md) |
 | 2013-05-01 | 2013-05-31 | [2013-05-01.md](./2013-05-01.md) |
 | 2013-01-01 | 2013-04-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-20 | 2012-12-31 | [2012-07-20.md](./2012-07-20.md) |
-| 2012-01-01 | 2012-07-19 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-07-19 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-09-01 | 2011-12-31 | [2011-09-01.md](./2011-09-01.md) |
 | 2011-06-01 | 2011-08-31 | [2011-06-01.md](./2011-06-01.md) |

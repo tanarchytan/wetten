@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Wonen en Rijksdienst van 4Â maart 2014, nr.Â
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2024-01-02"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit mandatering aan ILT van handhavingsbevoegdheden en aanwijzing toezichthouders op het terrein van BZK-wetgeving
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandatering-aan-ilt-van-handhavingsbevoegdheden-en-a](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-mandatering-aan-ilt-van-handhavingsbevoegdheden-en-a)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandatering-aan-ilt-van-handhavingsbevoegdheden-en-a](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-mandatering-aan-ilt-van-handhavingsbevoegdheden-en-a)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2024-01-02 | 2024-10-25 | [2024-01-02.md](./2024-01-02.md) |
 | 2023-07-15 | 2024-01-01 | [2023-07-15.md](./2023-07-15.md) |
-| 2023-04-19 | 2023-07-14 | [2023-04-19.md](./2023-04-19.md) |
 | 2023-04-19 | 2023-07-14 | [2023-04-19.md](./2023-04-19.md) |
 | 2015-07-01 | 2023-04-18 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |

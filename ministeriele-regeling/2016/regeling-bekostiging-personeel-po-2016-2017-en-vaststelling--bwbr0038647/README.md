@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-03-29"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling bekostiging personeel PO 2016–2017 en vaststelling bedragen voor ondersteuning van leerlingen in het PO en VO 2016–2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-bekostiging-personeel-po-2016-2017-en-vaststelling--bwbr0038647](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-bekostiging-personeel-po-2016-2017-en-vaststelling--bwbr0038647)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-bekostiging-personeel-po-2016-2017-en-vaststelling--bwbr0038647](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-bekostiging-personeel-po-2016-2017-en-vaststelling--bwbr0038647)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2017-03-29 | 2017-09-05 | [2017-03-29.md](./2017-03-29.md) |
 | 2016-12-24 | 2017-03-28 | [2016-12-24.md](./2016-12-24.md) |
-| 2016-12-24 | 2017-03-28 | [2016-12-24.md](./2016-12-24.md) |
 | 2016-12-02 | 2016-12-23 | [2016-12-02.md](./2016-12-02.md) |
 | 2016-10-26 | 2016-12-01 | [2016-10-26.md](./2016-10-26.md) |
-| 2016-10-26 | 2016-12-01 | [2016-10-26.md](./2016-10-26.md) |
-| 2016-08-01 | 2016-10-25 | [2016-08-01.md](./2016-08-01.md) |
 | 2016-08-01 | 2016-10-25 | [2016-08-01.md](./2016-08-01.md) |

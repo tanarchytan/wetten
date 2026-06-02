@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 12 december 2012, nr.Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2021-04-21"
-state_count: 27
+state_count: 25
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 27
 **Citeertitel:** Regeling diergeneesmiddelen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-diergeneesmiddelen](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-diergeneesmiddelen)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-diergeneesmiddelen](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-diergeneesmiddelen)
 
 ## Versies
 
@@ -37,8 +37,6 @@ state_count: 27
 | 2016-01-01 | 2016-02-29 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-07-15 | 2015-12-31 | [2015-07-15.md](./2015-07-15.md) |
 | 2015-07-01 | 2015-07-14 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2015-07-14 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-09-04 | 2014-12-31 | [2014-09-04.md](./2014-09-04.md) |
 | 2014-07-01 | 2014-09-03 | [2014-07-01.md](./2014-07-01.md) |

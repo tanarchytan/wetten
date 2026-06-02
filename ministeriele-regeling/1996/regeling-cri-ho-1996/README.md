@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschappen, van 25 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2008-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling CRI-HO 1996
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-cri-ho-1996](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-cri-ho-1996)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-cri-ho-1996](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-cri-ho-1996)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2008-01-01 | 2008-06-19 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-03-17 | 2007-12-31 | [2006-03-17.md](./2006-03-17.md) |
-| 2006-03-08 | 2006-03-16 | [2006-03-08.md](./2006-03-08.md) |
 | 2006-03-08 | 2006-03-16 | [2006-03-08.md](./2006-03-08.md) |
 | 2005-09-01 | 2006-03-07 | [2005-09-01.md](./2005-09-01.md) |
 | 2002-09-01 | 2005-08-31 | [2002-09-01.md](./2002-09-01.md) |

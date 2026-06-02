@@ -6,7 +6,7 @@ title: Besluit van 2 juni 2004 tot vaststelling van nadere regels inzake de orga
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2017-11-29"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit politieonderwijsraad
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2004/besluit-politieonderwijsraad](https://wetten.ai/eli/nl/amvb/2004/besluit-politieonderwijsraad)
+**ELI:** [/eli/nl/amvb/2004/besluit-politieonderwijsraad](https://wettenbank.online/eli/nl/amvb/2004/besluit-politieonderwijsraad)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2017-11-29 | heden | [2017-11-29.md](./2017-11-29.md) |
 | 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2007-06-20 | 2012-12-31 | [2007-06-20.md](./2007-06-20.md) |
-| 2006-08-01 | 2007-06-19 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2007-06-19 | [2006-08-01.md](./2006-08-01.md) |
 | 2004-06-18 | 2006-07-31 | [2004-06-18.md](./2004-06-18.md) |

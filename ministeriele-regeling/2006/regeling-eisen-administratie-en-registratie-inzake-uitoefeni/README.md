@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-03-10"
-state_count: 20
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Regeling eisen, administratie en registratie inzake uitoefening visserij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-eisen-administratie-en-registratie-inzake-uitoefeni](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-eisen-administratie-en-registratie-inzake-uitoefeni)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-eisen-administratie-en-registratie-inzake-uitoefeni](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-eisen-administratie-en-registratie-inzake-uitoefeni)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 20
 | 2007-08-08 | 2007-12-31 | [2007-08-08.md](./2007-08-08.md) |
 | 2007-02-01 | 2007-08-07 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-04 | 2007-01-31 | [2007-01-04.md](./2007-01-04.md) |
-| 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-24 | 2006-12-31 | [2006-12-24.md](./2006-12-24.md) |
 | 2006-11-02 | 2006-12-23 | [2006-11-02.md](./2006-11-02.md) |

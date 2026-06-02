@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie van 26 juli 2004, nr. 5296620/804, 
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-05-30"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** IKAP-regeling Rechterlijke Macht
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2004/ikap-regeling-rechterlijke-macht](https://wetten.ai/eli/nl/ministeriele-regeling/2004/ikap-regeling-rechterlijke-macht)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/ikap-regeling-rechterlijke-macht](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/ikap-regeling-rechterlijke-macht)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2020-05-30 | heden | [2020-05-30.md](./2020-05-30.md) |
 | 2020-01-02 | 2020-05-29 | [2020-01-02.md](./2020-01-02.md) |
-| 2020-01-02 | 2020-05-29 | [2020-01-02.md](./2020-01-02.md) |
 | 2017-09-27 | 2020-01-01 | [2017-09-27.md](./2017-09-27.md) |
-| 2017-01-01 | 2017-09-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-09-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2004-07-29 | 2016-12-31 | [2004-07-29.md](./2004-07-29.md) |
 | 2004-01-01 | 2004-07-28 | [2004-01-01.md](./2004-01-01.md) |

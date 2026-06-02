@@ -6,7 +6,7 @@ title: Verordening op de kostenvergoedingen
 ministry: Nederlandse Orde van Accountants-Administratieconsulenten
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Verordening op de kostenvergoedingen
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse Orde van Accountants-Administratieconsulenten
-**ELI:** [/eli/nl/pbo/1994/verordening-op-de-kostenvergoedingen](https://wetten.ai/eli/nl/pbo/1994/verordening-op-de-kostenvergoedingen)
+**ELI:** [/eli/nl/pbo/1994/verordening-op-de-kostenvergoedingen](https://wettenbank.online/eli/nl/pbo/1994/verordening-op-de-kostenvergoedingen)
 
 ## Versies
 
@@ -30,7 +30,5 @@ state_count: 12
 | 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-07-24 | 2005-12-31 | [2003-07-24.md](./2003-07-24.md) |

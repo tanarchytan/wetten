@@ -16,10 +16,10 @@ state_count: 1
 **Citeertitel:** Besluit buitengewoon opsporingsambtenaar Almere, Werk, Inkomen en Zorg 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2020/besluit-buitengewoon-opsporingsambtenaar-almere-werk-inkomen](https://wetten.ai/eli/nl/ministeriele-regeling/2020/besluit-buitengewoon-opsporingsambtenaar-almere-werk-inkomen)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/besluit-buitengewoon-opsporingsambtenaar-almere-werk-inkomen](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/besluit-buitengewoon-opsporingsambtenaar-almere-werk-inkomen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
-| 2020-09-16 | heden | [2020-09-16.md](./2020-09-16.md) |
+| 2020-09-16 | 2025-09-15 | [2020-09-16.md](./2020-09-16.md) |

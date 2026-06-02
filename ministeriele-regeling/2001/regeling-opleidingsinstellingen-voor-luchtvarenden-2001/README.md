@@ -6,7 +6,7 @@ title: Regeling opleidingsinstellingen voor luchtvarenden 2001
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 19
 **Citeertitel:** Regeling opleidingsinstellingen voor luchtvarenden 2001
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-opleidingsinstellingen-voor-luchtvarenden-2001](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-opleidingsinstellingen-voor-luchtvarenden-2001)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-opleidingsinstellingen-voor-luchtvarenden-2001](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-opleidingsinstellingen-voor-luchtvarenden-2001)
 
 ## Versies
 
@@ -31,12 +31,10 @@ state_count: 19
 | 2015-07-01 | 2018-10-02 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-05-08 | 2015-06-30 | [2015-05-08.md](./2015-05-08.md) |
 | 2014-03-15 | 2015-05-07 | [2014-03-15.md](./2014-03-15.md) |
-| 2014-03-15 | 2015-05-07 | [2014-03-15.md](./2014-03-15.md) |
 | 2012-08-14 | 2014-03-14 | [2012-08-14.md](./2012-08-14.md) |
 | 2009-11-05 | 2012-08-13 | [2009-11-05.md](./2009-11-05.md) |
 | 2009-03-12 | 2009-11-04 | [2009-03-12.md](./2009-03-12.md) |
 | 2008-08-01 | 2009-03-11 | [2008-08-01.md](./2008-08-01.md) |
-| 2008-03-05 | 2008-07-31 | [2008-03-05.md](./2008-03-05.md) |
 | 2008-03-05 | 2008-07-31 | [2008-03-05.md](./2008-03-05.md) |
 | 2007-05-12 | 2008-03-04 | [2007-05-12.md](./2007-05-12.md) |
 | 2004-10-01 | 2007-05-11 | [2004-10-01.md](./2004-10-01.md) |

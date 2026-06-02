@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 augu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-04-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-opsporing-20](https://wetten.ai/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-opsporing-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-opsporing-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-opsporing-20)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 9
 | 2018-04-01 | 2019-11-19 | [2018-04-01.md](./2018-04-01.md) |
 | 2015-09-12 | 2018-03-31 | [2015-09-12.md](./2015-09-12.md) |
 | 2015-06-27 | 2015-09-11 | [2015-06-27.md](./2015-06-27.md) |
-| 2015-06-27 | 2015-09-11 | [2015-06-27.md](./2015-06-27.md) |
 | 2014-12-23 | 2015-06-26 | [2014-12-23.md](./2014-12-23.md) |
-| 2014-01-01 | 2014-12-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-12-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2012-08-31 | 2013-12-31 | [2012-08-31.md](./2012-08-31.md) |
 | 2012-01-01 | 2012-08-30 | [2012-01-01.md](./2012-01-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 15 december 1993, houdende regeling van de bestuurlijke verhoudin
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: WVI
 latest_state: "2009-10-01"
-state_count: 22
+state_count: 20
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 22
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** WVI
-**ELI:** [/eli/nl/wet/1994/wet-verzelfstandiging-informatiseringsbank](https://wetten.ai/eli/nl/wet/1994/wet-verzelfstandiging-informatiseringsbank)
+**ELI:** [/eli/nl/wet/1994/wet-verzelfstandiging-informatiseringsbank](https://wettenbank.online/eli/nl/wet/1994/wet-verzelfstandiging-informatiseringsbank)
 
 ## Versies
 
@@ -37,8 +37,6 @@ state_count: 22
 | 2006-02-01 | 2006-07-31 | [2006-02-01.md](./2006-02-01.md) |
 | 2005-02-01 | 2006-01-31 | [2005-02-01.md](./2005-02-01.md) |
 | 2004-02-13 | 2005-01-31 | [2004-02-13.md](./2004-02-13.md) |
-| 2004-02-13 | 2005-01-31 | [2004-02-13.md](./2004-02-13.md) |
-| 2004-01-23 | 2004-02-12 | [2004-01-23.md](./2004-01-23.md) |
 | 2004-01-23 | 2004-02-12 | [2004-01-23.md](./2004-01-23.md) |
 | 2004-01-01 | 2004-01-22 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-08-01 | 2003-12-31 | [2003-08-01.md](./2003-08-01.md) |

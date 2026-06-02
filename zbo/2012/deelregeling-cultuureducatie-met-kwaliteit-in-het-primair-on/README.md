@@ -6,7 +6,7 @@ title: Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds
 ministry: Stichting Fonds voor Cultuurparticipatie
 abbreviation: null
 latest_state: "2013-02-28"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Deelregeling Cultuureducatie met Kwaliteit in het primair onderwijs Fonds voor Cultuurparticipatie 2013–2016
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stichting Fonds voor Cultuurparticipatie
-**ELI:** [/eli/nl/zbo/2012/deelregeling-cultuureducatie-met-kwaliteit-in-het-primair-on](https://wetten.ai/eli/nl/zbo/2012/deelregeling-cultuureducatie-met-kwaliteit-in-het-primair-on)
+**ELI:** [/eli/nl/zbo/2012/deelregeling-cultuureducatie-met-kwaliteit-in-het-primair-on](https://wettenbank.online/eli/nl/zbo/2012/deelregeling-cultuureducatie-met-kwaliteit-in-het-primair-on)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-02-28 | 2017-12-31 | [2013-02-28.md](./2013-02-28.md) |
-| 2012-08-14 | 2013-02-27 | [2012-08-14.md](./2012-08-14.md) |
 | 2012-08-14 | 2013-02-27 | [2012-08-14.md](./2012-08-14.md) |

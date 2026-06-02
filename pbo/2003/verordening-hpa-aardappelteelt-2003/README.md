@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 houdend
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2007-09-30"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Verordening HPA aardappelteelt 2003
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2003/verordening-hpa-aardappelteelt-2003](https://wetten.ai/eli/nl/pbo/2003/verordening-hpa-aardappelteelt-2003)
+**ELI:** [/eli/nl/pbo/2003/verordening-hpa-aardappelteelt-2003](https://wettenbank.online/eli/nl/pbo/2003/verordening-hpa-aardappelteelt-2003)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2007-09-30 | 2014-12-31 | [2007-09-30.md](./2007-09-30.md) |
 | 2007-07-08 | 2007-09-29 | [2007-07-08.md](./2007-07-08.md) |
 | 2006-05-28 | 2007-07-07 | [2006-05-28.md](./2006-05-28.md) |
-| 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-11-14 | 2005-12-31 | [2004-11-14.md](./2004-11-14.md) |

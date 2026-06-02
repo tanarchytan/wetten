@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 11 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregel gelijkstelling beroepsopleiding gastouders
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/beleidsregel/2011/beleidsregel-gelijkstelling-beroepsopleiding-gastouders](https://wetten.ai/eli/nl/beleidsregel/2011/beleidsregel-gelijkstelling-beroepsopleiding-gastouders)
+**ELI:** [/eli/nl/beleidsregel/2011/beleidsregel-gelijkstelling-beroepsopleiding-gastouders](https://wettenbank.online/eli/nl/beleidsregel/2011/beleidsregel-gelijkstelling-beroepsopleiding-gastouders)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2018-01-01 | heden | [2018-01-01.md](./2018-01-01.md) |
 | 2013-01-01 | 2017-12-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-06-06 | 2012-12-31 | [2012-06-06.md](./2012-06-06.md) |
 | 2012-06-06 | 2012-12-31 | [2012-06-06.md](./2012-06-06.md) |
 | 2011-04-15 | 2012-06-05 | [2011-04-15.md](./2011-04-15.md) |

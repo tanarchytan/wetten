@@ -6,7 +6,7 @@ title: Besluit van 31 maart 1993, houdende regeling van een vergoeding voor de v
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2008-02-08"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit regeling van een vergoeding voor vice-president van de Raad van State en de Staatsraden, enz.
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1993/besluit-regeling-van-een-vergoeding-voor-vice-president-van-](https://wetten.ai/eli/nl/amvb/1993/besluit-regeling-van-een-vergoeding-voor-vice-president-van-)
+**ELI:** [/eli/nl/amvb/1993/besluit-regeling-van-een-vergoeding-voor-vice-president-van-](https://wettenbank.online/eli/nl/amvb/1993/besluit-regeling-van-een-vergoeding-voor-vice-president-van-)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 9
 |---|---|---|
 | 2008-02-08 | 2009-02-12 | [2008-02-08.md](./2008-02-08.md) |
 | 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-02-01 | 2007-12-31 | [2007-02-01.md](./2007-02-01.md) |
 | 2006-02-08 | 2007-01-31 | [2006-02-08.md](./2006-02-08.md) |
 | 2006-01-01 | 2006-02-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-03-23 | 2005-12-31 | [2005-03-23.md](./2005-03-23.md) |
-| 2002-01-01 | 2005-03-22 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2005-03-22 | [2002-01-01.md](./2002-01-01.md) |

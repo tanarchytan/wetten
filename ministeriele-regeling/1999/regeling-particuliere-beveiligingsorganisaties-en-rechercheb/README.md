@@ -6,7 +6,7 @@ title: Regeling particuliere beveiligingsorganisaties en recherchebureaus
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2024-07-27"
-state_count: 38
+state_count: 35
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 38
 **Citeertitel:** Regeling particuliere beveiligingsorganisaties en recherchebureaus
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-particuliere-beveiligingsorganisaties-en-rechercheb](https://wetten.ai/eli/nl/ministeriele-regeling/1999/regeling-particuliere-beveiligingsorganisaties-en-rechercheb)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/regeling-particuliere-beveiligingsorganisaties-en-rechercheb](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/regeling-particuliere-beveiligingsorganisaties-en-rechercheb)
 
 ## Versies
 
@@ -29,17 +29,14 @@ state_count: 38
 | 2021-07-01 | 2022-02-18 | [2021-07-01.md](./2021-07-01.md) |
 | 2020-11-18 | 2021-06-30 | [2020-11-18.md](./2020-11-18.md) |
 | 2020-04-02 | 2020-11-17 | [2020-04-02.md](./2020-04-02.md) |
-| 2020-04-02 | 2020-11-17 | [2020-04-02.md](./2020-04-02.md) |
 | 2019-04-01 | 2020-04-01 | [2019-04-01.md](./2019-04-01.md) |
 | 2016-10-01 | 2019-03-31 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-07-01 | 2016-09-30 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-02-04 | 2016-06-30 | [2016-02-04.md](./2016-02-04.md) |
 | 2016-01-18 | 2016-02-03 | [2016-01-18.md](./2016-01-18.md) |
-| 2016-01-18 | 2016-02-03 | [2016-01-18.md](./2016-01-18.md) |
 | 2015-08-01 | 2016-01-17 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-07-01 | 2015-07-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2014-09-08 | 2015-06-30 | [2014-09-08.md](./2014-09-08.md) |
-| 2014-08-01 | 2014-09-07 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2014-09-07 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-05-01 | 2014-07-31 | [2014-05-01.md](./2014-05-01.md) |
 | 2014-01-01 | 2014-04-30 | [2014-01-01.md](./2014-01-01.md) |

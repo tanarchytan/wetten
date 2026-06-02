@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling statistiek WWB, IOAW en IOAZ
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-statistiek-wwb-ioaw-en-ioaz](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-statistiek-wwb-ioaw-en-ioaz)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-statistiek-wwb-ioaw-en-ioaz](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-statistiek-wwb-ioaw-en-ioaz)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 9
 |---|---|---|
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-01-08 | 2011-12-31 | [2010-01-08.md](./2010-01-08.md) |
-| 2010-01-01 | 2010-01-07 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-01-07 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-10-01 | 2009-12-31 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-01-01 | 2009-09-30 | [2009-01-01.md](./2009-01-01.md) |

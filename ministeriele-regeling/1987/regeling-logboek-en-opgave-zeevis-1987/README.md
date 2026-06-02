@@ -6,7 +6,7 @@ title: Regeling logboek en opgave zeevis 1987
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-02-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 10
 **Citeertitel:** Regeling logboek en opgave zeevis 1987
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1987/regeling-logboek-en-opgave-zeevis-1987](https://wetten.ai/eli/nl/ministeriele-regeling/1987/regeling-logboek-en-opgave-zeevis-1987)
+**ELI:** [/eli/nl/ministeriele-regeling/1987/regeling-logboek-en-opgave-zeevis-1987](https://wettenbank.online/eli/nl/ministeriele-regeling/1987/regeling-logboek-en-opgave-zeevis-1987)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-02-01 | 2006-07-31 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-07-10 | 2005-12-31 | [2005-07-10.md](./2005-07-10.md) |
 | 2005-02-01 | 2005-07-09 | [2005-02-01.md](./2005-02-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2025-04-16"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit instelling multi-stakeholder groep EITI
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-instelling-multi-stakeholder-groep-eiti](https://wetten.ai/eli/nl/ministeriele-regeling/2017/besluit-instelling-multi-stakeholder-groep-eiti)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-instelling-multi-stakeholder-groep-eiti](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/besluit-instelling-multi-stakeholder-groep-eiti)
 
 ## Versies
 
@@ -27,7 +27,5 @@ state_count: 9
 | 2021-10-30 | 2023-06-09 | [2021-10-30.md](./2021-10-30.md) |
 | 2021-07-22 | 2021-10-29 | [2021-07-22.md](./2021-07-22.md) |
 | 2019-07-10 | 2021-07-21 | [2019-07-10.md](./2019-07-10.md) |
-| 2019-07-10 | 2021-07-21 | [2019-07-10.md](./2019-07-10.md) |
-| 2019-01-01 | 2019-07-09 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-07-09 | [2019-01-01.md](./2019-01-01.md) |
 | 2017-12-01 | 2018-12-31 | [2017-12-01.md](./2017-12-01.md) |

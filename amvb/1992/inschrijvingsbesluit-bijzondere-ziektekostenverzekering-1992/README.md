@@ -6,7 +6,7 @@ title: Besluit van 19 december 1991, houdende vaststelling van regelen met betre
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2014-05-14"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Inschrijvingsbesluit Bijzondere Ziektekostenverzekering 1992
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1992/inschrijvingsbesluit-bijzondere-ziektekostenverzekering-1992](https://wetten.ai/eli/nl/amvb/1992/inschrijvingsbesluit-bijzondere-ziektekostenverzekering-1992)
+**ELI:** [/eli/nl/amvb/1992/inschrijvingsbesluit-bijzondere-ziektekostenverzekering-1992](https://wettenbank.online/eli/nl/amvb/1992/inschrijvingsbesluit-bijzondere-ziektekostenverzekering-1992)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-05-14 | 2014-12-31 | [2014-05-14.md](./2014-05-14.md) |
-| 2014-04-01 | 2014-05-13 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-04-01 | 2014-05-13 | [2014-04-01.md](./2014-04-01.md) |
 | 2008-06-01 | 2014-03-31 | [2008-06-01.md](./2008-06-01.md) |
 | 2006-01-01 | 2008-05-31 | [2006-01-01.md](./2006-01-01.md) |

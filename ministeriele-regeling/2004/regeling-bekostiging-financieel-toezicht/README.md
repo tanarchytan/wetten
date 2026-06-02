@@ -6,7 +6,7 @@ title: Regeling van de Minister van Financiën van 19 december 2003, Directie Fi
 ministry: Financiën
 abbreviation: null
 latest_state: "2009-02-14"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Regeling bekostiging financieel toezicht
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-financieel-toezicht](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-financieel-toezicht)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-financieel-toezicht](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-financieel-toezicht)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 13
 | 2009-02-14 | 2012-06-30 | [2009-02-14.md](./2009-02-14.md) |
 | 2006-07-01 | 2009-02-13 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-06-16 | 2006-06-30 | [2006-06-16.md](./2006-06-16.md) |
-| 2006-01-01 | 2006-06-15 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-06-15 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-10-01 | 2005-12-31 | [2005-10-01.md](./2005-10-01.md) |
 | 2005-09-01 | 2005-09-30 | [2005-09-01.md](./2005-09-01.md) |

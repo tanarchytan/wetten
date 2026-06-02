@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Justitie van 18 juni 2009, nr. 560
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2009-07-04"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling vaststelling administratiekosten verkeersboetes
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-administratiekosten-verkeersboetes](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-administratiekosten-verkeersboetes)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-administratiekosten-verkeersboetes](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-vaststelling-administratiekosten-verkeersboetes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-07-04 | 2012-09-30 | [2009-07-04.md](./2009-07-04.md) |
-| 2009-07-01 | 2009-07-03 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2009-07-03 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-05-01 | 2009-06-30 | [2009-05-01.md](./2009-05-01.md) |

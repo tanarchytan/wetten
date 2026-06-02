@@ -6,7 +6,7 @@ title: Wet van 7 december 2006 houdende invoering van de Pensioenwet (Invoerings
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Invoerings- en aanpassingswet Pensioenwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/2007/invoerings-en-aanpassingswet-pensioenwet](https://wetten.ai/eli/nl/wet/2007/invoerings-en-aanpassingswet-pensioenwet)
+**ELI:** [/eli/nl/wet/2007/invoerings-en-aanpassingswet-pensioenwet](https://wettenbank.online/eli/nl/wet/2007/invoerings-en-aanpassingswet-pensioenwet)
 
 ## Versies
 
@@ -30,7 +30,5 @@ state_count: 12
 | 2009-01-01 | 2012-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-08-01 | 2008-12-31 | [2008-08-01.md](./2008-08-01.md) |
 | 2008-01-01 | 2008-07-31 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-07-31 | [2008-01-01.md](./2008-01-01.md) |
-| 2007-01-02 | 2007-12-31 | [2007-01-02.md](./2007-01-02.md) |
 | 2007-01-02 | 2007-12-31 | [2007-01-02.md](./2007-01-02.md) |
 | 2007-01-01 | 2007-01-01 | [2007-01-01.md](./2007-01-01.md) |

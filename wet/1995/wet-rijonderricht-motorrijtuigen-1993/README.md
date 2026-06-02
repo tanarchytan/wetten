@@ -6,7 +6,7 @@ title: Wet van 7 juli 1993, houdende herziening van de Wet rijonderricht motorri
 ministry: Infrastructuur en Milieu
 abbreviation: WRM
 latest_state: "2021-04-24"
-state_count: 20
+state_count: 19
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 20
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WRM
-**ELI:** [/eli/nl/wet/1995/wet-rijonderricht-motorrijtuigen-1993](https://wetten.ai/eli/nl/wet/1995/wet-rijonderricht-motorrijtuigen-1993)
+**ELI:** [/eli/nl/wet/1995/wet-rijonderricht-motorrijtuigen-1993](https://wettenbank.online/eli/nl/wet/1995/wet-rijonderricht-motorrijtuigen-1993)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 20
 | 2021-01-01 | 2021-04-23 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-04-01 | 2020-12-31 | [2020-04-01.md](./2020-04-01.md) |
 | 2018-07-28 | 2020-03-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-01-18 | 2018-05-24 | [2016-01-18.md](./2016-01-18.md) |
 | 2015-07-01 | 2016-01-17 | [2015-07-01.md](./2015-07-01.md) |

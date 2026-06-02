@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 jan
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2021-01-01"
-state_count: 15
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Regeling vaststelling lijst gereglementeerde beroepen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-lijst-gereglementeerde-beroepen](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-lijst-gereglementeerde-beroepen)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-lijst-gereglementeerde-beroepen](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-vaststelling-lijst-gereglementeerde-beroepen)
 
 ## Versies
 
@@ -26,12 +26,9 @@ state_count: 15
 | 2018-09-05 | 2020-12-31 | [2018-09-05.md](./2018-09-05.md) |
 | 2018-05-25 | 2018-09-04 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-02-06 | 2018-05-24 | [2018-02-06.md](./2018-02-06.md) |
-| 2018-02-06 | 2018-05-24 | [2018-02-06.md](./2018-02-06.md) |
-| 2017-01-01 | 2018-02-05 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2018-02-05 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-09-09 | 2016-12-31 | [2016-09-09.md](./2016-09-09.md) |
 | 2016-01-23 | 2016-09-08 | [2016-01-23.md](./2016-01-23.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2014-07-01 | 2016-01-17 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-01-01 | 2014-06-30 | [2014-01-01.md](./2014-01-01.md) |

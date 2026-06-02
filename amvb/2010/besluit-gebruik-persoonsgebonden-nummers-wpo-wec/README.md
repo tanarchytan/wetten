@@ -6,7 +6,7 @@ title: Besluit van 4 mei 2010, houdende vaststelling van regels omtrent het gebr
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-08-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit gebruik persoonsgebonden nummers WPO/WEC
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2010/besluit-gebruik-persoonsgebonden-nummers-wpo-wec](https://wetten.ai/eli/nl/amvb/2010/besluit-gebruik-persoonsgebonden-nummers-wpo-wec)
+**ELI:** [/eli/nl/amvb/2010/besluit-gebruik-persoonsgebonden-nummers-wpo-wec](https://wettenbank.online/eli/nl/amvb/2010/besluit-gebruik-persoonsgebonden-nummers-wpo-wec)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2014-08-01 | 2020-06-30 | [2014-08-01.md](./2014-08-01.md) |
 | 2010-10-01 | 2014-07-31 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-08-01 | 2010-09-30 | [2010-08-01.md](./2010-08-01.md) |
-| 2010-08-01 | 2010-09-30 | [2010-08-01.md](./2010-08-01.md) |
-| 2006-08-01 | 2010-07-31 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2010-07-31 | [2006-08-01.md](./2006-08-01.md) |

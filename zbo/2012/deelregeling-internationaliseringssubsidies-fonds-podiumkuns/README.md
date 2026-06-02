@@ -5,8 +5,8 @@ type: zbo
 title: Deelregeling internationaliseringssubsidies Fonds Podiumkunsten
 ministry: Stichting Nederlands Fonds voor Podiumkunsten
 abbreviation: null
-latest_state: "2026-01-20"
-state_count: 13
+latest_state: "2026-06-01"
+state_count: 14
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 13
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-06-01 | heden | [2026-06-01.md](./2026-06-01.md) |
 | 2026-01-20 | heden | [2026-01-20.md](./2026-01-20.md) |
 | 2024-01-17 | heden | [2024-01-17.md](./2024-01-17.md) |
 | 2024-01-01 | 2024-01-16 | [2024-01-01.md](./2024-01-01.md) |

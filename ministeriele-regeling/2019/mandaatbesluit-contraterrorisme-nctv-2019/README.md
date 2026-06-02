@@ -6,7 +6,7 @@ title: Besluit van de directeur Contraterrorisme van de Nationaal Coördinator T
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2022-12-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Mandaatbesluit Contraterrorisme NCTV 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2019/mandaatbesluit-contraterrorisme-nctv-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2019/mandaatbesluit-contraterrorisme-nctv-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/mandaatbesluit-contraterrorisme-nctv-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/mandaatbesluit-contraterrorisme-nctv-2019)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2022-12-01 | 2024-02-09 | [2022-12-01.md](./2022-12-01.md) |
 | 2022-11-12 | 2022-11-30 | [2022-11-12.md](./2022-11-12.md) |
-| 2021-02-01 | 2022-11-11 | [2021-02-01.md](./2021-02-01.md) |
 | 2021-02-01 | 2022-11-11 | [2021-02-01.md](./2021-02-01.md) |
 | 2019-05-07 | 2021-01-31 | [2019-05-07.md](./2019-05-07.md) |
 | 2019-01-01 | 2019-05-06 | [2019-01-01.md](./2019-01-01.md) |

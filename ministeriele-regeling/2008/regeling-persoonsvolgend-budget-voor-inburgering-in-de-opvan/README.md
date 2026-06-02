@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Wonen, Wijken en Integratie van 9 december 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling persoonsvolgend budget voor inburgering in de opvang
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-persoonsvolgend-budget-voor-inburgering-in-de-opvan](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-persoonsvolgend-budget-voor-inburgering-in-de-opvan)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-persoonsvolgend-budget-voor-inburgering-in-de-opvan](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-persoonsvolgend-budget-voor-inburgering-in-de-opvan)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2010-01-01 | 2012-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-04 | 2009-12-31 | [2009-07-04.md](./2009-07-04.md) |
 | 2008-10-11 | 2009-07-03 | [2008-10-11.md](./2008-10-11.md) |
-| 2008-09-01 | 2008-10-10 | [2008-09-01.md](./2008-09-01.md) |
 | 2008-09-01 | 2008-10-10 | [2008-09-01.md](./2008-09-01.md) |
 | 2008-01-01 | 2008-08-31 | [2008-01-01.md](./2008-01-01.md) |

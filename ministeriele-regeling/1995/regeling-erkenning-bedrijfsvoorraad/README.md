@@ -6,7 +6,7 @@ title: Regeling erkenning bedrijfsvoorraad
 ministry: Infrastructuur en Milieu
 abbreviation: REB
 latest_state: "2025-07-01"
-state_count: 27
+state_count: 26
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 27
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** REB
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-erkenning-bedrijfsvoorraad](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-erkenning-bedrijfsvoorraad)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-erkenning-bedrijfsvoorraad](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-erkenning-bedrijfsvoorraad)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 27
 | 2024-01-01 | 2024-04-24 | [2024-01-01.md](./2024-01-01.md) |
 | 2021-04-30 | 2023-12-31 | [2021-04-30.md](./2021-04-30.md) |
 | 2021-01-05 | 2021-04-29 | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2018-10-01 | 2020-12-31 | [2018-10-01.md](./2018-10-01.md) |
 | 2016-10-12 | 2018-09-30 | [2016-10-12.md](./2016-10-12.md) |

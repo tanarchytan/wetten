@@ -6,7 +6,7 @@ title: Arbeidsvoorwaardenakkoord Defensie 2017–2018
 ministry: Defensie
 abbreviation: null
 latest_state: "2019-02-18"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Arbeidsvoorwaardenakkoord Defensie 2017–2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2019/arbeidsvoorwaardenakkoord-defensie-2017-2018](https://wetten.ai/eli/nl/ministeriele-regeling/2019/arbeidsvoorwaardenakkoord-defensie-2017-2018)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/arbeidsvoorwaardenakkoord-defensie-2017-2018](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/arbeidsvoorwaardenakkoord-defensie-2017-2018)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-02-18 | heden | [2019-02-18.md](./2019-02-18.md) |
-| 2019-01-01 | 2019-02-17 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-02-17 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |

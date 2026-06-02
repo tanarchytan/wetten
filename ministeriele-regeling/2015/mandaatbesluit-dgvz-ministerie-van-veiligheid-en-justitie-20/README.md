@@ -6,7 +6,7 @@ title: Besluit van de directeur-generaal Vreemdelingenzaken van het Ministerie v
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-04-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Mandaatbesluit DGVZ Ministerie van Veiligheid en Justitie 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2015/mandaatbesluit-dgvz-ministerie-van-veiligheid-en-justitie-20](https://wetten.ai/eli/nl/ministeriele-regeling/2015/mandaatbesluit-dgvz-ministerie-van-veiligheid-en-justitie-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/mandaatbesluit-dgvz-ministerie-van-veiligheid-en-justitie-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/mandaatbesluit-dgvz-ministerie-van-veiligheid-en-justitie-20)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-04-22 | heden | [2016-04-22.md](./2016-04-22.md) |
-| 2016-02-01 | 2016-04-21 | [2016-02-01.md](./2016-02-01.md) |
 | 2016-02-01 | 2016-04-21 | [2016-02-01.md](./2016-02-01.md) |
 | 2015-03-10 | 2016-01-31 | [2015-03-10.md](./2015-03-10.md) |

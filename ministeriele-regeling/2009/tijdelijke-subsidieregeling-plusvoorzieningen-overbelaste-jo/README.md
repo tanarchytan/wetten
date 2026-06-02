@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-05-26"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke subsidieregeling plusvoorzieningen overbelaste jongeren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-plusvoorzieningen-overbelaste-jo](https://wetten.ai/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-plusvoorzieningen-overbelaste-jo)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-plusvoorzieningen-overbelaste-jo](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-plusvoorzieningen-overbelaste-jo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-05-26 | 2012-07-31 | [2010-05-26.md](./2010-05-26.md) |
-| 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-05-25 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-09-23 | 2009-12-31 | [2009-09-23.md](./2009-09-23.md) |

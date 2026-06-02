@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 ma
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2012-03-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling TTI
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-tti](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-tti)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-tti](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-tti)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-03-15 | 2014-06-05 | [2012-03-15.md](./2012-03-15.md) |
-| 2010-01-01 | 2012-03-14 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2012-03-14 | [2010-01-01.md](./2010-01-01.md) |
 | 2006-03-24 | 2009-12-31 | [2006-03-24.md](./2006-03-24.md) |

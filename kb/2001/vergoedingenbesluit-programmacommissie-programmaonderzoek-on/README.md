@@ -6,7 +6,7 @@ title: Besluit van 23 juli 2001, houdende de vergoedingen voor de leden van de P
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2005-03-10"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vergoedingenbesluit Programmacommissie programmaonderzoek ondernemerschap en MKB
 **Type:** kb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/kb/2001/vergoedingenbesluit-programmacommissie-programmaonderzoek-on](https://wetten.ai/eli/nl/kb/2001/vergoedingenbesluit-programmacommissie-programmaonderzoek-on)
+**ELI:** [/eli/nl/kb/2001/vergoedingenbesluit-programmacommissie-programmaonderzoek-on](https://wettenbank.online/eli/nl/kb/2001/vergoedingenbesluit-programmacommissie-programmaonderzoek-on)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-03-10 | 2005-12-31 | [2005-03-10.md](./2005-03-10.md) |
-| 2005-01-01 | 2005-03-09 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-09 | [2005-01-01.md](./2005-01-01.md) |
 | 2001-09-14 | 2004-12-31 | [2001-09-14.md](./2001-09-14.md) |

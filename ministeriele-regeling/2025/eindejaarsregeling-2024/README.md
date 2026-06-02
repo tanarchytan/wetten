@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Eindejaarsregeling 2024
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2025/eindejaarsregeling-2024](https://wetten.ai/eli/nl/ministeriele-regeling/2025/eindejaarsregeling-2024)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/eindejaarsregeling-2024](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/eindejaarsregeling-2024)
 
 ## Versies
 

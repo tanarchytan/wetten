@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 28 oktober 2019, kenmerk 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-07-09"
-state_count: 20
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Subsidieregeling kwaliteitsimpuls personeel ziekenhuiszorg 2020 – 2024
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-kwaliteitsimpuls-personeel-ziekenhuiszorg-2](https://wetten.ai/eli/nl/ministeriele-regeling/2020/subsidieregeling-kwaliteitsimpuls-personeel-ziekenhuiszorg-2)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-kwaliteitsimpuls-personeel-ziekenhuiszorg-2](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/subsidieregeling-kwaliteitsimpuls-personeel-ziekenhuiszorg-2)
 
 ## Versies
 
@@ -29,16 +29,8 @@ state_count: 20
 | 2023-01-01 | 2023-11-08 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-11-17 | 2022-12-31 | [2022-11-17.md](./2022-11-17.md) |
 | 2022-07-01 | 2022-11-16 | [2022-07-01.md](./2022-07-01.md) |
-| 2022-07-01 | 2022-11-16 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-03-04 | 2022-06-30 | [2022-03-04.md](./2022-03-04.md) |
 | 2021-12-07 | 2022-03-03 | [2021-12-07.md](./2021-12-07.md) |
-| 2021-12-07 | 2022-03-03 | [2021-12-07.md](./2021-12-07.md) |
-| 2020-12-02 | 2021-12-06 | [2020-12-02.md](./2020-12-02.md) |
 | 2020-12-02 | 2021-12-06 | [2020-12-02.md](./2020-12-02.md) |
 | 2020-10-21 | 2020-12-01 | [2020-10-21.md](./2020-10-21.md) |
-| 2020-10-21 | 2020-12-01 | [2020-10-21.md](./2020-10-21.md) |
-| 2020-10-21 | 2020-12-01 | [2020-10-21.md](./2020-10-21.md) |
-| 2020-01-01 | 2020-10-20 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-10-20 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-10-20 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-10-20 | [2020-01-01.md](./2020-01-01.md) |

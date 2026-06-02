@@ -6,7 +6,7 @@ title: Wet van 31 januari 2002, houdende regels inzake de reconstructie van de c
 ministry: Economische Zaken
 abbreviation: Rwc
 latest_state: "2013-01-01"
-state_count: 18
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Rwc
-**ELI:** [/eli/nl/wet/2002/reconstructiewet-concentratiegebieden](https://wetten.ai/eli/nl/wet/2002/reconstructiewet-concentratiegebieden)
+**ELI:** [/eli/nl/wet/2002/reconstructiewet-concentratiegebieden](https://wettenbank.online/eli/nl/wet/2002/reconstructiewet-concentratiegebieden)
 
 ## Versies
 
@@ -29,10 +29,7 @@ state_count: 18
 | 2010-03-31 | 2010-09-30 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-15 | 2010-03-30 | [2009-07-15.md](./2009-07-15.md) |
 | 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-02-01 | 2009-06-30 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-02-01 | 2009-06-30 | [2009-02-01.md](./2009-02-01.md) |
-| 2008-07-01 | 2009-01-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2009-01-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2007-01-01 | 2008-06-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-06-16 | 2006-12-31 | [2006-06-16.md](./2006-06-16.md) |

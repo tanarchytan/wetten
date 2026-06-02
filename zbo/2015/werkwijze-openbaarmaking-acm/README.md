@@ -6,7 +6,7 @@ title: Werkwijze Openbaarmaking ACM
 ministry: Autoriteit Consument en Markt
 abbreviation: null
 latest_state: "2020-02-12"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Werkwijze Openbaarmaking ACM
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit Consument en Markt
-**ELI:** [/eli/nl/zbo/2015/werkwijze-openbaarmaking-acm](https://wetten.ai/eli/nl/zbo/2015/werkwijze-openbaarmaking-acm)
+**ELI:** [/eli/nl/zbo/2015/werkwijze-openbaarmaking-acm](https://wettenbank.online/eli/nl/zbo/2015/werkwijze-openbaarmaking-acm)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2020-02-12 | heden | [2020-02-12.md](./2020-02-12.md) |
 | 2017-03-17 | 2020-02-11 | [2017-03-17.md](./2017-03-17.md) |
-| 2017-01-01 | 2017-03-16 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-16 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-07-17 | 2016-12-31 | [2015-07-17.md](./2015-07-17.md) |
 | 2014-08-01 | 2015-07-16 | [2014-08-01.md](./2014-08-01.md) |

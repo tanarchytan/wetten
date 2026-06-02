@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 22 maart 2009
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2022-10-07"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Postregeling 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/postregeling-2009](https://wetten.ai/eli/nl/ministeriele-regeling/2009/postregeling-2009)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/postregeling-2009](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/postregeling-2009)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 13
 | 2018-05-22 | 2019-10-11 | [2018-05-22.md](./2018-05-22.md) |
 | 2016-01-01 | 2018-05-21 | [2016-01-01.md](./2016-01-01.md) |
 | 2014-04-15 | 2015-12-31 | [2014-04-15.md](./2014-04-15.md) |
-| 2014-01-29 | 2014-04-14 | [2014-01-29.md](./2014-01-29.md) |
 | 2014-01-29 | 2014-04-14 | [2014-01-29.md](./2014-01-29.md) |
 | 2013-08-21 | 2014-01-28 | [2013-08-21.md](./2013-08-21.md) |
 | 2013-05-09 | 2013-08-20 | [2013-05-09.md](./2013-05-09.md) |

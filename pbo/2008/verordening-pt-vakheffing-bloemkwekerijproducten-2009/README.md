@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van i juli 2008, ho
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2010-07-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening PT vakheffing bloemkwekerijproducten 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2008/verordening-pt-vakheffing-bloemkwekerijproducten-2009](https://wetten.ai/eli/nl/pbo/2008/verordening-pt-vakheffing-bloemkwekerijproducten-2009)
+**ELI:** [/eli/nl/pbo/2008/verordening-pt-vakheffing-bloemkwekerijproducten-2009](https://wettenbank.online/eli/nl/pbo/2008/verordening-pt-vakheffing-bloemkwekerijproducten-2009)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-07-25 | heden | [2010-07-25.md](./2010-07-25.md) |
-| 2009-01-01 | 2010-07-24 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2010-07-24 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-11-16 | 2008-12-31 | [2008-11-16.md](./2008-11-16.md) |

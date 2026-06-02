@@ -6,7 +6,7 @@ title: Wet van 30 oktober 2008 tot wijziging van de regeling van het beroepsgoed
 ministry: Infrastructuur en Milieu
 abbreviation: WWG
 latest_state: "2024-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WWG
-**ELI:** [/eli/nl/wet/2009/wet-wegvervoer-goederen](https://wetten.ai/eli/nl/wet/2009/wet-wegvervoer-goederen)
+**ELI:** [/eli/nl/wet/2009/wet-wegvervoer-goederen](https://wettenbank.online/eli/nl/wet/2009/wet-wegvervoer-goederen)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 12
 | 2021-06-30 | 2023-12-31 | [2021-06-30.md](./2021-06-30.md) |
 | 2021-01-01 | 2021-06-29 | [2021-01-01.md](./2021-01-01.md) |
 | 2018-07-28 | 2020-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-01-01 | 2018-05-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-01-01 | 2016-12-31 | [2015-01-01.md](./2015-01-01.md) |

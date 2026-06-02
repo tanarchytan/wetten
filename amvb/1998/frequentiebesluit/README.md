@@ -6,7 +6,7 @@ title: Besluit van 10 november 1998, houdende regels betreffende toewijzing en g
 ministry: Economische Zaken
 abbreviation: Fb
 latest_state: "2012-12-07"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Fb
-**ELI:** [/eli/nl/amvb/1998/frequentiebesluit](https://wetten.ai/eli/nl/amvb/1998/frequentiebesluit)
+**ELI:** [/eli/nl/amvb/1998/frequentiebesluit](https://wettenbank.online/eli/nl/amvb/1998/frequentiebesluit)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 18
 | 2012-06-05 | 2012-07-27 | [2012-06-05.md](./2012-06-05.md) |
 | 2011-07-16 | 2012-06-04 | [2011-07-16.md](./2011-07-16.md) |
 | 2011-05-04 | 2011-07-15 | [2011-05-04.md](./2011-05-04.md) |
-| 2011-02-25 | 2011-05-03 | [2011-02-25.md](./2011-02-25.md) |
 | 2011-02-25 | 2011-05-03 | [2011-02-25.md](./2011-02-25.md) |
 | 2010-08-04 | 2011-02-24 | [2010-08-04.md](./2010-08-04.md) |
 | 2010-01-01 | 2010-08-03 | [2010-01-01.md](./2010-01-01.md) |

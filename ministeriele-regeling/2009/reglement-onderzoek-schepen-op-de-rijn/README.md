@@ -6,7 +6,7 @@ title: Reglement onderzoek schepen op de Rijn 1995
 ministry: Infrastructuur en Milieu
 abbreviation: RosR
 latest_state: "2024-02-01"
-state_count: 30
+state_count: 25
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 30
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RosR
-**ELI:** [/eli/nl/ministeriele-regeling/2009/reglement-onderzoek-schepen-op-de-rijn](https://wetten.ai/eli/nl/ministeriele-regeling/2009/reglement-onderzoek-schepen-op-de-rijn)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/reglement-onderzoek-schepen-op-de-rijn](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/reglement-onderzoek-schepen-op-de-rijn)
 
 ## Versies
 
@@ -25,11 +25,8 @@ state_count: 30
 |---|---|---|
 | 2024-02-01 | heden | [2024-02-01.md](./2024-02-01.md) |
 | 2024-01-01 | 2024-01-31 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-01-31 | [2024-01-01.md](./2024-01-01.md) |
-| 2023-06-01 | 2023-12-31 | [2023-06-01.md](./2023-06-01.md) |
 | 2023-06-01 | 2023-12-31 | [2023-06-01.md](./2023-06-01.md) |
 | 2022-05-19 | 2023-05-31 | [2022-05-19.md](./2022-05-19.md) |
-| 2022-01-01 | 2022-05-18 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-05-18 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-10-06 | 2021-12-31 | [2021-10-06.md](./2021-10-06.md) |
 | 2018-10-07 | 2021-10-05 | [2018-10-07.md](./2018-10-07.md) |
@@ -48,8 +45,6 @@ state_count: 30
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-05-07 | 2010-12-31 | [2010-05-07.md](./2010-05-07.md) |
 | 2010-04-01 | 2010-05-06 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-04-01 | 2010-05-06 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-07-01 | 2009-11-30 | [2009-07-01.md](./2009-07-01.md) |

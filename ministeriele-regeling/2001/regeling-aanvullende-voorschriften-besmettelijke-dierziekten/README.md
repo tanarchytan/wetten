@@ -6,7 +6,7 @@ title: Regeling aanvullende voorschriften besmettelijke dierziekten
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2004-12-01"
-state_count: 13
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Regeling aanvullende voorschriften besmettelijke dierziekten en zoönosen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-aanvullende-voorschriften-besmettelijke-dierziekten](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-aanvullende-voorschriften-besmettelijke-dierziekten)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-aanvullende-voorschriften-besmettelijke-dierziekten](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-aanvullende-voorschriften-besmettelijke-dierziekten)
 
 ## Versies
 
@@ -29,9 +29,6 @@ state_count: 13
 | 2004-02-01 | 2004-08-04 | [2004-02-01.md](./2004-02-01.md) |
 | 2003-12-03 | 2004-01-31 | [2003-12-03.md](./2003-12-03.md) |
 | 2003-05-24 | 2003-12-02 | [2003-05-24.md](./2003-05-24.md) |
-| 2003-05-24 | 2003-12-02 | [2003-05-24.md](./2003-05-24.md) |
 | 2003-05-01 | 2003-05-23 | [2003-05-01.md](./2003-05-01.md) |
-| 2003-05-01 | 2003-05-23 | [2003-05-01.md](./2003-05-01.md) |
-| 2003-01-01 | 2003-04-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-04-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-09-01 | 2002-12-31 | [2002-09-01.md](./2002-09-01.md) |

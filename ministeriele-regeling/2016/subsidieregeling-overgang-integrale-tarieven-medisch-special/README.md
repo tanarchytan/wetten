@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 dec
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-04-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2017–2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-overgang-integrale-tarieven-medisch-special](https://wetten.ai/eli/nl/ministeriele-regeling/2016/subsidieregeling-overgang-integrale-tarieven-medisch-special)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-overgang-integrale-tarieven-medisch-special](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/subsidieregeling-overgang-integrale-tarieven-medisch-special)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2023-04-01 | heden | [2023-04-01.md](./2023-04-01.md) |
 | 2017-01-19 | 2023-03-31 | [2017-01-19.md](./2017-01-19.md) |
-| 2017-01-01 | 2017-01-18 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-01-18 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-04-01 | 2016-12-31 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-01-01 | 2016-03-31 | [2016-01-01.md](./2016-01-01.md) |

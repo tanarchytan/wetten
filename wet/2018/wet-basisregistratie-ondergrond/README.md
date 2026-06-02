@@ -6,7 +6,7 @@ title: Wet van 30 september 2015, houdende regels omtrent de basisregistratie on
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 14
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Wet basisregistratie ondergrond
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/2018/wet-basisregistratie-ondergrond](https://wetten.ai/eli/nl/wet/2018/wet-basisregistratie-ondergrond)
+**ELI:** [/eli/nl/wet/2018/wet-basisregistratie-ondergrond](https://wettenbank.online/eli/nl/wet/2018/wet-basisregistratie-ondergrond)
 
 ## Versies
 
@@ -28,11 +28,6 @@ state_count: 14
 | 2020-01-01 | 2022-04-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-04-24 | 2019-12-31 | [2019-04-24.md](./2019-04-24.md) |
 | 2018-07-28 | 2019-04-23 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-07-28 | 2019-04-23 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |

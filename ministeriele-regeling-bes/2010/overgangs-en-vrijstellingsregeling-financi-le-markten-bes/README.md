@@ -6,7 +6,7 @@ title: Regeling van de minister van Financiën houdende aanvullende regels betre
 ministry: Financiën
 abbreviation: null
 latest_state: "2012-05-23"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Overgangs- en vrijstellingsregeling financiële markten BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/overgangs-en-vrijstellingsregeling-financi-le-markten-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2010/overgangs-en-vrijstellingsregeling-financi-le-markten-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2010/overgangs-en-vrijstellingsregeling-financi-le-markten-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2010/overgangs-en-vrijstellingsregeling-financi-le-markten-bes)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2012-05-23 | heden | [2012-05-23.md](./2012-05-23.md) |
 | 2011-07-01 | 2012-05-22 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-07-01 | 2012-05-22 | [2011-07-01.md](./2011-07-01.md) |
-| 2010-10-10 | 2011-06-30 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-06-30 | [2010-10-10.md](./2010-10-10.md) |

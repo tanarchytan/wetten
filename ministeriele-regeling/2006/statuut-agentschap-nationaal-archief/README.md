@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2007-09-05"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Statuut agentschap Nationaal Archief
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/statuut-agentschap-nationaal-archief](https://wetten.ai/eli/nl/ministeriele-regeling/2006/statuut-agentschap-nationaal-archief)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/statuut-agentschap-nationaal-archief](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/statuut-agentschap-nationaal-archief)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-09-05 | heden | [2007-09-05.md](./2007-09-05.md) |
-| 2007-08-01 | 2007-09-04 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-08-01 | 2007-09-04 | [2007-08-01.md](./2007-08-01.md) |
 | 2006-05-14 | 2007-07-31 | [2006-05-14.md](./2006-05-14.md) |

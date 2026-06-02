@@ -6,7 +6,7 @@ title: Derde tijdelijke vrijstelling op grond van artikel 46, eerste lid van de 
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2021-04-13"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Derde tijdelijke vrijstelling handdesinfectie COVID-19 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2021/derde-tijdelijke-vrijstelling-handdesinfectie-covid-19-2021](https://wetten.ai/eli/nl/ministeriele-regeling/2021/derde-tijdelijke-vrijstelling-handdesinfectie-covid-19-2021)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/derde-tijdelijke-vrijstelling-handdesinfectie-covid-19-2021](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/derde-tijdelijke-vrijstelling-handdesinfectie-covid-19-2021)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-04-13 | heden | [2021-04-13.md](./2021-04-13.md) |
-| 2021-03-06 | 2021-04-12 | [2021-03-06.md](./2021-03-06.md) |
 | 2021-03-06 | 2021-04-12 | [2021-03-06.md](./2021-03-06.md) |
 | 2021-03-05 | 2021-03-05 | [2021-03-05.md](./2021-03-05.md) |

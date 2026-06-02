@@ -6,7 +6,7 @@ title: Besluit van de directeur-generaal Natuur, Visserij en Landelijk Gebied va
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2022-10-01"
-state_count: 13
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Natuur, Visserij en Landelijk Gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0041939](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0041939)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0041939](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0041939)
 
 ## Versies
 
@@ -27,11 +27,7 @@ state_count: 13
 | 2021-02-06 | 2021-07-02 | [2021-02-06.md](./2021-02-06.md) |
 | 2019-12-20 | 2021-02-05 | [2019-12-20.md](./2019-12-20.md) |
 | 2019-11-15 | 2019-12-19 | [2019-11-15.md](./2019-11-15.md) |
-| 2019-11-15 | 2019-12-19 | [2019-11-15.md](./2019-11-15.md) |
 | 2019-11-11 | 2019-11-14 | [2019-11-11.md](./2019-11-11.md) |
-| 2019-11-11 | 2019-11-14 | [2019-11-11.md](./2019-11-11.md) |
-| 2019-11-11 | 2019-11-14 | [2019-11-11.md](./2019-11-11.md) |
-| 2019-09-01 | 2019-11-10 | [2019-09-01.md](./2019-09-01.md) |
 | 2019-09-01 | 2019-11-10 | [2019-09-01.md](./2019-09-01.md) |
 | 2019-02-26 | 2019-08-31 | [2019-02-26.md](./2019-02-26.md) |
 | 2019-01-01 | 2019-02-25 | [2019-01-01.md](./2019-01-01.md) |

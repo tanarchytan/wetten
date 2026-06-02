@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 28 juni
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Regeling codetabellen school- en studiejaar 2021–2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-codetabellen-school-en-studiejaar-2021-2022](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-codetabellen-school-en-studiejaar-2021-2022)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-codetabellen-school-en-studiejaar-2021-2022](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-codetabellen-school-en-studiejaar-2021-2022)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2022-08-01 | 2022-09-13 | [2022-08-01.md](./2022-08-01.md) |
 | 2021-11-26 | 2022-07-31 | [2021-11-26.md](./2021-11-26.md) |
-| 2021-08-01 | 2021-11-25 | [2021-08-01.md](./2021-08-01.md) |
 | 2021-08-01 | 2021-11-25 | [2021-08-01.md](./2021-08-01.md) |

@@ -6,7 +6,7 @@ title: Tijdelijke regeling van de staatssecretaris van Onderwijs, Cultuur en Wet
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-23"
-state_count: 14
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Tijdelijke regeling subsidie experimenten open bestel
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-subsidie-experimenten-open-bestel](https://wetten.ai/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-subsidie-experimenten-open-bestel)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-subsidie-experimenten-open-bestel](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-subsidie-experimenten-open-bestel)
 
 ## Versies
 
@@ -28,11 +28,7 @@ state_count: 14
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-09-26 | 2008-12-31 | [2008-09-26.md](./2008-09-26.md) |
 | 2008-04-11 | 2008-09-25 | [2008-04-11.md](./2008-04-11.md) |
-| 2008-04-11 | 2008-09-25 | [2008-04-11.md](./2008-04-11.md) |
 | 2008-01-01 | 2008-04-10 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-04-10 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-04-10 | [2008-01-01.md](./2008-01-01.md) |
-| 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-11-12 | 2006-12-31 | [2006-11-12.md](./2006-11-12.md) |
 | 2006-09-15 | 2006-11-11 | [2006-09-15.md](./2006-09-15.md) |

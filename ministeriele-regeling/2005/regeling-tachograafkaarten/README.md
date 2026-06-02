@@ -6,7 +6,7 @@ title: Regeling houdende regels met betrekking tot de verstrekking en het gebrui
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Regeling tachograafkaarten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-tachograafkaarten](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-tachograafkaarten)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-tachograafkaarten](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-tachograafkaarten)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 23
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-07-03 | 2020-12-31 | [2020-07-03.md](./2020-07-03.md) |
-| 2020-07-01 | 2020-07-02 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-07-01 | 2020-07-02 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-01-18 | 2020-06-30 | [2020-01-18.md](./2020-01-18.md) |
 | 2019-06-15 | 2020-01-17 | [2019-06-15.md](./2019-06-15.md) |
@@ -39,7 +38,6 @@ state_count: 23
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2010-10-22 | 2011-06-30 | [2010-10-22.md](./2010-10-22.md) |
-| 2010-10-01 | 2010-10-21 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2010-10-21 | [2010-10-01.md](./2010-10-01.md) |
 | 2009-01-01 | 2010-09-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-04 | 2008-12-31 | [2008-01-04.md](./2008-01-04.md) |

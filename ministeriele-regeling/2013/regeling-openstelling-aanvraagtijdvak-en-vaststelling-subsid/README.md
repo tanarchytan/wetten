@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 sept
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2014-05-15"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling openstelling aanvraagtijdvak en vaststelling subsidieplafond 2013 binnen Regeling cofinanciering sectorplannen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-openstelling-aanvraagtijdvak-en-vaststelling-subsid](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-openstelling-aanvraagtijdvak-en-vaststelling-subsid)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-openstelling-aanvraagtijdvak-en-vaststelling-subsid](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-openstelling-aanvraagtijdvak-en-vaststelling-subsid)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-05-15 | heden | [2014-05-15.md](./2014-05-15.md) |
-| 2013-09-25 | 2014-05-14 | [2013-09-25.md](./2013-09-25.md) |
 | 2013-09-25 | 2014-05-14 | [2013-09-25.md](./2013-09-25.md) |

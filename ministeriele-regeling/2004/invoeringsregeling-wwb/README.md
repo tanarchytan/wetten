@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, va
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2004-03-25"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Invoeringsregeling WWB
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/invoeringsregeling-wwb](https://wetten.ai/eli/nl/ministeriele-regeling/2004/invoeringsregeling-wwb)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/invoeringsregeling-wwb](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/invoeringsregeling-wwb)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-03-25 | 2008-12-31 | [2004-03-25.md](./2004-03-25.md) |
-| 2004-01-01 | 2004-03-24 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-24 | [2004-01-01.md](./2004-01-01.md) |

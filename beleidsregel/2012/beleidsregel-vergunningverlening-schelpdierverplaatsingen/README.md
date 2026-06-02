@@ -6,7 +6,7 @@ title: Beleidsregels van de Staatssecretaris van Economische Zaken, Landbouw en 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2017-08-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Beleidsregel vergunningverlening schelpdierverplaatsingen
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2012/beleidsregel-vergunningverlening-schelpdierverplaatsingen](https://wetten.ai/eli/nl/beleidsregel/2012/beleidsregel-vergunningverlening-schelpdierverplaatsingen)
+**ELI:** [/eli/nl/beleidsregel/2012/beleidsregel-vergunningverlening-schelpdierverplaatsingen](https://wettenbank.online/eli/nl/beleidsregel/2012/beleidsregel-vergunningverlening-schelpdierverplaatsingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-08-25 | heden | [2017-08-25.md](./2017-08-25.md) |
-| 2017-01-01 | 2017-08-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-08-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2012-06-20 | 2016-12-31 | [2012-06-20.md](./2012-06-20.md) |

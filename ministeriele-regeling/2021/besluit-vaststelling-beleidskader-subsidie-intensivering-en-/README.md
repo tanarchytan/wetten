@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minist
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-05-08"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit vaststelling Beleidskader subsidie intensivering en verbreding regionale samenwerking kansengelijkheid in het onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-vaststelling-beleidskader-subsidie-intensivering-en-](https://wetten.ai/eli/nl/ministeriele-regeling/2021/besluit-vaststelling-beleidskader-subsidie-intensivering-en-)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-vaststelling-beleidskader-subsidie-intensivering-en-](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/besluit-vaststelling-beleidskader-subsidie-intensivering-en-)
 
 ## Versies
 
@@ -26,6 +26,4 @@ state_count: 7
 | 2025-02-08 | 2025-05-07 | [2025-02-08.md](./2025-02-08.md) |
 | 2022-05-12 | 2025-02-07 | [2022-05-12.md](./2022-05-12.md) |
 | 2021-11-20 | 2022-05-11 | [2021-11-20.md](./2021-11-20.md) |
-| 2021-11-20 | 2022-05-11 | [2021-11-20.md](./2021-11-20.md) |
-| 2021-09-22 | 2021-11-19 | [2021-09-22.md](./2021-09-22.md) |
 | 2021-09-22 | 2021-11-19 | [2021-09-22.md](./2021-09-22.md) |

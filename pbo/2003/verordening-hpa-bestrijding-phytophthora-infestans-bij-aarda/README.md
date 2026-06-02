@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 houdend
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2006-05-28"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Verordening HPA bestrijding Phytophthora infestans bij aardappelen 2003
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2003/verordening-hpa-bestrijding-phytophthora-infestans-bij-aarda](https://wetten.ai/eli/nl/pbo/2003/verordening-hpa-bestrijding-phytophthora-infestans-bij-aarda)
+**ELI:** [/eli/nl/pbo/2003/verordening-hpa-bestrijding-phytophthora-infestans-bij-aarda](https://wettenbank.online/eli/nl/pbo/2003/verordening-hpa-bestrijding-phytophthora-infestans-bij-aarda)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2006-05-28 | 2014-12-31 | [2006-05-28.md](./2006-05-28.md) |
 | 2006-05-14 | 2006-05-27 | [2006-05-14.md](./2006-05-14.md) |
-| 2006-05-14 | 2006-05-27 | [2006-05-14.md](./2006-05-14.md) |
-| 2006-01-01 | 2006-05-13 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-13 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-07-01 | 2005-12-31 | [2003-07-01.md](./2003-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling houdende vaststelling van een regeling voor de stimulering van p
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2006-05-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling stimulering taakuitvoering politiekorpsen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-stimulering-taakuitvoering-politiekorpsen](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-stimulering-taakuitvoering-politiekorpsen)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-stimulering-taakuitvoering-politiekorpsen](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-stimulering-taakuitvoering-politiekorpsen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-05-25 | 2019-02-21 | [2006-05-25.md](./2006-05-25.md) |
-| 2006-05-10 | 2006-05-24 | [2006-05-10.md](./2006-05-10.md) |
 | 2006-05-10 | 2006-05-24 | [2006-05-10.md](./2006-05-10.md) |
 | 2005-05-26 | 2006-05-09 | [2005-05-26.md](./2005-05-26.md) |

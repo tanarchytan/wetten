@@ -6,7 +6,7 @@ title: Regeling detachering politie
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-04-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling detachering politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-detachering-politie](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-detachering-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-detachering-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-detachering-politie)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2023-12-08 | 2025-03-31 | [2023-12-08.md](./2023-12-08.md) |
 | 2013-01-01 | 2023-12-07 | [2013-01-01.md](./2013-01-01.md) |
 | 2006-08-26 | 2012-12-31 | [2006-08-26.md](./2006-08-26.md) |
-| 2006-07-02 | 2006-08-25 | [2006-07-02.md](./2006-07-02.md) |
 | 2006-07-02 | 2006-08-25 | [2006-07-02.md](./2006-07-02.md) |
 | 2002-03-22 | 2006-07-01 | [2002-03-22.md](./2002-03-22.md) |

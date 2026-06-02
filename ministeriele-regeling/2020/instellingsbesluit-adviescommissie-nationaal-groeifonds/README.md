@@ -6,7 +6,7 @@ title: Besluit van de Minister van Financiën en de Minister van Economische Zak
 ministry: Financiën
 abbreviation: null
 latest_state: "2022-04-07"
-state_count: 10
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Instellingsbesluit Adviescommissie Nationaal Groeifonds
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2020/instellingsbesluit-adviescommissie-nationaal-groeifonds](https://wetten.ai/eli/nl/ministeriele-regeling/2020/instellingsbesluit-adviescommissie-nationaal-groeifonds)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/instellingsbesluit-adviescommissie-nationaal-groeifonds](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/instellingsbesluit-adviescommissie-nationaal-groeifonds)
 
 ## Versies
 
@@ -24,11 +24,7 @@ state_count: 10
 |---|---|---|
 | 2022-04-07 | 2022-07-31 | [2022-04-07.md](./2022-04-07.md) |
 | 2022-02-04 | 2022-04-06 | [2022-02-04.md](./2022-02-04.md) |
-| 2022-02-04 | 2022-04-06 | [2022-02-04.md](./2022-02-04.md) |
 | 2022-02-01 | 2022-02-03 | [2022-02-01.md](./2022-02-01.md) |
-| 2022-02-01 | 2022-02-03 | [2022-02-01.md](./2022-02-01.md) |
-| 2022-02-01 | 2022-02-03 | [2022-02-01.md](./2022-02-01.md) |
-| 2022-01-10 | 2022-01-31 | [2022-01-10.md](./2022-01-10.md) |
 | 2022-01-10 | 2022-01-31 | [2022-01-10.md](./2022-01-10.md) |
 | 2022-01-01 | 2022-01-09 | [2022-01-01.md](./2022-01-01.md) |
 | 2020-09-15 | 2021-12-31 | [2020-09-15.md](./2020-09-15.md) |

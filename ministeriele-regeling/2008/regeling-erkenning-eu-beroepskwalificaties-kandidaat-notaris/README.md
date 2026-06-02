@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Justitie van 12 december 2008, nr. 5
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-04-05"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling erkenning EU-beroepskwalificaties kandidaat-notaris
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-kandidaat-notaris](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-kandidaat-notaris)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-kandidaat-notaris](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-kandidaat-notaris)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-04-05 | heden | [2016-04-05.md](./2016-04-05.md) |
-| 2016-01-18 | 2016-04-04 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-04-04 | [2016-01-18.md](./2016-01-18.md) |
 | 2013-01-01 | 2016-01-17 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-12-26 | 2012-12-31 | [2008-12-26.md](./2008-12-26.md) |

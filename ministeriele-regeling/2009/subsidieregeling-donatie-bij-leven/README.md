@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 me
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 14
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Subsidieregeling donatie bij leven
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-donatie-bij-leven](https://wetten.ai/eli/nl/ministeriele-regeling/2009/subsidieregeling-donatie-bij-leven)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-donatie-bij-leven](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/subsidieregeling-donatie-bij-leven)
 
 ## Versies
 
@@ -27,8 +27,6 @@ state_count: 14
 | 2020-01-24 | 2021-08-31 | [2020-01-24.md](./2020-01-24.md) |
 | 2016-09-01 | 2020-01-23 | [2016-09-01.md](./2016-09-01.md) |
 | 2016-04-01 | 2016-08-31 | [2016-04-01.md](./2016-04-01.md) |
-| 2016-04-01 | 2016-08-31 | [2016-04-01.md](./2016-04-01.md) |
-| 2016-01-01 | 2016-03-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-03-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-06-06 | 2014-12-31 | [2014-06-06.md](./2014-06-06.md) |

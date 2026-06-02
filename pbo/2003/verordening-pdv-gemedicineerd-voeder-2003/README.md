@@ -6,7 +6,7 @@ title: Verordening van het Productschap Diervoeder van 12 februari 2003 houdende
 ministry: Productschap Diervoeder
 abbreviation: null
 latest_state: "2013-08-10"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening PDV gemedicineerd voeder 2003
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Diervoeder
-**ELI:** [/eli/nl/pbo/2003/verordening-pdv-gemedicineerd-voeder-2003](https://wetten.ai/eli/nl/pbo/2003/verordening-pdv-gemedicineerd-voeder-2003)
+**ELI:** [/eli/nl/pbo/2003/verordening-pdv-gemedicineerd-voeder-2003](https://wettenbank.online/eli/nl/pbo/2003/verordening-pdv-gemedicineerd-voeder-2003)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-08-10 | 2014-12-31 | [2013-08-10.md](./2013-08-10.md) |
-| 2013-01-01 | 2013-08-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-08-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2003-05-18 | 2012-12-31 | [2003-05-18.md](./2003-05-18.md) |

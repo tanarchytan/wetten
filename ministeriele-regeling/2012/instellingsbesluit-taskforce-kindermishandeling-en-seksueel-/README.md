@@ -6,7 +6,7 @@ title: Besluit van de Minister van Veiligheid en Justitie en de Staatssecretaris
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2015-04-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit Taskforce kindermishandeling en seksueel misbruik
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-taskforce-kindermishandeling-en-seksueel-](https://wetten.ai/eli/nl/ministeriele-regeling/2012/instellingsbesluit-taskforce-kindermishandeling-en-seksueel-)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-taskforce-kindermishandeling-en-seksueel-](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/instellingsbesluit-taskforce-kindermishandeling-en-seksueel-)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2015-04-01 | 2016-12-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-03-24 | 2015-03-31 | [2015-03-24.md](./2015-03-24.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-09-12 | 2014-12-31 | [2012-09-12.md](./2012-09-12.md) |

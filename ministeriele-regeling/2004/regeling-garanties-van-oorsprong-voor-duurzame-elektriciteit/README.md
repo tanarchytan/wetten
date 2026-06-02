@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 8 december 2003, nr. W
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-02-07"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Regeling garanties van oorsprong voor duurzame elektriciteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-garanties-van-oorsprong-voor-duurzame-elektriciteit](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-garanties-van-oorsprong-voor-duurzame-elektriciteit)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-garanties-van-oorsprong-voor-duurzame-elektriciteit](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-garanties-van-oorsprong-voor-duurzame-elektriciteit)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 17
 | 2010-01-26 | 2010-12-31 | [2010-01-26.md](./2010-01-26.md) |
 | 2009-04-06 | 2010-01-25 | [2009-04-06.md](./2009-04-06.md) |
 | 2008-11-05 | 2009-04-05 | [2008-11-05.md](./2008-11-05.md) |
-| 2008-11-05 | 2009-04-05 | [2008-11-05.md](./2008-11-05.md) |
-| 2008-04-01 | 2008-11-04 | [2008-04-01.md](./2008-04-01.md) |
 | 2008-04-01 | 2008-11-04 | [2008-04-01.md](./2008-04-01.md) |
 | 2007-05-08 | 2008-03-31 | [2007-05-08.md](./2007-05-08.md) |
 | 2006-12-07 | 2007-05-07 | [2006-12-07.md](./2006-12-07.md) |

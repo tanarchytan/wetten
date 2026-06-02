@@ -6,7 +6,7 @@ title: Regeling vergoeding gemengde kosten en waardering loon in natura, vergoed
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2004-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Regeling vergoeding gemengde kosten en waardering loon in natura, vergoedingen en verstrekkingen 2002
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-vergoeding-gemengde-kosten-en-waardering-loon-in-na](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-vergoeding-gemengde-kosten-en-waardering-loon-in-na)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-vergoeding-gemengde-kosten-en-waardering-loon-in-na](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-vergoeding-gemengde-kosten-en-waardering-loon-in-na)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-09-27 | 2003-12-31 | [2003-09-27.md](./2003-09-27.md) |
-| 2003-03-26 | 2003-09-26 | [2003-03-26.md](./2003-03-26.md) |
 | 2003-03-26 | 2003-09-26 | [2003-03-26.md](./2003-03-26.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2012-09-14"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling gefluoreerde broeikasgassen hoogspanningsschakelaars
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-gefluoreerde-broeikasgassen-hoogspanningsschakelaar](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-gefluoreerde-broeikasgassen-hoogspanningsschakelaar)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-gefluoreerde-broeikasgassen-hoogspanningsschakelaar](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-gefluoreerde-broeikasgassen-hoogspanningsschakelaar)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2012-09-14 | 2015-11-30 | [2012-09-14.md](./2012-09-14.md) |
 | 2012-07-01 | 2012-09-13 | [2012-07-01.md](./2012-07-01.md) |
-| 2012-07-01 | 2012-09-13 | [2012-07-01.md](./2012-07-01.md) |
 | 2011-08-30 | 2012-06-30 | [2011-08-30.md](./2011-08-30.md) |
-| 2011-06-30 | 2011-08-29 | [2011-06-30.md](./2011-06-30.md) |
 | 2011-06-30 | 2011-08-29 | [2011-06-30.md](./2011-06-30.md) |
 | 2011-03-30 | 2011-06-29 | [2011-03-30.md](./2011-03-30.md) |
 | 2010-01-01 | 2011-03-29 | [2010-01-01.md](./2010-01-01.md) |

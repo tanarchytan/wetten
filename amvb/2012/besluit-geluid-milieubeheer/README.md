@@ -6,7 +6,7 @@ title: Besluit van 4 april 2012, houdende regels inzake geluidproductieplafonds 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit geluid milieubeheer
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2012/besluit-geluid-milieubeheer](https://wetten.ai/eli/nl/amvb/2012/besluit-geluid-milieubeheer)
+**ELI:** [/eli/nl/amvb/2012/besluit-geluid-milieubeheer](https://wettenbank.online/eli/nl/amvb/2012/besluit-geluid-milieubeheer)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2020-01-01 | 2021-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-03-01 | 2019-12-31 | [2018-03-01.md](./2018-03-01.md) |
 | 2015-05-02 | 2018-02-28 | [2015-05-02.md](./2015-05-02.md) |
-| 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-07-01 | 2014-12-31 | [2012-07-01.md](./2012-07-01.md) |

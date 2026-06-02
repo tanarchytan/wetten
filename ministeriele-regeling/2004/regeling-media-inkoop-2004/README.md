@@ -6,7 +6,7 @@ title: Regeling van de Minister-President, Minister van Algemene Zaken, van 3 no
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2010-02-27"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling media-inkoop 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-media-inkoop-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-media-inkoop-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-media-inkoop-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-media-inkoop-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-02-27 | heden | [2010-02-27.md](./2010-02-27.md) |
-| 2009-04-29 | 2010-02-26 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-04-29 | 2010-02-26 | [2009-04-29.md](./2009-04-29.md) |
 | 2006-01-01 | 2009-04-28 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-11-14 | 2005-12-31 | [2004-11-14.md](./2004-11-14.md) |

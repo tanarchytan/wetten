@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie van 7 december 2011, 
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2018-10-30"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Mandaatregeling Ministerie van Veiligheid en Justitie 2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2011/mandaatregeling-ministerie-van-veiligheid-en-justitie-2011](https://wetten.ai/eli/nl/ministeriele-regeling/2011/mandaatregeling-ministerie-van-veiligheid-en-justitie-2011)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/mandaatregeling-ministerie-van-veiligheid-en-justitie-2011](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/mandaatregeling-ministerie-van-veiligheid-en-justitie-2011)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 14
 | 2014-04-30 | 2014-12-30 | [2014-04-30.md](./2014-04-30.md) |
 | 2013-10-31 | 2014-04-29 | [2013-10-31.md](./2013-10-31.md) |
 | 2012-11-29 | 2013-10-30 | [2012-11-29.md](./2012-11-29.md) |
-| 2012-11-05 | 2012-11-28 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-11-05 | 2012-11-28 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-07-17 | 2012-11-04 | [2012-07-17.md](./2012-07-17.md) |
 | 2011-12-20 | 2012-07-16 | [2011-12-20.md](./2011-12-20.md) |

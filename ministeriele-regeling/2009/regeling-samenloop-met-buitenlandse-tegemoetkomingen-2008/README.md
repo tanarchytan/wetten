@@ -6,7 +6,7 @@ title: Regeling van 7 januari 2009, nr. DSV/2897940, houdende regels ter voorkom
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Rsbt 2008
 latest_state: "2018-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Rsbt 2008
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-samenloop-met-buitenlandse-tegemoetkomingen-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-samenloop-met-buitenlandse-tegemoetkomingen-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-samenloop-met-buitenlandse-tegemoetkomingen-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-samenloop-met-buitenlandse-tegemoetkomingen-2008)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 8
 | 2018-01-01 | heden | [2018-01-01.md](./2018-01-01.md) |
 | 2015-01-01 | 2017-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2010-10-14 | 2014-12-31 | [2010-10-14.md](./2010-10-14.md) |
-| 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-04-01 | 2010-07-31 | [2010-04-01.md](./2010-04-01.md) |
 | 2009-01-17 | 2010-03-31 | [2009-01-17.md](./2009-01-17.md) |

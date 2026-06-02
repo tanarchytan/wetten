@@ -6,7 +6,7 @@ title: Besluit van 9 december 2003, houdende vaststelling van regels met betrekk
 ministry: Infrastructuur en Milieu
 abbreviation: Bbab
 latest_state: "2024-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Bbab
-**ELI:** [/eli/nl/amvb/2004/besluit-beheer-autobanden](https://wetten.ai/eli/nl/amvb/2004/besluit-beheer-autobanden)
+**ELI:** [/eli/nl/amvb/2004/besluit-beheer-autobanden](https://wettenbank.online/eli/nl/amvb/2004/besluit-beheer-autobanden)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 |---|---|---|
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
-| 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2009-05-01 | 2022-12-31 | [2009-05-01.md](./2009-05-01.md) |
 | 2008-04-01 | 2009-04-30 | [2008-04-01.md](./2008-04-01.md) |

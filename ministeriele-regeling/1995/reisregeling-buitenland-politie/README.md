@@ -6,7 +6,7 @@ title: Reisregeling buitenland politie
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2008-04-01"
-state_count: 17
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Reisregeling buitenland politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1995/reisregeling-buitenland-politie](https://wetten.ai/eli/nl/ministeriele-regeling/1995/reisregeling-buitenland-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/reisregeling-buitenland-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/reisregeling-buitenland-politie)
 
 ## Versies
 
@@ -25,14 +25,11 @@ state_count: 17
 | 2008-04-01 | 2008-06-30 | [2008-04-01.md](./2008-04-01.md) |
 | 2007-10-19 | 2008-03-31 | [2007-10-19.md](./2007-10-19.md) |
 | 2007-10-01 | 2007-10-18 | [2007-10-01.md](./2007-10-01.md) |
-| 2007-10-01 | 2007-10-18 | [2007-10-01.md](./2007-10-01.md) |
 | 2007-04-13 | 2007-09-30 | [2007-04-13.md](./2007-04-13.md) |
-| 2007-04-01 | 2007-04-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-04-01 | 2007-04-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2006-10-18 | 2007-03-31 | [2006-10-18.md](./2006-10-18.md) |
 | 2006-04-01 | 2006-10-17 | [2006-04-01.md](./2006-04-01.md) |
 | 2005-11-02 | 2006-03-31 | [2005-11-02.md](./2005-11-02.md) |
-| 2005-10-01 | 2005-11-01 | [2005-10-01.md](./2005-10-01.md) |
 | 2005-10-01 | 2005-11-01 | [2005-10-01.md](./2005-10-01.md) |
 | 2005-04-01 | 2005-09-30 | [2005-04-01.md](./2005-04-01.md) |
 | 2004-10-01 | 2005-03-31 | [2004-10-01.md](./2004-10-01.md) |

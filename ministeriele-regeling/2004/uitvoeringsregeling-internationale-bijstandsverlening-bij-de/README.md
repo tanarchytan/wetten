@@ -6,7 +6,7 @@ title: Uitvoeringsregeling internationale bijstandsverlening bij de heffing van 
 ministry: Financiën
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-internationale-bijstandsverlening-bij-de](https://wetten.ai/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-internationale-bijstandsverlening-bij-de)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-internationale-bijstandsverlening-bij-de](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-internationale-bijstandsverlening-bij-de)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 10
 |---|---|---|
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2013-01-01 | 2015-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-01-01 | 2012-12-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2007-02-25 | 2010-10-09 | [2007-02-25.md](./2007-02-25.md) |
 | 2005-07-01 | 2007-02-24 | [2005-07-01.md](./2005-07-01.md) |

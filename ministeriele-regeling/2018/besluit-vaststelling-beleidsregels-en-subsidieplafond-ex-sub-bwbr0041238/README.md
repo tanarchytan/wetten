@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2018-12-18"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit vaststelling beleidsregels en subsidieplafond ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Fonds European Partnership for Responsible Minerals 2018)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-vaststelling-beleidsregels-en-subsidieplafond-ex-sub-bwbr0041238](https://wetten.ai/eli/nl/ministeriele-regeling/2018/besluit-vaststelling-beleidsregels-en-subsidieplafond-ex-sub-bwbr0041238)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-vaststelling-beleidsregels-en-subsidieplafond-ex-sub-bwbr0041238](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/besluit-vaststelling-beleidsregels-en-subsidieplafond-ex-sub-bwbr0041238)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-12-18 | 2022-08-13 | [2018-12-18.md](./2018-12-18.md) |
-| 2018-11-22 | 2018-12-17 | [2018-11-22.md](./2018-11-22.md) |
 | 2018-11-22 | 2018-12-17 | [2018-11-22.md](./2018-11-22.md) |
 | 2018-08-15 | 2018-11-21 | [2018-08-15.md](./2018-08-15.md) |

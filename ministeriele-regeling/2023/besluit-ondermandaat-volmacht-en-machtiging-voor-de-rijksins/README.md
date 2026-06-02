@@ -6,7 +6,7 @@ title: Besluit van de inspecteur-generaal van de Rijksinspectie Digitale Infrast
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2024-08-30"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging voor de Rijksinspectie Digitale Infrastructuur van het Ministerie van Economische Zaken en Klimaat
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-de-rijksins](https://wetten.ai/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-de-rijksins)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-de-rijksins](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-de-rijksins)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-08-30 | heden | [2024-08-30.md](./2024-08-30.md) |
-| 2023-01-01 | 2024-08-29 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2024-08-29 | [2023-01-01.md](./2023-01-01.md) |

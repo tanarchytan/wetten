@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie van 16 mei 2013, nr.
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-01-25"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Instellingsbesluit FIU-Nederland 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/instellingsbesluit-fiu-nederland-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2013/instellingsbesluit-fiu-nederland-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/instellingsbesluit-fiu-nederland-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/instellingsbesluit-fiu-nederland-2013)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-01-25 | heden | [2020-01-25.md](./2020-01-25.md) |
-| 2019-07-02 | 2020-01-24 | [2019-07-02.md](./2019-07-02.md) |
 | 2019-07-02 | 2020-01-24 | [2019-07-02.md](./2019-07-02.md) |
 | 2018-07-25 | 2019-07-01 | [2018-07-25.md](./2018-07-25.md) |
 | 2013-05-25 | 2018-07-24 | [2013-05-25.md](./2013-05-25.md) |

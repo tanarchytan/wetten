@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 25 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-06-30"
-state_count: 14
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Mandaatbesluit LNV Dienst Landelijk Gebied
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-dienst-landelijk-gebied](https://wetten.ai/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-dienst-landelijk-gebied)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-dienst-landelijk-gebied](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-dienst-landelijk-gebied)
 
 ## Versies
 
@@ -24,15 +24,9 @@ state_count: 14
 |---|---|---|
 | 2010-06-30 | 2011-12-31 | [2010-06-30.md](./2010-06-30.md) |
 | 2010-01-28 | 2010-06-29 | [2010-01-28.md](./2010-01-28.md) |
-| 2010-01-28 | 2010-06-29 | [2010-01-28.md](./2010-01-28.md) |
-| 2009-12-01 | 2010-01-27 | [2009-12-01.md](./2009-12-01.md) |
-| 2009-12-01 | 2010-01-27 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-12-01 | 2010-01-27 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-01-01 | 2009-11-30 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-11-30 | [2009-01-01.md](./2009-01-01.md) |
-| 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-21 | 2007-12-31 | [2007-12-21.md](./2007-12-21.md) |
-| 2007-12-04 | 2007-12-20 | [2007-12-04.md](./2007-12-04.md) |
 | 2007-12-04 | 2007-12-20 | [2007-12-04.md](./2007-12-04.md) |
 | 2005-12-08 | 2007-12-03 | [2005-12-08.md](./2005-12-08.md) |

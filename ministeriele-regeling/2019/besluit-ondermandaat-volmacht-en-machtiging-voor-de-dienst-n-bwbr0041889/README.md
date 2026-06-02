@@ -6,7 +6,7 @@ title: Besluit van de directeur Nationaal Coördinator Groningen van het Ministe
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging voor de Dienst Nationaal Coördinator Groningen van het Ministerie van Economische Zaken en Klimaat 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-dienst-n-bwbr0041889](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-dienst-n-bwbr0041889)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-dienst-n-bwbr0041889](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-dienst-n-bwbr0041889)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2020-01-01 | 2020-07-28 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-04-02 | 2019-12-31 | [2019-04-02.md](./2019-04-02.md) |
-| 2019-04-01 | 2019-04-01 | [2019-04-01.md](./2019-04-01.md) |
 | 2019-04-01 | 2019-04-01 | [2019-04-01.md](./2019-04-01.md) |
 | 2019-02-12 | 2019-03-31 | [2019-02-12.md](./2019-02-12.md) |
 | 2019-01-01 | 2019-02-11 | [2019-01-01.md](./2019-01-01.md) |

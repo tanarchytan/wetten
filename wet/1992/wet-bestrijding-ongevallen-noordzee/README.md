@@ -6,7 +6,7 @@ title: Wet van 12 maart 1992, houdende aanvullende regels met betrekking tot het
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Wet bestrijding ongevallen Noordzee
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/1992/wet-bestrijding-ongevallen-noordzee](https://wetten.ai/eli/nl/wet/1992/wet-bestrijding-ongevallen-noordzee)
+**ELI:** [/eli/nl/wet/1992/wet-bestrijding-ongevallen-noordzee](https://wettenbank.online/eli/nl/wet/1992/wet-bestrijding-ongevallen-noordzee)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 10
 | 2013-01-01 | 2015-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-03-16 | 2012-12-31 | [2012-03-16.md](./2012-03-16.md) |
 | 2010-12-31 | 2012-03-15 | [2010-12-31.md](./2010-12-31.md) |
-| 2010-11-30 | 2010-12-30 | [2010-11-30.md](./2010-11-30.md) |
 | 2010-11-30 | 2010-12-30 | [2010-11-30.md](./2010-11-30.md) |
 | 2010-10-01 | 2010-11-29 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-07-24 | 2010-09-30 | [2010-07-24.md](./2010-07-24.md) |

@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vis van 26 juni 2014. houdende regels te
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2015-02-27"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Heffingsverordening 2014
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2014/heffingsverordening-2014](https://wetten.ai/eli/nl/pbo/2014/heffingsverordening-2014)
+**ELI:** [/eli/nl/pbo/2014/heffingsverordening-2014](https://wettenbank.online/eli/nl/pbo/2014/heffingsverordening-2014)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2015-02-27 | 2019-10-18 | [2015-02-27.md](./2015-02-27.md) |
 | 2014-08-23 | 2015-02-26 | [2014-08-23.md](./2014-08-23.md) |
-| 2014-08-23 | 2015-02-26 | [2014-08-23.md](./2014-08-23.md) |
-| 2014-07-01 | 2014-08-22 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-07-01 | 2014-08-22 | [2014-07-01.md](./2014-07-01.md) |
 | 2012-01-01 | 2014-06-30 | [2012-01-01.md](./2012-01-01.md) |

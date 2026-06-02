@@ -6,7 +6,7 @@ title: Regeling Commissie van Deskundigen voor de Rijnvaart
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2006-07-09"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling Commissie van Deskundigen voor de Rijnvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-commissie-van-deskundigen-voor-de-rijnvaart](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-commissie-van-deskundigen-voor-de-rijnvaart)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-commissie-van-deskundigen-voor-de-rijnvaart](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-commissie-van-deskundigen-voor-de-rijnvaart)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2006-07-09 | 2009-06-30 | [2006-07-09.md](./2006-07-09.md) |
 | 2004-11-26 | 2006-07-08 | [2004-11-26.md](./2004-11-26.md) |
-| 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2003-02-21 | 2004-10-31 | [2003-02-21.md](./2003-02-21.md) |

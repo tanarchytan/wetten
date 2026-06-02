@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2007-05-05"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Tijdelijke subsidieregeling schuldhulpverlening 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-subsidieregeling-schuldhulpverlening-2006](https://wetten.ai/eli/nl/ministeriele-regeling/2006/tijdelijke-subsidieregeling-schuldhulpverlening-2006)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-subsidieregeling-schuldhulpverlening-2006](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/tijdelijke-subsidieregeling-schuldhulpverlening-2006)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2007-05-05 | 2008-12-31 | [2007-05-05.md](./2007-05-05.md) |
 | 2007-01-01 | 2007-05-04 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-05-04 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-20 | 2006-12-31 | [2006-10-20.md](./2006-10-20.md) |
 | 2006-07-20 | 2006-10-19 | [2006-07-20.md](./2006-07-20.md) |
-| 2006-07-20 | 2006-10-19 | [2006-07-20.md](./2006-07-20.md) |
-| 2006-01-01 | 2006-07-19 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-07-19 | [2006-01-01.md](./2006-01-01.md) |

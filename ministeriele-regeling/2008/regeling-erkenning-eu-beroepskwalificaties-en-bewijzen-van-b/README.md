@@ -6,7 +6,7 @@ title: Regeling inzake de erkenning van EG-beroepskwalificaties met betrekking t
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2016-01-23"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Regeling erkenning EU-beroepskwalificaties en bewijzen van bevoegdheid luchtvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-en-bewijzen-van-b](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-en-bewijzen-van-b)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-en-bewijzen-van-b](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-en-bewijzen-van-b)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-01-23 | heden | [2016-01-23.md](./2016-01-23.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2014-03-15 | 2016-01-17 | [2014-03-15.md](./2014-03-15.md) |
 | 2009-01-24 | 2014-03-14 | [2009-01-24.md](./2009-01-24.md) |

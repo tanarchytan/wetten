@@ -6,7 +6,7 @@ title: Besluit van de algemeen directeur Autoriteit Nucleaire Veiligheid en Stra
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2016-07-02"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Ondermandaatbesluit Autoriteit Nucleaire Veiligheid en Stralingsbescherming 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-autoriteit-nucleaire-veiligheid-en-stral](https://wetten.ai/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-autoriteit-nucleaire-veiligheid-en-stral)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-autoriteit-nucleaire-veiligheid-en-stral](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-autoriteit-nucleaire-veiligheid-en-stral)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-07-02 | heden | [2016-07-02.md](./2016-07-02.md) |
-| 2016-06-01 | 2016-07-01 | [2016-06-01.md](./2016-06-01.md) |
 | 2016-06-01 | 2016-07-01 | [2016-06-01.md](./2016-06-01.md) |
 | 2015-02-11 | 2016-05-31 | [2015-02-11.md](./2015-02-11.md) |
 | 2015-01-01 | 2015-02-10 | [2015-01-01.md](./2015-01-01.md) |

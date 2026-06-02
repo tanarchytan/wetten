@@ -6,7 +6,7 @@ title: Besluit van 16 december 2020 tot wijziging van enige uitvoeringsbesluiten
 ministry: Financiën
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Wijzigingsbesluit enige uitvoeringsbesluiten (belastingen en enige andere besluiten)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2021/wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-](https://wetten.ai/eli/nl/amvb/2021/wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-)
+**ELI:** [/eli/nl/amvb/2021/wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-](https://wettenbank.online/eli/nl/amvb/2021/wijzigingsbesluit-enige-uitvoeringsbesluiten-belastingen-en-)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2021-06-03 | 2021-12-31 | [2021-06-03.md](./2021-06-03.md) |
 | 2021-04-01 | 2021-06-02 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-02-17 | 2021-03-31 | [2021-02-17.md](./2021-02-17.md) |
-| 2021-01-01 | 2021-02-16 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-02-16 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |

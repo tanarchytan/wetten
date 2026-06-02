@@ -6,7 +6,7 @@ title: Besluit van 6 februari 2001, houdende regels ter uitvoering van artikel 3
 ministry: Veiligheid en Justitie
 abbreviation: Bsal bs
 latest_state: "2013-07-01"
-state_count: 22
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 22
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bsal bs
-**ELI:** [/eli/nl/amvb/2001/besluit-salaris-bewindvoerder-schuldsanering](https://wetten.ai/eli/nl/amvb/2001/besluit-salaris-bewindvoerder-schuldsanering)
+**ELI:** [/eli/nl/amvb/2001/besluit-salaris-bewindvoerder-schuldsanering](https://wettenbank.online/eli/nl/amvb/2001/besluit-salaris-bewindvoerder-schuldsanering)
 
 ## Versies
 
@@ -34,14 +34,9 @@ state_count: 22
 | 2005-07-01 | 2006-06-30 | [2005-07-01.md](./2005-07-01.md) |
 | 2004-09-18 | 2005-06-30 | [2004-09-18.md](./2004-09-18.md) |
 | 2004-08-20 | 2004-09-17 | [2004-08-20.md](./2004-08-20.md) |
-| 2004-08-20 | 2004-09-17 | [2004-08-20.md](./2004-08-20.md) |
 | 2004-07-01 | 2004-08-19 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2004-08-19 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2004-08-19 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-07-20 | 2003-12-31 | [2003-07-20.md](./2003-07-20.md) |
-| 2003-07-01 | 2003-07-19 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-07-19 | [2003-07-01.md](./2003-07-01.md) |
 | 2002-07-01 | 2003-06-30 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-01-01 | 2002-06-30 | [2002-01-01.md](./2002-01-01.md) |

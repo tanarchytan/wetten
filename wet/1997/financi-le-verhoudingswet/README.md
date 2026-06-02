@@ -6,7 +6,7 @@ title: Wet van 21 oktober 1996, houdende regels inzake de financiële verhouding
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: FVW
 latest_state: "2024-01-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** FVW
-**ELI:** [/eli/nl/wet/1997/financi-le-verhoudingswet](https://wetten.ai/eli/nl/wet/1997/financi-le-verhoudingswet)
+**ELI:** [/eli/nl/wet/1997/financi-le-verhoudingswet](https://wettenbank.online/eli/nl/wet/1997/financi-le-verhoudingswet)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 12
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2018-03-22 | 2023-12-31 | [2018-03-22.md](./2018-03-22.md) |
 | 2018-01-01 | 2018-03-21 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-03-21 | [2018-01-01.md](./2018-01-01.md) |
-| 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2014-02-22 | 2016-12-31 | [2014-02-22.md](./2014-02-22.md) |
 | 2011-02-23 | 2014-02-21 | [2011-02-23.md](./2011-02-23.md) |

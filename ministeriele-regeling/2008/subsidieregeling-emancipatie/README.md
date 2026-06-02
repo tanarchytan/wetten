@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Subsidieregeling emancipatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-emancipatie](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-emancipatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-emancipatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-emancipatie)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 9
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-12-11 | 2010-12-31 | [2009-12-11.md](./2009-12-11.md) |
 | 2009-11-02 | 2009-12-10 | [2009-11-02.md](./2009-11-02.md) |
-| 2009-11-02 | 2009-12-10 | [2009-11-02.md](./2009-11-02.md) |
 | 2009-10-02 | 2009-11-01 | [2009-10-02.md](./2009-10-02.md) |
-| 2009-10-02 | 2009-11-01 | [2009-10-02.md](./2009-10-02.md) |
-| 2009-01-01 | 2009-10-01 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-10-01 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-07-16 | 2008-12-31 | [2008-07-16.md](./2008-07-16.md) |

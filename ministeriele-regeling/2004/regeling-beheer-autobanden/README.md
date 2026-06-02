@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-07-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling beheer autobanden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-beheer-autobanden](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-beheer-autobanden)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-beheer-autobanden](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-beheer-autobanden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-07-01 | heden | [2023-07-01.md](./2023-07-01.md) |
-| 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2004-04-01 | 2022-12-31 | [2004-04-01.md](./2004-04-01.md) |

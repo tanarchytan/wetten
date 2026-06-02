@@ -6,7 +6,7 @@ title: Besluit van het hoofd van de sector Juridische Zaken en Wetgevingsbeleid 
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2024-06-04"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Ondermandaatbesluit JZW Ministerie van Justitie en Veiligheid 2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/ondermandaatbesluit-jzw-ministerie-van-justitie-en-veilighei](https://wetten.ai/eli/nl/ministeriele-regeling/2022/ondermandaatbesluit-jzw-ministerie-van-justitie-en-veilighei)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/ondermandaatbesluit-jzw-ministerie-van-justitie-en-veilighei](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/ondermandaatbesluit-jzw-ministerie-van-justitie-en-veilighei)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-06-04 | heden | [2024-06-04.md](./2024-06-04.md) |
-| 2024-02-01 | 2024-06-03 | [2024-02-01.md](./2024-02-01.md) |
 | 2024-02-01 | 2024-06-03 | [2024-02-01.md](./2024-02-01.md) |
 | 2022-03-23 | 2024-01-31 | [2022-03-23.md](./2022-03-23.md) |

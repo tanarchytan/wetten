@@ -6,7 +6,7 @@ title: Besluit van 6 oktober 1994, houdende herziening van het Besluit woninggeb
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: BWS
 latest_state: "2009-09-01"
-state_count: 13
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** BWS
-**ELI:** [/eli/nl/amvb/1994/besluit-woninggebonden-subsidies-1995](https://wetten.ai/eli/nl/amvb/1994/besluit-woninggebonden-subsidies-1995)
+**ELI:** [/eli/nl/amvb/1994/besluit-woninggebonden-subsidies-1995](https://wettenbank.online/eli/nl/amvb/1994/besluit-woninggebonden-subsidies-1995)
 
 ## Versies
 
@@ -29,10 +29,7 @@ state_count: 13
 | 2005-12-27 | 2008-11-09 | [2005-12-27.md](./2005-12-27.md) |
 | 2004-07-01 | 2005-12-26 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-06-30 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-04-30 | 2003-12-31 | [2003-04-30.md](./2003-04-30.md) |
 | 2003-01-01 | 2003-04-29 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-04-29 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-07-01 | 2002-12-31 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-03-21 | 2002-06-30 | [2002-03-21.md](./2002-03-21.md) |
 | 2002-03-21 | 2002-06-30 | [2002-03-21.md](./2002-03-21.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 5 februa
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-07-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Mandaatbesluit OCW DUS-I
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/mandaatbesluit-ocw-dus-i](https://wetten.ai/eli/nl/ministeriele-regeling/2016/mandaatbesluit-ocw-dus-i)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/mandaatbesluit-ocw-dus-i](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/mandaatbesluit-ocw-dus-i)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-07-15 | heden | [2016-07-15.md](./2016-07-15.md) |
-| 2016-07-01 | 2016-07-14 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-07-01 | 2016-07-14 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-02-11 | 2016-06-30 | [2016-02-11.md](./2016-02-11.md) |

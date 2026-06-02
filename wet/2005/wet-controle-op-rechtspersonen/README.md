@@ -6,7 +6,7 @@ title: Wet van 8 mei 2003, houdende regels over de documentatie van vennootschap
 ministry: Veiligheid en Justitie
 abbreviation: Wdv
 latest_state: "2018-09-19"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Wdv
-**ELI:** [/eli/nl/wet/2005/wet-controle-op-rechtspersonen](https://wetten.ai/eli/nl/wet/2005/wet-controle-op-rechtspersonen)
+**ELI:** [/eli/nl/wet/2005/wet-controle-op-rechtspersonen](https://wettenbank.online/eli/nl/wet/2005/wet-controle-op-rechtspersonen)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 12
 |---|---|---|
 | 2018-09-19 | heden | [2018-09-19.md](./2018-09-19.md) |
 | 2018-07-28 | 2018-09-18 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-01-06 | 2018-05-24 | [2014-01-06.md](./2014-01-06.md) |
 | 2013-01-01 | 2014-01-05 | [2013-01-01.md](./2013-01-01.md) |

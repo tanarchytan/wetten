@@ -6,7 +6,7 @@ title: Besluit van 24 november 2008, houdende periodieke registratie van op gron
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-03-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit periodieke registratie Wet BIG
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2009/besluit-periodieke-registratie-wet-big](https://wetten.ai/eli/nl/amvb/2009/besluit-periodieke-registratie-wet-big)
+**ELI:** [/eli/nl/amvb/2009/besluit-periodieke-registratie-wet-big](https://wettenbank.online/eli/nl/amvb/2009/besluit-periodieke-registratie-wet-big)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 12
 | 2022-12-01 | 2023-02-28 | [2022-12-01.md](./2022-12-01.md) |
 | 2022-07-01 | 2022-11-30 | [2022-07-01.md](./2022-07-01.md) |
 | 2020-07-01 | 2022-06-30 | [2020-07-01.md](./2020-07-01.md) |
-| 2020-07-01 | 2022-06-30 | [2020-07-01.md](./2020-07-01.md) |
-| 2020-03-17 | 2020-06-30 | [2020-03-17.md](./2020-03-17.md) |
 | 2020-03-17 | 2020-06-30 | [2020-03-17.md](./2020-03-17.md) |
 | 2020-01-01 | 2020-03-16 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-04-01 | 2019-12-31 | [2019-04-01.md](./2019-04-01.md) |

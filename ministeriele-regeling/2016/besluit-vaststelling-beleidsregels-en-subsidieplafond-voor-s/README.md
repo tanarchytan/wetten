@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2021-10-29"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Besluit vaststelling beleidsregels en subsidieplafond voor subsidieverstrekking activiteiten MKB-ondernemingen (bevordering van duurzaam internationaal ondernemen (Vouchers internationaal ondernemen))
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-vaststelling-beleidsregels-en-subsidieplafond-voor-s](https://wetten.ai/eli/nl/ministeriele-regeling/2016/besluit-vaststelling-beleidsregels-en-subsidieplafond-voor-s)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-vaststelling-beleidsregels-en-subsidieplafond-voor-s](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/besluit-vaststelling-beleidsregels-en-subsidieplafond-voor-s)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 14
 | 2020-06-26 | 2020-08-13 | [2020-06-26.md](./2020-06-26.md) |
 | 2020-01-21 | 2020-06-25 | [2020-01-21.md](./2020-01-21.md) |
 | 2019-01-09 | 2020-01-20 | [2019-01-09.md](./2019-01-09.md) |
-| 2019-01-01 | 2019-01-08 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-01-08 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-03-30 | 2018-12-31 | [2018-03-30.md](./2018-03-30.md) |
 | 2018-01-01 | 2018-03-29 | [2018-01-01.md](./2018-01-01.md) |

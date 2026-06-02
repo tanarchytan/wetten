@@ -6,7 +6,7 @@ title: Wet van 11 februari 2012 tot vaststelling van regels omtrent de bijzonder
 ministry: Defensie
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Veteranenwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/wet/2014/veteranenwet](https://wetten.ai/eli/nl/wet/2014/veteranenwet)
+**ELI:** [/eli/nl/wet/2014/veteranenwet](https://wettenbank.online/eli/nl/wet/2014/veteranenwet)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2018-07-28 | 2019-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-06-28 | 2018-05-24 | [2014-06-28.md](./2014-06-28.md) |

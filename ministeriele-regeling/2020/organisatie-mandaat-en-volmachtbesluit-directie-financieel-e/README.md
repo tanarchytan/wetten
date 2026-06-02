@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 febru
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2024-11-28"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2020/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e](https://wetten.ai/eli/nl/ministeriele-regeling/2020/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2024-11-28 | heden | [2024-11-28.md](./2024-11-28.md) |
 | 2024-05-17 | 2024-11-27 | [2024-05-17.md](./2024-05-17.md) |
-| 2024-05-17 | 2024-11-27 | [2024-05-17.md](./2024-05-17.md) |
-| 2024-01-01 | 2024-05-16 | [2024-01-01.md](./2024-01-01.md) |
-| 2024-01-01 | 2024-05-16 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-05-16 | [2024-01-01.md](./2024-01-01.md) |
 | 2020-02-18 | 2023-12-31 | [2020-02-18.md](./2020-02-18.md) |
 | 2020-01-01 | 2020-02-17 | [2020-01-01.md](./2020-01-01.md) |

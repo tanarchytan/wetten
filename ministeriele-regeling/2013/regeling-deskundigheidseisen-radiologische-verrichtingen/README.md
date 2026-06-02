@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-12-18"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling deskundigheidseisen radiologische verrichtingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-deskundigheidseisen-radiologische-verrichtingen](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-deskundigheidseisen-radiologische-verrichtingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-deskundigheidseisen-radiologische-verrichtingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-deskundigheidseisen-radiologische-verrichtingen)
 
 ## Versies
 
@@ -25,11 +25,6 @@ state_count: 11
 | 2015-12-18 | 2018-02-05 | [2015-12-18.md](./2015-12-18.md) |
 | 2014-07-01 | 2015-12-17 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-06-30 | 2014-06-30 | [2014-06-30.md](./2014-06-30.md) |
-| 2014-06-30 | 2014-06-30 | [2014-06-30.md](./2014-06-30.md) |
 | 2014-01-01 | 2014-06-29 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-06-29 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-06-29 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-12-31 | 2013-12-31 | [2013-12-31.md](./2013-12-31.md) |
-| 2013-12-31 | 2013-12-31 | [2013-12-31.md](./2013-12-31.md) |
 | 2013-12-31 | 2013-12-31 | [2013-12-31.md](./2013-12-31.md) |
 | 2013-07-01 | 2013-12-30 | [2013-07-01.md](./2013-07-01.md) |

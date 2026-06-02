@@ -6,7 +6,7 @@ title: Besluit van de hoofddirecteur van de Immigratie- en Naturalisatiedienst v
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2022-02-02"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Mandaatbesluit IND Ministerie van Justitie en Veiligheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/mandaatbesluit-ind-ministerie-van-justitie-en-veiligheid](https://wetten.ai/eli/nl/ministeriele-regeling/2021/mandaatbesluit-ind-ministerie-van-justitie-en-veiligheid)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/mandaatbesluit-ind-ministerie-van-justitie-en-veiligheid](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/mandaatbesluit-ind-ministerie-van-justitie-en-veiligheid)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2021-12-10 | 2022-01-31 | [2021-12-10.md](./2021-12-10.md) |
 | 2021-11-01 | 2021-12-09 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-09-11 | 2021-10-31 | [2021-09-11.md](./2021-09-11.md) |
-| 2021-08-01 | 2021-09-10 | [2021-08-01.md](./2021-08-01.md) |
 | 2021-08-01 | 2021-09-10 | [2021-08-01.md](./2021-08-01.md) |
 | 2021-07-01 | 2021-07-31 | [2021-07-01.md](./2021-07-01.md) |

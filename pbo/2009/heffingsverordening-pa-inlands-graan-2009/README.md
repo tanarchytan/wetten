@@ -6,7 +6,7 @@ title: Verordening van het Productschap Akkerbouw van 13 november 2009, houdende
 ministry: Productschap Akkerbouw
 abbreviation: null
 latest_state: "2013-06-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Heffingsverordening PA inlands graan 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2009/heffingsverordening-pa-inlands-graan-2009](https://wetten.ai/eli/nl/pbo/2009/heffingsverordening-pa-inlands-graan-2009)
+**ELI:** [/eli/nl/pbo/2009/heffingsverordening-pa-inlands-graan-2009](https://wettenbank.online/eli/nl/pbo/2009/heffingsverordening-pa-inlands-graan-2009)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-06-01 | 2019-10-18 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-06-20 | 2012-12-31 | [2010-06-20.md](./2010-06-20.md) |
 | 2009-02-08 | 2010-06-19 | [2009-02-08.md](./2009-02-08.md) |

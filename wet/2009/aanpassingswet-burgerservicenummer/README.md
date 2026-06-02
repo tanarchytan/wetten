@@ -6,7 +6,7 @@ title: Wet van 5 februari 2009 tot aanpassing van enige wetten in verband met de
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Aanpassingswet burgerservicenummer
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2009/aanpassingswet-burgerservicenummer](https://wetten.ai/eli/nl/wet/2009/aanpassingswet-burgerservicenummer)
+**ELI:** [/eli/nl/wet/2009/aanpassingswet-burgerservicenummer](https://wettenbank.online/eli/nl/wet/2009/aanpassingswet-burgerservicenummer)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-01-01 | heden | [2010-01-01.md](./2010-01-01.md) |
-| 2009-03-25 | 2009-12-31 | [2009-03-25.md](./2009-03-25.md) |
 | 2009-03-25 | 2009-12-31 | [2009-03-25.md](./2009-03-25.md) |
 | 2009-03-11 | 2009-03-24 | [2009-03-11.md](./2009-03-11.md) |

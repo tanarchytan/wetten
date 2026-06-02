@@ -6,7 +6,7 @@ title: Wet van 30 november 2006, houdende nieuwe bepalingen met betrekking tot m
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: WMS
 latest_state: "2025-08-01"
-state_count: 24
+state_count: 23
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 24
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** WMS
-**ELI:** [/eli/nl/wet/2007/wet-medezeggenschap-op-scholen](https://wetten.ai/eli/nl/wet/2007/wet-medezeggenschap-op-scholen)
+**ELI:** [/eli/nl/wet/2007/wet-medezeggenschap-op-scholen](https://wettenbank.online/eli/nl/wet/2007/wet-medezeggenschap-op-scholen)
 
 ## Versies
 
@@ -45,5 +45,4 @@ state_count: 24
 | 2010-08-01 | 2011-09-30 | [2010-08-01.md](./2010-08-01.md) |
 | 2009-08-01 | 2010-07-31 | [2009-08-01.md](./2009-08-01.md) |
 | 2008-10-22 | 2009-07-31 | [2008-10-22.md](./2008-10-22.md) |
-| 2007-01-01 | 2008-10-21 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2008-10-21 | [2007-01-01.md](./2007-01-01.md) |

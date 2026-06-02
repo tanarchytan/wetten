@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Tijdelijke regeling tegemoetkoming studenten in verband met de uitbraak van COVID-19
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2020/tijdelijke-regeling-tegemoetkoming-studenten-in-verband-met-](https://wetten.ai/eli/nl/ministeriele-regeling/2020/tijdelijke-regeling-tegemoetkoming-studenten-in-verband-met-)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/tijdelijke-regeling-tegemoetkoming-studenten-in-verband-met-](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/tijdelijke-regeling-tegemoetkoming-studenten-in-verband-met-)
 
 ## Versies
 
@@ -27,8 +27,6 @@ state_count: 10
 | 2021-12-02 | 2022-07-31 | [2021-12-02.md](./2021-12-02.md) |
 | 2021-07-17 | 2021-12-01 | [2021-07-17.md](./2021-07-17.md) |
 | 2021-07-15 | 2021-07-16 | [2021-07-15.md](./2021-07-15.md) |
-| 2021-07-15 | 2021-07-16 | [2021-07-15.md](./2021-07-15.md) |
-| 2021-04-01 | 2021-07-14 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-04-01 | 2021-07-14 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-02-09 | 2021-03-31 | [2021-02-09.md](./2021-02-09.md) |
 | 2020-07-23 | 2021-02-08 | [2020-07-23.md](./2020-07-23.md) |

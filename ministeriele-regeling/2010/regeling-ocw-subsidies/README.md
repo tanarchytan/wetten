@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 28 sep
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: ROS
 latest_state: "2015-08-01"
-state_count: 14
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 14
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** ROS
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-ocw-subsidies](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-ocw-subsidies)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-ocw-subsidies](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-ocw-subsidies)
 
 ## Versies
 
@@ -27,13 +27,9 @@ state_count: 14
 | 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-05-09 | 2014-12-31 | [2014-05-09.md](./2014-05-09.md) |
 | 2014-01-01 | 2014-05-08 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-05-08 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-03-12 | 2013-12-31 | [2013-03-12.md](./2013-03-12.md) |
-| 2013-01-02 | 2013-03-11 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-02 | 2013-03-11 | [2013-01-02.md](./2013-01-02.md) |
 | 2012-07-03 | 2013-01-01 | [2012-07-03.md](./2012-07-03.md) |
 | 2012-01-28 | 2012-07-02 | [2012-01-28.md](./2012-01-28.md) |
 | 2012-01-01 | 2012-01-27 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-01-27 | [2012-01-01.md](./2012-01-01.md) |
-| 2010-10-12 | 2011-12-31 | [2010-10-12.md](./2010-10-12.md) |
 | 2010-10-12 | 2011-12-31 | [2010-10-12.md](./2010-10-12.md) |

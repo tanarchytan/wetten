@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 24
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 24
 **Citeertitel:** Uitvoeringsregeling pacht
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-pacht](https://wetten.ai/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-pacht)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-pacht](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-pacht)
 
 ## Versies
 
@@ -40,9 +40,5 @@ state_count: 24
 | 2009-09-01 | 2011-06-30 | [2009-09-01.md](./2009-09-01.md) |
 | 2008-09-28 | 2009-08-31 | [2008-09-28.md](./2008-09-28.md) |
 | 2007-12-01 | 2008-09-27 | [2007-12-01.md](./2007-12-01.md) |
-| 2007-12-01 | 2008-09-27 | [2007-12-01.md](./2007-12-01.md) |
 | 2007-09-02 | 2007-11-30 | [2007-09-02.md](./2007-09-02.md) |
-| 2007-09-02 | 2007-11-30 | [2007-09-02.md](./2007-09-02.md) |
-| 2007-09-02 | 2007-11-30 | [2007-09-02.md](./2007-09-02.md) |
-| 2007-09-01 | 2007-09-01 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2007-09-01 | [2007-09-01.md](./2007-09-01.md) |

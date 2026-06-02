@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties te
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2011-05-14"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling melding voorgenomen reorganisatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-melding-voorgenomen-reorganisatie](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-melding-voorgenomen-reorganisatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-melding-voorgenomen-reorganisatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-melding-voorgenomen-reorganisatie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-05-14 | 2014-02-20 | [2011-05-14.md](./2011-05-14.md) |
-| 2010-03-02 | 2011-05-13 | [2010-03-02.md](./2010-03-02.md) |
 | 2010-03-02 | 2011-05-13 | [2010-03-02.md](./2010-03-02.md) |
 | 2007-07-22 | 2010-03-01 | [2007-07-22.md](./2007-07-22.md) |

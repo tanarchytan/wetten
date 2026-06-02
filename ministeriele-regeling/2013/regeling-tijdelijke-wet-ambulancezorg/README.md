@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 16 ok
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-07-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling Tijdelijke wet ambulancezorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-tijdelijke-wet-ambulancezorg](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-tijdelijke-wet-ambulancezorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-tijdelijke-wet-ambulancezorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-tijdelijke-wet-ambulancezorg)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 10
 | 2020-01-01 | 2020-04-20 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-01 | 2018-12-31 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-01-27 | 2018-06-30 | [2018-01-27.md](./2018-01-27.md) |
 | 2018-01-27 | 2018-06-30 | [2018-01-27.md](./2018-01-27.md) |
 | 2017-01-01 | 2018-01-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2014-01-01 | 2016-12-31 | [2014-01-01.md](./2014-01-01.md) |

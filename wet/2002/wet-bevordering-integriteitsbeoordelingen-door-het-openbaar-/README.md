@@ -6,7 +6,7 @@ title: Wet van 20 juni 2002, houdende regels inzake de bevordering van integrite
 ministry: Veiligheid en Justitie
 abbreviation: Bibob
 latest_state: "2025-07-16"
-state_count: 44
+state_count: 43
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 44
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bibob
-**ELI:** [/eli/nl/wet/2002/wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-](https://wetten.ai/eli/nl/wet/2002/wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-)
+**ELI:** [/eli/nl/wet/2002/wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-](https://wettenbank.online/eli/nl/wet/2002/wet-bevordering-integriteitsbeoordelingen-door-het-openbaar-)
 
 ## Versies
 
@@ -34,7 +34,6 @@ state_count: 44
 | 2020-08-01 | 2021-03-31 | [2020-08-01.md](./2020-08-01.md) |
 | 2020-07-01 | 2020-07-31 | [2020-07-01.md](./2020-07-01.md) |
 | 2018-07-28 | 2020-06-30 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-01 | 2018-05-24 | [2018-05-01.md](./2018-05-01.md) |
 | 2016-07-01 | 2018-04-30 | [2016-07-01.md](./2016-07-01.md) |

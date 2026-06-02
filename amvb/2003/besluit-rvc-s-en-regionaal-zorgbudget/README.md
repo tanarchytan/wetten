@@ -6,7 +6,7 @@ title: "Besluit van 27 mei 2003, houdende regels inzake regionale verwijzingscom
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-02-06"
-state_count: 14
+state_count: 11
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 14
 **Citeertitel:** Besluit RVC's en regionaal zorgbudget
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2003/besluit-rvc-s-en-regionaal-zorgbudget](https://wetten.ai/eli/nl/amvb/2003/besluit-rvc-s-en-regionaal-zorgbudget)
+**ELI:** [/eli/nl/amvb/2003/besluit-rvc-s-en-regionaal-zorgbudget](https://wettenbank.online/eli/nl/amvb/2003/besluit-rvc-s-en-regionaal-zorgbudget)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-02-06 | 2015-12-31 | [2015-02-06.md](./2015-02-06.md) |
-| 2014-08-01 | 2015-02-05 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2015-02-05 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-01-01 | 2014-07-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2008-08-01 | 2013-12-31 | [2008-08-01.md](./2008-08-01.md) |
@@ -32,7 +31,5 @@ state_count: 14
 | 2005-08-01 | 2006-03-07 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-04-29 | 2005-07-31 | [2005-04-29.md](./2005-04-29.md) |
 | 2005-04-06 | 2005-04-28 | [2005-04-06.md](./2005-04-06.md) |
-| 2005-04-06 | 2005-04-28 | [2005-04-06.md](./2005-04-06.md) |
-| 2004-08-01 | 2005-04-05 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-08-01 | 2005-04-05 | [2004-08-01.md](./2004-08-01.md) |
 | 2003-08-01 | 2004-07-31 | [2003-08-01.md](./2003-08-01.md) |

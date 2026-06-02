@@ -6,7 +6,7 @@ title: Mandaatbesluit BZK 2020
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2022-01-10"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Mandaatbesluit BZK 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-bzk-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2020/mandaatbesluit-bzk-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-bzk-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/mandaatbesluit-bzk-2020)
 
 ## Versies
 
@@ -28,7 +28,5 @@ state_count: 10
 | 2021-04-01 | 2021-06-24 | [2021-04-01.md](./2021-04-01.md) |
 | 2020-09-22 | 2021-03-31 | [2020-09-22.md](./2020-09-22.md) |
 | 2020-06-26 | 2020-09-21 | [2020-06-26.md](./2020-06-26.md) |
-| 2020-06-26 | 2020-09-21 | [2020-06-26.md](./2020-06-26.md) |
-| 2020-04-01 | 2020-06-25 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-04-01 | 2020-06-25 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-01-01 | 2020-03-31 | [2020-01-01.md](./2020-01-01.md) |

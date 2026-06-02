@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2016-10-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling vergoeding voorzitter en overige leden Commissie Integriteit Overheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-vergoeding-voorzitter-en-overige-leden-commissie-in](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-vergoeding-voorzitter-en-overige-leden-commissie-in)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-vergoeding-voorzitter-en-overige-leden-commissie-in](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-vergoeding-voorzitter-en-overige-leden-commissie-in)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2016-10-01 | 2017-03-31 | [2016-10-01.md](./2016-10-01.md) |
 | 2014-03-05 | 2016-09-30 | [2014-03-05.md](./2014-03-05.md) |
-| 2014-02-01 | 2014-03-04 | [2014-02-01.md](./2014-02-01.md) |
 | 2014-02-01 | 2014-03-04 | [2014-02-01.md](./2014-02-01.md) |
 | 2013-08-01 | 2014-01-31 | [2013-08-01.md](./2013-08-01.md) |
 | 2012-11-06 | 2013-07-31 | [2012-11-06.md](./2012-11-06.md) |

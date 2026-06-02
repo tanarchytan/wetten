@@ -6,7 +6,7 @@ title: Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan 
 ministry: Defensie
 abbreviation: null
 latest_state: "2003-05-23"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/1966/besluit-militaire-toeslagregeling-pensioenen-suriname-en-ned](https://wetten.ai/eli/nl/amvb/1966/besluit-militaire-toeslagregeling-pensioenen-suriname-en-ned)
+**ELI:** [/eli/nl/amvb/1966/besluit-militaire-toeslagregeling-pensioenen-suriname-en-ned](https://wettenbank.online/eli/nl/amvb/1966/besluit-militaire-toeslagregeling-pensioenen-suriname-en-ned)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-05-23 | heden | [2003-05-23.md](./2003-05-23.md) |
-| 2001-06-01 | 2003-05-22 | [2001-06-01.md](./2001-06-01.md) |
 | 2001-06-01 | 2003-05-22 | [2001-06-01.md](./2001-06-01.md) |
 | 1968-10-01 | 2001-05-31 | [1968-10-01.md](./1968-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling titulatuur hoger onderwijs
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-12-04"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling titulatuur hoger onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-titulatuur-hoger-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-titulatuur-hoger-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-titulatuur-hoger-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-titulatuur-hoger-onderwijs)
 
 ## Versies
 
@@ -28,6 +28,5 @@ state_count: 9
 | 2015-08-30 | 2016-08-31 | [2015-08-30.md](./2015-08-30.md) |
 | 2014-01-01 | 2015-08-29 | [2014-01-01.md](./2014-01-01.md) |
 | 2008-06-14 | 2013-12-31 | [2008-06-14.md](./2008-06-14.md) |
-| 2005-07-20 | 2008-06-13 | [2005-07-20.md](./2005-07-20.md) |
 | 2005-07-20 | 2008-06-13 | [2005-07-20.md](./2005-07-20.md) |
 | 2005-03-01 | 2005-07-19 | [2005-03-01.md](./2005-03-01.md) |

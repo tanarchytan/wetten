@@ -6,7 +6,7 @@ title: Verordening op de kostenvergoedingen
 ministry: Nederlandse beroepsorganisatie van accountants
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 12
 **Citeertitel:** Verordening op de kostenvergoedingen
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse beroepsorganisatie van accountants
-**ELI:** [/eli/nl/pbo/2014/verordening-op-de-kostenvergoedingen](https://wetten.ai/eli/nl/pbo/2014/verordening-op-de-kostenvergoedingen)
+**ELI:** [/eli/nl/pbo/2014/verordening-op-de-kostenvergoedingen](https://wettenbank.online/eli/nl/pbo/2014/verordening-op-de-kostenvergoedingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
-| 2022-01-02 | 2022-12-31 | [2022-01-02.md](./2022-01-02.md) |
 | 2022-01-02 | 2022-12-31 | [2022-01-02.md](./2022-01-02.md) |
 | 2022-01-01 | 2022-01-01 | [2022-01-01.md](./2022-01-01.md) |
 | 2020-07-01 | 2021-12-31 | [2020-07-01.md](./2020-07-01.md) |

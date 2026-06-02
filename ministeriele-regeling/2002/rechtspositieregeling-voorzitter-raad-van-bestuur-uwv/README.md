@@ -6,7 +6,7 @@ title: Rechtspositieregeling voorzitter Raad van bestuur UWV
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Rechtspositieregeling voorzitter Raad van bestuur UWV
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2002/rechtspositieregeling-voorzitter-raad-van-bestuur-uwv](https://wetten.ai/eli/nl/ministeriele-regeling/2002/rechtspositieregeling-voorzitter-raad-van-bestuur-uwv)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/rechtspositieregeling-voorzitter-raad-van-bestuur-uwv](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/rechtspositieregeling-voorzitter-raad-van-bestuur-uwv)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2012-01-01 | 2016-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2006-03-24 | 2011-12-31 | [2006-03-24.md](./2006-03-24.md) |
 | 2004-06-11 | 2006-03-23 | [2004-06-11.md](./2004-06-11.md) |
-| 2004-01-01 | 2004-06-10 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-06-10 | [2004-01-01.md](./2004-01-01.md) |
 | 2002-01-01 | 2003-12-31 | [2002-01-01.md](./2002-01-01.md) |

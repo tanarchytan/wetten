@@ -6,7 +6,7 @@ title: Besluit van 1 december 1999, houdende het van toepassing zijn van het reg
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2004-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Reglement radarpatenten
 **Type:** kb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/kb/2000/reglement-radarpatenten](https://wetten.ai/eli/nl/kb/2000/reglement-radarpatenten)
+**ELI:** [/eli/nl/kb/2000/reglement-radarpatenten](https://wettenbank.online/eli/nl/kb/2000/reglement-radarpatenten)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2004-01-01 | 2008-03-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-09-03 | 2003-12-31 | [2003-09-03.md](./2003-09-03.md) |
-| 2003-04-01 | 2003-09-02 | [2003-04-01.md](./2003-04-01.md) |
 | 2003-04-01 | 2003-09-02 | [2003-04-01.md](./2003-04-01.md) |
 | 2000-01-01 | 2003-03-31 | [2000-01-01.md](./2000-01-01.md) |

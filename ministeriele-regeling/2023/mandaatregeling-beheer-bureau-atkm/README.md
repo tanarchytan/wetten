@@ -6,7 +6,7 @@ title: Besluit van de Minister van Justitie en Veiligheid van 9 december 2023 (k
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2025-03-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Mandaatregeling beheer bureau ATKM
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatregeling-beheer-bureau-atkm](https://wetten.ai/eli/nl/ministeriele-regeling/2023/mandaatregeling-beheer-bureau-atkm)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatregeling-beheer-bureau-atkm](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/mandaatregeling-beheer-bureau-atkm)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-03-01 | heden | [2025-03-01.md](./2025-03-01.md) |
-| 2024-07-01 | 2025-02-28 | [2024-07-01.md](./2024-07-01.md) |
 | 2024-07-01 | 2025-02-28 | [2024-07-01.md](./2024-07-01.md) |
 | 2023-12-16 | 2024-06-30 | [2023-12-16.md](./2023-12-16.md) |
 | 2023-09-01 | 2023-12-15 | [2023-09-01.md](./2023-09-01.md) |

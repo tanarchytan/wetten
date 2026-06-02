@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Wonen, Wijken en Integratie van 14 december
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2008-02-08"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling koopsubsidiegrenzen 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-koopsubsidiegrenzen-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-koopsubsidiegrenzen-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-koopsubsidiegrenzen-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-koopsubsidiegrenzen-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-02-08 | 2008-12-31 | [2008-02-08.md](./2008-02-08.md) |
-| 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |

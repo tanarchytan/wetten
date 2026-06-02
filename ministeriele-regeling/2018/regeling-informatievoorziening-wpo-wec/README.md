@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-01-25"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling informatievoorziening WPO/WEC
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-informatievoorziening-wpo-wec](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-informatievoorziening-wpo-wec)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-informatievoorziening-wpo-wec](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-informatievoorziening-wpo-wec)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 12
 |---|---|---|
 | 2025-01-25 | heden | [2025-01-25.md](./2025-01-25.md) |
 | 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |
-| 2024-03-25 | 2024-12-31 | [2024-03-25.md](./2024-03-25.md) |
 | 2024-03-25 | 2024-12-31 | [2024-03-25.md](./2024-03-25.md) |
 | 2023-03-16 | 2024-03-24 | [2023-03-16.md](./2023-03-16.md) |
 | 2022-04-01 | 2023-03-15 | [2022-04-01.md](./2022-04-01.md) |

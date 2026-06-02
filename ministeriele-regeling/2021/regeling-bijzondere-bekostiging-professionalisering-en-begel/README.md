@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-10-26"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling bijzondere bekostiging professionalisering en begeleiding starters en schoolleiders
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-bijzondere-bekostiging-professionalisering-en-begel](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-bijzondere-bekostiging-professionalisering-en-begel)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-bijzondere-bekostiging-professionalisering-en-begel](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-bijzondere-bekostiging-professionalisering-en-begel)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2024-10-26 | heden | [2024-10-26.md](./2024-10-26.md) |
 | 2023-10-28 | 2024-10-25 | [2023-10-28.md](./2023-10-28.md) |
-| 2023-01-01 | 2023-10-27 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-10-27 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-04-01 | 2022-12-31 | [2022-04-01.md](./2022-04-01.md) |
 | 2021-08-01 | 2022-03-31 | [2021-08-01.md](./2021-08-01.md) |

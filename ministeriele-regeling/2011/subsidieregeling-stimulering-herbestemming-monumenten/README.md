@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-07-31"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Subsidieregeling stimulering herbestemming monumenten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/subsidieregeling-stimulering-herbestemming-monumenten](https://wetten.ai/eli/nl/ministeriele-regeling/2011/subsidieregeling-stimulering-herbestemming-monumenten)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/subsidieregeling-stimulering-herbestemming-monumenten](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/subsidieregeling-stimulering-herbestemming-monumenten)
 
 ## Versies
 
@@ -30,7 +30,5 @@ state_count: 12
 | 2016-04-01 | 2016-06-30 | [2016-04-01.md](./2016-04-01.md) |
 | 2013-04-13 | 2016-03-31 | [2013-04-13.md](./2013-04-13.md) |
 | 2013-01-01 | 2013-04-12 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-04-12 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-10-01 | 2012-12-31 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-10-01 | 2012-12-31 | [2012-10-01.md](./2012-10-01.md) |
 | 2011-11-01 | 2012-09-30 | [2011-11-01.md](./2011-11-01.md) |

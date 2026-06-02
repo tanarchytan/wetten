@@ -6,7 +6,7 @@ title: "Wet van 20 juni 2002, houdende regels inzake handelingen met geslachtsce
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Embw
 latest_state: "2021-07-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 11
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Embw
-**ELI:** [/eli/nl/wet/2002/embryowet](https://wetten.ai/eli/nl/wet/2002/embryowet)
+**ELI:** [/eli/nl/wet/2002/embryowet](https://wettenbank.online/eli/nl/wet/2002/embryowet)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 11
 | 2013-09-27 | 2018-07-31 | [2013-09-27.md](./2013-09-27.md) |
 | 2011-07-01 | 2013-09-26 | [2011-07-01.md](./2011-07-01.md) |
 | 2008-12-12 | 2011-06-30 | [2008-12-12.md](./2008-12-12.md) |
-| 2007-09-01 | 2008-12-11 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2008-12-11 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-06-01 | 2007-08-31 | [2007-06-01.md](./2007-06-01.md) |
 | 2002-09-01 | 2007-05-31 | [2002-09-01.md](./2002-09-01.md) |

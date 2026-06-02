@@ -6,7 +6,7 @@ title: Wet van 16 september 2004, houdende regeling van DNA-onderzoek bij veroor
 ministry: Veiligheid en Justitie
 abbreviation: Wdov
 latest_state: "2025-07-01"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Wdov
-**ELI:** [/eli/nl/wet/2005/wet-dna-onderzoek-bij-veroordeelden](https://wetten.ai/eli/nl/wet/2005/wet-dna-onderzoek-bij-veroordeelden)
+**ELI:** [/eli/nl/wet/2005/wet-dna-onderzoek-bij-veroordeelden](https://wettenbank.online/eli/nl/wet/2005/wet-dna-onderzoek-bij-veroordeelden)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 17
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-05-01 | 2018-05-24 | [2014-05-01.md](./2014-05-01.md) |
 | 2013-01-01 | 2014-04-30 | [2013-01-01.md](./2013-01-01.md) |

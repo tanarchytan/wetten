@@ -6,7 +6,7 @@ title: Besluit mandaat en machtiging Novem ter uitvoering van de Regeling eenmal
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit mandaat en machtiging Novem ter uitvoering van de Regeling eenmalige uitkering baggerwerkzaamheden bebouwd gebied
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2003/besluit-mandaat-en-machtiging-novem-ter-uitvoering-van-de-re](https://wetten.ai/eli/nl/ministeriele-regeling/2003/besluit-mandaat-en-machtiging-novem-ter-uitvoering-van-de-re)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/besluit-mandaat-en-machtiging-novem-ter-uitvoering-van-de-re](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/besluit-mandaat-en-machtiging-novem-ter-uitvoering-van-de-re)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2010-01-01 | 2010-06-07 | [2010-01-01.md](./2010-01-01.md) |
 | 2004-10-31 | 2009-12-31 | [2004-10-31.md](./2004-10-31.md) |
 | 2003-11-13 | 2004-10-30 | [2003-11-13.md](./2003-11-13.md) |
-| 2003-08-01 | 2003-11-12 | [2003-08-01.md](./2003-08-01.md) |
 | 2003-08-01 | 2003-11-12 | [2003-08-01.md](./2003-08-01.md) |
 | 2003-04-12 | 2003-07-31 | [2003-04-12.md](./2003-04-12.md) |

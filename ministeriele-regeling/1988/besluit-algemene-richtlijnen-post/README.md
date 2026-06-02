@@ -6,7 +6,7 @@ title: Besluit algemene richtlijnen post
 ministry: Infrastructuur en Milieu
 abbreviation: Barp
 latest_state: "2006-01-22"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Barp
-**ELI:** [/eli/nl/ministeriele-regeling/1988/besluit-algemene-richtlijnen-post](https://wetten.ai/eli/nl/ministeriele-regeling/1988/besluit-algemene-richtlijnen-post)
+**ELI:** [/eli/nl/ministeriele-regeling/1988/besluit-algemene-richtlijnen-post](https://wettenbank.online/eli/nl/ministeriele-regeling/1988/besluit-algemene-richtlijnen-post)
 
 ## Versies
 
@@ -25,11 +25,8 @@ state_count: 10
 |---|---|---|
 | 2006-01-22 | 2009-03-31 | [2006-01-22.md](./2006-01-22.md) |
 | 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-30 | 2005-12-31 | [2005-01-30.md](./2005-01-30.md) |
 | 2004-07-12 | 2005-01-29 | [2004-07-12.md](./2004-07-12.md) |
-| 2004-07-12 | 2005-01-29 | [2004-07-12.md](./2004-07-12.md) |
-| 2004-01-01 | 2004-07-11 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-07-11 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-10-08 | 2003-12-31 | [2003-10-08.md](./2003-10-08.md) |
 | 2003-04-06 | 2003-10-07 | [2003-04-06.md](./2003-04-06.md) |

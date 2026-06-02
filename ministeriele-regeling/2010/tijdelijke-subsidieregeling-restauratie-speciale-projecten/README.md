@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-10-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Tijdelijke subsidieregeling restauratie speciale projecten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/tijdelijke-subsidieregeling-restauratie-speciale-projecten](https://wetten.ai/eli/nl/ministeriele-regeling/2010/tijdelijke-subsidieregeling-restauratie-speciale-projecten)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/tijdelijke-subsidieregeling-restauratie-speciale-projecten](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/tijdelijke-subsidieregeling-restauratie-speciale-projecten)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2010-10-01 | 2014-12-31 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-06-29 | 2010-09-30 | [2010-06-29.md](./2010-06-29.md) |
 | 2010-05-12 | 2010-06-28 | [2010-05-12.md](./2010-05-12.md) |
-| 2010-04-29 | 2010-05-11 | [2010-04-29.md](./2010-04-29.md) |
 | 2010-04-29 | 2010-05-11 | [2010-04-29.md](./2010-04-29.md) |

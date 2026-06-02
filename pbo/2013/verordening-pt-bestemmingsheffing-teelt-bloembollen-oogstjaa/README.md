@@ -6,7 +6,7 @@ title: Verordening van het bestuur van het Productschap Tuinbouw van 26 maart 20
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2014-12-31"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Verordening PT bestemmingsheffing teelt bloembollen oogstjaar 2013
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2013/verordening-pt-bestemmingsheffing-teelt-bloembollen-oogstjaa](https://wetten.ai/eli/nl/pbo/2013/verordening-pt-bestemmingsheffing-teelt-bloembollen-oogstjaa)
+**ELI:** [/eli/nl/pbo/2013/verordening-pt-bestemmingsheffing-teelt-bloembollen-oogstjaa](https://wettenbank.online/eli/nl/pbo/2013/verordening-pt-bestemmingsheffing-teelt-bloembollen-oogstjaa)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2014-12-31 | heden | [2014-12-31.md](./2014-12-31.md) |
 | 2013-09-22 | 2014-12-30 | [2013-09-22.md](./2013-09-22.md) |
-| 2013-09-22 | 2014-12-30 | [2013-09-22.md](./2013-09-22.md) |
-| 2013-05-01 | 2013-09-21 | [2013-05-01.md](./2013-05-01.md) |
 | 2013-05-01 | 2013-09-21 | [2013-05-01.md](./2013-05-01.md) |
 | 2013-01-01 | 2013-04-30 | [2013-01-01.md](./2013-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling voorzieningen stralingsbescherming werknemers
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Regeling voorzieningen stralingsbescherming werknemers
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-voorzieningen-stralingsbescherming-werknemers](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-voorzieningen-stralingsbescherming-werknemers)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-voorzieningen-stralingsbescherming-werknemers](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-voorzieningen-stralingsbescherming-werknemers)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 16
 | 2009-01-01 | 2010-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-12-17 | 2008-12-31 | [2008-12-17.md](./2008-12-17.md) |
 | 2008-01-24 | 2008-12-16 | [2008-01-24.md](./2008-01-24.md) |
-| 2008-01-01 | 2008-01-23 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-01-23 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-10-12 | 2007-12-31 | [2007-10-12.md](./2007-10-12.md) |
 | 2007-01-01 | 2007-10-11 | [2007-01-01.md](./2007-01-01.md) |

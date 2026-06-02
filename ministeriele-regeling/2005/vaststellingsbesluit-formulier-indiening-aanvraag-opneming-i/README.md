@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 decem
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-08-16"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Vaststellingsbesluit formulier indiening aanvraag opneming in het centraal register buitenlandse kinderopvang
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/vaststellingsbesluit-formulier-indiening-aanvraag-opneming-i](https://wetten.ai/eli/nl/ministeriele-regeling/2005/vaststellingsbesluit-formulier-indiening-aanvraag-opneming-i)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/vaststellingsbesluit-formulier-indiening-aanvraag-opneming-i](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/vaststellingsbesluit-formulier-indiening-aanvraag-opneming-i)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 10
 | 2013-08-19 | 2013-12-31 | [2013-08-19.md](./2013-08-19.md) |
 | 2012-01-01 | 2013-08-18 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-10-14 | 2011-12-31 | [2010-10-14.md](./2010-10-14.md) |
-| 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2007-11-09 | 2010-07-31 | [2007-11-09.md](./2007-11-09.md) |
 | 2005-07-24 | 2007-11-08 | [2005-07-24.md](./2005-07-24.md) |

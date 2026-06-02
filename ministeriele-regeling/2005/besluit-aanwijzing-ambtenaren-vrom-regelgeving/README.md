@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 28
+state_count: 27
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 28
 **Citeertitel:** Besluit aanwijzing ambtenaren VROM-regelgeving
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-ambtenaren-vrom-regelgeving](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-ambtenaren-vrom-regelgeving)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-ambtenaren-vrom-regelgeving](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-ambtenaren-vrom-regelgeving)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 28
 | 2015-07-01 | 2015-12-04 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-03-12 | 2014-12-31 | [2014-03-12.md](./2014-03-12.md) |
-| 2014-01-01 | 2014-03-11 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-03-11 | [2014-01-01.md](./2014-01-01.md) |
 | 2012-07-01 | 2013-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2011-12-07 | 2012-06-30 | [2011-12-07.md](./2011-12-07.md) |

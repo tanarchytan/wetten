@@ -6,7 +6,7 @@ title: Regeling houdende bepalingen over de organisatie en inzet van de Dienst s
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling Dienst speciale interventies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-dienst-speciale-interventies](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-dienst-speciale-interventies)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-dienst-speciale-interventies](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-dienst-speciale-interventies)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
 | 2017-03-18 | 2022-12-31 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-07-01 | 2016-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2013-01-01 | 2015-06-30 | [2013-01-01.md](./2013-01-01.md) |

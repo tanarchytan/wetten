@@ -6,7 +6,7 @@ title: Regeling tarieven I&R 2003
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling tarieven I&R
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-tarieven-i-r](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-tarieven-i-r)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-tarieven-i-r](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-tarieven-i-r)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 10
 | 2006-12-08 | 2006-12-31 | [2006-12-08.md](./2006-12-08.md) |
 | 2006-01-01 | 2006-12-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-01-01 | 2005-08-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-08-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-01-01 | 2003-12-31 | [2003-01-01.md](./2003-01-01.md) |

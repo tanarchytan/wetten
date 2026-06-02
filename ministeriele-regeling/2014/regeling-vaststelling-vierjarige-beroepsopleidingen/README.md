@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juni
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-11-05"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling vierjarige beroepsopleidingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-vaststelling-vierjarige-beroepsopleidingen](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-vaststelling-vierjarige-beroepsopleidingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-vaststelling-vierjarige-beroepsopleidingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-vaststelling-vierjarige-beroepsopleidingen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-11-05 | 2016-07-31 | [2014-11-05.md](./2014-11-05.md) |
-| 2014-08-01 | 2014-11-04 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2014-11-04 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-06-19 | 2014-07-31 | [2014-06-19.md](./2014-06-19.md) |
 | 2013-08-01 | 2014-06-18 | [2013-08-01.md](./2013-08-01.md) |

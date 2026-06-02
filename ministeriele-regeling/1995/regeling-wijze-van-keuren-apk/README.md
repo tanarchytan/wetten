@@ -6,7 +6,7 @@ title: Regeling wijze van keuren APK
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2008-10-08"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Regeling wijze van keuren APK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-wijze-van-keuren-apk](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-wijze-van-keuren-apk)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-wijze-van-keuren-apk](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-wijze-van-keuren-apk)
 
 ## Versies
 
@@ -27,9 +27,7 @@ state_count: 13
 | 2007-07-21 | 2008-08-28 | [2007-07-21.md](./2007-07-21.md) |
 | 2007-07-04 | 2007-07-20 | [2007-07-04.md](./2007-07-04.md) |
 | 2006-07-21 | 2007-07-03 | [2006-07-21.md](./2006-07-21.md) |
-| 2006-07-21 | 2007-07-03 | [2006-07-21.md](./2006-07-21.md) |
 | 2006-05-06 | 2006-07-20 | [2006-05-06.md](./2006-05-06.md) |
-| 2006-04-21 | 2006-05-05 | [2006-04-21.md](./2006-04-21.md) |
 | 2006-04-21 | 2006-05-05 | [2006-04-21.md](./2006-04-21.md) |
 | 2005-07-20 | 2006-04-20 | [2005-07-20.md](./2005-07-20.md) |
 | 2004-01-01 | 2005-07-19 | [2004-01-01.md](./2004-01-01.md) |

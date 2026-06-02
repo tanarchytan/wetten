@@ -6,7 +6,7 @@ title: Besluit van de Minister van Infrastructuur en Milieu van 13 december 201
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Instellingsbesluit Inspectie Leefomgeving en Transport
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-inspectie-leefomgeving-en-transport](https://wetten.ai/eli/nl/ministeriele-regeling/2012/instellingsbesluit-inspectie-leefomgeving-en-transport)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-inspectie-leefomgeving-en-transport](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/instellingsbesluit-inspectie-leefomgeving-en-transport)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 11
 | 2019-01-01 | 2019-06-15 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-08-31 | 2018-12-31 | [2018-08-31.md](./2018-08-31.md) |
 | 2018-02-09 | 2018-08-30 | [2018-02-09.md](./2018-02-09.md) |
-| 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2015-12-05 | 2017-12-31 | [2015-12-05.md](./2015-12-05.md) |
 | 2014-08-26 | 2015-12-04 | [2014-08-26.md](./2014-08-26.md) |

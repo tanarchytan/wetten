@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 sep
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2007-11-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling bedragen landelijke gemiddelde personeelslast kalenderjaar 2006 en 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-11-23 | 2008-12-31 | [2007-11-23.md](./2007-11-23.md) |
-| 2007-01-01 | 2007-11-22 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-11-22 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-07 | 2006-12-31 | [2006-10-07.md](./2006-10-07.md) |
 | 2005-12-21 | 2006-10-06 | [2005-12-21.md](./2005-12-21.md) |

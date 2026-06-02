@@ -6,7 +6,7 @@ title: Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening 
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Regeling specifieke uitkering regionale structuur Nationaal Programma Lokale Warmtetransitie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-regionale-structuur-nationaal-](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-regionale-structuur-nationaal-)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-regionale-structuur-nationaal-](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-specifieke-uitkering-regionale-structuur-nationaal-)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-07-08 | 2023-12-31 | [2023-07-08.md](./2023-07-08.md) |
-| 2023-07-01 | 2023-07-07 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-07-01 | 2023-07-07 | [2023-07-01.md](./2023-07-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2020-08-22"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Fonds European Partnership for Responsible Minerals 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2020/fonds-european-partnership-for-responsible-minerals-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2020/fonds-european-partnership-for-responsible-minerals-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/fonds-european-partnership-for-responsible-minerals-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/fonds-european-partnership-for-responsible-minerals-2020)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2020-08-22 | 2022-08-13 | [2020-08-22.md](./2020-08-22.md) |
 | 2020-03-31 | 2020-08-21 | [2020-03-31.md](./2020-03-31.md) |
-| 2020-03-31 | 2020-08-21 | [2020-03-31.md](./2020-03-31.md) |
-| 2020-03-22 | 2020-03-30 | [2020-03-22.md](./2020-03-22.md) |
-| 2020-03-22 | 2020-03-30 | [2020-03-22.md](./2020-03-22.md) |
 | 2020-03-22 | 2020-03-30 | [2020-03-22.md](./2020-03-22.md) |
 | 2020-02-01 | 2020-03-21 | [2020-02-01.md](./2020-02-01.md) |

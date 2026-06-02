@@ -6,7 +6,7 @@ title: Regeling van het College voor Toetsen en Examens van 21 juni 2021, nummer
 ministry: College voor Toetsen en Examens
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling examenreglement staatsexamens vo 2022
 **Type:** zbo
 **Verantwoordelijk ministerie:** College voor Toetsen en Examens
-**ELI:** [/eli/nl/zbo/2021/regeling-examenreglement-staatsexamens-vo-2022](https://wetten.ai/eli/nl/zbo/2021/regeling-examenreglement-staatsexamens-vo-2022)
+**ELI:** [/eli/nl/zbo/2021/regeling-examenreglement-staatsexamens-vo-2022](https://wettenbank.online/eli/nl/zbo/2021/regeling-examenreglement-staatsexamens-vo-2022)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2022-08-01 | 2022-12-30 | [2022-08-01.md](./2022-08-01.md) |
 | 2022-04-29 | 2022-07-31 | [2022-04-29.md](./2022-04-29.md) |
-| 2022-04-06 | 2022-04-28 | [2022-04-06.md](./2022-04-06.md) |
 | 2022-04-06 | 2022-04-28 | [2022-04-06.md](./2022-04-06.md) |
 | 2021-10-01 | 2022-04-05 | [2021-10-01.md](./2021-10-01.md) |

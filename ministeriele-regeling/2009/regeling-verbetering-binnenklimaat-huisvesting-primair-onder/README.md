@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-09-24"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling verbetering binnenklimaat huisvesting primair onderwijs 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verbetering-binnenklimaat-huisvesting-primair-onder](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-verbetering-binnenklimaat-huisvesting-primair-onder)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verbetering-binnenklimaat-huisvesting-primair-onder](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-verbetering-binnenklimaat-huisvesting-primair-onder)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2010-09-24 | 2013-12-30 | [2010-09-24.md](./2010-09-24.md) |
 | 2010-06-16 | 2010-09-23 | [2010-06-16.md](./2010-06-16.md) |
 | 2010-03-02 | 2010-06-15 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-09-12 | 2009-12-31 | [2009-09-12.md](./2009-09-12.md) |

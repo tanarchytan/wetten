@@ -6,7 +6,7 @@ title: Wet van 24 februari 2005, houdende wijziging van de Wet op de loonbelasti
 ministry: Financiën
 abbreviation: Wafb VUT/PP
 latest_state: "2014-12-20"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Wafb VUT/PP
-**ELI:** [/eli/nl/wet/2005/wet-aanpassing-fiscale-behandeling-vut-prepensioen-en-introd](https://wetten.ai/eli/nl/wet/2005/wet-aanpassing-fiscale-behandeling-vut-prepensioen-en-introd)
+**ELI:** [/eli/nl/wet/2005/wet-aanpassing-fiscale-behandeling-vut-prepensioen-en-introd](https://wettenbank.online/eli/nl/wet/2005/wet-aanpassing-fiscale-behandeling-vut-prepensioen-en-introd)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 |---|---|---|
 | 2014-12-20 | heden | [2014-12-20.md](./2014-12-20.md) |
 | 2010-01-01 | 2014-12-19 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-08-01 | 2008-12-31 | [2008-08-01.md](./2008-08-01.md) |
 | 2006-01-01 | 2008-07-31 | [2006-01-01.md](./2006-01-01.md) |

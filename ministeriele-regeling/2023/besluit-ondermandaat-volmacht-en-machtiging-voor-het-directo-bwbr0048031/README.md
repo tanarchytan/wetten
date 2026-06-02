@@ -6,7 +6,7 @@ title: Besluit van de directeur-generaal Landelijk Gebied en Stikstof van het Mi
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2024-03-14"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Landelijk Gebied en Stikstof van het Ministerie van Landbouw, Natuur en Voedselkwaliteit 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0048031](https://wetten.ai/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0048031)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0048031](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/besluit-ondermandaat-volmacht-en-machtiging-voor-het-directo-bwbr0048031)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-03-14 | heden | [2024-03-14.md](./2024-03-14.md) |
-| 2024-01-01 | 2024-03-13 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-03-13 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-04-04 | 2023-12-31 | [2023-04-04.md](./2023-04-04.md) |
 | 2022-10-01 | 2023-04-03 | [2022-10-01.md](./2022-10-01.md) |

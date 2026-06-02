@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 juni
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2013/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2013/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2013)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2018-01-01 | 2018-09-13 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-06-09 | 2017-12-31 | [2016-06-09.md](./2016-06-09.md) |
-| 2016-03-15 | 2016-06-08 | [2016-03-15.md](./2016-03-15.md) |
 | 2016-03-15 | 2016-06-08 | [2016-03-15.md](./2016-03-15.md) |
 | 2013-06-29 | 2016-03-14 | [2013-06-29.md](./2013-06-29.md) |
 | 2013-03-01 | 2013-06-28 | [2013-03-01.md](./2013-03-01.md) |

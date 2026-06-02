@@ -6,7 +6,7 @@ title: Besluit van 3 mei 2011, houdende vaststelling van voorschriften met betre
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2021-12-17"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit spoorwegpersoneel 2011
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2011/besluit-spoorwegpersoneel-2011](https://wetten.ai/eli/nl/amvb/2011/besluit-spoorwegpersoneel-2011)
+**ELI:** [/eli/nl/amvb/2011/besluit-spoorwegpersoneel-2011](https://wettenbank.online/eli/nl/amvb/2011/besluit-spoorwegpersoneel-2011)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 9
 | 2021-12-17 | heden | [2021-12-17.md](./2021-12-17.md) |
 | 2019-04-01 | 2021-12-16 | [2019-04-01.md](./2019-04-01.md) |
 | 2018-07-28 | 2019-03-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-07-04 | 2018-05-24 | [2015-07-04.md](./2015-07-04.md) |
 | 2013-01-01 | 2015-07-03 | [2013-01-01.md](./2013-01-01.md) |

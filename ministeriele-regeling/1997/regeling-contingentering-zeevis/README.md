@@ -6,7 +6,7 @@ title: Regeling contingentering zeevis
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-01-01"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Regeling contingentering zeevis
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-contingentering-zeevis](https://wetten.ai/eli/nl/ministeriele-regeling/1997/regeling-contingentering-zeevis)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-contingentering-zeevis](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/regeling-contingentering-zeevis)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 15
 | 2007-07-21 | 2007-12-31 | [2007-07-21.md](./2007-07-21.md) |
 | 2007-02-01 | 2007-07-20 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-04 | 2007-01-31 | [2007-01-04.md](./2007-01-04.md) |
-| 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-08-17 | 2006-12-31 | [2006-08-17.md](./2006-08-17.md) |
 | 2006-01-01 | 2006-08-16 | [2006-01-01.md](./2006-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Natuur en Stikstof van 22 november 2022, nr
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2024-04-18"
-state_count: 6
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling specifieke uitkering voorbereidingskosten landelijk gebied, versnellingsvoorstellen en PAS-melders
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-voorbereidingskosten-landelijk](https://wetten.ai/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-voorbereidingskosten-landelijk)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-voorbereidingskosten-landelijk](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-voorbereidingskosten-landelijk)
 
 ## Versies
 
@@ -24,7 +24,4 @@ state_count: 6
 |---|---|---|
 | 2024-04-18 | heden | [2024-04-18.md](./2024-04-18.md) |
 | 2023-02-01 | 2024-04-17 | [2023-02-01.md](./2023-02-01.md) |
-| 2023-02-01 | 2024-04-17 | [2023-02-01.md](./2023-02-01.md) |
-| 2022-11-24 | 2023-01-31 | [2022-11-24.md](./2022-11-24.md) |
-| 2022-11-24 | 2023-01-31 | [2022-11-24.md](./2022-11-24.md) |
 | 2022-11-24 | 2023-01-31 | [2022-11-24.md](./2022-11-24.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 augu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-06-05"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling aanwijzing Uitvoeringsinstituut werknemersverzekeringen als nationale coördinatiebureau ex artikel 9 EURES-verordening en aanwijzing vertegenwoordigers
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-uitvoeringsinstituut-werknemersverzekeri](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-uitvoeringsinstituut-werknemersverzekeri)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-uitvoeringsinstituut-werknemersverzekeri](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-aanwijzing-uitvoeringsinstituut-werknemersverzekeri)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2018-06-05 | heden | [2018-06-05.md](./2018-06-05.md) |
 | 2017-05-01 | 2018-06-04 | [2017-05-01.md](./2017-05-01.md) |
-| 2017-05-01 | 2018-06-04 | [2017-05-01.md](./2017-05-01.md) |
-| 2017-03-01 | 2017-04-30 | [2017-03-01.md](./2017-03-01.md) |
 | 2017-03-01 | 2017-04-30 | [2017-03-01.md](./2017-03-01.md) |
 | 2016-10-01 | 2017-02-28 | [2016-10-01.md](./2016-10-01.md) |

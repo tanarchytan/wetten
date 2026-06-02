@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties en
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2018-02-27"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling mobiele eenheid 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-mobiele-eenheid-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-mobiele-eenheid-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-mobiele-eenheid-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-mobiele-eenheid-2007)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 9
 |---|---|---|
 | 2018-02-27 | 2025-04-14 | [2018-02-27.md](./2018-02-27.md) |
 | 2017-03-18 | 2018-02-26 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-03-18 | 2018-02-26 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-07-01 | 2016-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2013-01-01 | 2015-06-30 | [2013-01-01.md](./2013-01-01.md) |

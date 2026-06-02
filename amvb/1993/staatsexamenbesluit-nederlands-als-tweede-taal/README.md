@@ -6,7 +6,7 @@ title: Besluit van 14 oktober 1993, houdende vaststelling van het Staatsexamenbe
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 15
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Staatsexamenbesluit Nederlands als tweede taal
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/1993/staatsexamenbesluit-nederlands-als-tweede-taal](https://wetten.ai/eli/nl/amvb/1993/staatsexamenbesluit-nederlands-als-tweede-taal)
+**ELI:** [/eli/nl/amvb/1993/staatsexamenbesluit-nederlands-als-tweede-taal](https://wettenbank.online/eli/nl/amvb/1993/staatsexamenbesluit-nederlands-als-tweede-taal)
 
 ## Versies
 
@@ -30,10 +30,8 @@ state_count: 15
 | 2012-11-01 | 2016-07-31 | [2012-11-01.md](./2012-11-01.md) |
 | 2010-04-28 | 2012-10-31 | [2010-04-28.md](./2010-04-28.md) |
 | 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-10-01 | 2009-12-31 | [2009-10-01.md](./2009-10-01.md) |
 | 2008-12-31 | 2009-09-30 | [2008-12-31.md](./2008-12-31.md) |
-| 2008-01-01 | 2008-12-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-12-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 1994-12-02 | 2005-12-31 | [1994-12-02.md](./1994-12-02.md) |

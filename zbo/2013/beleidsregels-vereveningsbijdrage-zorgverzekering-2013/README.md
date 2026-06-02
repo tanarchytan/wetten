@@ -6,7 +6,7 @@ title: Beleidsregels vereveningsbijdrage zorgverzekering 2013
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2014-10-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Beleidsregels vereveningsbijdrage zorgverzekering 2013
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2013/beleidsregels-vereveningsbijdrage-zorgverzekering-2013](https://wetten.ai/eli/nl/zbo/2013/beleidsregels-vereveningsbijdrage-zorgverzekering-2013)
+**ELI:** [/eli/nl/zbo/2013/beleidsregels-vereveningsbijdrage-zorgverzekering-2013](https://wettenbank.online/eli/nl/zbo/2013/beleidsregels-vereveningsbijdrage-zorgverzekering-2013)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2014-10-01 | heden | [2014-10-01.md](./2014-10-01.md) |
 | 2013-03-16 | 2014-09-30 | [2013-03-16.md](./2013-03-16.md) |
-| 2013-03-16 | 2014-09-30 | [2013-03-16.md](./2013-03-16.md) |
-| 2013-01-02 | 2013-03-15 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-02 | 2013-03-15 | [2013-01-02.md](./2013-01-02.md) |
 | 2012-10-01 | 2013-01-01 | [2012-10-01.md](./2012-10-01.md) |

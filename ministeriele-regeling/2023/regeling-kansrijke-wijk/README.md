@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2023-10-01"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling kansrijke wijk
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-kansrijke-wijk](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-kansrijke-wijk)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-kansrijke-wijk](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-kansrijke-wijk)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-10-01 | heden | [2023-10-01.md](./2023-10-01.md) |
-| 2023-07-01 | 2023-09-30 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-07-01 | 2023-09-30 | [2023-07-01.md](./2023-07-01.md) |

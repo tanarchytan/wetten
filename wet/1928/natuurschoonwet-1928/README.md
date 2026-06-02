@@ -6,7 +6,7 @@ title: Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geh
 ministry: Financiën
 abbreviation: NSW
 latest_state: "2021-01-01"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** NSW
-**ELI:** [/eli/nl/wet/1928/natuurschoonwet-1928](https://wetten.ai/eli/nl/wet/1928/natuurschoonwet-1928)
+**ELI:** [/eli/nl/wet/1928/natuurschoonwet-1928](https://wettenbank.online/eli/nl/wet/1928/natuurschoonwet-1928)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 16
 | 2012-02-08 | 2012-12-31 | [2012-02-08.md](./2012-02-08.md) |
 | 2012-01-01 | 2012-02-07 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-22 | 2009-12-31 | [2009-12-22.md](./2009-12-22.md) |
 | 2008-07-11 | 2009-12-21 | [2008-07-11.md](./2008-07-11.md) |

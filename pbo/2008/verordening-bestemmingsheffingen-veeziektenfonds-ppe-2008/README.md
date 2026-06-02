@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 1 november 2007, 
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2008-09-21"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening bestemmingsheffingen Veeziektenfonds (PPE) 2008
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2008/verordening-bestemmingsheffingen-veeziektenfonds-ppe-2008](https://wetten.ai/eli/nl/pbo/2008/verordening-bestemmingsheffingen-veeziektenfonds-ppe-2008)
+**ELI:** [/eli/nl/pbo/2008/verordening-bestemmingsheffingen-veeziektenfonds-ppe-2008](https://wettenbank.online/eli/nl/pbo/2008/verordening-bestemmingsheffingen-veeziektenfonds-ppe-2008)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2008-09-21 | 2019-10-16 | [2008-09-21.md](./2008-09-21.md) |
 | 2008-02-10 | 2008-09-20 | [2008-02-10.md](./2008-02-10.md) |
-| 2008-02-10 | 2008-09-20 | [2008-02-10.md](./2008-02-10.md) |
-| 2008-01-01 | 2008-02-09 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-02-09 | [2008-01-01.md](./2008-01-01.md) |

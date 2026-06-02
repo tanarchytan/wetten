@@ -6,7 +6,7 @@ title: Wet van 12 april 1995, houdende herinrichting van de Algemene Bijstandswe
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Abw
 latest_state: "2010-01-01"
-state_count: 19
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Abw
-**ELI:** [/eli/nl/wet/1995/algemene-bijstandswet](https://wetten.ai/eli/nl/wet/1995/algemene-bijstandswet)
+**ELI:** [/eli/nl/wet/1995/algemene-bijstandswet](https://wettenbank.online/eli/nl/wet/1995/algemene-bijstandswet)
 
 ## Versies
 
@@ -33,12 +33,7 @@ state_count: 19
 | 2003-04-01 | 2003-06-30 | [2003-04-01.md](./2003-04-01.md) |
 | 2003-02-19 | 2003-03-31 | [2003-02-19.md](./2003-02-19.md) |
 | 2003-01-01 | 2003-02-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-02-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-07-06 | 2002-12-31 | [2002-07-06.md](./2002-07-06.md) |
 | 2002-07-06 | 2002-12-31 | [2002-07-06.md](./2002-07-06.md) |
 | 2002-07-01 | 2002-07-05 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-07-01 | 2002-07-05 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-07-01 | 2002-07-05 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-03-07 | 2002-06-30 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-03-07 | 2002-06-30 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-01-01 | 2002-03-06 | [2002-01-01.md](./2002-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 14 februari 1991, houdende bepalingen ter uitvoering van de W
 ministry: Veiligheid en Justitie
 abbreviation: BPolr
 latest_state: "2007-10-17"
-state_count: 24
+state_count: 19
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 24
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** BPolr
-**ELI:** [/eli/nl/amvb/1990/besluit-politieregisters](https://wetten.ai/eli/nl/amvb/1990/besluit-politieregisters)
+**ELI:** [/eli/nl/amvb/1990/besluit-politieregisters](https://wettenbank.online/eli/nl/amvb/1990/besluit-politieregisters)
 
 ## Versies
 
@@ -30,15 +30,10 @@ state_count: 24
 | 2006-01-01 | 2006-03-23 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-14 | 2005-12-31 | [2005-09-14.md](./2005-09-14.md) |
 | 2005-02-01 | 2005-09-13 | [2005-02-01.md](./2005-02-01.md) |
-| 2005-02-01 | 2005-09-13 | [2005-02-01.md](./2005-02-01.md) |
-| 2005-01-01 | 2005-01-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-01-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-10-01 | 2004-12-31 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-09-22 | 2004-09-30 | [2004-09-22.md](./2004-09-22.md) |
-| 2004-09-22 | 2004-09-30 | [2004-09-22.md](./2004-09-22.md) |
 | 2004-07-01 | 2004-09-21 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2004-09-21 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-05-15 | 2004-06-30 | [2004-05-15.md](./2004-05-15.md) |
 | 2004-05-15 | 2004-06-30 | [2004-05-15.md](./2004-05-15.md) |
 | 2004-04-01 | 2004-05-14 | [2004-04-01.md](./2004-04-01.md) |
 | 2004-03-01 | 2004-03-31 | [2004-03-01.md](./2004-03-01.md) |

@@ -6,7 +6,7 @@ title: Regeling informatieverstrekking gebudgetteerde zorgaanbieders van gespeci
 ministry: Nederlandse Zorgautoriteit
 abbreviation: null
 latest_state: "2014-06-04"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling informatieverstrekking gebudgetteerde zorgaanbieders van gespecialiseerde GGZ
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse Zorgautoriteit
-**ELI:** [/eli/nl/zbo/2014/regeling-informatieverstrekking-gebudgetteerde-zorgaanbieder-bwbr0033942](https://wetten.ai/eli/nl/zbo/2014/regeling-informatieverstrekking-gebudgetteerde-zorgaanbieder-bwbr0033942)
+**ELI:** [/eli/nl/zbo/2014/regeling-informatieverstrekking-gebudgetteerde-zorgaanbieder-bwbr0033942](https://wettenbank.online/eli/nl/zbo/2014/regeling-informatieverstrekking-gebudgetteerde-zorgaanbieder-bwbr0033942)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-06-04 | 2014-12-30 | [2014-06-04.md](./2014-06-04.md) |
-| 2014-06-01 | 2014-06-03 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-06-01 | 2014-06-03 | [2014-06-01.md](./2014-06-01.md) |
 | 2014-01-01 | 2014-05-31 | [2014-01-01.md](./2014-01-01.md) |

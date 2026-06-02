@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 17 
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2024-11-07"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling uitvoering bestuursovereenkomst nitraat
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-uitvoering-bestuursovereenkomst-nitraat](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-uitvoering-bestuursovereenkomst-nitraat)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-uitvoering-bestuursovereenkomst-nitraat](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-uitvoering-bestuursovereenkomst-nitraat)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-11-07 | heden | [2024-11-07.md](./2024-11-07.md) |
-| 2023-11-28 | 2024-11-06 | [2023-11-28.md](./2023-11-28.md) |
 | 2023-11-28 | 2024-11-06 | [2023-11-28.md](./2023-11-28.md) |

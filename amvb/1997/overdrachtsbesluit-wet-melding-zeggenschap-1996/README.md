@@ -6,7 +6,7 @@ title: Besluit van 14 mei 1997, houdende overdracht van taken en bevoegdheden in
 ministry: Financiën
 abbreviation: null
 latest_state: "2002-07-17"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Overdrachtsbesluit Wet melding zeggenschap 1996
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/1997/overdrachtsbesluit-wet-melding-zeggenschap-1996](https://wetten.ai/eli/nl/amvb/1997/overdrachtsbesluit-wet-melding-zeggenschap-1996)
+**ELI:** [/eli/nl/amvb/1997/overdrachtsbesluit-wet-melding-zeggenschap-1996](https://wettenbank.online/eli/nl/amvb/1997/overdrachtsbesluit-wet-melding-zeggenschap-1996)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2002-07-17 | 2006-10-31 | [2002-07-17.md](./2002-07-17.md) |
-| 2002-03-01 | 2002-07-16 | [2002-03-01.md](./2002-03-01.md) |
 | 2002-03-01 | 2002-07-16 | [2002-03-01.md](./2002-03-01.md) |
 | 1998-01-01 | 2002-02-28 | [1998-01-01.md](./1998-01-01.md) |

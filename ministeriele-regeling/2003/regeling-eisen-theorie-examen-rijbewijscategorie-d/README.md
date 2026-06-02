@@ -6,7 +6,7 @@ title: Regeling houdende vaststelling eisen theorie-examen rijbewijscategorie D 
 ministry: Infrastructuur en Milieu
 abbreviation: RET Cat D
 latest_state: "2009-05-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 9
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RET Cat D
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-d](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-d)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-d](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-eisen-theorie-examen-rijbewijscategorie-d)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 9
 |---|---|---|
 | 2009-05-01 | 2013-01-18 | [2009-05-01.md](./2009-05-01.md) |
 | 2008-11-07 | 2009-04-30 | [2008-11-07.md](./2008-11-07.md) |
-| 2008-09-30 | 2008-11-06 | [2008-09-30.md](./2008-09-30.md) |
 | 2008-09-30 | 2008-11-06 | [2008-09-30.md](./2008-09-30.md) |
 | 2008-09-10 | 2008-09-29 | [2008-09-10.md](./2008-09-10.md) |
 | 2006-03-02 | 2008-09-09 | [2006-03-02.md](./2006-03-02.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Justitie en Veiligheid van 29 oktober
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2022-10-06"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit tijdelijk onderdak in hotels en andere accommodaties
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-tijdelijk-onderdak-in-hotels-en-andere-accommodaties](https://wetten.ai/eli/nl/ministeriele-regeling/2021/besluit-tijdelijk-onderdak-in-hotels-en-andere-accommodaties)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-tijdelijk-onderdak-in-hotels-en-andere-accommodaties](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/besluit-tijdelijk-onderdak-in-hotels-en-andere-accommodaties)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-10-06 | 2022-12-31 | [2022-10-06.md](./2022-10-06.md) |
-| 2022-08-06 | 2022-10-05 | [2022-08-06.md](./2022-08-06.md) |
 | 2022-08-06 | 2022-10-05 | [2022-08-06.md](./2022-08-06.md) |
 | 2022-05-07 | 2022-08-05 | [2022-05-07.md](./2022-05-07.md) |
 | 2021-11-06 | 2022-05-06 | [2021-11-06.md](./2021-11-06.md) |

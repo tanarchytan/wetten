@@ -6,7 +6,7 @@ title: Regeling van de Minister van Financiën en de Minister van Sociale Zaken 
 ministry: Financiën
 abbreviation: null
 latest_state: "2020-07-10"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling bekostiging financieel toezicht 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-bekostiging-financieel-toezicht-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-bekostiging-financieel-toezicht-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-bekostiging-financieel-toezicht-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-bekostiging-financieel-toezicht-2020)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-07-10 | heden | [2020-07-10.md](./2020-07-10.md) |
-| 2020-06-18 | 2020-07-09 | [2020-06-18.md](./2020-06-18.md) |
 | 2020-06-18 | 2020-07-09 | [2020-06-18.md](./2020-06-18.md) |

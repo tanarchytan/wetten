@@ -6,7 +6,7 @@ title: Wet van 3 juli 1986, houdende regelen inzake bescherming van de bodem
 ministry: Infrastructuur en Milieu
 abbreviation: WBB
 latest_state: "2022-05-01"
-state_count: 42
+state_count: 36
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 42
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WBB
-**ELI:** [/eli/nl/wet/1987/wet-bodembescherming](https://wetten.ai/eli/nl/wet/1987/wet-bodembescherming)
+**ELI:** [/eli/nl/wet/1987/wet-bodembescherming](https://wettenbank.online/eli/nl/wet/1987/wet-bodembescherming)
 
 ## Versies
 
@@ -50,16 +50,10 @@ state_count: 42
 | 2006-03-08 | 2006-06-30 | [2006-03-08.md](./2006-03-08.md) |
 | 2006-01-01 | 2006-03-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-28 | 2005-12-31 | [2005-12-28.md](./2005-12-28.md) |
-| 2005-12-28 | 2005-12-31 | [2005-12-28.md](./2005-12-28.md) |
-| 2005-10-12 | 2005-12-27 | [2005-10-12.md](./2005-10-12.md) |
 | 2005-10-12 | 2005-12-27 | [2005-10-12.md](./2005-10-12.md) |
 | 2005-07-01 | 2005-10-11 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-07-01 | 2005-10-11 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-03-16 | 2005-06-30 | [2005-03-16.md](./2005-03-16.md) |
 | 2005-03-16 | 2005-06-30 | [2005-03-16.md](./2005-03-16.md) |
 | 2005-02-25 | 2005-03-15 | [2005-02-25.md](./2005-02-25.md) |
-| 2005-02-25 | 2005-03-15 | [2005-02-25.md](./2005-02-25.md) |
-| 2005-01-01 | 2005-02-24 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-02-24 | [2005-01-01.md](./2005-01-01.md) |
 | 2003-01-01 | 2004-12-31 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-10-14 | 2002-12-31 | [2002-10-14.md](./2002-10-14.md) |

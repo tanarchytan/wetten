@@ -6,7 +6,7 @@ title: Regeling van 13 oktober 2004, nr. SAS2004098785, houdende regels met betr
 ministry: Infrastructuur en Milieu
 abbreviation: Rm ba&ga
 latest_state: "2024-01-01"
-state_count: 18
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Rm ba&ga
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalsto](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalsto)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalsto](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalsto)
 
 ## Versies
 
@@ -26,9 +26,7 @@ state_count: 18
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2022-05-04 | 2023-12-31 | [2022-05-04.md](./2022-05-04.md) |
 | 2022-05-01 | 2022-05-03 | [2022-05-01.md](./2022-05-01.md) |
-| 2022-05-01 | 2022-05-03 | [2022-05-01.md](./2022-05-01.md) |
 | 2020-07-08 | 2022-04-30 | [2020-07-08.md](./2020-07-08.md) |
-| 2020-07-01 | 2020-07-07 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-07-01 | 2020-07-07 | [2020-07-01.md](./2020-07-01.md) |
 | 2019-01-01 | 2020-06-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2013-10-01 | 2018-12-31 | [2013-10-01.md](./2013-10-01.md) |

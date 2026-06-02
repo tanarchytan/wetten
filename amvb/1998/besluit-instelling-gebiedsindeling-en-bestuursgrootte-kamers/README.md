@@ -6,7 +6,7 @@ title: Besluit van 24 december 1997 tot instelling van kamers van koophandel en 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-05-04"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit instelling, gebiedsindeling en bestuursgrootte kamers van koophandel en fabrieken
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/1998/besluit-instelling-gebiedsindeling-en-bestuursgrootte-kamers](https://wetten.ai/eli/nl/amvb/1998/besluit-instelling-gebiedsindeling-en-bestuursgrootte-kamers)
+**ELI:** [/eli/nl/amvb/1998/besluit-instelling-gebiedsindeling-en-bestuursgrootte-kamers](https://wettenbank.online/eli/nl/amvb/1998/besluit-instelling-gebiedsindeling-en-bestuursgrootte-kamers)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2009-01-01 | 2011-05-03 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2004-07-14 | 2007-12-31 | [2004-07-14.md](./2004-07-14.md) |
-| 2004-07-01 | 2004-07-13 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2004-07-13 | [2004-07-01.md](./2004-07-01.md) |
 | 1998-01-01 | 2004-06-30 | [1998-01-01.md](./1998-01-01.md) |

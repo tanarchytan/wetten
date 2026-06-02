@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 12 nove
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2014-07-08"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Mandaatregeling personele aangelegenheden VWS 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/mandaatregeling-personele-aangelegenheden-vws-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/mandaatregeling-personele-aangelegenheden-vws-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/mandaatregeling-personele-aangelegenheden-vws-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/mandaatregeling-personele-aangelegenheden-vws-2007)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2014-07-08 | 2019-12-31 | [2014-07-08.md](./2014-07-08.md) |
 | 2009-02-01 | 2014-07-07 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-02-01 | 2014-07-07 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-12-05 | 2008-12-31 | [2007-12-05.md](./2007-12-05.md) |

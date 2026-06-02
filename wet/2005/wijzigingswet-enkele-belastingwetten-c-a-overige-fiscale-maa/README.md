@@ -6,7 +6,7 @@ title: Wet van 16 december 2004, houdende wijziging van enkele belastingwetten c
 ministry: Financiën
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005)
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2005/wijzigingswet-enkele-belastingwetten-c-a-overige-fiscale-maa](https://wetten.ai/eli/nl/wet/2005/wijzigingswet-enkele-belastingwetten-c-a-overige-fiscale-maa)
+**ELI:** [/eli/nl/wet/2005/wijzigingswet-enkele-belastingwetten-c-a-overige-fiscale-maa](https://wettenbank.online/eli/nl/wet/2005/wijzigingswet-enkele-belastingwetten-c-a-overige-fiscale-maa)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2006-01-01 | heden | [2006-01-01.md](./2006-01-01.md) |
 | 2005-07-01 | 2005-12-31 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-03-18 | 2005-06-30 | [2005-03-18.md](./2005-03-18.md) |
-| 2005-01-01 | 2005-03-17 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-17 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-03-11 | 2004-12-31 | [2004-03-11.md](./2004-03-11.md) |
 | 2004-01-01 | 2004-03-10 | [2004-01-01.md](./2004-01-01.md) |

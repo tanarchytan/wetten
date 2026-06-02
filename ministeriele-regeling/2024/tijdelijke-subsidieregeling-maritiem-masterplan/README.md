@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Waterstaat, van 22 april 2
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Tijdelijke subsidieregeling Maritiem Masterplan
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2024/tijdelijke-subsidieregeling-maritiem-masterplan](https://wetten.ai/eli/nl/ministeriele-regeling/2024/tijdelijke-subsidieregeling-maritiem-masterplan)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/tijdelijke-subsidieregeling-maritiem-masterplan](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/tijdelijke-subsidieregeling-maritiem-masterplan)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2024-06-26 | 2025-06-30 | [2024-06-26.md](./2024-06-26.md) |
-| 2024-04-27 | 2024-06-25 | [2024-04-27.md](./2024-04-27.md) |
 | 2024-04-27 | 2024-06-25 | [2024-04-27.md](./2024-04-27.md) |

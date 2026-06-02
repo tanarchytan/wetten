@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-10-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Regeling specifieke uitkering specialistische functies aanpak huiselijk geweld en kindermishandeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-specialistische-functies-aanpa](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-specialistische-functies-aanpa)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-specialistische-functies-aanpa](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-specialistische-functies-aanpa)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2023-10-20 | 2024-06-30 | [2023-10-20.md](./2023-10-20.md) |
 | 2022-11-04 | 2023-10-19 | [2022-11-04.md](./2022-11-04.md) |
-| 2021-01-01 | 2022-11-03 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2022-11-03 | [2021-01-01.md](./2021-01-01.md) |

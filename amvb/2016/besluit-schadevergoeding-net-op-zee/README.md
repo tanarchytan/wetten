@@ -6,7 +6,7 @@ title: Besluit van 23 maart 2016, houdende regels met betrekking tot de schadeve
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit schadevergoeding net op zee
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2016/besluit-schadevergoeding-net-op-zee](https://wetten.ai/eli/nl/amvb/2016/besluit-schadevergoeding-net-op-zee)
+**ELI:** [/eli/nl/amvb/2016/besluit-schadevergoeding-net-op-zee](https://wettenbank.online/eli/nl/amvb/2016/besluit-schadevergoeding-net-op-zee)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-01-01 | heden | [2023-01-01.md](./2023-01-01.md) |
-| 2022-04-14 | 2022-12-31 | [2022-04-14.md](./2022-04-14.md) |
 | 2022-04-14 | 2022-12-31 | [2022-04-14.md](./2022-04-14.md) |
 | 2016-04-01 | 2022-04-13 | [2016-04-01.md](./2016-04-01.md) |

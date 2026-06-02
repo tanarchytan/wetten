@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 maar
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2003-12-20"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal SZW 2003
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2003/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr](https://wetten.ai/eli/nl/ministeriele-regeling/2003/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2003-12-20 | 2003-12-31 | [2003-12-20.md](./2003-12-20.md) |
 | 2003-10-01 | 2003-12-19 | [2003-10-01.md](./2003-10-01.md) |
-| 2003-10-01 | 2003-12-19 | [2003-10-01.md](./2003-10-01.md) |
-| 2003-07-01 | 2003-09-30 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-09-30 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-04-01 | 2003-06-30 | [2003-04-01.md](./2003-04-01.md) |

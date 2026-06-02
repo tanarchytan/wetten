@@ -6,7 +6,7 @@ title: Wet van 20 november 2003, houdende vaststelling van een wet op het Centra
 ministry: Economische Zaken
 abbreviation: CBS
 latest_state: "2025-09-01"
-state_count: 21
+state_count: 19
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 21
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** CBS
-**ELI:** [/eli/nl/wet/2004/wet-op-het-centraal-bureau-voor-de-statistiek](https://wetten.ai/eli/nl/wet/2004/wet-op-het-centraal-bureau-voor-de-statistiek)
+**ELI:** [/eli/nl/wet/2004/wet-op-het-centraal-bureau-voor-de-statistiek](https://wettenbank.online/eli/nl/wet/2004/wet-op-het-centraal-bureau-voor-de-statistiek)
 
 ## Versies
 
@@ -28,8 +28,6 @@ state_count: 21
 | 2019-01-01 | 2022-03-01 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-01-01 | 2018-05-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2014-07-26 | 2016-12-31 | [2014-07-26.md](./2014-07-26.md) |

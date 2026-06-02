@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 decem
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2020-07-07"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Instellingsbesluit Evaluatiecommissie NWO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/instellingsbesluit-evaluatiecommissie-nwo](https://wetten.ai/eli/nl/ministeriele-regeling/2019/instellingsbesluit-evaluatiecommissie-nwo)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/instellingsbesluit-evaluatiecommissie-nwo](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/instellingsbesluit-evaluatiecommissie-nwo)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2020-07-07 | 2021-03-31 | [2020-07-07.md](./2020-07-07.md) |
 | 2020-02-08 | 2020-07-06 | [2020-02-08.md](./2020-02-08.md) |
-| 2020-02-08 | 2020-07-06 | [2020-02-08.md](./2020-02-08.md) |
-| 2020-01-01 | 2020-02-07 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-02-07 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-02-07 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-12-19 | 2019-12-31 | [2019-12-19.md](./2019-12-19.md) |

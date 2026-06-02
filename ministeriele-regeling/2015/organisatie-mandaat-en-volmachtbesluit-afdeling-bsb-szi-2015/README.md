@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-12-09"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit afdeling BSB-SZI 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-afdeling-bsb-szi-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-afdeling-bsb-szi-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-afdeling-bsb-szi-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-afdeling-bsb-szi-2015)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 9
 |---|---|---|
 | 2023-12-09 | heden | [2023-12-09.md](./2023-12-09.md) |
 | 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
-| 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
 | 2020-01-01 | 2023-08-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-05-30 | 2019-12-31 | [2017-05-30.md](./2017-05-30.md) |
-| 2017-01-01 | 2017-05-29 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-05-29 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-12-30 | 2016-12-31 | [2015-12-30.md](./2015-12-30.md) |
 | 2015-05-01 | 2015-12-29 | [2015-05-01.md](./2015-05-01.md) |

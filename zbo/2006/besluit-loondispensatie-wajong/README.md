@@ -6,7 +6,7 @@ title: Besluit loondispensatie Wajong
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: null
 latest_state: "2010-08-19"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit loondispensatie Wajong
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
-**ELI:** [/eli/nl/zbo/2006/besluit-loondispensatie-wajong](https://wetten.ai/eli/nl/zbo/2006/besluit-loondispensatie-wajong)
+**ELI:** [/eli/nl/zbo/2006/besluit-loondispensatie-wajong](https://wettenbank.online/eli/nl/zbo/2006/besluit-loondispensatie-wajong)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-08-19 | heden | [2010-08-19.md](./2010-08-19.md) |
-| 2010-01-01 | 2010-08-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-08-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2006-08-03 | 2009-12-31 | [2006-08-03.md](./2006-08-03.md) |
 | 2005-12-29 | 2006-08-02 | [2005-12-29.md](./2005-12-29.md) |

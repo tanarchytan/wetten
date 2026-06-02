@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 maar
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Kaderregeling documentaire informatievoorziening Sociale Zaken en Werkgelegenheid 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2014/kaderregeling-documentaire-informatievoorziening-sociale-zak](https://wetten.ai/eli/nl/ministeriele-regeling/2014/kaderregeling-documentaire-informatievoorziening-sociale-zak)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/kaderregeling-documentaire-informatievoorziening-sociale-zak](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/kaderregeling-documentaire-informatievoorziening-sociale-zak)
 
 ## Versies
 
@@ -25,8 +25,5 @@ state_count: 8
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2018-11-27 | 2021-12-31 | [2018-11-27.md](./2018-11-27.md) |
 | 2018-10-17 | 2018-11-26 | [2018-10-17.md](./2018-10-17.md) |
-| 2018-10-17 | 2018-11-26 | [2018-10-17.md](./2018-10-17.md) |
-| 2017-04-01 | 2018-10-16 | [2017-04-01.md](./2017-04-01.md) |
-| 2017-04-01 | 2018-10-16 | [2017-04-01.md](./2017-04-01.md) |
 | 2017-04-01 | 2018-10-16 | [2017-04-01.md](./2017-04-01.md) |
 | 2014-03-19 | 2017-03-31 | [2014-03-19.md](./2014-03-19.md) |

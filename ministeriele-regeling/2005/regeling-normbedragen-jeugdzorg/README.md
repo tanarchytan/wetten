@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Rnjz
 latest_state: "2008-02-14"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 5
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Rnjz
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-normbedragen-jeugdzorg](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-normbedragen-jeugdzorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-normbedragen-jeugdzorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-normbedragen-jeugdzorg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-02-14 | 2008-12-31 | [2008-02-14.md](./2008-02-14.md) |
-| 2008-01-01 | 2008-02-13 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-02-13 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |

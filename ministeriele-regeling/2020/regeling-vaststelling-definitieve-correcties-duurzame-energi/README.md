@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken en Klimaat van 30 maart 20
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-09-23"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling vaststelling definitieve correcties duurzame energieproductie 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-vaststelling-definitieve-correcties-duurzame-energi](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-vaststelling-definitieve-correcties-duurzame-energi)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-vaststelling-definitieve-correcties-duurzame-energi](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-vaststelling-definitieve-correcties-duurzame-energi)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-09-23 | heden | [2020-09-23.md](./2020-09-23.md) |
-| 2020-04-01 | 2020-09-22 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-04-01 | 2020-09-22 | [2020-04-01.md](./2020-04-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 31 oktober 2006, houdende regels inzake het toezicht op de na
 ministry: Financiën
 abbreviation: Btfv
 latest_state: "2017-07-12"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Btfv
-**ELI:** [/eli/nl/amvb/2006/besluit-toezicht-financi-le-verslaggeving](https://wetten.ai/eli/nl/amvb/2006/besluit-toezicht-financi-le-verslaggeving)
+**ELI:** [/eli/nl/amvb/2006/besluit-toezicht-financi-le-verslaggeving](https://wettenbank.online/eli/nl/amvb/2006/besluit-toezicht-financi-le-verslaggeving)
 
 ## Versies
 
@@ -28,6 +28,5 @@ state_count: 8
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2009-01-01 | 2011-12-31 | [2009-01-01.md](./2009-01-01.md) |
-| 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-12-31 | 2007-12-31 | [2006-12-31.md](./2006-12-31.md) |

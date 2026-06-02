@@ -6,7 +6,7 @@ title: Wet op de Kamers van Koophandel en Nijverheid BES
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Wet op de Kamers van Koophandel en Nijverheid BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet-bes/2010/wet-op-de-kamers-van-koophandel-en-nijverheid-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-op-de-kamers-van-koophandel-en-nijverheid-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-op-de-kamers-van-koophandel-en-nijverheid-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-op-de-kamers-van-koophandel-en-nijverheid-bes)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2014-01-25 | 2018-12-31 | [2014-01-25.md](./2014-01-25.md) |
 | 2012-02-08 | 2014-01-24 | [2012-02-08.md](./2012-02-08.md) |
 | 2011-10-07 | 2012-02-07 | [2011-10-07.md](./2011-10-07.md) |
-| 2010-10-10 | 2011-10-06 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-10-06 | [2010-10-10.md](./2010-10-10.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties e
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2007-02-07"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke regeling mobiele communicatie politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1999/tijdelijke-regeling-mobiele-communicatie-politie](https://wetten.ai/eli/nl/ministeriele-regeling/1999/tijdelijke-regeling-mobiele-communicatie-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/tijdelijke-regeling-mobiele-communicatie-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/tijdelijke-regeling-mobiele-communicatie-politie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-02-07 | 2012-12-31 | [2007-02-07.md](./2007-02-07.md) |
-| 2006-08-01 | 2007-02-06 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2007-02-06 | [2006-08-01.md](./2006-08-01.md) |
 | 1999-10-17 | 2006-07-31 | [1999-10-17.md](./1999-10-17.md) |

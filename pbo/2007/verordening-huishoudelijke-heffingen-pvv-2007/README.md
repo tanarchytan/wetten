@@ -6,7 +6,7 @@ title: Verordening van het Produktschap Vee en Vlees van 1 november 2006, houden
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2007-11-11"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Verordening huishoudelijke heffingen (PVV) 2007
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2007/verordening-huishoudelijke-heffingen-pvv-2007](https://wetten.ai/eli/nl/pbo/2007/verordening-huishoudelijke-heffingen-pvv-2007)
+**ELI:** [/eli/nl/pbo/2007/verordening-huishoudelijke-heffingen-pvv-2007](https://wettenbank.online/eli/nl/pbo/2007/verordening-huishoudelijke-heffingen-pvv-2007)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-11-11 | 2021-09-29 | [2007-11-11.md](./2007-11-11.md) |
-| 2007-01-01 | 2007-11-10 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-11-10 | [2007-01-01.md](./2007-01-01.md) |

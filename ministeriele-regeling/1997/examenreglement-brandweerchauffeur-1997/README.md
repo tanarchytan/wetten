@@ -6,7 +6,7 @@ title: Examenreglement brandweerchauffeur 1997
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2005-03-31"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Examenreglement brandweerchauffeur 1997
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1997/examenreglement-brandweerchauffeur-1997](https://wetten.ai/eli/nl/ministeriele-regeling/1997/examenreglement-brandweerchauffeur-1997)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/examenreglement-brandweerchauffeur-1997](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/examenreglement-brandweerchauffeur-1997)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-03-31 | 2010-09-30 | [2005-03-31.md](./2005-03-31.md) |
-| 2005-01-01 | 2005-03-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-30 | [2005-01-01.md](./2005-01-01.md) |
 | 1998-08-01 | 2004-12-31 | [1998-08-01.md](./1998-08-01.md) |

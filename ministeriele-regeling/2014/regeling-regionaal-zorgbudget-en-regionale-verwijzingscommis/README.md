@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling regionaal zorgbudget en regionale verwijzingscommissies voortgezet onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-regionaal-zorgbudget-en-regionale-verwijzingscommis](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-regionaal-zorgbudget-en-regionale-verwijzingscommis)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-regionaal-zorgbudget-en-regionale-verwijzingscommis](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-regionaal-zorgbudget-en-regionale-verwijzingscommis)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-03-14 | 2015-12-31 | [2015-03-14.md](./2015-03-14.md) |
-| 2015-01-01 | 2015-03-13 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-13 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-08-01 | 2014-12-31 | [2014-08-01.md](./2014-08-01.md) |

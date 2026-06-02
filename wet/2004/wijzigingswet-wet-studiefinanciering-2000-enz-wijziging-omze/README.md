@@ -6,7 +6,7 @@ title: Wet van 30 juni 2004 tot wijziging van onder meer de Wet studiefinancieri
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2004-11-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wijzigingswet Wet studiefinanciering 2000, enz. (wijziging omzetmoment eerste 12 maanden prestatiebeurs en gedeeltelijke afschaffing 1 februari-regel)
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/wet/2004/wijzigingswet-wet-studiefinanciering-2000-enz-wijziging-omze](https://wetten.ai/eli/nl/wet/2004/wijzigingswet-wet-studiefinanciering-2000-enz-wijziging-omze)
+**ELI:** [/eli/nl/wet/2004/wijzigingswet-wet-studiefinanciering-2000-enz-wijziging-omze](https://wettenbank.online/eli/nl/wet/2004/wijzigingswet-wet-studiefinanciering-2000-enz-wijziging-omze)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2004-11-01 | heden | [2004-11-01.md](./2004-11-01.md) |
 | 2004-09-01 | 2004-10-31 | [2004-09-01.md](./2004-09-01.md) |
-| 2004-08-20 | 2004-08-31 | [2004-08-20.md](./2004-08-20.md) |
 | 2004-08-20 | 2004-08-31 | [2004-08-20.md](./2004-08-20.md) |
 | 2004-02-13 | 2004-08-19 | [2004-02-13.md](./2004-02-13.md) |

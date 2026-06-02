@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Primair en Voortgezet Onderwijs van 21 maar
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2023-07-21"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling verbetering basisvaardigheden voor prioriteitsscholen 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2023/subsidieregeling-verbetering-basisvaardigheden-voor-priorite](https://wetten.ai/eli/nl/ministeriele-regeling/2023/subsidieregeling-verbetering-basisvaardigheden-voor-priorite)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/subsidieregeling-verbetering-basisvaardigheden-voor-priorite](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/subsidieregeling-verbetering-basisvaardigheden-voor-priorite)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-07-21 | heden | [2023-07-21.md](./2023-07-21.md) |
-| 2023-03-25 | 2023-07-20 | [2023-03-25.md](./2023-03-25.md) |
 | 2023-03-25 | 2023-07-20 | [2023-03-25.md](./2023-03-25.md) |
 | 2023-03-24 | 2023-03-24 | [2023-03-24.md](./2023-03-24.md) |

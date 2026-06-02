@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 3 november 2011, 
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2012-07-01"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Verordening bestemmingsheffingen Veeziektenfonds salmonellamaatregelen (PPE) 2012
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2012/verordening-bestemmingsheffingen-veeziektenfonds-salmonellam](https://wetten.ai/eli/nl/pbo/2012/verordening-bestemmingsheffingen-veeziektenfonds-salmonellam)
+**ELI:** [/eli/nl/pbo/2012/verordening-bestemmingsheffingen-veeziektenfonds-salmonellam](https://wettenbank.online/eli/nl/pbo/2012/verordening-bestemmingsheffingen-veeziektenfonds-salmonellam)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-07-01 | 2019-10-16 | [2012-07-01.md](./2012-07-01.md) |
-| 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |

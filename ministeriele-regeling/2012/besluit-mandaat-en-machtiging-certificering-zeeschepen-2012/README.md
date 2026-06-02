@@ -6,7 +6,7 @@ title: Besluit van de Minister van Infrastructuur en Milieu, van 9 november 2012
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit mandaat en machtiging certificering zeeschepen 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/besluit-mandaat-en-machtiging-certificering-zeeschepen-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/besluit-mandaat-en-machtiging-certificering-zeeschepen-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/besluit-mandaat-en-machtiging-certificering-zeeschepen-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/besluit-mandaat-en-machtiging-certificering-zeeschepen-2012)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2018-06-14 | 2025-06-30 | [2018-06-14.md](./2018-06-14.md) |
-| 2018-06-11 | 2018-06-13 | [2018-06-11.md](./2018-06-11.md) |
 | 2018-06-11 | 2018-06-13 | [2018-06-11.md](./2018-06-11.md) |
 | 2014-05-03 | 2018-06-10 | [2014-05-03.md](./2014-05-03.md) |
 | 2014-04-03 | 2014-05-02 | [2014-04-03.md](./2014-04-03.md) |

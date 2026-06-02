@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2020-05-08"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Subsidieregeling kansen voor alle kinderen 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-kansen-voor-alle-kinderen-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2017/subsidieregeling-kansen-voor-alle-kinderen-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-kansen-voor-alle-kinderen-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/subsidieregeling-kansen-voor-alle-kinderen-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-05-08 | 2022-05-02 | [2020-05-08.md](./2020-05-08.md) |
-| 2020-03-12 | 2020-05-07 | [2020-03-12.md](./2020-03-12.md) |
 | 2020-03-12 | 2020-05-07 | [2020-03-12.md](./2020-03-12.md) |
 | 2019-01-01 | 2020-03-11 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-03-30 | 2018-12-31 | [2018-03-30.md](./2018-03-30.md) |

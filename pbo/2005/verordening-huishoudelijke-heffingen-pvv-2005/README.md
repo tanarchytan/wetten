@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vee en Vlees van 10 november 2004, houde
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2005-12-11"
-state_count: 13
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Verordening huishoudelijke heffingen (PVV) 2005
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2005/verordening-huishoudelijke-heffingen-pvv-2005](https://wetten.ai/eli/nl/pbo/2005/verordening-huishoudelijke-heffingen-pvv-2005)
+**ELI:** [/eli/nl/pbo/2005/verordening-huishoudelijke-heffingen-pvv-2005](https://wettenbank.online/eli/nl/pbo/2005/verordening-huishoudelijke-heffingen-pvv-2005)
 
 ## Versies
 
@@ -24,14 +24,6 @@ state_count: 13
 |---|---|---|
 | 2005-12-11 | 2021-09-29 | [2005-12-11.md](./2005-12-11.md) |
 | 2005-11-27 | 2005-12-10 | [2005-11-27.md](./2005-11-27.md) |
-| 2005-11-27 | 2005-12-10 | [2005-11-27.md](./2005-11-27.md) |
-| 2005-10-09 | 2005-11-26 | [2005-10-09.md](./2005-10-09.md) |
-| 2005-10-09 | 2005-11-26 | [2005-10-09.md](./2005-10-09.md) |
 | 2005-10-09 | 2005-11-26 | [2005-10-09.md](./2005-10-09.md) |
 | 2005-10-01 | 2005-10-08 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-08 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-08 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-08 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-01-01 | 2005-09-30 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-09-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-09-30 | [2005-01-01.md](./2005-01-01.md) |

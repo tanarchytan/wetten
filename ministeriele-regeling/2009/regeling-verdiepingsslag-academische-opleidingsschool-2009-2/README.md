@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-06-10"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling verdiepingsslag academische opleidingsschool 2009–2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verdiepingsslag-academische-opleidingsschool-2009-2](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-verdiepingsslag-academische-opleidingsschool-2009-2)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verdiepingsslag-academische-opleidingsschool-2009-2](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-verdiepingsslag-academische-opleidingsschool-2009-2)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2011-06-10 | 2011-12-31 | [2011-06-10.md](./2011-06-10.md) |
 | 2010-03-02 | 2011-06-09 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-19 | 2009-12-31 | [2009-12-19.md](./2009-12-19.md) |
 | 2009-05-15 | 2009-12-18 | [2009-05-15.md](./2009-05-15.md) |

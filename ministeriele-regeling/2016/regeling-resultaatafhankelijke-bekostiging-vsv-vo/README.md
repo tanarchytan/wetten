@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2023-03-16"
-state_count: 14
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling resultaatafhankelijke bekostiging vsv vo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-resultaatafhankelijke-bekostiging-vsv-vo](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-resultaatafhankelijke-bekostiging-vsv-vo)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-resultaatafhankelijke-bekostiging-vsv-vo](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-resultaatafhankelijke-bekostiging-vsv-vo)
 
 ## Versies
 
@@ -28,11 +28,9 @@ state_count: 14
 | 2020-11-25 | 2022-01-31 | [2020-11-25.md](./2020-11-25.md) |
 | 2020-09-26 | 2020-11-24 | [2020-09-26.md](./2020-09-26.md) |
 | 2020-09-01 | 2020-09-25 | [2020-09-01.md](./2020-09-01.md) |
-| 2020-09-01 | 2020-09-25 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-07-01 | 2020-08-31 | [2020-07-01.md](./2020-07-01.md) |
 | 2018-08-01 | 2020-06-30 | [2018-08-01.md](./2018-08-01.md) |
 | 2016-11-23 | 2018-07-31 | [2016-11-23.md](./2016-11-23.md) |
-| 2016-11-01 | 2016-11-22 | [2016-11-01.md](./2016-11-01.md) |
 | 2016-11-01 | 2016-11-22 | [2016-11-01.md](./2016-11-01.md) |
 | 2016-10-01 | 2016-10-31 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-09-07 | 2016-09-30 | [2016-09-07.md](./2016-09-07.md) |

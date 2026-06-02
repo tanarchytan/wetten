@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Financiën van 30 december 2013, nr.
 ministry: Financiën
 abbreviation: null
 latest_state: "2016-04-30"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 11
 **Citeertitel:** Wijzigingsregeling enige fiscale uitvoeringsregelingen 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2014/wijzigingsregeling-enige-fiscale-uitvoeringsregelingen-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2014/wijzigingsregeling-enige-fiscale-uitvoeringsregelingen-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/wijzigingsregeling-enige-fiscale-uitvoeringsregelingen-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/wijzigingsregeling-enige-fiscale-uitvoeringsregelingen-2013)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-04-30 | heden | [2016-04-30.md](./2016-04-30.md) |
-| 2016-01-01 | 2016-04-29 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-04-29 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-12-13 | 2014-12-31 | [2014-12-13.md](./2014-12-13.md) |

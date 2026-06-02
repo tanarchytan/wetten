@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 19 dece
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2004-11-14"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling uitkeringen kinderopvang 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-uitkeringen-kinderopvang-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-uitkeringen-kinderopvang-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-uitkeringen-kinderopvang-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-uitkeringen-kinderopvang-2004)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-11-14 | 2004-12-31 | [2004-11-14.md](./2004-11-14.md) |
-| 2004-01-11 | 2004-11-13 | [2004-01-11.md](./2004-01-11.md) |
 | 2004-01-11 | 2004-11-13 | [2004-01-11.md](./2004-01-11.md) |

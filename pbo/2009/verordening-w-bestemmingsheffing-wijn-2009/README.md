@@ -6,7 +6,7 @@ title: Verordening van het Productschap Wijn van 5 november 2008, houdende vasts
 ministry: Productschap Wijn
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 17
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Verordening W bestemmingsheffing wijn 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Wijn
-**ELI:** [/eli/nl/pbo/2009/verordening-w-bestemmingsheffing-wijn-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-w-bestemmingsheffing-wijn-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-w-bestemmingsheffing-wijn-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-w-bestemmingsheffing-wijn-2009)
 
 ## Versies
 
@@ -25,17 +25,12 @@ state_count: 17
 | 2014-01-01 | 2019-10-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-03-02 | 2013-12-31 | [2013-03-02.md](./2013-03-02.md) |
 | 2013-01-01 | 2013-03-01 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-03-01 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-15 | 2012-12-31 | [2012-07-15.md](./2012-07-15.md) |
 | 2012-05-13 | 2012-07-14 | [2012-05-13.md](./2012-05-13.md) |
-| 2012-05-13 | 2012-07-14 | [2012-05-13.md](./2012-05-13.md) |
-| 2012-01-01 | 2012-05-12 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-05-12 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-04-17 | 2011-12-31 | [2011-04-17.md](./2011-04-17.md) |
 | 2011-01-01 | 2011-04-16 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-04-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-03-07 | 2010-12-31 | [2010-03-07.md](./2010-03-07.md) |
-| 2010-01-01 | 2010-03-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-02-15 | 2009-12-31 | [2009-02-15.md](./2009-02-15.md) |
 | 2009-01-01 | 2009-02-14 | [2009-01-01.md](./2009-01-01.md) |

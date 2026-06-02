@@ -6,7 +6,7 @@ title: Besluit van de Minister van Infrastructuur en Milieu Zaken van 17 augustu
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2018-02-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vervangingsbesluit archiefbescheiden verzorgingsgebied IBI/DCI IenM 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2017/vervangingsbesluit-archiefbescheiden-verzorgingsgebied-ibi-d](https://wetten.ai/eli/nl/ministeriele-regeling/2017/vervangingsbesluit-archiefbescheiden-verzorgingsgebied-ibi-d)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/vervangingsbesluit-archiefbescheiden-verzorgingsgebied-ibi-d](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/vervangingsbesluit-archiefbescheiden-verzorgingsgebied-ibi-d)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-02-09 | heden | [2018-02-09.md](./2018-02-09.md) |
-| 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-08-24 | 2017-12-31 | [2017-08-24.md](./2017-08-24.md) |

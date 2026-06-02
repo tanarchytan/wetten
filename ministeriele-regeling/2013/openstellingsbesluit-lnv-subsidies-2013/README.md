@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 12 december 2012, nr. 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2015-05-02"
-state_count: 22
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 22
 **Citeertitel:** Openstellingsbesluit LNV-subsidies 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2013/openstellingsbesluit-lnv-subsidies-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2013/openstellingsbesluit-lnv-subsidies-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/openstellingsbesluit-lnv-subsidies-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/openstellingsbesluit-lnv-subsidies-2013)
 
 ## Versies
 
@@ -24,23 +24,11 @@ state_count: 22
 |---|---|---|
 | 2015-05-02 | 2016-12-31 | [2015-05-02.md](./2015-05-02.md) |
 | 2014-03-12 | 2015-05-01 | [2014-03-12.md](./2014-03-12.md) |
-| 2014-03-12 | 2015-05-01 | [2014-03-12.md](./2014-03-12.md) |
-| 2013-10-16 | 2014-03-11 | [2013-10-16.md](./2013-10-16.md) |
 | 2013-10-16 | 2014-03-11 | [2013-10-16.md](./2013-10-16.md) |
 | 2013-10-01 | 2013-10-15 | [2013-10-01.md](./2013-10-01.md) |
-| 2013-10-01 | 2013-10-15 | [2013-10-01.md](./2013-10-01.md) |
-| 2013-10-01 | 2013-10-15 | [2013-10-01.md](./2013-10-01.md) |
 | 2013-09-16 | 2013-09-30 | [2013-09-16.md](./2013-09-16.md) |
-| 2013-09-16 | 2013-09-30 | [2013-09-16.md](./2013-09-16.md) |
-| 2013-09-16 | 2013-09-30 | [2013-09-16.md](./2013-09-16.md) |
-| 2013-08-15 | 2013-09-15 | [2013-08-15.md](./2013-08-15.md) |
-| 2013-08-15 | 2013-09-15 | [2013-08-15.md](./2013-08-15.md) |
 | 2013-08-15 | 2013-09-15 | [2013-08-15.md](./2013-08-15.md) |
 | 2013-07-06 | 2013-08-14 | [2013-07-06.md](./2013-07-06.md) |
-| 2013-07-06 | 2013-08-14 | [2013-07-06.md](./2013-07-06.md) |
-| 2013-07-01 | 2013-07-05 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-07-05 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |

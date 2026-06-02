@@ -6,7 +6,7 @@ title: Besluit van 25 juni 2013, houdende uitvoering van de Wet toezicht en gesc
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit uitvoering Wet toezicht en geschillenbeslechting collectieve beheersorganisaties auteurs- en naburige rechten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2013/besluit-uitvoering-wet-toezicht-en-geschillenbeslechting-col](https://wetten.ai/eli/nl/amvb/2013/besluit-uitvoering-wet-toezicht-en-geschillenbeslechting-col)
+**ELI:** [/eli/nl/amvb/2013/besluit-uitvoering-wet-toezicht-en-geschillenbeslechting-col](https://wettenbank.online/eli/nl/amvb/2013/besluit-uitvoering-wet-toezicht-en-geschillenbeslechting-col)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2016-12-21 | 2019-12-31 | [2016-12-21.md](./2016-12-21.md) |
 | 2015-11-01 | 2016-12-20 | [2015-11-01.md](./2015-11-01.md) |
 | 2015-02-06 | 2015-10-31 | [2015-02-06.md](./2015-02-06.md) |
-| 2015-01-01 | 2015-02-05 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-02-05 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |

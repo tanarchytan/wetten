@@ -6,7 +6,7 @@ title: Besluit houdende aanwijzing van personen belast met toezicht als bedoeld 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2020-03-19"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Besluit aanwijzing toezichthouders spoorwegen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-toezichthouders-spoorwegen](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-toezichthouders-spoorwegen)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-toezichthouders-spoorwegen](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-aanwijzing-toezichthouders-spoorwegen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-03-19 | heden | [2020-03-19.md](./2020-03-19.md) |
-| 2020-01-01 | 2020-03-18 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-03-18 | [2020-01-01.md](./2020-01-01.md) |
 | 2008-07-01 | 2019-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2006-07-09 | 2008-06-30 | [2006-07-09.md](./2006-07-09.md) |

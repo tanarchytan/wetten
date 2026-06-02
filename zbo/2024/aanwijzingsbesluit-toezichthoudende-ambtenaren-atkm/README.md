@@ -6,7 +6,7 @@ title: Besluit van de voorzitter van de Autoriteit online Terroristisch en Kinde
 ministry: Autoriteit online Terroristisch en Kinderpornografisch Materiaal
 abbreviation: null
 latest_state: "2025-04-17"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Aanwijzingsbesluit toezichthoudende ambtenaren ATKM
 **Type:** zbo
 **Verantwoordelijk ministerie:** Autoriteit online Terroristisch en Kinderpornografisch Materiaal
-**ELI:** [/eli/nl/zbo/2024/aanwijzingsbesluit-toezichthoudende-ambtenaren-atkm](https://wetten.ai/eli/nl/zbo/2024/aanwijzingsbesluit-toezichthoudende-ambtenaren-atkm)
+**ELI:** [/eli/nl/zbo/2024/aanwijzingsbesluit-toezichthoudende-ambtenaren-atkm](https://wettenbank.online/eli/nl/zbo/2024/aanwijzingsbesluit-toezichthoudende-ambtenaren-atkm)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2025-04-17 | heden | [2025-04-17.md](./2025-04-17.md) |
 | 2024-12-13 | 2025-04-16 | [2024-12-13.md](./2024-12-13.md) |
-| 2024-12-13 | 2025-04-16 | [2024-12-13.md](./2024-12-13.md) |
-| 2023-09-01 | 2024-12-12 | [2023-09-01.md](./2023-09-01.md) |
 | 2023-09-01 | 2024-12-12 | [2023-09-01.md](./2023-09-01.md) |

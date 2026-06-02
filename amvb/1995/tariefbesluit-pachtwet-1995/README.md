@@ -6,7 +6,7 @@ title: Besluit van 14 september 1995, houdende vaststelling van het Tariefbeslui
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2002-09-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tariefbesluit Pachtwet 1995
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/1995/tariefbesluit-pachtwet-1995](https://wetten.ai/eli/nl/amvb/1995/tariefbesluit-pachtwet-1995)
+**ELI:** [/eli/nl/amvb/1995/tariefbesluit-pachtwet-1995](https://wettenbank.online/eli/nl/amvb/1995/tariefbesluit-pachtwet-1995)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2002-09-01 | 2007-10-30 | [2002-09-01.md](./2002-09-01.md) |
-| 2002-01-01 | 2002-08-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-08-31 | [2002-01-01.md](./2002-01-01.md) |
 | 1999-11-01 | 2001-12-31 | [1999-11-01.md](./1999-11-01.md) |

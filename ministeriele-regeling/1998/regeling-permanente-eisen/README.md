@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat van april 1998, nr. DG
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2009-03-01"
-state_count: 22
+state_count: 18
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 22
 **Citeertitel:** Regeling permanente eisen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-permanente-eisen](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-permanente-eisen)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-permanente-eisen](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-permanente-eisen)
 
 ## Versies
 
@@ -29,12 +29,8 @@ state_count: 22
 | 2007-12-23 | 2008-07-02 | [2007-12-23.md](./2007-12-23.md) |
 | 2007-07-04 | 2007-12-22 | [2007-07-04.md](./2007-07-04.md) |
 | 2007-04-21 | 2007-07-03 | [2007-04-21.md](./2007-04-21.md) |
-| 2007-04-21 | 2007-07-03 | [2007-04-21.md](./2007-04-21.md) |
-| 2006-12-23 | 2007-04-20 | [2006-12-23.md](./2006-12-23.md) |
 | 2006-12-23 | 2007-04-20 | [2006-12-23.md](./2006-12-23.md) |
 | 2006-07-21 | 2006-12-22 | [2006-07-21.md](./2006-07-21.md) |
-| 2006-07-21 | 2006-12-22 | [2006-07-21.md](./2006-07-21.md) |
-| 2006-01-01 | 2006-07-20 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-07-20 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-21 | 2005-12-31 | [2005-09-21.md](./2005-09-21.md) |
 | 2005-09-01 | 2005-09-20 | [2005-09-01.md](./2005-09-01.md) |

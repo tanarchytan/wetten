@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: Rarim
 latest_state: "2023-10-26"
-state_count: 51
+state_count: 47
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 51
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Rarim
-**ELI:** [/eli/nl/ministeriele-regeling/2008/activiteitenregeling-milieubeheer](https://wetten.ai/eli/nl/ministeriele-regeling/2008/activiteitenregeling-milieubeheer)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/activiteitenregeling-milieubeheer](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/activiteitenregeling-milieubeheer)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 51
 | 2021-10-16 | 2022-06-30 | [2021-10-16.md](./2021-10-16.md) |
 | 2021-08-01 | 2021-10-15 | [2021-08-01.md](./2021-08-01.md) |
 | 2020-07-08 | 2021-07-31 | [2020-07-08.md](./2020-07-08.md) |
-| 2020-07-01 | 2020-07-07 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-07-01 | 2020-07-07 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-04-10 | 2020-06-30 | [2020-04-10.md](./2020-04-10.md) |
 | 2019-12-14 | 2020-04-09 | [2019-12-14.md](./2019-12-14.md) |
@@ -51,7 +50,6 @@ state_count: 51
 | 2015-01-01 | 2015-11-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-03-01 | 2014-06-30 | [2014-03-01.md](./2014-03-01.md) |
-| 2014-03-01 | 2014-06-30 | [2014-03-01.md](./2014-03-01.md) |
 | 2014-02-14 | 2014-02-28 | [2014-02-14.md](./2014-02-14.md) |
 | 2013-12-01 | 2014-02-13 | [2013-12-01.md](./2013-12-01.md) |
 | 2013-10-01 | 2013-11-30 | [2013-10-01.md](./2013-10-01.md) |
@@ -64,8 +62,6 @@ state_count: 51
 | 2011-04-29 | 2011-06-30 | [2011-04-29.md](./2011-04-29.md) |
 | 2011-04-01 | 2011-04-28 | [2011-04-01.md](./2011-04-01.md) |
 | 2011-03-05 | 2011-03-31 | [2011-03-05.md](./2011-03-05.md) |
-| 2011-03-05 | 2011-03-31 | [2011-03-05.md](./2011-03-05.md) |
-| 2011-01-01 | 2011-03-04 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-03-04 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-22 | 2009-12-31 | [2009-12-22.md](./2009-12-22.md) |

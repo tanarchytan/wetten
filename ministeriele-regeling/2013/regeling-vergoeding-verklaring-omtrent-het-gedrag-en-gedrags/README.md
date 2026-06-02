@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Veiligheid en Justitie van 28 maart
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2022-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vergoeding-verklaring-omtrent-het-gedrag-en-gedrags](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-vergoeding-verklaring-omtrent-het-gedrag-en-gedrags)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vergoeding-verklaring-omtrent-het-gedrag-en-gedrags](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-vergoeding-verklaring-omtrent-het-gedrag-en-gedrags)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2016-03-01 | 2018-10-31 | [2016-03-01.md](./2016-03-01.md) |
 | 2016-01-01 | 2016-02-29 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-24 | 2015-12-31 | [2015-01-24.md](./2015-01-24.md) |
-| 2015-01-01 | 2015-01-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-01-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-04-01 | 2014-12-31 | [2013-04-01.md](./2013-04-01.md) |

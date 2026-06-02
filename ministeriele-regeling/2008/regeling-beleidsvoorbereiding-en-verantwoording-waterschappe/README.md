@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende voor
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Regeling beleidsvoorbereiding en verantwoording waterschappen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-beleidsvoorbereiding-en-verantwoording-waterschappe](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-beleidsvoorbereiding-en-verantwoording-waterschappe)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-beleidsvoorbereiding-en-verantwoording-waterschappe](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-beleidsvoorbereiding-en-verantwoording-waterschappe)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
-| 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2014-01-01 | 2023-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2009-12-22 | 2013-12-31 | [2009-12-22.md](./2009-12-22.md) |

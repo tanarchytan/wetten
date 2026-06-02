@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vee en Vlees van 1 november 2006, houden
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2008-01-20"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening bestemmingsheffingen vleesindustrie (PVV) 2007
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2007/verordening-bestemmingsheffingen-vleesindustrie-pvv-2007](https://wetten.ai/eli/nl/pbo/2007/verordening-bestemmingsheffingen-vleesindustrie-pvv-2007)
+**ELI:** [/eli/nl/pbo/2007/verordening-bestemmingsheffingen-vleesindustrie-pvv-2007](https://wettenbank.online/eli/nl/pbo/2007/verordening-bestemmingsheffingen-vleesindustrie-pvv-2007)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2008-01-20 | 2021-09-29 | [2008-01-20.md](./2008-01-20.md) |
 | 2007-04-08 | 2008-01-19 | [2007-04-08.md](./2007-04-08.md) |
-| 2007-04-08 | 2008-01-19 | [2007-04-08.md](./2007-04-08.md) |
-| 2007-01-01 | 2007-04-07 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-04-07 | [2007-01-01.md](./2007-01-01.md) |

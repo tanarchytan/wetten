@@ -6,7 +6,7 @@ title: Werktijdenbesluit ambtenaren BES
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2011-01-20"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Werktijdenbesluit ambtenaren BES
 **Type:** amvb-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb-bes/2010/werktijdenbesluit-ambtenaren-bes](https://wetten.ai/eli/nl/amvb-bes/2010/werktijdenbesluit-ambtenaren-bes)
+**ELI:** [/eli/nl/amvb-bes/2010/werktijdenbesluit-ambtenaren-bes](https://wettenbank.online/eli/nl/amvb-bes/2010/werktijdenbesluit-ambtenaren-bes)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-20 | 2011-10-08 | [2011-01-20.md](./2011-01-20.md) |
-| 2010-10-10 | 2011-01-19 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-01-19 | [2010-10-10.md](./2010-10-10.md) |

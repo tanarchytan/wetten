@@ -6,7 +6,7 @@ title: Wet van 15 mei 1952, houdende regelen betreffende pensioen- en spaarvoorz
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: PSW
 latest_state: "2006-12-20"
-state_count: 15
+state_count: 13
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 15
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** PSW
-**ELI:** [/eli/nl/wet/1953/pensioen-en-spaarfondsenwet](https://wetten.ai/eli/nl/wet/1953/pensioen-en-spaarfondsenwet)
+**ELI:** [/eli/nl/wet/1953/pensioen-en-spaarfondsenwet](https://wettenbank.online/eli/nl/wet/1953/pensioen-en-spaarfondsenwet)
 
 ## Versies
 
@@ -32,8 +32,6 @@ state_count: 15
 | 2004-05-05 | 2004-10-29 | [2004-05-05.md](./2004-05-05.md) |
 | 2004-01-01 | 2004-05-04 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-12-01 | 2003-12-31 | [2003-12-01.md](./2003-12-01.md) |
-| 2003-12-01 | 2003-12-31 | [2003-12-01.md](./2003-12-01.md) |
-| 2003-02-28 | 2003-11-30 | [2003-02-28.md](./2003-02-28.md) |
 | 2003-02-28 | 2003-11-30 | [2003-02-28.md](./2003-02-28.md) |
 | 2003-01-01 | 2003-02-27 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-07-01 | 2002-12-31 | [2002-07-01.md](./2002-07-01.md) |

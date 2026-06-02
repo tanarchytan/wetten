@@ -6,7 +6,7 @@ title: Bedrijfshulpverleningsregeling BZK
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2007-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Bedrijfshulpverleningsregeling BZK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1997/bedrijfshulpverleningsregeling-bzk](https://wetten.ai/eli/nl/ministeriele-regeling/1997/bedrijfshulpverleningsregeling-bzk)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/bedrijfshulpverleningsregeling-bzk](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/bedrijfshulpverleningsregeling-bzk)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2007-01-01 | 2013-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2004-03-14 | 2006-12-31 | [2004-03-14.md](./2004-03-14.md) |
-| 2004-01-01 | 2004-03-13 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-13 | [2004-01-01.md](./2004-01-01.md) |
 | 2002-01-01 | 2003-12-31 | [2002-01-01.md](./2002-01-01.md) |

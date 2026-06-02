@@ -6,7 +6,7 @@ title: Besluit van 21 februari 2002, houdende regels voor glastuinbouwbedrijven 
 ministry: Infrastructuur en Milieu
 abbreviation: Bgtb
 latest_state: "2012-01-01"
-state_count: 28
+state_count: 26
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 28
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Bgtb
-**ELI:** [/eli/nl/amvb/2002/besluit-glastuinbouw](https://wetten.ai/eli/nl/amvb/2002/besluit-glastuinbouw)
+**ELI:** [/eli/nl/amvb/2002/besluit-glastuinbouw](https://wettenbank.online/eli/nl/amvb/2002/besluit-glastuinbouw)
 
 ## Versies
 
@@ -42,8 +42,6 @@ state_count: 28
 | 2006-10-05 | 2006-12-05 | [2006-10-05.md](./2006-10-05.md) |
 | 2006-07-05 | 2006-10-04 | [2006-07-05.md](./2006-07-05.md) |
 | 2005-11-15 | 2006-07-04 | [2005-11-15.md](./2005-11-15.md) |
-| 2005-11-15 | 2006-07-04 | [2005-11-15.md](./2005-11-15.md) |
-| 2005-09-01 | 2005-11-14 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-09-01 | 2005-11-14 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-08-01 | 2005-08-31 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-05-01 | 2005-07-31 | [2005-05-01.md](./2005-05-01.md) |

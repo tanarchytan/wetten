@@ -6,7 +6,7 @@ title: Regeling met betrekking tot de erkenning voor het produceren en afgeven v
 ministry: Infrastructuur en Milieu
 abbreviation: ErFK
 latest_state: "2021-01-05"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 15
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** ErFK
-**ELI:** [/eli/nl/ministeriele-regeling/2000/erkenningsregeling-fabrikanten-kentekenplaten](https://wetten.ai/eli/nl/ministeriele-regeling/2000/erkenningsregeling-fabrikanten-kentekenplaten)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/erkenningsregeling-fabrikanten-kentekenplaten](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/erkenningsregeling-fabrikanten-kentekenplaten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-01-05 | heden | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2016-01-01 | 2020-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2014-04-01 | 2015-12-31 | [2014-04-01.md](./2014-04-01.md) |

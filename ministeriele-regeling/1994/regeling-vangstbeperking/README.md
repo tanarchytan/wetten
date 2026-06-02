@@ -6,7 +6,7 @@ title: Regeling vangstbeperking
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-02-01"
-state_count: 25
+state_count: 24
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 25
 **Citeertitel:** Regeling vangstbeperking
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-vangstbeperking](https://wetten.ai/eli/nl/ministeriele-regeling/1994/regeling-vangstbeperking)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-vangstbeperking](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/regeling-vangstbeperking)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 25
 | 2007-06-03 | 2007-07-20 | [2007-06-03.md](./2007-06-03.md) |
 | 2007-02-01 | 2007-06-02 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-04 | 2007-01-31 | [2007-01-04.md](./2007-01-04.md) |
-| 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-08-17 | 2006-12-31 | [2006-08-17.md](./2006-08-17.md) |
 | 2006-01-01 | 2006-08-16 | [2006-01-01.md](./2006-01-01.md) |

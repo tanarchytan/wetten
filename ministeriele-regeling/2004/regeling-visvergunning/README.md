@@ -6,7 +6,7 @@ title: Regeling visvergunning
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Regeling visvergunning
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-visvergunning](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-visvergunning)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-visvergunning](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-visvergunning)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 18
 | 2005-02-01 | 2005-06-15 | [2005-02-01.md](./2005-02-01.md) |
 | 2005-01-01 | 2005-01-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-23 | 2004-12-31 | [2004-12-23.md](./2004-12-23.md) |
-| 2004-11-01 | 2004-12-22 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-12-22 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-02-11 | 2004-10-31 | [2004-02-11.md](./2004-02-11.md) |
 | 2004-01-02 | 2004-02-10 | [2004-01-02.md](./2004-01-02.md) |

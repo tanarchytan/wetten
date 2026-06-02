@@ -6,7 +6,7 @@ title: Besluit van 18 augustus 1988, houdende bepalingen met betrekking tot adsp
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2013-08-20"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit adspirant-registerloodsen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/1988/besluit-adspirant-registerloodsen](https://wetten.ai/eli/nl/amvb/1988/besluit-adspirant-registerloodsen)
+**ELI:** [/eli/nl/amvb/1988/besluit-adspirant-registerloodsen](https://wettenbank.online/eli/nl/amvb/1988/besluit-adspirant-registerloodsen)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2013-08-20 | 2013-12-31 | [2013-08-20.md](./2013-08-20.md) |
 | 2009-07-03 | 2013-08-19 | [2009-07-03.md](./2009-07-03.md) |
-| 2009-02-01 | 2009-07-02 | [2009-02-01.md](./2009-02-01.md) |
 | 2009-02-01 | 2009-07-02 | [2009-02-01.md](./2009-02-01.md) |
 | 2007-10-20 | 2009-01-31 | [2007-10-20.md](./2007-10-20.md) |
 | 2005-11-02 | 2007-10-19 | [2005-11-02.md](./2005-11-02.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken van 1 juli 2005, nr. WJZ 5
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-04-01"
-state_count: 11
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Besluit mandaat, volmacht en machtiging raad van bestuur van de Nederlandse Mededingingsautoriteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-raad-van-bestuur-van-](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-raad-van-bestuur-van-)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-raad-van-bestuur-van-](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-raad-van-bestuur-van-)
 
 ## Versies
 
@@ -26,10 +26,7 @@ state_count: 11
 | 2011-07-02 | 2013-03-31 | [2011-07-02.md](./2011-07-02.md) |
 | 2010-05-21 | 2011-07-01 | [2010-05-21.md](./2010-05-21.md) |
 | 2009-01-01 | 2010-05-20 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2010-05-20 | [2009-01-01.md](./2009-01-01.md) |
 | 2006-10-27 | 2008-12-31 | [2006-10-27.md](./2006-10-27.md) |
 | 2006-03-12 | 2006-10-26 | [2006-03-12.md](./2006-03-12.md) |
 | 2005-07-06 | 2006-03-11 | [2005-07-06.md](./2005-07-06.md) |
-| 2005-07-06 | 2006-03-11 | [2005-07-06.md](./2005-07-06.md) |
-| 2005-07-01 | 2005-07-05 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-07-05 | [2005-07-01.md](./2005-07-01.md) |

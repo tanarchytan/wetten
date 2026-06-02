@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap hou
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-06-21"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Subsidieregeling aansluiting digitale bibliotheek
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-aansluiting-digitale-bibliotheek](https://wetten.ai/eli/nl/ministeriele-regeling/2010/subsidieregeling-aansluiting-digitale-bibliotheek)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-aansluiting-digitale-bibliotheek](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/subsidieregeling-aansluiting-digitale-bibliotheek)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-06-21 | 2013-12-31 | [2011-06-21.md](./2011-06-21.md) |
-| 2010-08-28 | 2011-06-20 | [2010-08-28.md](./2010-08-28.md) |
 | 2010-08-28 | 2011-06-20 | [2010-08-28.md](./2010-08-28.md) |

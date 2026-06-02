@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vee en Vlees van 10 november 2004, houde
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2005-11-27"
-state_count: 15
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Verordening bestemmingsheffingen veeziektenfonds (PVV) 2005
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2005/verordening-bestemmingsheffingen-veeziektenfonds-pvv-2005](https://wetten.ai/eli/nl/pbo/2005/verordening-bestemmingsheffingen-veeziektenfonds-pvv-2005)
+**ELI:** [/eli/nl/pbo/2005/verordening-bestemmingsheffingen-veeziektenfonds-pvv-2005](https://wettenbank.online/eli/nl/pbo/2005/verordening-bestemmingsheffingen-veeziektenfonds-pvv-2005)
 
 ## Versies
 
@@ -24,16 +24,10 @@ state_count: 15
 |---|---|---|
 | 2005-11-27 | 2021-09-29 | [2005-11-27.md](./2005-11-27.md) |
 | 2005-10-08 | 2005-11-26 | [2005-10-08.md](./2005-10-08.md) |
-| 2005-10-08 | 2005-11-26 | [2005-10-08.md](./2005-10-08.md) |
 | 2005-10-01 | 2005-10-07 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-07 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-07 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-08-01 | 2005-09-30 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-08-01 | 2005-09-30 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-07-09 | 2005-07-31 | [2005-07-09.md](./2005-07-09.md) |
 | 2005-07-01 | 2005-07-08 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-07-01 | 2005-07-08 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-05-06 | 2005-06-30 | [2005-05-06.md](./2005-05-06.md) |
-| 2005-04-01 | 2005-05-05 | [2005-04-01.md](./2005-04-01.md) |
 | 2005-04-01 | 2005-05-05 | [2005-04-01.md](./2005-04-01.md) |
 | 2005-01-01 | 2005-03-31 | [2005-01-01.md](./2005-01-01.md) |

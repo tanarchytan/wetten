@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid en van de M
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2011-02-20"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling aanwijzing volkenrechtelijke organisaties in Nederland 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-volkenrechtelijke-organisaties-in-nederl](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-volkenrechtelijke-organisaties-in-nederl)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-volkenrechtelijke-organisaties-in-nederl](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-aanwijzing-volkenrechtelijke-organisaties-in-nederl)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-02-20 | 2014-12-31 | [2011-02-20.md](./2011-02-20.md) |
-| 2010-06-03 | 2011-02-19 | [2010-06-03.md](./2010-06-03.md) |
 | 2010-06-03 | 2011-02-19 | [2010-06-03.md](./2010-06-03.md) |

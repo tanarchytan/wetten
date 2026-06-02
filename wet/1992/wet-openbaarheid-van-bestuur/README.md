@@ -6,7 +6,7 @@ title: Wet van 31 oktober 1991, houdende regelen betreffende de openbaarheid van
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: WOB
 latest_state: "2018-07-28"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 12
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** WOB
-**ELI:** [/eli/nl/wet/1992/wet-openbaarheid-van-bestuur](https://wetten.ai/eli/nl/wet/1992/wet-openbaarheid-van-bestuur)
+**ELI:** [/eli/nl/wet/1992/wet-openbaarheid-van-bestuur](https://wettenbank.online/eli/nl/wet/1992/wet-openbaarheid-van-bestuur)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-07-28 | 2022-04-30 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-10-01 | 2018-05-24 | [2016-10-01.md](./2016-10-01.md) |
 | 2015-07-18 | 2016-09-30 | [2015-07-18.md](./2015-07-18.md) |

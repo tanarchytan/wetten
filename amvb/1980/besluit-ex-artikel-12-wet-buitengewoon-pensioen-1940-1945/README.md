@@ -6,7 +6,7 @@ title: Besluit van 23 november 1982, houdende vaststelling van een algemene maat
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit ex artikel 12 Wet buitengewoon pensioen 1940-1945
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1980/besluit-ex-artikel-12-wet-buitengewoon-pensioen-1940-1945](https://wetten.ai/eli/nl/amvb/1980/besluit-ex-artikel-12-wet-buitengewoon-pensioen-1940-1945)
+**ELI:** [/eli/nl/amvb/1980/besluit-ex-artikel-12-wet-buitengewoon-pensioen-1940-1945](https://wettenbank.online/eli/nl/amvb/1980/besluit-ex-artikel-12-wet-buitengewoon-pensioen-1940-1945)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2015-01-01 | heden | [2015-01-01.md](./2015-01-01.md) |
 | 2010-01-01 | 2014-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-23 | 2009-12-31 | [2009-12-23.md](./2009-12-23.md) |
-| 2009-01-01 | 2009-12-22 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-12-22 | [2009-01-01.md](./2009-01-01.md) |
 | 1998-01-01 | 2008-12-31 | [1998-01-01.md](./1998-01-01.md) |

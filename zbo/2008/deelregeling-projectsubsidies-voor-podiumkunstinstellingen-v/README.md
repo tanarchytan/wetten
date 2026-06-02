@@ -6,7 +6,7 @@ title: Deelregeling projectsubsidies voor podiumkunstinstellingen van het Nederl
 ministry: Fonds Podiumkunsten
 abbreviation: null
 latest_state: "2010-04-14"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Deelregeling projectsubsidies voor podiumkunstinstellingen van het Nederlands Fonds voor Podiumkunsten+ 2009–2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Fonds Podiumkunsten
-**ELI:** [/eli/nl/zbo/2008/deelregeling-projectsubsidies-voor-podiumkunstinstellingen-v](https://wetten.ai/eli/nl/zbo/2008/deelregeling-projectsubsidies-voor-podiumkunstinstellingen-v)
+**ELI:** [/eli/nl/zbo/2008/deelregeling-projectsubsidies-voor-podiumkunstinstellingen-v](https://wettenbank.online/eli/nl/zbo/2008/deelregeling-projectsubsidies-voor-podiumkunstinstellingen-v)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2010-04-14 | 2010-12-31 | [2010-04-14.md](./2010-04-14.md) |
 | 2010-01-01 | 2010-04-13 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-04-05 | 2009-12-31 | [2009-04-05.md](./2009-04-05.md) |
-| 2009-01-01 | 2009-04-04 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-04-04 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-10-10 | 2008-12-31 | [2008-10-10.md](./2008-10-10.md) |

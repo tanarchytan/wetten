@@ -6,7 +6,7 @@ title: Besluit van 17 december 2003, houdende wijziging van het Besluit Infrastr
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2005-04-06"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Wijzigingsbesluit Gebundelde doeluitkering
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2004/wijzigingsbesluit-gebundelde-doeluitkering](https://wetten.ai/eli/nl/amvb/2004/wijzigingsbesluit-gebundelde-doeluitkering)
+**ELI:** [/eli/nl/amvb/2004/wijzigingsbesluit-gebundelde-doeluitkering](https://wettenbank.online/eli/nl/amvb/2004/wijzigingsbesluit-gebundelde-doeluitkering)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-04-06 | 2021-12-31 | [2005-04-06.md](./2005-04-06.md) |
-| 2005-03-16 | 2005-04-05 | [2005-03-16.md](./2005-03-16.md) |
 | 2005-03-16 | 2005-04-05 | [2005-03-16.md](./2005-03-16.md) |
 | 2004-03-31 | 2005-03-15 | [2004-03-31.md](./2004-03-31.md) |

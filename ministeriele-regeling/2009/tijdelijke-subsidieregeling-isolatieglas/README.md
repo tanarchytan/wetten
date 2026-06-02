@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Wonen, Wijken en Integratie van 21 septemb
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-03-02"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Tijdelijke subsidieregeling isolatieglas
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-isolatieglas](https://wetten.ai/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-isolatieglas)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-isolatieglas](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-isolatieglas)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-03-02 | 2010-12-31 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-02-01 | 2010-03-01 | [2010-02-01.md](./2010-02-01.md) |
 | 2010-02-01 | 2010-03-01 | [2010-02-01.md](./2010-02-01.md) |
 | 2009-10-01 | 2010-01-31 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-07-01 | 2009-09-30 | [2009-07-01.md](./2009-07-01.md) |

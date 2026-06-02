@@ -6,7 +6,7 @@ title: Verordening van het Productschap Zuivel van 31 oktober 2007, houdende va
 ministry: Productschap Zuivel
 abbreviation: null
 latest_state: "2008-05-17"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Zuivelverordening heffing afzetbevordering zuivel 2008
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Zuivel
-**ELI:** [/eli/nl/pbo/2008/zuivelverordening-heffing-afzetbevordering-zuivel-2008](https://wetten.ai/eli/nl/pbo/2008/zuivelverordening-heffing-afzetbevordering-zuivel-2008)
+**ELI:** [/eli/nl/pbo/2008/zuivelverordening-heffing-afzetbevordering-zuivel-2008](https://wettenbank.online/eli/nl/pbo/2008/zuivelverordening-heffing-afzetbevordering-zuivel-2008)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2008-05-17 | 2013-05-31 | [2008-05-17.md](./2008-05-17.md) |
 | 2008-01-05 | 2008-05-16 | [2008-01-05.md](./2008-01-05.md) |
-| 2008-01-05 | 2008-05-16 | [2008-01-05.md](./2008-01-05.md) |
-| 2008-01-01 | 2008-01-04 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-01-04 | [2008-01-01.md](./2008-01-01.md) |

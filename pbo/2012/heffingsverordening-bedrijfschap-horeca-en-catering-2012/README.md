@@ -6,7 +6,7 @@ title: Verordening van het Bedrijfschap Horeca en Catering, houdende regels ter 
 ministry: Bedrijfschap Horeca en Catering
 abbreviation: null
 latest_state: "2012-05-12"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Heffingsverordening Bedrijfschap Horeca en Catering 2012
 **Type:** pbo
 **Verantwoordelijk ministerie:** Bedrijfschap Horeca en Catering
-**ELI:** [/eli/nl/pbo/2012/heffingsverordening-bedrijfschap-horeca-en-catering-2012](https://wetten.ai/eli/nl/pbo/2012/heffingsverordening-bedrijfschap-horeca-en-catering-2012)
+**ELI:** [/eli/nl/pbo/2012/heffingsverordening-bedrijfschap-horeca-en-catering-2012](https://wettenbank.online/eli/nl/pbo/2012/heffingsverordening-bedrijfschap-horeca-en-catering-2012)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-05-12 | 2019-10-15 | [2012-05-12.md](./2012-05-12.md) |
-| 2012-01-01 | 2012-05-11 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-05-11 | [2012-01-01.md](./2012-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister-President, Minister van Algemene Zaken, van 1 jan
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2025-04-29"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Mandaatbesluit Algemene Zaken 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-algemene-zaken-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2020/mandaatbesluit-algemene-zaken-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-algemene-zaken-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/mandaatbesluit-algemene-zaken-2020)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-04-29 | heden | [2025-04-29.md](./2025-04-29.md) |
-| 2025-01-01 | 2025-04-28 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-04-28 | [2025-01-01.md](./2025-01-01.md) |
 | 2020-01-01 | 2024-12-31 | [2020-01-01.md](./2020-01-01.md) |

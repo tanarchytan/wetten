@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 nov
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-09-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Subsidieregeling opleiding tot advanced nurse practitioner en opleiding tot physician assistant
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-opleiding-tot-advanced-nurse-practitioner-e](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-opleiding-tot-advanced-nurse-practitioner-e)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-opleiding-tot-advanced-nurse-practitioner-e](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-opleiding-tot-advanced-nurse-practitioner-e)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 13
 | 2016-04-01 | 2017-06-30 | [2016-04-01.md](./2016-04-01.md) |
 | 2014-06-06 | 2016-03-31 | [2014-06-06.md](./2014-06-06.md) |
 | 2012-12-22 | 2014-06-05 | [2012-12-22.md](./2012-12-22.md) |
-| 2012-09-01 | 2012-12-21 | [2012-09-01.md](./2012-09-01.md) |
 | 2012-09-01 | 2012-12-21 | [2012-09-01.md](./2012-09-01.md) |
 | 2011-07-01 | 2012-08-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2009-09-11 | 2011-06-30 | [2009-09-11.md](./2009-09-11.md) |

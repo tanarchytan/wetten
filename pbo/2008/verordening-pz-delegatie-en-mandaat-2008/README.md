@@ -6,7 +6,7 @@ title: Verordening van het bestuur van het Productschap Zuivel van 26 maart 200
 ministry: Productschap Zuivel
 abbreviation: null
 latest_state: "2008-11-08"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening PZ Delegatie en mandaat 2008
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Zuivel
-**ELI:** [/eli/nl/pbo/2008/verordening-pz-delegatie-en-mandaat-2008](https://wetten.ai/eli/nl/pbo/2008/verordening-pz-delegatie-en-mandaat-2008)
+**ELI:** [/eli/nl/pbo/2008/verordening-pz-delegatie-en-mandaat-2008](https://wettenbank.online/eli/nl/pbo/2008/verordening-pz-delegatie-en-mandaat-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-11-08 | 2014-12-31 | [2008-11-08.md](./2008-11-08.md) |
-| 2008-08-01 | 2008-11-07 | [2008-08-01.md](./2008-08-01.md) |
 | 2008-08-01 | 2008-11-07 | [2008-08-01.md](./2008-08-01.md) |
 | 2008-04-01 | 2008-07-31 | [2008-04-01.md](./2008-04-01.md) |

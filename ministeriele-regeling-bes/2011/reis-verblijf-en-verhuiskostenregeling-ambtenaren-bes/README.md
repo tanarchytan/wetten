@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2018-10-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Reis- verblijf- en verhuiskostenregeling ambtenaren BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/reis-verblijf-en-verhuiskostenregeling-ambtenaren-bes](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2011/reis-verblijf-en-verhuiskostenregeling-ambtenaren-bes)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/reis-verblijf-en-verhuiskostenregeling-ambtenaren-bes](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2011/reis-verblijf-en-verhuiskostenregeling-ambtenaren-bes)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2018-10-01 | heden | [2018-10-01.md](./2018-10-01.md) |
 | 2015-04-01 | 2018-09-30 | [2015-04-01.md](./2015-04-01.md) |
-| 2011-10-09 | 2015-03-31 | [2011-10-09.md](./2011-10-09.md) |
 | 2011-10-09 | 2015-03-31 | [2011-10-09.md](./2011-10-09.md) |
 | 2011-01-15 | 2011-10-08 | [2011-01-15.md](./2011-01-15.md) |
 | 2010-10-10 | 2011-01-14 | [2010-10-10.md](./2010-10-10.md) |

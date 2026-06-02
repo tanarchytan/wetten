@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 decem
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2018-11-14"
-state_count: 12
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Tijdelijke subsidieregeling versterking taal- en interactievaardigheden beroepskrachten en gastouders in de kinderopvang
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2014/tijdelijke-subsidieregeling-versterking-taal-en-interactieva](https://wetten.ai/eli/nl/ministeriele-regeling/2014/tijdelijke-subsidieregeling-versterking-taal-en-interactieva)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/tijdelijke-subsidieregeling-versterking-taal-en-interactieva](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/tijdelijke-subsidieregeling-versterking-taal-en-interactieva)
 
 ## Versies
 
@@ -24,13 +24,10 @@ state_count: 12
 |---|---|---|
 | 2018-11-14 | 2018-12-31 | [2018-11-14.md](./2018-11-14.md) |
 | 2018-02-08 | 2018-11-13 | [2018-02-08.md](./2018-02-08.md) |
-| 2018-02-08 | 2018-11-13 | [2018-02-08.md](./2018-02-08.md) |
-| 2018-01-01 | 2018-02-07 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-07 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-03-02 | 2017-12-31 | [2017-03-02.md](./2017-03-02.md) |
 | 2017-01-01 | 2017-03-01 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-03-11 | 2015-12-31 | [2015-03-11.md](./2015-03-11.md) |
-| 2015-02-27 | 2015-03-10 | [2015-02-27.md](./2015-02-27.md) |
 | 2015-02-27 | 2015-03-10 | [2015-02-27.md](./2015-02-27.md) |
 | 2014-12-16 | 2015-02-26 | [2014-12-16.md](./2014-12-16.md) |

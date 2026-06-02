@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 5 ma
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2008-01-17"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Openstellingsbesluit LNV-subsidies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/openstellingsbesluit-lnv-subsidies](https://wetten.ai/eli/nl/ministeriele-regeling/2007/openstellingsbesluit-lnv-subsidies)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/openstellingsbesluit-lnv-subsidies](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/openstellingsbesluit-lnv-subsidies)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 11
 | 2007-11-25 | 2008-01-16 | [2007-11-25.md](./2007-11-25.md) |
 | 2007-08-26 | 2007-11-24 | [2007-08-26.md](./2007-08-26.md) |
 | 2007-06-01 | 2007-08-25 | [2007-06-01.md](./2007-06-01.md) |
-| 2007-06-01 | 2007-08-25 | [2007-06-01.md](./2007-06-01.md) |
-| 2007-05-25 | 2007-05-31 | [2007-05-25.md](./2007-05-25.md) |
 | 2007-05-25 | 2007-05-31 | [2007-05-25.md](./2007-05-25.md) |
 | 2007-04-27 | 2007-05-24 | [2007-04-27.md](./2007-04-27.md) |
 | 2007-04-20 | 2007-04-26 | [2007-04-20.md](./2007-04-20.md) |

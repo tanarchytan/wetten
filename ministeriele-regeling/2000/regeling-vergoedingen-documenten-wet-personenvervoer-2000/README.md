@@ -6,7 +6,7 @@ title: Regeling vergoedingen documenten Wet personenvervoer 2000
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 36
+state_count: 31
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 36
 **Citeertitel:** Regeling vergoedingen documenten Wet personenvervoer 2000
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-vergoedingen-documenten-wet-personenvervoer-2000](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-vergoedingen-documenten-wet-personenvervoer-2000)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-vergoedingen-documenten-wet-personenvervoer-2000](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/regeling-vergoedingen-documenten-wet-personenvervoer-2000)
 
 ## Versies
 
@@ -26,12 +26,10 @@ state_count: 36
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-07-02 | 2020-12-31 | [2020-07-02.md](./2020-07-02.md) |
 | 2020-07-01 | 2020-07-01 | [2020-07-01.md](./2020-07-01.md) |
-| 2020-07-01 | 2020-07-01 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-01-18 | 2020-06-30 | [2020-01-18.md](./2020-01-18.md) |
 | 2019-01-01 | 2020-01-17 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-05-04 | 2018-12-31 | [2018-05-04.md](./2018-05-04.md) |
 | 2016-01-23 | 2018-05-03 | [2016-01-23.md](./2016-01-23.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-01 | 2016-01-17 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
@@ -41,10 +39,8 @@ state_count: 36
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-10-16 | 2011-12-31 | [2011-10-16.md](./2011-10-16.md) |
 | 2011-10-01 | 2011-10-15 | [2011-10-01.md](./2011-10-01.md) |
-| 2011-10-01 | 2011-10-15 | [2011-10-01.md](./2011-10-01.md) |
 | 2011-07-01 | 2011-09-30 | [2011-07-01.md](./2011-07-01.md) |
 | 2010-09-16 | 2011-06-30 | [2010-09-16.md](./2010-09-16.md) |
-| 2010-06-01 | 2010-09-15 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-06-01 | 2010-09-15 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-01-01 | 2010-05-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
@@ -52,7 +48,6 @@ state_count: 36
 | 2007-01-01 | 2008-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-08-24 | 2005-12-31 | [2005-08-24.md](./2005-08-24.md) |
-| 2005-08-01 | 2005-08-23 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-08-01 | 2005-08-23 | [2005-08-01.md](./2005-08-01.md) |
 | 2005-02-01 | 2005-07-31 | [2005-02-01.md](./2005-02-01.md) |
 | 2004-07-14 | 2005-01-31 | [2004-07-14.md](./2004-07-14.md) |

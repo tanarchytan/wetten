@@ -6,7 +6,7 @@ title: Wet van 24 december 1998 tot uitvoering van verordening (EG) nr. 2271/96 
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Wet uitvoering antiboycotverordening
 **Type:** wet
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/wet/1999/wet-uitvoering-antiboycotverordening](https://wetten.ai/eli/nl/wet/1999/wet-uitvoering-antiboycotverordening)
+**ELI:** [/eli/nl/wet/1999/wet-uitvoering-antiboycotverordening](https://wettenbank.online/eli/nl/wet/1999/wet-uitvoering-antiboycotverordening)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2019-01-01 | heden | [2019-01-01.md](./2019-01-01.md) |
 | 2014-01-25 | 2018-12-31 | [2014-01-25.md](./2014-01-25.md) |
-| 2014-01-25 | 2018-12-31 | [2014-01-25.md](./2014-01-25.md) |
-| 2012-11-05 | 2014-01-24 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-11-05 | 2014-01-24 | [2012-11-05.md](./2012-11-05.md) |
 | 2012-02-08 | 2012-11-04 | [2012-02-08.md](./2012-02-08.md) |
 | 1999-02-03 | 2012-02-07 | [1999-02-03.md](./1999-02-03.md) |

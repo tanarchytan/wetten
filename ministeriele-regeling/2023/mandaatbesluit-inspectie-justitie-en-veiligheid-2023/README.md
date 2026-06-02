@@ -6,7 +6,7 @@ title: Besluit van de inspecteur-generaal van de Inspectie Justitie en Veilighei
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2024-06-28"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Mandaatbesluit Inspectie Justitie en Veiligheid 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatbesluit-inspectie-justitie-en-veiligheid-2023](https://wetten.ai/eli/nl/ministeriele-regeling/2023/mandaatbesluit-inspectie-justitie-en-veiligheid-2023)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/mandaatbesluit-inspectie-justitie-en-veiligheid-2023](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/mandaatbesluit-inspectie-justitie-en-veiligheid-2023)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-06-28 | heden | [2024-06-28.md](./2024-06-28.md) |
-| 2024-04-01 | 2024-06-27 | [2024-04-01.md](./2024-04-01.md) |
 | 2024-04-01 | 2024-06-27 | [2024-04-01.md](./2024-04-01.md) |
 | 2023-07-22 | 2024-03-31 | [2023-07-22.md](./2023-07-22.md) |
 | 2023-03-01 | 2023-07-21 | [2023-03-01.md](./2023-03-01.md) |

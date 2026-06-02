@@ -6,7 +6,7 @@ title: Besluit van 16 juni 2004, houdende een regeling op grond waarvan onder vo
 ministry: Financiën
 abbreviation: null
 latest_state: "2008-08-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Besluit vrijstelling energiebelasting op elektriciteit bij convenanten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2004/besluit-vrijstelling-energiebelasting-op-elektriciteit-bij-c](https://wetten.ai/eli/nl/amvb/2004/besluit-vrijstelling-energiebelasting-op-elektriciteit-bij-c)
+**ELI:** [/eli/nl/amvb/2004/besluit-vrijstelling-energiebelasting-op-elektriciteit-bij-c](https://wettenbank.online/eli/nl/amvb/2004/besluit-vrijstelling-energiebelasting-op-elektriciteit-bij-c)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-08-01 | 2012-12-31 | [2008-08-01.md](./2008-08-01.md) |
-| 2008-01-01 | 2008-07-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-07-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2004-07-01 | 2006-12-31 | [2004-07-01.md](./2004-07-01.md) |

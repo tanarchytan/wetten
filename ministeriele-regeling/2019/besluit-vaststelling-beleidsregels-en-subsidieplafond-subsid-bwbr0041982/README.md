@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2022-01-26"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit vaststelling beleidsregels en subsidieplafond subsidiëring ex Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Verantwoord Ondernemen 2019–2022)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-en-subsidieplafond-subsid-bwbr0041982](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-en-subsidieplafond-subsid-bwbr0041982)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-en-subsidieplafond-subsid-bwbr0041982](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidsregels-en-subsidieplafond-subsid-bwbr0041982)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2022-01-26 | 2022-12-31 | [2022-01-26.md](./2022-01-26.md) |
 | 2021-02-17 | 2022-01-25 | [2021-02-17.md](./2021-02-17.md) |
-| 2020-12-01 | 2021-02-16 | [2020-12-01.md](./2020-12-01.md) |
 | 2020-12-01 | 2021-02-16 | [2020-12-01.md](./2020-12-01.md) |
 | 2020-07-28 | 2020-11-30 | [2020-07-28.md](./2020-07-28.md) |
 | 2020-01-29 | 2020-07-27 | [2020-01-29.md](./2020-01-29.md) |

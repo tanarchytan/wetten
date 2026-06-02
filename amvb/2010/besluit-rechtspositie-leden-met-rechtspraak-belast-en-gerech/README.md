@@ -6,7 +6,7 @@ title: Besluit van 16 november 2010, houdende regels met betrekking tot de overe
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-12-31"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2010/besluit-rechtspositie-leden-met-rechtspraak-belast-en-gerech](https://wetten.ai/eli/nl/amvb/2010/besluit-rechtspositie-leden-met-rechtspraak-belast-en-gerech)
+**ELI:** [/eli/nl/amvb/2010/besluit-rechtspositie-leden-met-rechtspraak-belast-en-gerech](https://wettenbank.online/eli/nl/amvb/2010/besluit-rechtspositie-leden-met-rechtspraak-belast-en-gerech)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2016-12-31 | heden | [2016-12-31.md](./2016-12-31.md) |
 | 2015-01-13 | 2016-12-30 | [2015-01-13.md](./2015-01-13.md) |
 | 2014-11-22 | 2015-01-12 | [2014-11-22.md](./2014-11-22.md) |
-| 2012-07-13 | 2014-11-21 | [2012-07-13.md](./2012-07-13.md) |
 | 2012-07-13 | 2014-11-21 | [2012-07-13.md](./2012-07-13.md) |
 | 2011-01-01 | 2012-07-12 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-11-26 | 2010-12-31 | [2010-11-26.md](./2010-11-26.md) |

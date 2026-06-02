@@ -6,7 +6,7 @@ title: "Besluit van 17 januari 2005, houdende actualisering van het Bekostigings
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2005-04-06"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit actualisering Bekostigingsbesluit W.V.O., enz. (wijziging bekostigingsbepalingen)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2005/besluit-actualisering-bekostigingsbesluit-w-v-o-enz-wijzigin](https://wetten.ai/eli/nl/amvb/2005/besluit-actualisering-bekostigingsbesluit-w-v-o-enz-wijzigin)
+**ELI:** [/eli/nl/amvb/2005/besluit-actualisering-bekostigingsbesluit-w-v-o-enz-wijzigin](https://wettenbank.online/eli/nl/amvb/2005/besluit-actualisering-bekostigingsbesluit-w-v-o-enz-wijzigin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-04-06 | 2021-09-30 | [2005-04-06.md](./2005-04-06.md) |
-| 2005-02-16 | 2005-04-05 | [2005-02-16.md](./2005-02-16.md) |
 | 2005-02-16 | 2005-04-05 | [2005-02-16.md](./2005-02-16.md) |
 | 2003-08-01 | 2005-02-15 | [2003-08-01.md](./2003-08-01.md) |

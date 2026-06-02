@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 28 mei 2003, nr. 03/02
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2004-07-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling subsidies elektronische communicatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-subsidies-elektronische-communicatie](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-subsidies-elektronische-communicatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-subsidies-elektronische-communicatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-subsidies-elektronische-communicatie)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2004-07-01 | 2006-06-27 | [2004-07-01.md](./2004-07-01.md) |
 | 2003-12-25 | 2004-06-30 | [2003-12-25.md](./2003-12-25.md) |
-| 2003-07-01 | 2003-12-24 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-12-24 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-06-05 | 2003-06-30 | [2003-06-05.md](./2003-06-05.md) |

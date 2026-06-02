@@ -6,7 +6,7 @@ title: Wet van 3 oktober 2018 tot wijziging van een aantal wetten op het terrein
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verzamelwet VWS 2018
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/2018/verzamelwet-vws-2018](https://wetten.ai/eli/nl/wet/2018/verzamelwet-vws-2018)
+**ELI:** [/eli/nl/wet/2018/verzamelwet-vws-2018](https://wettenbank.online/eli/nl/wet/2018/verzamelwet-vws-2018)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2019-01-01 | heden | [2019-01-01.md](./2019-01-01.md) |
 | 2018-11-17 | 2018-12-31 | [2018-11-17.md](./2018-11-17.md) |
-| 2018-10-24 | 2018-11-16 | [2018-10-24.md](./2018-10-24.md) |
 | 2018-10-24 | 2018-11-16 | [2018-10-24.md](./2018-10-24.md) |
 | 2017-01-01 | 2018-10-23 | [2017-01-01.md](./2017-01-01.md) |

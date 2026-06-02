@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuuren Voedselkwaliteit van 11 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling dierlijke bijproducten 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-dierlijke-bijproducten-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-dierlijke-bijproducten-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-dierlijke-bijproducten-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-dierlijke-bijproducten-2008)
 
 ## Versies
 
@@ -29,7 +29,5 @@ state_count: 11
 | 2009-12-28 | 2009-12-31 | [2009-12-28.md](./2009-12-28.md) |
 | 2009-01-01 | 2009-12-27 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-12-26 | 2008-12-31 | [2008-12-26.md](./2008-12-26.md) |
-| 2008-12-26 | 2008-12-31 | [2008-12-26.md](./2008-12-26.md) |
-| 2008-07-01 | 2008-12-25 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2008-12-25 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 13 december 2007 tot wijziging van de Zorgverzekeringswet en ande
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2009-11-27"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering)
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/2007/wijzigingswet-zorgverzekeringswet-enz-verzwaren-incassoregim](https://wetten.ai/eli/nl/wet/2007/wijzigingswet-zorgverzekeringswet-enz-verzwaren-incassoregim)
+**ELI:** [/eli/nl/wet/2007/wijzigingswet-zorgverzekeringswet-enz-verzwaren-incassoregim](https://wettenbank.online/eli/nl/wet/2007/wijzigingswet-zorgverzekeringswet-enz-verzwaren-incassoregim)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2009-11-27 | heden | [2009-11-27.md](./2009-11-27.md) |
 | 2008-01-01 | 2009-11-26 | [2008-01-01.md](./2008-01-01.md) |
-| 2007-12-21 | 2007-12-31 | [2007-12-21.md](./2007-12-21.md) |
 | 2007-12-21 | 2007-12-31 | [2007-12-21.md](./2007-12-21.md) |
 | 2007-01-01 | 2007-12-20 | [2007-01-01.md](./2007-01-01.md) |

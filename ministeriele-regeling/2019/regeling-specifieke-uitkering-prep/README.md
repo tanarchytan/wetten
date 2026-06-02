@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 11 juli 2019, kenmerk 155
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 12
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling specifieke uitkering PrEP
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-specifieke-uitkering-prep](https://wetten.ai/eli/nl/ministeriele-regeling/2019/regeling-specifieke-uitkering-prep)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-specifieke-uitkering-prep](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/regeling-specifieke-uitkering-prep)
 
 ## Versies
 
@@ -24,12 +24,8 @@ state_count: 12
 |---|---|---|
 | 2023-01-01 | 2024-07-31 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-01-29 | 2022-12-31 | [2022-01-29.md](./2022-01-29.md) |
-| 2022-01-29 | 2022-12-31 | [2022-01-29.md](./2022-01-29.md) |
-| 2022-01-02 | 2022-01-28 | [2022-01-02.md](./2022-01-02.md) |
-| 2022-01-02 | 2022-01-28 | [2022-01-02.md](./2022-01-02.md) |
 | 2022-01-02 | 2022-01-28 | [2022-01-02.md](./2022-01-02.md) |
 | 2021-04-24 | 2022-01-01 | [2021-04-24.md](./2021-04-24.md) |
-| 2021-01-01 | 2021-04-23 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-04-23 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-08-01 | 2020-12-31 | [2019-08-01.md](./2019-08-01.md) |
 | 2019-07-23 | 2019-07-31 | [2019-07-23.md](./2019-07-23.md) |

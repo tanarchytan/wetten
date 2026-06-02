@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 apri
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-09-01"
-state_count: 30
+state_count: 25
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 30
 **Citeertitel:** Regeling aanmelding en toelating hoger onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-aanmelding-en-toelating-hoger-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-aanmelding-en-toelating-hoger-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-aanmelding-en-toelating-hoger-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-aanmelding-en-toelating-hoger-onderwijs)
 
 ## Versies
 
@@ -31,13 +31,8 @@ state_count: 30
 | 2022-01-01 | 2022-04-14 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-09-11 | 2021-12-31 | [2021-09-11.md](./2021-09-11.md) |
 | 2021-09-01 | 2021-09-10 | [2021-09-01.md](./2021-09-01.md) |
-| 2021-09-01 | 2021-09-10 | [2021-09-01.md](./2021-09-01.md) |
-| 2021-08-01 | 2021-08-31 | [2021-08-01.md](./2021-08-01.md) |
 | 2021-08-01 | 2021-08-31 | [2021-08-01.md](./2021-08-01.md) |
 | 2020-09-12 | 2021-07-31 | [2020-09-12.md](./2020-09-12.md) |
-| 2020-09-12 | 2021-07-31 | [2020-09-12.md](./2020-09-12.md) |
-| 2020-09-01 | 2020-09-11 | [2020-09-01.md](./2020-09-01.md) |
-| 2020-09-01 | 2020-09-11 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-09-01 | 2020-09-11 | [2020-09-01.md](./2020-09-01.md) |
 | 2019-09-01 | 2020-08-31 | [2019-09-01.md](./2019-09-01.md) |
 | 2019-01-01 | 2019-08-31 | [2019-01-01.md](./2019-01-01.md) |

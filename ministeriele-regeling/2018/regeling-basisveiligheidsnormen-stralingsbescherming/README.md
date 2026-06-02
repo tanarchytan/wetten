@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, de Sta
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling basisveiligheidsnormen stralingsbescherming
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-basisveiligheidsnormen-stralingsbescherming](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-basisveiligheidsnormen-stralingsbescherming)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-basisveiligheidsnormen-stralingsbescherming](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-basisveiligheidsnormen-stralingsbescherming)
 
 ## Versies
 
@@ -26,5 +26,4 @@ state_count: 6
 | 2025-01-01 | 2025-06-30 | [2025-01-01.md](./2025-01-01.md) |
 | 2022-08-24 | 2024-12-31 | [2022-08-24.md](./2022-08-24.md) |
 | 2019-02-15 | 2022-08-23 | [2019-02-15.md](./2019-02-15.md) |
-| 2018-02-06 | 2019-02-14 | [2018-02-06.md](./2018-02-06.md) |
 | 2018-02-06 | 2019-02-14 | [2018-02-06.md](./2018-02-06.md) |

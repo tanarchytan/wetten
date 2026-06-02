@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 19 december 20
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2003-06-19"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling vergoedingen OPTA 2003
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-vergoedingen-opta-2003](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-vergoedingen-opta-2003)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-vergoedingen-opta-2003](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-vergoedingen-opta-2003)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-06-19 | 2003-12-31 | [2003-06-19.md](./2003-06-19.md) |
-| 2003-05-21 | 2003-06-18 | [2003-05-21.md](./2003-05-21.md) |
 | 2003-05-21 | 2003-06-18 | [2003-05-21.md](./2003-05-21.md) |
 | 2003-01-01 | 2003-05-20 | [2003-01-01.md](./2003-01-01.md) |

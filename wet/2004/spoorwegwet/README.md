@@ -6,7 +6,7 @@ title: Wet van 23 april 2003, houdende nieuwe algemene regels over de aanleg, he
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 48
+state_count: 45
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 48
 **Citeertitel:** Spoorwegwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/2004/spoorwegwet](https://wetten.ai/eli/nl/wet/2004/spoorwegwet)
+**ELI:** [/eli/nl/wet/2004/spoorwegwet](https://wettenbank.online/eli/nl/wet/2004/spoorwegwet)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 48
 | 2019-04-01 | 2019-06-15 | [2019-04-01.md](./2019-04-01.md) |
 | 2019-03-07 | 2019-03-31 | [2019-03-07.md](./2019-03-07.md) |
 | 2018-07-28 | 2019-03-06 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-02-17 | 2018-05-24 | [2018-02-17.md](./2018-02-17.md) |
 | 2018-01-01 | 2018-02-16 | [2018-01-01.md](./2018-01-01.md) |
@@ -66,7 +65,5 @@ state_count: 48
 | 2005-07-01 | 2005-08-02 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-03-16 | 2005-06-30 | [2005-03-16.md](./2005-03-16.md) |
 | 2005-02-15 | 2005-03-15 | [2005-02-15.md](./2005-02-15.md) |
-| 2005-02-15 | 2005-03-15 | [2005-02-15.md](./2005-02-15.md) |
-| 2005-01-01 | 2005-02-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-02-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-31 | 2004-12-31 | [2004-12-31.md](./2004-12-31.md) |

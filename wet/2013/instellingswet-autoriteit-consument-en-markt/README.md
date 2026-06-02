@@ -6,7 +6,7 @@ title: Wet van 28 februari 2013, houdende regels omtrent de instelling van de Au
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2025-09-01"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Instellingswet Autoriteit Consument en Markt
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2013/instellingswet-autoriteit-consument-en-markt](https://wetten.ai/eli/nl/wet/2013/instellingswet-autoriteit-consument-en-markt)
+**ELI:** [/eli/nl/wet/2013/instellingswet-autoriteit-consument-en-markt](https://wettenbank.online/eli/nl/wet/2013/instellingswet-autoriteit-consument-en-markt)
 
 ## Versies
 
@@ -33,7 +33,6 @@ state_count: 16
 | 2016-01-01 | 2016-06-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-12-15 | 2015-12-31 | [2015-12-15.md](./2015-12-15.md) |
 | 2015-06-18 | 2015-12-14 | [2015-06-18.md](./2015-06-18.md) |
-| 2015-01-01 | 2015-06-17 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-06-17 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-08-01 | 2014-12-31 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-03-15 | 2014-07-31 | [2014-03-15.md](./2014-03-15.md) |

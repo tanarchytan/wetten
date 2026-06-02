@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augu
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2010-03-24"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit mandaat, volmacht en machtiging Agentschap NL Subsidieregeling TTI
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-subsidi](https://wetten.ai/eli/nl/ministeriele-regeling/2006/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-subsidi)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-subsidi](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-subsidi)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-03-24 | heden | [2010-03-24.md](./2010-03-24.md) |
-| 2010-01-01 | 2010-03-23 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-23 | [2010-01-01.md](./2010-01-01.md) |
 | 2006-09-02 | 2009-12-31 | [2006-09-02.md](./2006-09-02.md) |

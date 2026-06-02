@@ -6,7 +6,7 @@ title: "Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbeslui
 ministry: Financiën
 abbreviation: Uitv besl  BPM
 latest_state: "2025-01-01"
-state_count: 22
+state_count: 21
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 22
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Uitv besl  BPM
-**ELI:** [/eli/nl/amvb/1993/uitvoeringsbesluit-belasting-van-personenauto-s-en-motorrijw](https://wetten.ai/eli/nl/amvb/1993/uitvoeringsbesluit-belasting-van-personenauto-s-en-motorrijw)
+**ELI:** [/eli/nl/amvb/1993/uitvoeringsbesluit-belasting-van-personenauto-s-en-motorrijw](https://wettenbank.online/eli/nl/amvb/1993/uitvoeringsbesluit-belasting-van-personenauto-s-en-motorrijw)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 22
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2016-01-01 | 2019-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
-| 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |

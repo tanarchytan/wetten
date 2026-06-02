@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-11-26"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-aanwijzing-en-gebruik-frequentieruimte-commerci-le-](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-aanwijzing-en-gebruik-frequentieruimte-commerci-le-)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-aanwijzing-en-gebruik-frequentieruimte-commerci-le-](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-aanwijzing-en-gebruik-frequentieruimte-commerci-le-)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 15
 | 2014-01-01 | 2015-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-04-24 | 2013-12-31 | [2013-04-24.md](./2013-04-24.md) |
 | 2011-05-27 | 2013-04-23 | [2011-05-27.md](./2011-05-27.md) |
-| 2011-04-30 | 2011-05-26 | [2011-04-30.md](./2011-04-30.md) |
 | 2011-04-30 | 2011-05-26 | [2011-04-30.md](./2011-04-30.md) |
 | 2009-03-27 | 2011-04-29 | [2009-03-27.md](./2009-03-27.md) |
 | 2007-11-15 | 2009-03-26 | [2007-11-15.md](./2007-11-15.md) |

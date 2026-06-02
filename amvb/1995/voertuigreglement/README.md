@@ -6,7 +6,7 @@ title: Besluit van 16 juni 1994, houdende uitvoering van de Wegenverkeerswet 199
 ministry: Infrastructuur en Milieu
 abbreviation: VR
 latest_state: "2009-03-01"
-state_count: 59
+state_count: 58
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 59
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** VR
-**ELI:** [/eli/nl/amvb/1995/voertuigreglement](https://wetten.ai/eli/nl/amvb/1995/voertuigreglement)
+**ELI:** [/eli/nl/amvb/1995/voertuigreglement](https://wettenbank.online/eli/nl/amvb/1995/voertuigreglement)
 
 ## Versies
 
@@ -75,7 +75,6 @@ state_count: 59
 | 2003-05-21 | 2003-06-30 | [2003-05-21.md](./2003-05-21.md) |
 | 2003-01-01 | 2003-05-20 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-11-15 | 2002-12-31 | [2002-11-15.md](./2002-11-15.md) |
-| 2002-10-15 | 2002-11-14 | [2002-10-15.md](./2002-10-15.md) |
 | 2002-10-15 | 2002-11-14 | [2002-10-15.md](./2002-10-15.md) |
 | 2002-09-01 | 2002-10-14 | [2002-09-01.md](./2002-09-01.md) |
 | 2002-08-01 | 2002-08-31 | [2002-08-01.md](./2002-08-01.md) |

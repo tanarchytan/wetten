@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 10 juni 2004 houdende
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2006-09-17"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening HPA bestrijding knolcyperus 2004
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2004/verordening-hpa-bestrijding-knolcyperus-2004](https://wetten.ai/eli/nl/pbo/2004/verordening-hpa-bestrijding-knolcyperus-2004)
+**ELI:** [/eli/nl/pbo/2004/verordening-hpa-bestrijding-knolcyperus-2004](https://wettenbank.online/eli/nl/pbo/2004/verordening-hpa-bestrijding-knolcyperus-2004)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2006-09-17 | 2014-12-31 | [2006-09-17.md](./2006-09-17.md) |
 | 2006-05-28 | 2006-09-16 | [2006-05-28.md](./2006-05-28.md) |
-| 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-07-25 | 2005-12-31 | [2004-07-25.md](./2004-07-25.md) |

@@ -6,7 +6,7 @@ title: Besluit van 20 december 2016 tot wijziging van het Besluit SUWI en enkele
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 12
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Verzamelbesluit SZW 2017
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2016/verzamelbesluit-szw-2017](https://wetten.ai/eli/nl/amvb/2016/verzamelbesluit-szw-2017)
+**ELI:** [/eli/nl/amvb/2016/verzamelbesluit-szw-2017](https://wettenbank.online/eli/nl/amvb/2016/verzamelbesluit-szw-2017)
 
 ## Versies
 
@@ -24,13 +24,8 @@ state_count: 12
 |---|---|---|
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2016-12-28 | 2016-12-31 | [2016-12-28.md](./2016-12-28.md) |
-| 2016-12-28 | 2016-12-31 | [2016-12-28.md](./2016-12-28.md) |
-| 2016-10-28 | 2016-12-27 | [2016-10-28.md](./2016-10-28.md) |
 | 2016-10-28 | 2016-12-27 | [2016-10-28.md](./2016-10-28.md) |
 | 2016-07-01 | 2016-10-27 | [2016-07-01.md](./2016-07-01.md) |
-| 2016-07-01 | 2016-10-27 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-07-01 | 2016-06-30 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2016-06-30 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-04-01 | 2015-06-30 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-04-01 | 2015-06-30 | [2015-04-01.md](./2015-04-01.md) |
 | 2008-01-01 | 2015-03-31 | [2008-01-01.md](./2008-01-01.md) |

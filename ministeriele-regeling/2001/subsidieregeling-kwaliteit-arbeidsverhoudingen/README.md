@@ -6,7 +6,7 @@ title: Subsidieregeling kwaliteit arbeidsverhoudingen
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Subsidieregeling kwaliteit arbeidsverhoudingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2001/subsidieregeling-kwaliteit-arbeidsverhoudingen](https://wetten.ai/eli/nl/ministeriele-regeling/2001/subsidieregeling-kwaliteit-arbeidsverhoudingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/subsidieregeling-kwaliteit-arbeidsverhoudingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/subsidieregeling-kwaliteit-arbeidsverhoudingen)
 
 ## Versies
 
@@ -33,6 +33,5 @@ state_count: 14
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-03-23 | 2006-12-31 | [2006-03-23.md](./2006-03-23.md) |
-| 2006-01-01 | 2006-03-22 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-03-22 | [2006-01-01.md](./2006-01-01.md) |
 | 2001-01-01 | 2005-12-31 | [2001-01-01.md](./2001-01-01.md) |

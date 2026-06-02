@@ -6,7 +6,7 @@ title: Toetsingskader kwaliteitsstandaarden, informatiestandaarden en meetinstru
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Toetsingskader kwaliteitsstandaarden, informatiestandaarden en meetinstrumenten 2015
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2015/toetsingskader-kwaliteitsstandaarden-informatiestandaarden-e](https://wetten.ai/eli/nl/zbo/2015/toetsingskader-kwaliteitsstandaarden-informatiestandaarden-e)
+**ELI:** [/eli/nl/zbo/2015/toetsingskader-kwaliteitsstandaarden-informatiestandaarden-e](https://wettenbank.online/eli/nl/zbo/2015/toetsingskader-kwaliteitsstandaarden-informatiestandaarden-e)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2019-01-01 | 2021-06-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2015-06-21 | 2018-12-31 | [2015-06-21.md](./2015-06-21.md) |
-| 2015-06-01 | 2015-06-20 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-06-01 | 2015-06-20 | [2015-06-01.md](./2015-06-01.md) |

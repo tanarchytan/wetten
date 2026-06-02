@@ -6,7 +6,7 @@ title: Wet van 23 juni 2005 tot wijziging van een aantal wetten in verband met d
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Aanpassingswet Algemene wet inkomensafhankelijke regelingen
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/2005/aanpassingswet-algemene-wet-inkomensafhankelijke-regelingen](https://wetten.ai/eli/nl/wet/2005/aanpassingswet-algemene-wet-inkomensafhankelijke-regelingen)
+**ELI:** [/eli/nl/wet/2005/aanpassingswet-algemene-wet-inkomensafhankelijke-regelingen](https://wettenbank.online/eli/nl/wet/2005/aanpassingswet-algemene-wet-inkomensafhankelijke-regelingen)
 
 ## Versies
 
@@ -27,6 +27,4 @@ state_count: 8
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-07-01 | 2005-08-31 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-08-31 | [2005-07-01.md](./2005-07-01.md) |

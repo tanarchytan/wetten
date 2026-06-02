@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 1 juli 2008, ho
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2011-09-11"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening PT heffing vollegrondsgroenten 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2009/verordening-pt-heffing-vollegrondsgroenten-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-pt-heffing-vollegrondsgroenten-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-pt-heffing-vollegrondsgroenten-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-pt-heffing-vollegrondsgroenten-2009)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-09-11 | heden | [2011-09-11.md](./2011-09-11.md) |
-| 2009-03-29 | 2011-09-10 | [2009-03-29.md](./2009-03-29.md) |
 | 2009-03-29 | 2011-09-10 | [2009-03-29.md](./2009-03-29.md) |
 | 2009-01-01 | 2009-03-28 | [2009-01-01.md](./2009-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 25 oktober 1982, houdende uitvoering van de artikelen 1, derd
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2005-01-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit vaarbewijzen binnenvaart
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/1982/besluit-vaarbewijzen-binnenvaart](https://wetten.ai/eli/nl/amvb/1982/besluit-vaarbewijzen-binnenvaart)
+**ELI:** [/eli/nl/amvb/1982/besluit-vaarbewijzen-binnenvaart](https://wettenbank.online/eli/nl/amvb/1982/besluit-vaarbewijzen-binnenvaart)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2005-01-01 | 2009-06-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2003-01-10 | 2004-12-31 | [2003-01-10.md](./2003-01-10.md) |
-| 2003-01-10 | 2004-12-31 | [2003-01-10.md](./2003-01-10.md) |
-| 2002-02-01 | 2003-01-09 | [2002-02-01.md](./2002-02-01.md) |
 | 2002-02-01 | 2003-01-09 | [2002-02-01.md](./2002-02-01.md) |
 | 2001-03-01 | 2002-01-31 | [2001-03-01.md](./2001-03-01.md) |

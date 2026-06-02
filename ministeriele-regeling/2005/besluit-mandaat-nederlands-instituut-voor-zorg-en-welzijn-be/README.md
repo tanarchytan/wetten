@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Ontwikkelingssamenwerking van 11 mei 2005, n
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2006-05-18"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit mandaat Nederlands Instituut voor Zorg en Welzijn betreffende programma Stage/Uitwisseling Jongeren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-nederlands-instituut-voor-zorg-en-welzijn-be](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-mandaat-nederlands-instituut-voor-zorg-en-welzijn-be)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-nederlands-instituut-voor-zorg-en-welzijn-be](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-mandaat-nederlands-instituut-voor-zorg-en-welzijn-be)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-05-18 | 2007-02-13 | [2006-05-18.md](./2006-05-18.md) |
-| 2006-01-01 | 2006-05-17 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-17 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-05-15 | 2005-12-31 | [2005-05-15.md](./2005-05-15.md) |

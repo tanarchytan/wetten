@@ -6,7 +6,7 @@ title: Verordening van het bestuur van het Productschap Tuinbouw van 20 december
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2013-09-22"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening PT algemene heffing aanbod bloemkwekerijproducten 2013
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2013/verordening-pt-algemene-heffing-aanbod-bloemkwekerijproducte](https://wetten.ai/eli/nl/pbo/2013/verordening-pt-algemene-heffing-aanbod-bloemkwekerijproducte)
+**ELI:** [/eli/nl/pbo/2013/verordening-pt-algemene-heffing-aanbod-bloemkwekerijproducte](https://wettenbank.online/eli/nl/pbo/2013/verordening-pt-algemene-heffing-aanbod-bloemkwekerijproducte)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2013-09-22 | heden | [2013-09-22.md](./2013-09-22.md) |
 | 2013-03-31 | 2013-09-21 | [2013-03-31.md](./2013-03-31.md) |
-| 2013-03-31 | 2013-09-21 | [2013-03-31.md](./2013-03-31.md) |
-| 2013-01-01 | 2013-03-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-03-30 | [2013-01-01.md](./2013-01-01.md) |

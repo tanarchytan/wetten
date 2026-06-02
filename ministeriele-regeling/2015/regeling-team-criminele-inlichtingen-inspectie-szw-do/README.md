@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 jun
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Regeling tci-Nederlandse Arbeidsinspectie-DO
 latest_state: "2022-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Regeling tci-Nederlandse Arbeidsinspectie-DO
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-team-criminele-inlichtingen-inspectie-szw-do](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-team-criminele-inlichtingen-inspectie-szw-do)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-team-criminele-inlichtingen-inspectie-szw-do](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-team-criminele-inlichtingen-inspectie-szw-do)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 5
 |---|---|---|
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2019-01-29 | 2021-12-31 | [2019-01-29.md](./2019-01-29.md) |
-| 2019-01-01 | 2019-01-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-01-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2015-06-27 | 2018-12-31 | [2015-06-27.md](./2015-06-27.md) |

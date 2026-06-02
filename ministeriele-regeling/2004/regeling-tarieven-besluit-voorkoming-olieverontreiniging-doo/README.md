@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat houdende nieuwe vastst
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2004-11-26"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling tarieven Besluit voorkoming olieverontreiniging door schepen 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-tarieven-besluit-voorkoming-olieverontreiniging-doo](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-tarieven-besluit-voorkoming-olieverontreiniging-doo)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-tarieven-besluit-voorkoming-olieverontreiniging-doo](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-tarieven-besluit-voorkoming-olieverontreiniging-doo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-11-26 | 2004-12-31 | [2004-11-26.md](./2004-11-26.md) |
-| 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-01-01 | 2004-10-31 | [2004-01-01.md](./2004-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling houdende regels betreffende de bestelling, het transport en de b
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2015-07-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling bestelling, transport en beveiliging rijbewijzen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-bestelling-transport-en-beveiliging-rijbewijzen](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-bestelling-transport-en-beveiliging-rijbewijzen)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-bestelling-transport-en-beveiliging-rijbewijzen](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-bestelling-transport-en-beveiliging-rijbewijzen)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2013-01-19 | 2014-10-31 | [2013-01-19.md](./2013-01-19.md) |
 | 2008-09-10 | 2013-01-18 | [2008-09-10.md](./2008-09-10.md) |
 | 2006-10-06 | 2008-09-09 | [2006-10-06.md](./2006-10-06.md) |
-| 2006-10-01 | 2006-10-05 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-10-01 | 2006-10-05 | [2006-10-01.md](./2006-10-01.md) |

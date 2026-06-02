@@ -6,7 +6,7 @@ title: Regeling visserij-inspanning herstelplannen
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-02-01"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Regeling visserij-inspanning herstelplannen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-visserij-inspanning-herstelplannen](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-visserij-inspanning-herstelplannen)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-visserij-inspanning-herstelplannen](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-visserij-inspanning-herstelplannen)
 
 ## Versies
 
@@ -28,9 +28,7 @@ state_count: 16
 | 2007-02-01 | 2007-07-20 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-04 | 2007-01-31 | [2007-01-04.md](./2007-01-04.md) |
 | 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-01-03 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-02-01 | 2006-12-31 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-07-10 | 2005-12-31 | [2005-07-10.md](./2005-07-10.md) |
 | 2005-02-01 | 2005-07-09 | [2005-02-01.md](./2005-02-01.md) |

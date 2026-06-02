@@ -6,7 +6,7 @@ title: Besluit van 11 juni 2001 tot wijziging van het Besluit beheer sociale-huu
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2002-07-01"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Wijzigingsbesluit Besluit beheer sociale-huursector en Besluit Centraal Fonds voor de Volkshuisvesting (afstemming op wijziging van Woningwet die strekt tot verbetering van toezicht op woningcorporaties en aanpassing van de bepalingen in die wet over Centraal Fonds voor de Volkshuisvesting)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2001/wijzigingsbesluit-besluit-beheer-sociale-huursector-en-beslu](https://wetten.ai/eli/nl/amvb/2001/wijzigingsbesluit-besluit-beheer-sociale-huursector-en-beslu)
+**ELI:** [/eli/nl/amvb/2001/wijzigingsbesluit-besluit-beheer-sociale-huursector-en-beslu](https://wettenbank.online/eli/nl/amvb/2001/wijzigingsbesluit-besluit-beheer-sociale-huursector-en-beslu)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2002-07-01 | 2015-06-30 | [2002-07-01.md](./2002-07-01.md) |
-| 2001-11-05 | 2002-06-30 | [2001-11-05.md](./2001-11-05.md) |
 | 2001-11-05 | 2002-06-30 | [2001-11-05.md](./2001-11-05.md) |

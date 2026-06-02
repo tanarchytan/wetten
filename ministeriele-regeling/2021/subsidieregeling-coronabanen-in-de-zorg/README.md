@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 17 februari 2021, kenmerk
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-10-22"
-state_count: 13
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Subsidieregeling coronabanen in de zorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-coronabanen-in-de-zorg](https://wetten.ai/eli/nl/ministeriele-regeling/2021/subsidieregeling-coronabanen-in-de-zorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-coronabanen-in-de-zorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/subsidieregeling-coronabanen-in-de-zorg)
 
 ## Versies
 
@@ -24,14 +24,7 @@ state_count: 13
 |---|---|---|
 | 2022-10-22 | 2023-12-30 | [2022-10-22.md](./2022-10-22.md) |
 | 2022-06-21 | 2022-10-21 | [2022-06-21.md](./2022-06-21.md) |
-| 2022-06-21 | 2022-10-21 | [2022-06-21.md](./2022-06-21.md) |
-| 2021-09-04 | 2022-06-20 | [2021-09-04.md](./2021-09-04.md) |
 | 2021-09-04 | 2022-06-20 | [2021-09-04.md](./2021-09-04.md) |
 | 2021-06-08 | 2021-09-03 | [2021-06-08.md](./2021-06-08.md) |
-| 2021-06-08 | 2021-09-03 | [2021-06-08.md](./2021-06-08.md) |
 | 2021-02-20 | 2021-06-07 | [2021-02-20.md](./2021-02-20.md) |
-| 2021-02-20 | 2021-06-07 | [2021-02-20.md](./2021-02-20.md) |
-| 2021-02-20 | 2021-06-07 | [2021-02-20.md](./2021-02-20.md) |
-| 2021-01-01 | 2021-02-19 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-02-19 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-02-19 | [2021-01-01.md](./2021-01-01.md) |

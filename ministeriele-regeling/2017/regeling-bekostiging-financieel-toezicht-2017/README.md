@@ -6,7 +6,7 @@ title: Regeling van de Minister van Financiën en de Staatssecretaris van Social
 ministry: Financiën
 abbreviation: null
 latest_state: "2017-10-20"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling bekostiging financieel toezicht 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-bekostiging-financieel-toezicht-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-bekostiging-financieel-toezicht-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-bekostiging-financieel-toezicht-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-bekostiging-financieel-toezicht-2017)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-10-20 | 2018-12-31 | [2017-10-20.md](./2017-10-20.md) |
-| 2017-06-02 | 2017-10-19 | [2017-06-02.md](./2017-06-02.md) |
 | 2017-06-02 | 2017-10-19 | [2017-06-02.md](./2017-06-02.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2023-12-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling schoolfruit, -groenten en -zuivel 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-schoolfruit-groenten-en-zuivel-2023](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-schoolfruit-groenten-en-zuivel-2023)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-schoolfruit-groenten-en-zuivel-2023](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-schoolfruit-groenten-en-zuivel-2023)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-12-20 | 2024-07-12 | [2023-12-20.md](./2023-12-20.md) |
-| 2023-12-04 | 2023-12-19 | [2023-12-04.md](./2023-12-04.md) |
 | 2023-12-04 | 2023-12-19 | [2023-12-04.md](./2023-12-04.md) |
 | 2023-06-08 | 2023-12-03 | [2023-06-08.md](./2023-06-08.md) |

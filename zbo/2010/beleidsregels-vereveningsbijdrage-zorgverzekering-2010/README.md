@@ -6,7 +6,7 @@ title: Beleidsregels vereveningsbijdrage zorgverzekering 2010
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2011-09-21"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Beleidsregels vereveningsbijdrage zorgverzekering 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2010/beleidsregels-vereveningsbijdrage-zorgverzekering-2010](https://wetten.ai/eli/nl/zbo/2010/beleidsregels-vereveningsbijdrage-zorgverzekering-2010)
+**ELI:** [/eli/nl/zbo/2010/beleidsregels-vereveningsbijdrage-zorgverzekering-2010](https://wettenbank.online/eli/nl/zbo/2010/beleidsregels-vereveningsbijdrage-zorgverzekering-2010)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-09-21 | heden | [2011-09-21.md](./2011-09-21.md) |
-| 2010-01-01 | 2011-09-20 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2011-09-20 | [2010-01-01.md](./2010-01-01.md) |

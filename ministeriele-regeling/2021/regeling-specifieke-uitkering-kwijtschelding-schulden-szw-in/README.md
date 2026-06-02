@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling specifieke uitkering kwijtschelding schulden SZW in verband met de hersteloperatie toeslagen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-schulden-szw-in](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-schulden-szw-in)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-schulden-szw-in](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-schulden-szw-in)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2025-01-01 | heden | [2025-01-01.md](./2025-01-01.md) |
 | 2023-10-25 | 2024-12-31 | [2023-10-25.md](./2023-10-25.md) |
 | 2023-07-15 | 2023-10-24 | [2023-07-15.md](./2023-07-15.md) |
-| 2023-07-15 | 2023-10-24 | [2023-07-15.md](./2023-07-15.md) |
 | 2022-11-05 | 2023-07-14 | [2022-11-05.md](./2022-11-05.md) |
-| 2021-11-20 | 2022-11-04 | [2021-11-20.md](./2021-11-20.md) |
 | 2021-11-20 | 2022-11-04 | [2021-11-20.md](./2021-11-20.md) |
 | 2021-07-01 | 2021-11-19 | [2021-07-01.md](./2021-07-01.md) |

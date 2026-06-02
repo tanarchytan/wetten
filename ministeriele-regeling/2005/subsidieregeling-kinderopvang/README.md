@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 apri
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Subsidieregeling kinderopvang
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-kinderopvang](https://wetten.ai/eli/nl/ministeriele-regeling/2005/subsidieregeling-kinderopvang)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-kinderopvang](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/subsidieregeling-kinderopvang)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 12
 | 2018-01-01 | 2018-06-13 | [2018-01-01.md](./2018-01-01.md) |
 | 2014-01-01 | 2017-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2010-10-14 | 2013-12-31 | [2010-10-14.md](./2010-10-14.md) |
-| 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-01-01 | 2010-07-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-22 | 2009-12-31 | [2009-07-22.md](./2009-07-22.md) |

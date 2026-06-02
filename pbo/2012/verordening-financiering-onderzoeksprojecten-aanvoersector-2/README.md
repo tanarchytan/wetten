@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vis van 29 september 2011, houdende rege
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2012-06-02"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Verordening financiering onderzoeksprojecten aanvoersector 2012
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2012/verordening-financiering-onderzoeksprojecten-aanvoersector-2](https://wetten.ai/eli/nl/pbo/2012/verordening-financiering-onderzoeksprojecten-aanvoersector-2)
+**ELI:** [/eli/nl/pbo/2012/verordening-financiering-onderzoeksprojecten-aanvoersector-2](https://wettenbank.online/eli/nl/pbo/2012/verordening-financiering-onderzoeksprojecten-aanvoersector-2)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-06-02 | 2019-10-18 | [2012-06-02.md](./2012-06-02.md) |
-| 2012-01-01 | 2012-06-01 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-06-01 | [2012-01-01.md](./2012-01-01.md) |

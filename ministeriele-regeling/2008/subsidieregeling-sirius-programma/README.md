@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 13 maa
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-23"
-state_count: 10
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Subsidieregeling Sirius Programma
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-sirius-programma](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-sirius-programma)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-sirius-programma](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-sirius-programma)
 
 ## Versies
 
@@ -26,9 +26,5 @@ state_count: 10
 | 2010-09-23 | 2014-01-22 | [2010-09-23.md](./2010-09-23.md) |
 | 2009-09-15 | 2010-09-22 | [2009-09-15.md](./2009-09-15.md) |
 | 2008-06-14 | 2009-09-14 | [2008-06-14.md](./2008-06-14.md) |
-| 2008-06-14 | 2009-09-14 | [2008-06-14.md](./2008-06-14.md) |
 | 2008-05-15 | 2008-06-13 | [2008-05-15.md](./2008-05-15.md) |
-| 2008-05-15 | 2008-06-13 | [2008-05-15.md](./2008-05-15.md) |
-| 2008-05-15 | 2008-06-13 | [2008-05-15.md](./2008-05-15.md) |
-| 2008-04-04 | 2008-05-14 | [2008-04-04.md](./2008-04-04.md) |
 | 2008-04-04 | 2008-05-14 | [2008-04-04.md](./2008-04-04.md) |

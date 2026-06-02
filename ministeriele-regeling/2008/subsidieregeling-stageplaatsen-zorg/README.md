@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 1 septe
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2011-12-07"
-state_count: 17
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Subsidieregeling stageplaatsen zorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-stageplaatsen-zorg](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-stageplaatsen-zorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-stageplaatsen-zorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-stageplaatsen-zorg)
 
 ## Versies
 
@@ -27,15 +27,9 @@ state_count: 17
 | 2010-09-10 | 2011-09-08 | [2010-09-10.md](./2010-09-10.md) |
 | 2010-04-17 | 2010-09-09 | [2010-04-17.md](./2010-04-17.md) |
 | 2010-01-01 | 2010-04-16 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-04-16 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-10-22 | 2009-12-31 | [2009-10-22.md](./2009-10-22.md) |
 | 2009-10-22 | 2009-12-31 | [2009-10-22.md](./2009-10-22.md) |
 | 2009-09-12 | 2009-10-21 | [2009-09-12.md](./2009-09-12.md) |
-| 2009-09-12 | 2009-10-21 | [2009-09-12.md](./2009-09-12.md) |
-| 2009-09-12 | 2009-10-21 | [2009-09-12.md](./2009-09-12.md) |
-| 2009-08-01 | 2009-09-11 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-08-01 | 2009-09-11 | [2009-08-01.md](./2009-08-01.md) |
 | 2008-10-19 | 2009-07-31 | [2008-10-19.md](./2008-10-19.md) |
-| 2008-10-15 | 2008-10-18 | [2008-10-15.md](./2008-10-15.md) |
 | 2008-10-15 | 2008-10-18 | [2008-10-15.md](./2008-10-15.md) |
 | 2008-09-07 | 2008-10-14 | [2008-09-07.md](./2008-09-07.md) |

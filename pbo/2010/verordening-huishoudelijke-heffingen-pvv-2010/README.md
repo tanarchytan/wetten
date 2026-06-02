@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vee en Vlees van 28 oktober 2009, houden
 ministry: Productschap Vee en Vlees
 abbreviation: null
 latest_state: "2011-10-23"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening huishoudelijke heffingen (PVV) 2010
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vee en Vlees
-**ELI:** [/eli/nl/pbo/2010/verordening-huishoudelijke-heffingen-pvv-2010](https://wetten.ai/eli/nl/pbo/2010/verordening-huishoudelijke-heffingen-pvv-2010)
+**ELI:** [/eli/nl/pbo/2010/verordening-huishoudelijke-heffingen-pvv-2010](https://wettenbank.online/eli/nl/pbo/2010/verordening-huishoudelijke-heffingen-pvv-2010)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-10-23 | 2021-09-29 | [2011-10-23.md](./2011-10-23.md) |
-| 2010-10-01 | 2011-10-22 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2011-10-22 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-01-01 | 2010-09-30 | [2010-01-01.md](./2010-01-01.md) |

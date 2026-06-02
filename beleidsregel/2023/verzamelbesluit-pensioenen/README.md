@@ -6,7 +6,7 @@ title: Verzamelbesluit pensioenen
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-02-27"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verzamelbesluit pensioenen
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/beleidsregel/2023/verzamelbesluit-pensioenen](https://wetten.ai/eli/nl/beleidsregel/2023/verzamelbesluit-pensioenen)
+**ELI:** [/eli/nl/beleidsregel/2023/verzamelbesluit-pensioenen](https://wettenbank.online/eli/nl/beleidsregel/2023/verzamelbesluit-pensioenen)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2025-02-27 | heden | [2025-02-27.md](./2025-02-27.md) |
 | 2023-07-11 | 2025-02-26 | [2023-07-11.md](./2023-07-11.md) |
-| 2023-07-11 | 2025-02-26 | [2023-07-11.md](./2023-07-11.md) |
-| 2023-07-01 | 2023-07-10 | [2023-07-01.md](./2023-07-01.md) |
 | 2023-07-01 | 2023-07-10 | [2023-07-01.md](./2023-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-03-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling vaststelling kwalificaties en opleidingsdomeinen BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2013/regeling-vaststelling-kwalificaties-en-opleidingsdomeinen-be](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2013/regeling-vaststelling-kwalificaties-en-opleidingsdomeinen-be)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2013/regeling-vaststelling-kwalificaties-en-opleidingsdomeinen-be](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2013/regeling-vaststelling-kwalificaties-en-opleidingsdomeinen-be)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-03-01 | heden | [2025-03-01.md](./2025-03-01.md) |
-| 2021-08-01 | 2025-02-28 | [2021-08-01.md](./2021-08-01.md) |
 | 2021-08-01 | 2025-02-28 | [2021-08-01.md](./2021-08-01.md) |
 | 2013-10-26 | 2021-07-31 | [2013-10-26.md](./2013-10-26.md) |

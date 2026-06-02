@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 25 
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-12-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling specifieke uitkering MKB-deals
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-mkb-deals](https://wetten.ai/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-mkb-deals)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-mkb-deals](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/regeling-specifieke-uitkering-mkb-deals)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-12-12 | heden | [2020-12-12.md](./2020-12-12.md) |
-| 2020-10-30 | 2020-12-11 | [2020-10-30.md](./2020-10-30.md) |
 | 2020-10-30 | 2020-12-11 | [2020-10-30.md](./2020-10-30.md) |
 | 2020-07-10 | 2020-10-29 | [2020-07-10.md](./2020-07-10.md) |

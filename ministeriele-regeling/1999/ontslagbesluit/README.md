@@ -6,7 +6,7 @@ title: Ontslagbesluit
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2015-02-20"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Ontslagbesluit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/1999/ontslagbesluit](https://wetten.ai/eli/nl/ministeriele-regeling/1999/ontslagbesluit)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/ontslagbesluit](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/ontslagbesluit)
 
 ## Versies
 
@@ -32,7 +32,6 @@ state_count: 17
 | 2010-01-01 | 2011-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-08-01 | 2009-12-31 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-03-12 | 2009-07-31 | [2009-03-12.md](./2009-03-12.md) |
-| 2009-01-01 | 2009-03-11 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-03-11 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-03-01 | 2006-12-31 | [2006-03-01.md](./2006-03-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 28 december 1989, tot uitvoering van de artikelen 9, 10, 11, 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit beperking verkoop en gebruik tabaksprodukten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1990/besluit-beperking-verkoop-en-gebruik-tabaksprodukten](https://wetten.ai/eli/nl/amvb/1990/besluit-beperking-verkoop-en-gebruik-tabaksprodukten)
+**ELI:** [/eli/nl/amvb/1990/besluit-beperking-verkoop-en-gebruik-tabaksprodukten](https://wettenbank.online/eli/nl/amvb/1990/besluit-beperking-verkoop-en-gebruik-tabaksprodukten)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2008-07-01 | 2012-05-08 | [2008-07-01.md](./2008-07-01.md) |
 | 2007-01-01 | 2008-06-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2005-09-14 | 2006-12-31 | [2005-09-14.md](./2005-09-14.md) |
-| 2005-01-01 | 2005-09-13 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-09-13 | [2005-01-01.md](./2005-01-01.md) |
 | 1998-10-07 | 2004-12-31 | [1998-10-07.md](./1998-10-07.md) |

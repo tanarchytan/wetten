@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 11 november 200
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2011-12-11"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening PT heffing handel bloemkwekerijproducten 2010
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2011/verordening-pt-heffing-handel-bloemkwekerijproducten-2010](https://wetten.ai/eli/nl/pbo/2011/verordening-pt-heffing-handel-bloemkwekerijproducten-2010)
+**ELI:** [/eli/nl/pbo/2011/verordening-pt-heffing-handel-bloemkwekerijproducten-2010](https://wettenbank.online/eli/nl/pbo/2011/verordening-pt-heffing-handel-bloemkwekerijproducten-2010)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-12-11 | heden | [2011-12-11.md](./2011-12-11.md) |
 | 2011-12-04 | 2011-12-10 | [2011-12-04.md](./2011-12-04.md) |
-| 2011-12-04 | 2011-12-10 | [2011-12-04.md](./2011-12-04.md) |
-| 2010-01-01 | 2011-12-03 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2011-12-03 | [2010-01-01.md](./2010-01-01.md) |

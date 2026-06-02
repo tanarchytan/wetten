@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 janu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2008-06-01"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Arbeidsomstandigheden 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsomsta](https://wetten.ai/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsomsta)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsomsta](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-directie-arbeidsomsta)
 
 ## Versies
 
@@ -25,10 +25,7 @@ state_count: 10
 | 2008-06-01 | 2008-12-31 | [2008-06-01.md](./2008-06-01.md) |
 | 2008-02-08 | 2008-05-31 | [2008-02-08.md](./2008-02-08.md) |
 | 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-02-07 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-03-01 | 2006-12-31 | [2006-03-01.md](./2006-03-01.md) |
 | 2006-03-01 | 2006-12-31 | [2006-03-01.md](./2006-03-01.md) |
 | 2005-02-13 | 2006-02-28 | [2005-02-13.md](./2005-02-13.md) |
 | 2005-01-01 | 2005-02-12 | [2005-01-01.md](./2005-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 nov
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2025-07-15"
-state_count: 18
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Regeling dubbele kinderbijslag om onderwijsredenen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-dubbele-kinderbijslag-om-onderwijsredenen](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-dubbele-kinderbijslag-om-onderwijsredenen)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-dubbele-kinderbijslag-om-onderwijsredenen](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-dubbele-kinderbijslag-om-onderwijsredenen)
 
 ## Versies
 
@@ -32,11 +32,8 @@ state_count: 18
 | 2018-10-01 | 2019-09-30 | [2018-10-01.md](./2018-10-01.md) |
 | 2018-01-27 | 2018-09-30 | [2018-01-27.md](./2018-01-27.md) |
 | 2017-10-01 | 2018-01-26 | [2017-10-01.md](./2017-10-01.md) |
-| 2017-10-01 | 2018-01-26 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-01-01 | 2017-09-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-10-01 | 2016-12-31 | [2016-10-01.md](./2016-10-01.md) |
-| 2016-10-01 | 2016-12-31 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-01-01 | 2016-09-30 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-10-01 | 2015-12-31 | [2015-10-01.md](./2015-10-01.md) |
 | 2015-10-01 | 2015-12-31 | [2015-10-01.md](./2015-10-01.md) |
 | 2015-01-01 | 2015-09-30 | [2015-01-01.md](./2015-01-01.md) |

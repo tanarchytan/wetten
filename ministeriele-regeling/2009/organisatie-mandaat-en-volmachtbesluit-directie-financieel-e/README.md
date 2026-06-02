@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 apri
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-02-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Financieel-Economische Zaken 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-financieel-e)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2013-02-01 | 2013-05-03 | [2013-02-01.md](./2013-02-01.md) |
 | 2010-06-25 | 2013-01-31 | [2010-06-25.md](./2010-06-25.md) |
-| 2010-03-01 | 2010-06-24 | [2010-03-01.md](./2010-03-01.md) |
 | 2010-03-01 | 2010-06-24 | [2010-03-01.md](./2010-03-01.md) |
 | 2009-04-23 | 2010-02-28 | [2009-04-23.md](./2009-04-23.md) |
 | 2009-01-01 | 2009-04-22 | [2009-01-01.md](./2009-01-01.md) |

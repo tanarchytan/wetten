@@ -6,7 +6,7 @@ title: Wet van 6 december 2001 tot wijziging van enkele onderwijswetten in verba
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Wijzigingswet van enkele onderwijswetten in verband met de invoering van persoonsgebonden nummers in het onderwijs
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/wet/2002/wijzigingswet-van-enkele-onderwijswetten-in-verband-met-de-i](https://wetten.ai/eli/nl/wet/2002/wijzigingswet-van-enkele-onderwijswetten-in-verband-met-de-i)
+**ELI:** [/eli/nl/wet/2002/wijzigingswet-van-enkele-onderwijswetten-in-verband-met-de-i](https://wettenbank.online/eli/nl/wet/2002/wijzigingswet-van-enkele-onderwijswetten-in-verband-met-de-i)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 16
 | 2006-12-21 | 2007-10-01 | [2006-12-21.md](./2006-12-21.md) |
 | 2006-06-28 | 2006-12-20 | [2006-06-28.md](./2006-06-28.md) |
 | 2006-03-22 | 2006-06-27 | [2006-03-22.md](./2006-03-22.md) |
-| 2006-03-22 | 2006-06-27 | [2006-03-22.md](./2006-03-22.md) |
-| 2006-02-01 | 2006-03-21 | [2006-02-01.md](./2006-02-01.md) |
 | 2006-02-01 | 2006-03-21 | [2006-02-01.md](./2006-02-01.md) |
 | 2004-07-01 | 2006-01-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-02-13 | 2004-06-30 | [2004-02-13.md](./2004-02-13.md) |

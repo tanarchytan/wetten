@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 3 juni
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-02-26"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Uitvoeringsregeling Tijdelijke wet pilot loondispensatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2010/uitvoeringsregeling-tijdelijke-wet-pilot-loondispensatie](https://wetten.ai/eli/nl/ministeriele-regeling/2010/uitvoeringsregeling-tijdelijke-wet-pilot-loondispensatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/uitvoeringsregeling-tijdelijke-wet-pilot-loondispensatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/uitvoeringsregeling-tijdelijke-wet-pilot-loondispensatie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-02-26 | 2014-12-31 | [2013-02-26.md](./2013-02-26.md) |
-| 2013-01-01 | 2013-02-25 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-02-25 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-10-14 | 2012-12-31 | [2010-10-14.md](./2010-10-14.md) |
 | 2010-06-09 | 2010-10-13 | [2010-06-09.md](./2010-06-09.md) |

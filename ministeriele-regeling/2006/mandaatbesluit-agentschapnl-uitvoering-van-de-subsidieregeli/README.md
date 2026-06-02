@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-03-02"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Mandaatbesluit AgentschapNL uitvoering van de Subsidieregeling Digitaliseren met beleid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/mandaatbesluit-agentschapnl-uitvoering-van-de-subsidieregeli](https://wetten.ai/eli/nl/ministeriele-regeling/2006/mandaatbesluit-agentschapnl-uitvoering-van-de-subsidieregeli)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/mandaatbesluit-agentschapnl-uitvoering-van-de-subsidieregeli](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/mandaatbesluit-agentschapnl-uitvoering-van-de-subsidieregeli)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-03-02 | heden | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2006-03-26 | 2009-12-31 | [2006-03-26.md](./2006-03-26.md) |

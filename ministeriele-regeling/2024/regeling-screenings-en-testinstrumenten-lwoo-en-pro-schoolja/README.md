@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-06-11"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling screenings- en testinstrumenten lwoo en pro schooljaar 2025–2026
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-screenings-en-testinstrumenten-lwoo-en-pro-schoolja](https://wetten.ai/eli/nl/ministeriele-regeling/2024/regeling-screenings-en-testinstrumenten-lwoo-en-pro-schoolja)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-screenings-en-testinstrumenten-lwoo-en-pro-schoolja](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/regeling-screenings-en-testinstrumenten-lwoo-en-pro-schoolja)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-06-11 | heden | [2025-06-11.md](./2025-06-11.md) |
-| 2024-10-01 | 2025-06-10 | [2024-10-01.md](./2024-10-01.md) |
 | 2024-10-01 | 2025-06-10 | [2024-10-01.md](./2024-10-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 22 april 2004, houdende regeling van de aanspraak op, de toegang 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Wjz
 latest_state: "2014-11-01"
-state_count: 31
+state_count: 27
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 31
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Wjz
-**ELI:** [/eli/nl/wet/2004/wet-op-de-jeugdzorg](https://wetten.ai/eli/nl/wet/2004/wet-op-de-jeugdzorg)
+**ELI:** [/eli/nl/wet/2004/wet-op-de-jeugdzorg](https://wettenbank.online/eli/nl/wet/2004/wet-op-de-jeugdzorg)
 
 ## Versies
 
@@ -45,12 +45,8 @@ state_count: 31
 | 2007-07-01 | 2007-12-31 | [2007-07-01.md](./2007-07-01.md) |
 | 2006-08-02 | 2007-06-30 | [2006-08-02.md](./2006-08-02.md) |
 | 2006-01-02 | 2006-08-01 | [2006-01-02.md](./2006-01-02.md) |
-| 2006-01-02 | 2006-08-01 | [2006-01-02.md](./2006-01-02.md) |
-| 2006-01-01 | 2006-01-01 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-01 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-03-15 | 2005-12-31 | [2005-03-15.md](./2005-03-15.md) |
-| 2005-03-15 | 2005-12-31 | [2005-03-15.md](./2005-03-15.md) |
-| 2005-01-01 | 2005-03-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-29 | 2004-12-31 | [2004-12-29.md](./2004-12-29.md) |
 | 2004-09-01 | 2004-12-28 | [2004-09-01.md](./2004-09-01.md) |

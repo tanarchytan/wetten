@@ -6,7 +6,7 @@ title: Besluit van de Minister van Justitie en de Minister voor Jeugd en Gezin v
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2012-03-22"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Instellingsbesluit Commissie Samson
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-commissie-samson](https://wetten.ai/eli/nl/ministeriele-regeling/2010/instellingsbesluit-commissie-samson)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-commissie-samson](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/instellingsbesluit-commissie-samson)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 8
 |---|---|---|
 | 2012-03-22 | heden | [2012-03-22.md](./2012-03-22.md) |
 | 2012-01-30 | 2012-03-21 | [2012-01-30.md](./2012-01-30.md) |
-| 2012-01-30 | 2012-03-21 | [2012-01-30.md](./2012-01-30.md) |
-| 2012-01-01 | 2012-01-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-01-29 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-10-22 | 2011-12-31 | [2011-10-22.md](./2011-10-22.md) |
 | 2010-09-02 | 2011-10-21 | [2010-09-02.md](./2010-09-02.md) |

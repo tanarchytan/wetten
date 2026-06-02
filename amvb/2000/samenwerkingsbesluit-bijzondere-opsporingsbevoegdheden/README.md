@@ -6,7 +6,7 @@ title: Besluit van 15 december 1999, houdende regels ter uitvoering van de artik
 ministry: Veiligheid en Justitie
 abbreviation: Sbbob
 latest_state: "2017-11-29"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Sbbob
-**ELI:** [/eli/nl/amvb/2000/samenwerkingsbesluit-bijzondere-opsporingsbevoegdheden](https://wetten.ai/eli/nl/amvb/2000/samenwerkingsbesluit-bijzondere-opsporingsbevoegdheden)
+**ELI:** [/eli/nl/amvb/2000/samenwerkingsbesluit-bijzondere-opsporingsbevoegdheden](https://wettenbank.online/eli/nl/amvb/2000/samenwerkingsbesluit-bijzondere-opsporingsbevoegdheden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-11-29 | 2018-12-31 | [2017-11-29.md](./2017-11-29.md) |
-| 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2007-02-01 | 2012-12-31 | [2007-02-01.md](./2007-02-01.md) |

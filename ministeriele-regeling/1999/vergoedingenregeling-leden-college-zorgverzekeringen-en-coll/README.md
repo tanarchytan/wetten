@@ -6,7 +6,7 @@ title: Vergoedingenregeling leden College zorgverzekeringen en College toezicht
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2004-07-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vergoedingenregeling leden College zorgverzekeringen en College toezicht
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/1999/vergoedingenregeling-leden-college-zorgverzekeringen-en-coll](https://wetten.ai/eli/nl/ministeriele-regeling/1999/vergoedingenregeling-leden-college-zorgverzekeringen-en-coll)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/vergoedingenregeling-leden-college-zorgverzekeringen-en-coll](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/vergoedingenregeling-leden-college-zorgverzekeringen-en-coll)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-07-22 | 2005-12-31 | [2004-07-22.md](./2004-07-22.md) |
-| 2004-07-01 | 2004-07-21 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2004-07-21 | [2004-07-01.md](./2004-07-01.md) |
 | 2002-01-27 | 2004-06-30 | [2002-01-27.md](./2002-01-27.md) |

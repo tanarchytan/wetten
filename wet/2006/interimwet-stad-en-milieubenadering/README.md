@@ -6,7 +6,7 @@ title: Wet van 19 januari 2006, houdende regels met betrekking tot zuinig en doe
 ministry: Infrastructuur en Milieu
 abbreviation: Iw sem
 latest_state: "2021-07-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Iw sem
-**ELI:** [/eli/nl/wet/2006/interimwet-stad-en-milieubenadering](https://wetten.ai/eli/nl/wet/2006/interimwet-stad-en-milieubenadering)
+**ELI:** [/eli/nl/wet/2006/interimwet-stad-en-milieubenadering](https://wettenbank.online/eli/nl/wet/2006/interimwet-stad-en-milieubenadering)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 13
 | 2010-10-01 | 2012-09-30 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-03-31 | 2010-09-30 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-15 | 2010-03-30 | [2009-07-15.md](./2009-07-15.md) |
-| 2008-07-01 | 2009-07-14 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2009-07-14 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-05-01 | 2007-12-31 | [2007-05-01.md](./2007-05-01.md) |

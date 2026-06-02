@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 jul
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rpetz  vzw
 latest_state: "2025-07-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rpetz  vzw
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-procesgang-eerste-en-tweede-ziektejaar-voor-vangnet](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-procesgang-eerste-en-tweede-ziektejaar-voor-vangnet)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-procesgang-eerste-en-tweede-ziektejaar-voor-vangnet](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-procesgang-eerste-en-tweede-ziektejaar-voor-vangnet)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 6
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2023-07-01 | 2025-06-30 | [2023-07-01.md](./2023-07-01.md) |
 | 2013-06-06 | 2023-06-30 | [2013-06-06.md](./2013-06-06.md) |
-| 2013-01-01 | 2013-06-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-01-01 | 2012-12-31 | [2008-01-01.md](./2008-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2016-04-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling huisvesting gesloten jeugdhulp 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2014/subsidieregeling-huisvesting-gesloten-jeugdhulp-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2014/subsidieregeling-huisvesting-gesloten-jeugdhulp-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/subsidieregeling-huisvesting-gesloten-jeugdhulp-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/subsidieregeling-huisvesting-gesloten-jeugdhulp-2015)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2016-04-01 | 2022-11-15 | [2016-04-01.md](./2016-04-01.md) |
 | 2015-01-16 | 2016-03-31 | [2015-01-16.md](./2015-01-16.md) |
 | 2014-11-22 | 2015-01-15 | [2014-11-22.md](./2014-11-22.md) |
-| 2014-11-22 | 2015-01-15 | [2014-11-22.md](./2014-11-22.md) |
-| 2014-10-16 | 2014-11-21 | [2014-10-16.md](./2014-10-16.md) |
 | 2014-10-16 | 2014-11-21 | [2014-10-16.md](./2014-10-16.md) |

@@ -6,7 +6,7 @@ title: Besluit van de plaatsvervangend hoofddirecteur Dienst Justitiële Inricht
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2022-05-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Mandaatbesluit plv hoofddirecteur DJI 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-plv-hoofddirecteur-dji-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2020/mandaatbesluit-plv-hoofddirecteur-dji-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/mandaatbesluit-plv-hoofddirecteur-dji-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/mandaatbesluit-plv-hoofddirecteur-dji-2020)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2022-05-01 | 2023-01-09 | [2022-05-01.md](./2022-05-01.md) |
 | 2022-02-01 | 2022-04-30 | [2022-02-01.md](./2022-02-01.md) |
-| 2022-01-01 | 2022-01-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-01-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-09-08 | 2021-12-31 | [2021-09-08.md](./2021-09-08.md) |
 | 2020-06-03 | 2021-09-07 | [2020-06-03.md](./2020-06-03.md) |

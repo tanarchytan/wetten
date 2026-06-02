@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 augu
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling financiële verantwoording Commissariaat voor de Media
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-financi-le-verantwoording-commissariaat-voor-de-med](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-financi-le-verantwoording-commissariaat-voor-de-med)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-financi-le-verantwoording-commissariaat-voor-de-med](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-financi-le-verantwoording-commissariaat-voor-de-med)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2018-01-01 | 2019-06-14 | [2018-01-01.md](./2018-01-01.md) |
 | 2011-07-01 | 2017-12-31 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-09-03 | 2010-12-31 | [2009-09-03.md](./2009-09-03.md) |
 | 2009-01-01 | 2009-09-02 | [2009-01-01.md](./2009-01-01.md) |

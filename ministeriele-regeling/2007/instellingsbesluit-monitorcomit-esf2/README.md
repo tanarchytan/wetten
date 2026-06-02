@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2009-12-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Instellingsbesluit Monitorcomité ESF2
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2007/instellingsbesluit-monitorcomit-esf2](https://wetten.ai/eli/nl/ministeriele-regeling/2007/instellingsbesluit-monitorcomit-esf2)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/instellingsbesluit-monitorcomit-esf2](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/instellingsbesluit-monitorcomit-esf2)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-12-01 | 2014-12-09 | [2009-12-01.md](./2009-12-01.md) |
-| 2007-11-11 | 2009-11-30 | [2007-11-11.md](./2007-11-11.md) |
 | 2007-11-11 | 2009-11-30 | [2007-11-11.md](./2007-11-11.md) |
 | 2007-11-10 | 2007-11-10 | [2007-11-10.md](./2007-11-10.md) |

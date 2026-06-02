@@ -6,7 +6,7 @@ title: Wet van 24 september 1992, houdende vaststelling van de Gezondheids- en w
 ministry: Economische Zaken
 abbreviation: GWWD
 latest_state: "2019-01-01"
-state_count: 38
+state_count: 33
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 38
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** GWWD
-**ELI:** [/eli/nl/wet/1993/gezondheids-en-welzijnswet-voor-dieren](https://wetten.ai/eli/nl/wet/1993/gezondheids-en-welzijnswet-voor-dieren)
+**ELI:** [/eli/nl/wet/1993/gezondheids-en-welzijnswet-voor-dieren](https://wettenbank.online/eli/nl/wet/1993/gezondheids-en-welzijnswet-voor-dieren)
 
 ## Versies
 
@@ -46,14 +46,9 @@ state_count: 38
 | 2006-02-01 | 2006-02-16 | [2006-02-01.md](./2006-02-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |
-| 2004-10-18 | 2004-12-31 | [2004-10-18.md](./2004-10-18.md) |
 | 2004-10-18 | 2004-12-31 | [2004-10-18.md](./2004-10-18.md) |
 | 2004-05-01 | 2004-10-17 | [2004-05-01.md](./2004-05-01.md) |
-| 2004-05-01 | 2004-10-17 | [2004-05-01.md](./2004-05-01.md) |
 | 2004-04-01 | 2004-04-30 | [2004-04-01.md](./2004-04-01.md) |
-| 2004-04-01 | 2004-04-30 | [2004-04-01.md](./2004-04-01.md) |
-| 2003-01-21 | 2004-03-31 | [2003-01-21.md](./2003-01-21.md) |
 | 2003-01-21 | 2004-03-31 | [2003-01-21.md](./2003-01-21.md) |
 | 2002-12-31 | 2003-01-20 | [2002-12-31.md](./2002-12-31.md) |
 | 2002-09-01 | 2002-12-30 | [2002-09-01.md](./2002-09-01.md) |

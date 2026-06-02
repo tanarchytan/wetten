@@ -6,7 +6,7 @@ title: Besluit van 4 december 2002, houdende regels met betrekking tot de bevoeg
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2005/besluit-verkeersinformatie-en-verkeersaanwijzingen-scheepvaa](https://wetten.ai/eli/nl/amvb/2005/besluit-verkeersinformatie-en-verkeersaanwijzingen-scheepvaa)
+**ELI:** [/eli/nl/amvb/2005/besluit-verkeersinformatie-en-verkeersaanwijzingen-scheepvaa](https://wettenbank.online/eli/nl/amvb/2005/besluit-verkeersinformatie-en-verkeersaanwijzingen-scheepvaa)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-10-12 | 2012-12-31 | [2011-10-12.md](./2011-10-12.md) |
-| 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-05-25 | 2011-06-30 | [2011-05-25.md](./2011-05-25.md) |
 | 2009-07-01 | 2011-05-24 | [2009-07-01.md](./2009-07-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 23 augustus 1995, ter uitvoering van de Wet arbeid vreemdelin
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Besluit wav
 latest_state: "2021-06-01"
-state_count: 53
+state_count: 50
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 53
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Besluit wav
-**ELI:** [/eli/nl/amvb/1995/besluit-uitvoering-wet-arbeid-vreemdelingen](https://wetten.ai/eli/nl/amvb/1995/besluit-uitvoering-wet-arbeid-vreemdelingen)
+**ELI:** [/eli/nl/amvb/1995/besluit-uitvoering-wet-arbeid-vreemdelingen](https://wettenbank.online/eli/nl/amvb/1995/besluit-uitvoering-wet-arbeid-vreemdelingen)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 53
 | 2018-10-01 | 2018-11-13 | [2018-10-01.md](./2018-10-01.md) |
 | 2018-09-04 | 2018-09-30 | [2018-09-04.md](./2018-09-04.md) |
 | 2018-09-01 | 2018-09-03 | [2018-09-01.md](./2018-09-01.md) |
-| 2018-09-01 | 2018-09-03 | [2018-09-01.md](./2018-09-01.md) |
 | 2018-05-23 | 2018-08-31 | [2018-05-23.md](./2018-05-23.md) |
 | 2018-01-01 | 2018-05-22 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
@@ -45,12 +44,10 @@ state_count: 53
 | 2016-11-29 | 2016-12-31 | [2016-11-29.md](./2016-11-29.md) |
 | 2016-10-05 | 2016-11-28 | [2016-10-05.md](./2016-10-05.md) |
 | 2016-10-01 | 2016-10-04 | [2016-10-01.md](./2016-10-01.md) |
-| 2016-10-01 | 2016-10-04 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-03-01 | 2016-09-30 | [2016-03-01.md](./2016-03-01.md) |
 | 2016-01-01 | 2016-02-29 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-12-15 | 2015-12-31 | [2015-12-15.md](./2015-12-15.md) |
 | 2015-07-18 | 2015-12-14 | [2015-07-18.md](./2015-07-18.md) |
-| 2015-07-01 | 2015-07-17 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-07-01 | 2015-07-17 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-03-01 | 2015-06-30 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-01-01 | 2015-02-28 | [2015-01-01.md](./2015-01-01.md) |

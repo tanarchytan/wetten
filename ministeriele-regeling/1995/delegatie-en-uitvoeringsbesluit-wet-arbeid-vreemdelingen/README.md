@@ -6,7 +6,7 @@ title: Delegatie- en uitvoeringsbesluit Wet arbeid vreemdelingen
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Dub Wav
 latest_state: "2013-12-30"
-state_count: 36
+state_count: 35
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 36
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Dub Wav
-**ELI:** [/eli/nl/ministeriele-regeling/1995/delegatie-en-uitvoeringsbesluit-wet-arbeid-vreemdelingen](https://wetten.ai/eli/nl/ministeriele-regeling/1995/delegatie-en-uitvoeringsbesluit-wet-arbeid-vreemdelingen)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/delegatie-en-uitvoeringsbesluit-wet-arbeid-vreemdelingen](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/delegatie-en-uitvoeringsbesluit-wet-arbeid-vreemdelingen)
 
 ## Versies
 
@@ -55,7 +55,6 @@ state_count: 36
 | 2004-07-14 | 2005-07-27 | [2004-07-14.md](./2004-07-14.md) |
 | 2004-05-01 | 2004-07-13 | [2004-05-01.md](./2004-05-01.md) |
 | 2004-01-30 | 2004-04-30 | [2004-01-30.md](./2004-01-30.md) |
-| 2004-01-01 | 2004-01-29 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-01-29 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-06-05 | 2003-12-31 | [2003-06-05.md](./2003-06-05.md) |
 | 2003-04-01 | 2003-06-04 | [2003-04-01.md](./2003-04-01.md) |

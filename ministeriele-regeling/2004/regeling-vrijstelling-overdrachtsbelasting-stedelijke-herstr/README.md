@@ -6,7 +6,7 @@ title: Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering
 ministry: Financiën
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-overdrachtsbelasting-stedelijke-herstr](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-overdrachtsbelasting-stedelijke-herstr)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-overdrachtsbelasting-stedelijke-herstr](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-overdrachtsbelasting-stedelijke-herstr)
 
 ## Versies
 
@@ -29,6 +29,4 @@ state_count: 10
 | 2011-01-01 | 2011-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2005-01-01 | 2010-12-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-02-26 | 2004-12-31 | [2004-02-26.md](./2004-02-26.md) |
-| 2004-02-26 | 2004-12-31 | [2004-02-26.md](./2004-02-26.md) |
-| 2003-01-01 | 2004-02-25 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2004-02-25 | [2003-01-01.md](./2003-01-01.md) |

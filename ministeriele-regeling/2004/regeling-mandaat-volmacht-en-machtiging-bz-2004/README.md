@@ -6,7 +6,7 @@ title: Regeling van de Minister van Buitenlandse Zaken van 30 januari 2004, nr. 
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2015-10-01"
-state_count: 16
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Regeling mandaat, volmacht en machtiging BZ 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-mandaat-volmacht-en-machtiging-bz-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-mandaat-volmacht-en-machtiging-bz-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-mandaat-volmacht-en-machtiging-bz-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-mandaat-volmacht-en-machtiging-bz-2004)
 
 ## Versies
 
@@ -30,11 +30,7 @@ state_count: 16
 | 2011-12-13 | 2013-05-01 | [2011-12-13.md](./2011-12-13.md) |
 | 2005-09-03 | 2011-12-12 | [2005-09-03.md](./2005-09-03.md) |
 | 2005-09-01 | 2005-09-02 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-09-01 | 2005-09-02 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-06-05 | 2005-08-31 | [2005-06-05.md](./2005-06-05.md) |
 | 2004-07-10 | 2005-06-04 | [2004-07-10.md](./2004-07-10.md) |
-| 2004-07-10 | 2005-06-04 | [2004-07-10.md](./2004-07-10.md) |
 | 2004-07-07 | 2004-07-09 | [2004-07-07.md](./2004-07-07.md) |
-| 2004-07-07 | 2004-07-09 | [2004-07-07.md](./2004-07-07.md) |
-| 2004-02-19 | 2004-07-06 | [2004-02-19.md](./2004-02-19.md) |
 | 2004-02-19 | 2004-07-06 | [2004-02-19.md](./2004-02-19.md) |

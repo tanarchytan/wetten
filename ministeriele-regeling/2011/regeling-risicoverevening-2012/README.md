@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 dec
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2014-04-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling risicoverevening 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-risicoverevening-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-risicoverevening-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-risicoverevening-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-risicoverevening-2012)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2014-04-01 | heden | [2014-04-01.md](./2014-04-01.md) |
 | 2012-12-21 | 2014-03-31 | [2012-12-21.md](./2012-12-21.md) |
-| 2012-01-01 | 2012-12-20 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-12-20 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-12-22 | 2011-12-31 | [2011-12-22.md](./2011-12-22.md) |
 | 2011-09-30 | 2011-12-21 | [2011-09-30.md](./2011-09-30.md) |

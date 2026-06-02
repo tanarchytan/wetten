@@ -6,7 +6,7 @@ title: Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties hou
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2016-02-14"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit commissie evaluatie pilots publieke en private authenticatiemiddelen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-evaluatie-pilots-publieke-en-pr](https://wetten.ai/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-evaluatie-pilots-publieke-en-pr)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-evaluatie-pilots-publieke-en-pr](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-evaluatie-pilots-publieke-en-pr)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-02-14 | heden | [2016-02-14.md](./2016-02-14.md) |
-| 2016-01-22 | 2016-02-13 | [2016-01-22.md](./2016-01-22.md) |
 | 2016-01-22 | 2016-02-13 | [2016-01-22.md](./2016-01-22.md) |
 | 2016-01-01 | 2016-01-21 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-12-16 | 2015-12-31 | [2015-12-16.md](./2015-12-16.md) |

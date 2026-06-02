@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie d.d. 30 augustus 201
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-12-29"
-state_count: 10
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling levensloop politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-levensloop-politie](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-levensloop-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-levensloop-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-levensloop-politie)
 
 ## Versies
 
@@ -24,11 +24,7 @@ state_count: 10
 |---|---|---|
 | 2020-12-29 | 2021-12-31 | [2020-12-29.md](./2020-12-29.md) |
 | 2020-09-01 | 2020-12-28 | [2020-09-01.md](./2020-09-01.md) |
-| 2020-09-01 | 2020-12-28 | [2020-09-01.md](./2020-09-01.md) |
 | 2019-07-01 | 2020-08-31 | [2019-07-01.md](./2019-07-01.md) |
 | 2016-02-01 | 2019-06-30 | [2016-02-01.md](./2016-02-01.md) |
-| 2016-02-01 | 2019-06-30 | [2016-02-01.md](./2016-02-01.md) |
 | 2013-09-13 | 2016-01-31 | [2013-09-13.md](./2013-09-13.md) |
-| 2013-09-13 | 2016-01-31 | [2013-09-13.md](./2013-09-13.md) |
-| 2006-01-01 | 2013-09-12 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2013-09-12 | [2006-01-01.md](./2006-01-01.md) |

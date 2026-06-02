@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 17 jul
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2023-06-21"
-state_count: 14
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling subsidiëring Versnellingsprogramma informatie-uitwisseling Langdurige Zorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-subsidi-ring-versnellingsprogramma-informatie-uitwi-bwbr0042516](https://wetten.ai/eli/nl/ministeriele-regeling/2019/regeling-subsidi-ring-versnellingsprogramma-informatie-uitwi-bwbr0042516)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-subsidi-ring-versnellingsprogramma-informatie-uitwi-bwbr0042516](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/regeling-subsidi-ring-versnellingsprogramma-informatie-uitwi-bwbr0042516)
 
 ## Versies
 
@@ -26,13 +26,7 @@ state_count: 14
 | 2022-11-01 | 2023-06-20 | [2022-11-01.md](./2022-11-01.md) |
 | 2022-03-25 | 2022-10-31 | [2022-03-25.md](./2022-03-25.md) |
 | 2022-02-05 | 2022-03-24 | [2022-02-05.md](./2022-02-05.md) |
-| 2022-02-05 | 2022-03-24 | [2022-02-05.md](./2022-02-05.md) |
 | 2021-05-12 | 2022-02-04 | [2021-05-12.md](./2021-05-12.md) |
-| 2021-05-12 | 2022-02-04 | [2021-05-12.md](./2021-05-12.md) |
-| 2021-05-12 | 2022-02-04 | [2021-05-12.md](./2021-05-12.md) |
-| 2021-01-01 | 2021-05-11 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-05-11 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-05-11 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-05-11 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-05-01 | 2020-12-31 | [2020-05-01.md](./2020-05-01.md) |
 | 2019-09-03 | 2020-04-30 | [2019-09-03.md](./2019-09-03.md) |

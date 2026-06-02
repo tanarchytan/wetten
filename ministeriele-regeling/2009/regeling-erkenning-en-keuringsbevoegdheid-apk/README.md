@@ -6,7 +6,7 @@ title: Regeling houdende regels met betrekking tot een erkenning voor en een keu
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Regeling erkenning en keuringsbevoegdheid APK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-erkenning-en-keuringsbevoegdheid-apk](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-erkenning-en-keuringsbevoegdheid-apk)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-erkenning-en-keuringsbevoegdheid-apk](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-erkenning-en-keuringsbevoegdheid-apk)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 23
 | 2022-01-01 | 2022-06-21 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-05 | 2021-12-31 | [2021-01-05.md](./2021-01-05.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2018-05-20 | 2020-12-31 | [2018-05-20.md](./2018-05-20.md) |
 | 2018-05-01 | 2018-05-19 | [2018-05-01.md](./2018-05-01.md) |
 | 2016-03-02 | 2018-04-30 | [2016-03-02.md](./2016-03-02.md) |
@@ -43,5 +42,4 @@ state_count: 23
 | 2011-04-01 | 2011-11-30 | [2011-04-01.md](./2011-04-01.md) |
 | 2010-01-01 | 2011-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-15 | 2009-12-31 | [2009-07-15.md](./2009-07-15.md) |
-| 2009-05-01 | 2009-07-14 | [2009-05-01.md](./2009-05-01.md) |
 | 2009-05-01 | 2009-07-14 | [2009-05-01.md](./2009-05-01.md) |

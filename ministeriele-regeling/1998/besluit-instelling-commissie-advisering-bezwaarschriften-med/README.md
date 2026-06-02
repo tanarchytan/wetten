@@ -6,7 +6,7 @@ title: Regeling houdende de instelling van de commissie advisering bezwaarschrif
 ministry: Financiën
 abbreviation: null
 latest_state: "2008-11-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit instelling commissie advisering bezwaarschriften medewerkers van het ministerie van Financiën exclusief de Belastingdienst
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/1998/besluit-instelling-commissie-advisering-bezwaarschriften-med](https://wetten.ai/eli/nl/ministeriele-regeling/1998/besluit-instelling-commissie-advisering-bezwaarschriften-med)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/besluit-instelling-commissie-advisering-bezwaarschriften-med](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/besluit-instelling-commissie-advisering-bezwaarschriften-med)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-11-12 | 2017-03-31 | [2008-11-12.md](./2008-11-12.md) |
-| 2008-01-02 | 2008-11-11 | [2008-01-02.md](./2008-01-02.md) |
 | 2008-01-02 | 2008-11-11 | [2008-01-02.md](./2008-01-02.md) |
 | 1998-01-23 | 2008-01-01 | [1998-01-23.md](./1998-01-23.md) |

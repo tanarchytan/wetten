@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, de Ministe
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-04-04"
-state_count: 28
+state_count: 22
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 28
 **Citeertitel:** Kaderregeling subsidies OCW, SZW en VWS
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/kaderregeling-subsidies-ocw-szw-en-vws](https://wetten.ai/eli/nl/ministeriele-regeling/2016/kaderregeling-subsidies-ocw-szw-en-vws)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/kaderregeling-subsidies-ocw-szw-en-vws](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/kaderregeling-subsidies-ocw-szw-en-vws)
 
 ## Versies
 
@@ -38,15 +38,9 @@ state_count: 28
 | 2018-11-01 | 2018-12-31 | [2018-11-01.md](./2018-11-01.md) |
 | 2018-10-25 | 2018-10-31 | [2018-10-25.md](./2018-10-25.md) |
 | 2018-01-01 | 2018-10-24 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-10-24 | [2018-01-01.md](./2018-01-01.md) |
-| 2017-07-25 | 2017-12-31 | [2017-07-25.md](./2017-07-25.md) |
 | 2017-07-25 | 2017-12-31 | [2017-07-25.md](./2017-07-25.md) |
 | 2017-04-21 | 2017-07-24 | [2017-04-21.md](./2017-04-21.md) |
-| 2017-04-21 | 2017-07-24 | [2017-04-21.md](./2017-04-21.md) |
 | 2017-02-09 | 2017-04-20 | [2017-02-09.md](./2017-02-09.md) |
-| 2017-02-09 | 2017-04-20 | [2017-02-09.md](./2017-02-09.md) |
-| 2017-01-01 | 2017-02-08 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-02-08 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-02-08 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-10-01 | 2016-12-31 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-04-01 | 2016-09-30 | [2016-04-01.md](./2016-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2013-04-18"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Subsidieregeling NER 300
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-ner-300](https://wetten.ai/eli/nl/ministeriele-regeling/2010/subsidieregeling-ner-300)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-ner-300](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/subsidieregeling-ner-300)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-04-18 | heden | [2013-04-18.md](./2013-04-18.md) |
-| 2013-04-03 | 2013-04-17 | [2013-04-03.md](./2013-04-03.md) |
 | 2013-04-03 | 2013-04-17 | [2013-04-03.md](./2013-04-03.md) |
 | 2010-12-25 | 2013-04-02 | [2010-12-25.md](./2010-12-25.md) |
 | 2010-11-06 | 2010-12-24 | [2010-11-06.md](./2010-11-06.md) |

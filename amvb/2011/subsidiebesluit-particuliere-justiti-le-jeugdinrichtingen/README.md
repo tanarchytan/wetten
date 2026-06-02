@@ -6,7 +6,7 @@ title: Besluit van 23 december 2010, houdende regels omtrent het verstrekken van
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2013-03-20"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Subsidiebesluit particuliere justitiële jeugdinrichtingen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2011/subsidiebesluit-particuliere-justiti-le-jeugdinrichtingen](https://wetten.ai/eli/nl/amvb/2011/subsidiebesluit-particuliere-justiti-le-jeugdinrichtingen)
+**ELI:** [/eli/nl/amvb/2011/subsidiebesluit-particuliere-justiti-le-jeugdinrichtingen](https://wettenbank.online/eli/nl/amvb/2011/subsidiebesluit-particuliere-justiti-le-jeugdinrichtingen)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2013-03-20 | heden | [2013-03-20.md](./2013-03-20.md) |
 | 2013-01-01 | 2013-03-19 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-03-19 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-01-12 | 2012-12-31 | [2011-01-12.md](./2011-01-12.md) |
-| 2011-01-12 | 2012-12-31 | [2011-01-12.md](./2011-01-12.md) |
-| 2005-01-01 | 2011-01-11 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2011-01-11 | [2005-01-01.md](./2005-01-01.md) |

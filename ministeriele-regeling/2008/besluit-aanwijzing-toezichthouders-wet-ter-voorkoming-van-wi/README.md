@@ -6,7 +6,7 @@ title: Besluit van de Minister van Financiën en de Minister van Justitie van 18
 ministry: Financiën
 abbreviation: Bat WFt
 latest_state: "2016-01-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 11
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Bat WFt
-**ELI:** [/eli/nl/ministeriele-regeling/2008/besluit-aanwijzing-toezichthouders-wet-ter-voorkoming-van-wi](https://wetten.ai/eli/nl/ministeriele-regeling/2008/besluit-aanwijzing-toezichthouders-wet-ter-voorkoming-van-wi)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/besluit-aanwijzing-toezichthouders-wet-ter-voorkoming-van-wi](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/besluit-aanwijzing-toezichthouders-wet-ter-voorkoming-van-wi)
 
 ## Versies
 
@@ -28,8 +28,6 @@ state_count: 11
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-09-17 | 2013-12-31 | [2013-09-17.md](./2013-09-17.md) |
 | 2013-01-04 | 2013-09-16 | [2013-01-04.md](./2013-01-04.md) |
-| 2013-01-04 | 2013-09-16 | [2013-01-04.md](./2013-01-04.md) |
-| 2013-01-01 | 2013-01-03 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-01-03 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-07-26 | 2012-12-31 | [2011-07-26.md](./2011-07-26.md) |
 | 2011-07-01 | 2011-07-25 | [2011-07-01.md](./2011-07-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van het hoofd van de Centrale Afdeling Communicatietechnologie, I
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2009-04-29"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit mandaat, volmacht en machtiging Centrale Afdeling Communicatietechnologie, Informatie- en Documentmanagement 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-centrale-afdeling-com](https://wetten.ai/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-centrale-afdeling-com)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-centrale-afdeling-com](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/besluit-mandaat-volmacht-en-machtiging-centrale-afdeling-com)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2009-04-29 | 2010-02-26 | [2009-04-29.md](./2009-04-29.md) |
 | 2008-07-17 | 2009-04-28 | [2008-07-17.md](./2008-07-17.md) |
-| 2008-05-01 | 2008-07-16 | [2008-05-01.md](./2008-05-01.md) |
 | 2008-05-01 | 2008-07-16 | [2008-05-01.md](./2008-05-01.md) |
 | 2004-05-21 | 2008-04-30 | [2004-05-21.md](./2004-05-21.md) |
 | 2004-03-01 | 2004-05-20 | [2004-03-01.md](./2004-03-01.md) |

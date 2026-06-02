@@ -6,7 +6,7 @@ title: Wet van 25 mei 1998, houdende nieuwe regelen ter bescherming van natuur e
 ministry: Economische Zaken
 abbreviation: NBW 1998
 latest_state: "2016-04-14"
-state_count: 30
+state_count: 27
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 30
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** NBW 1998
-**ELI:** [/eli/nl/wet/1999/natuurbeschermingswet-1998](https://wetten.ai/eli/nl/wet/1999/natuurbeschermingswet-1998)
+**ELI:** [/eli/nl/wet/1999/natuurbeschermingswet-1998](https://wettenbank.online/eli/nl/wet/1999/natuurbeschermingswet-1998)
 
 ## Versies
 
@@ -39,10 +39,7 @@ state_count: 30
 | 2009-12-22 | 2009-12-31 | [2009-12-22.md](./2009-12-22.md) |
 | 2009-07-15 | 2009-12-21 | [2009-07-15.md](./2009-07-15.md) |
 | 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-02-01 | 2009-06-30 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-02-01 | 2009-06-30 | [2009-02-01.md](./2009-02-01.md) |
-| 2008-07-01 | 2009-01-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2009-01-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-07-01 | 2007-12-31 | [2007-07-01.md](./2007-07-01.md) |

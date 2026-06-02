@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 12 oktober 201
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Regeling zeevarenden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-zeevarenden](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-zeevarenden)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-zeevarenden](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-zeevarenden)
 
 ## Versies
 
@@ -34,12 +34,10 @@ state_count: 23
 | 2016-09-18 | 2016-12-31 | [2016-09-18.md](./2016-09-18.md) |
 | 2016-01-23 | 2016-09-17 | [2016-01-23.md](./2016-01-23.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2015-11-27 | 2016-01-17 | [2015-11-27.md](./2015-11-27.md) |
 | 2015-07-01 | 2015-11-26 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-03-30 | 2015-06-30 | [2015-03-30.md](./2015-03-30.md) |
 | 2014-05-03 | 2015-03-29 | [2014-05-03.md](./2014-05-03.md) |
-| 2013-11-01 | 2014-05-02 | [2013-11-01.md](./2013-11-01.md) |
 | 2013-11-01 | 2014-05-02 | [2013-11-01.md](./2013-11-01.md) |
 | 2013-08-20 | 2013-10-31 | [2013-08-20.md](./2013-08-20.md) |
 | 2013-07-20 | 2013-08-19 | [2013-07-20.md](./2013-07-20.md) |

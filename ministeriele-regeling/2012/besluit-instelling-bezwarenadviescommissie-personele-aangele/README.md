@@ -6,7 +6,7 @@ title: Besluit instelling bezwarenadviescommissie personele aangelegenheden IenM
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Besluit instelling bezwarenadviescommissie personele aangelegenheden IenM
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/besluit-instelling-bezwarenadviescommissie-personele-aangele](https://wetten.ai/eli/nl/ministeriele-regeling/2012/besluit-instelling-bezwarenadviescommissie-personele-aangele)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/besluit-instelling-bezwarenadviescommissie-personele-aangele](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/besluit-instelling-bezwarenadviescommissie-personele-aangele)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2020-01-01 | 2020-03-06 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-04-01 | 2019-12-31 | [2017-04-01.md](./2017-04-01.md) |
-| 2012-04-01 | 2017-03-31 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-04-01 | 2017-03-31 | [2012-04-01.md](./2012-04-01.md) |

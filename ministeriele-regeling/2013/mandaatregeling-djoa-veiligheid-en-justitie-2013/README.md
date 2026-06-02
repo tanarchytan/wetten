@@ -6,7 +6,7 @@ title: Regeling van de directeur Juridische en Operationele Aangelegenheden van 
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-05-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Mandaatregeling DJOA Veiligheid en Justitie 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/mandaatregeling-djoa-veiligheid-en-justitie-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2013/mandaatregeling-djoa-veiligheid-en-justitie-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/mandaatregeling-djoa-veiligheid-en-justitie-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/mandaatregeling-djoa-veiligheid-en-justitie-2013)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2020-05-01 | 2021-02-11 | [2020-05-01.md](./2020-05-01.md) |
 | 2015-01-29 | 2020-04-30 | [2015-01-29.md](./2015-01-29.md) |
-| 2015-01-01 | 2015-01-28 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-01-28 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-10-16 | 2014-12-31 | [2013-10-16.md](./2013-10-16.md) |

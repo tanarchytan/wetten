@@ -6,7 +6,7 @@ title: Besluit van 22 december 1995, houdende nadere regelen inzake het verricht
 ministry: Financiën
 abbreviation: Bpr 1996
 latest_state: "2010-10-10"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Bpr 1996
-**ELI:** [/eli/nl/amvb/1996/besluit-privaatrechtelijke-rechtshandelingen-1996](https://wetten.ai/eli/nl/amvb/1996/besluit-privaatrechtelijke-rechtshandelingen-1996)
+**ELI:** [/eli/nl/amvb/1996/besluit-privaatrechtelijke-rechtshandelingen-1996](https://wettenbank.online/eli/nl/amvb/1996/besluit-privaatrechtelijke-rechtshandelingen-1996)
 
 ## Versies
 
@@ -26,5 +26,4 @@ state_count: 5
 | 2010-10-10 | 2017-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2004-07-01 | 2010-10-09 | [2004-07-01.md](./2004-07-01.md) |
 | 2002-09-01 | 2004-06-30 | [2002-09-01.md](./2002-09-01.md) |
-| 2002-01-01 | 2002-08-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-08-31 | [2002-01-01.md](./2002-01-01.md) |

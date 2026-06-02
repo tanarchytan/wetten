@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2018-11-30"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling uniforme saneringen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-uniforme-saneringen](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-uniforme-saneringen)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-uniforme-saneringen](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-uniforme-saneringen)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 14
 | 2013-07-01 | 2016-08-24 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-04-01 | 2013-06-30 | [2012-04-01.md](./2012-04-01.md) |
 | 2011-08-26 | 2012-03-31 | [2011-08-26.md](./2011-08-26.md) |
-| 2011-07-15 | 2011-08-25 | [2011-07-15.md](./2011-07-15.md) |
 | 2011-07-15 | 2011-08-25 | [2011-07-15.md](./2011-07-15.md) |
 | 2010-11-19 | 2011-07-14 | [2010-11-19.md](./2010-11-19.md) |
 | 2009-12-02 | 2010-11-18 | [2009-12-02.md](./2009-12-02.md) |

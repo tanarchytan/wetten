@@ -6,7 +6,7 @@ title: Besluit van 23 mei 2008, houdende regels voor het gebruik van het burgers
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-03-01"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Besluit gebruik burgerservicenummer in de zorg
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2008/besluit-gebruik-burgerservicenummer-in-de-zorg](https://wetten.ai/eli/nl/amvb/2008/besluit-gebruik-burgerservicenummer-in-de-zorg)
+**ELI:** [/eli/nl/amvb/2008/besluit-gebruik-burgerservicenummer-in-de-zorg](https://wettenbank.online/eli/nl/amvb/2008/besluit-gebruik-burgerservicenummer-in-de-zorg)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 17
 | 2021-12-18 | 2024-11-22 | [2021-12-18.md](./2021-12-18.md) |
 | 2019-03-30 | 2021-12-17 | [2019-03-30.md](./2019-03-30.md) |
 | 2018-07-28 | 2019-03-29 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-11-29 | 2018-05-24 | [2017-11-29.md](./2017-11-29.md) |
 | 2016-10-06 | 2017-11-28 | [2016-10-06.md](./2016-10-06.md) |

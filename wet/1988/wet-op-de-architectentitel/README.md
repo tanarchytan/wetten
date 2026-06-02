@@ -6,7 +6,7 @@ title: Wet van 7 juli 1987, houdende regelen omtrent de bescherming van de titel
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2021-08-26"
-state_count: 23
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Wet op de architectentitel
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/1988/wet-op-de-architectentitel](https://wetten.ai/eli/nl/wet/1988/wet-op-de-architectentitel)
+**ELI:** [/eli/nl/wet/1988/wet-op-de-architectentitel](https://wettenbank.online/eli/nl/wet/1988/wet-op-de-architectentitel)
 
 ## Versies
 
@@ -35,13 +35,7 @@ state_count: 23
 | 2008-07-15 | 2009-06-30 | [2008-07-15.md](./2008-07-15.md) |
 | 2006-04-21 | 2008-07-14 | [2006-04-21.md](./2006-04-21.md) |
 | 2004-12-30 | 2006-04-20 | [2004-12-30.md](./2004-12-30.md) |
-| 2004-12-30 | 2006-04-20 | [2004-12-30.md](./2004-12-30.md) |
-| 2002-11-06 | 2004-12-29 | [2002-11-06.md](./2002-11-06.md) |
-| 2002-11-06 | 2004-12-29 | [2002-11-06.md](./2002-11-06.md) |
 | 2002-11-06 | 2004-12-29 | [2002-11-06.md](./2002-11-06.md) |
 | 2002-09-01 | 2002-11-05 | [2002-09-01.md](./2002-09-01.md) |
-| 2002-09-01 | 2002-11-05 | [2002-09-01.md](./2002-09-01.md) |
-| 2002-09-01 | 2002-11-05 | [2002-09-01.md](./2002-09-01.md) |
-| 2002-06-01 | 2002-08-31 | [2002-06-01.md](./2002-06-01.md) |
 | 2002-06-01 | 2002-08-31 | [2002-06-01.md](./2002-06-01.md) |
 | 1998-01-01 | 2002-05-31 | [1998-01-01.md](./1998-01-01.md) |

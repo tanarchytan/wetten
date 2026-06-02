@@ -6,7 +6,7 @@ title: Besluit van 5 juli 2008 houdende regels ter uitvoering van de Algemene do
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-05-10"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Algemeen douanebesluit
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2008/algemeen-douanebesluit](https://wetten.ai/eli/nl/amvb/2008/algemeen-douanebesluit)
+**ELI:** [/eli/nl/amvb/2008/algemeen-douanebesluit](https://wettenbank.online/eli/nl/amvb/2008/algemeen-douanebesluit)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 17
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-05-24 | 2017-12-31 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2015-01-01 | 2016-04-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |

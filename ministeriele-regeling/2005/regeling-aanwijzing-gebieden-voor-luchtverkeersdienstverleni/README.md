@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretarissen van Verkeer en Waterstaat en van Defe
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2009-12-17"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling aanwijzing gebieden voor luchtverkeersdienstverlening door buitenlandse instanties 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-aanwijzing-gebieden-voor-luchtverkeersdienstverleni](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-aanwijzing-gebieden-voor-luchtverkeersdienstverleni)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-aanwijzing-gebieden-voor-luchtverkeersdienstverleni](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-aanwijzing-gebieden-voor-luchtverkeersdienstverleni)
 
 ## Versies
 
@@ -28,8 +28,6 @@ state_count: 11
 | 2007-11-22 | 2008-05-27 | [2007-11-22.md](./2007-11-22.md) |
 | 2007-05-24 | 2007-11-21 | [2007-05-24.md](./2007-05-24.md) |
 | 2007-04-12 | 2007-05-23 | [2007-04-12.md](./2007-04-12.md) |
-| 2007-04-12 | 2007-05-23 | [2007-04-12.md](./2007-04-12.md) |
 | 2006-01-01 | 2007-04-11 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-11-24 | 2005-12-31 | [2005-11-24.md](./2005-11-24.md) |
 | 2005-11-24 | 2005-12-31 | [2005-11-24.md](./2005-11-24.md) |
 | 2005-05-12 | 2005-11-23 | [2005-05-12.md](./2005-05-12.md) |

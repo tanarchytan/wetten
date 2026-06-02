@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 1 j
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-10-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling vaststelling quota suiker, isoglucose en inulinestroop voor de verkoopseizoenen 2006/2007 tot en met 2014/2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2007-10-01 | 2022-03-31 | [2007-10-01.md](./2007-10-01.md) |
 | 2007-07-13 | 2007-09-30 | [2007-07-13.md](./2007-07-13.md) |
 | 2006-12-08 | 2007-07-12 | [2006-12-08.md](./2006-12-08.md) |
-| 2006-12-08 | 2007-07-12 | [2006-12-08.md](./2006-12-08.md) |
-| 2006-07-01 | 2006-12-07 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-07-01 | 2006-12-07 | [2006-07-01.md](./2006-07-01.md) |

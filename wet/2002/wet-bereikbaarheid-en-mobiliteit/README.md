@@ -6,7 +6,7 @@ title: Wet van 4 juli 2002, houdende regels voor het heffen van mobiliteitstarie
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2015-11-01"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Wet bereikbaarheid en mobiliteit
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/2002/wet-bereikbaarheid-en-mobiliteit](https://wetten.ai/eli/nl/wet/2002/wet-bereikbaarheid-en-mobiliteit)
+**ELI:** [/eli/nl/wet/2002/wet-bereikbaarheid-en-mobiliteit](https://wettenbank.online/eli/nl/wet/2002/wet-bereikbaarheid-en-mobiliteit)
 
 ## Versies
 
@@ -30,8 +30,6 @@ state_count: 17
 | 2010-03-31 | 2010-09-30 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-15 | 2010-03-30 | [2009-07-15.md](./2009-07-15.md) |
 | 2008-11-07 | 2009-07-14 | [2008-11-07.md](./2008-11-07.md) |
-| 2008-11-07 | 2009-07-14 | [2008-11-07.md](./2008-11-07.md) |
-| 2008-07-01 | 2008-11-06 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2008-11-06 | [2008-07-01.md](./2008-07-01.md) |
 | 2007-01-01 | 2008-06-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-03-08 | 2006-12-31 | [2006-03-08.md](./2006-03-08.md) |

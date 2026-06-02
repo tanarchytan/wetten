@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 14 november 201
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2013-06-23"
-state_count: 10
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Verordening PT algemene heffing groenten en fruit 2012
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2012/verordening-pt-algemene-heffing-groenten-en-fruit-2012](https://wetten.ai/eli/nl/pbo/2012/verordening-pt-algemene-heffing-groenten-en-fruit-2012)
+**ELI:** [/eli/nl/pbo/2012/verordening-pt-algemene-heffing-groenten-en-fruit-2012](https://wettenbank.online/eli/nl/pbo/2012/verordening-pt-algemene-heffing-groenten-en-fruit-2012)
 
 ## Versies
 
@@ -24,11 +24,5 @@ state_count: 10
 |---|---|---|
 | 2013-06-23 | heden | [2013-06-23.md](./2013-06-23.md) |
 | 2013-03-31 | 2013-06-22 | [2013-03-31.md](./2013-03-31.md) |
-| 2013-03-31 | 2013-06-22 | [2013-03-31.md](./2013-03-31.md) |
 | 2012-10-14 | 2013-03-30 | [2012-10-14.md](./2012-10-14.md) |
-| 2012-10-14 | 2013-03-30 | [2012-10-14.md](./2012-10-14.md) |
-| 2012-10-14 | 2013-03-30 | [2012-10-14.md](./2012-10-14.md) |
-| 2012-01-01 | 2012-10-13 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-10-13 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-10-13 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-10-13 | [2012-01-01.md](./2012-01-01.md) |

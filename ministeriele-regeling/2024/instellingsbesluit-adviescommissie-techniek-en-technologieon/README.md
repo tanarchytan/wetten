@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-03-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Instellingsbesluit adviescommissie techniek- en technologieonderwijs in het funderend onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2024/instellingsbesluit-adviescommissie-techniek-en-technologieon](https://wetten.ai/eli/nl/ministeriele-regeling/2024/instellingsbesluit-adviescommissie-techniek-en-technologieon)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/instellingsbesluit-adviescommissie-techniek-en-technologieon](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/instellingsbesluit-adviescommissie-techniek-en-technologieon)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-03-12 | heden | [2025-03-12.md](./2025-03-12.md) |
-| 2024-12-01 | 2025-03-11 | [2024-12-01.md](./2024-12-01.md) |
 | 2024-12-01 | 2025-03-11 | [2024-12-01.md](./2024-12-01.md) |
 | 2024-09-24 | 2024-11-30 | [2024-09-24.md](./2024-09-24.md) |

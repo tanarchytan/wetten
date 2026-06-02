@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Vreemdelingenzaken en Integratie en de Mini
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2005-10-19"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling instelling Commissie Evaluatie Vreemdelingenwet 2000
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-instelling-commissie-evaluatie-vreemdelingenwet-200](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-instelling-commissie-evaluatie-vreemdelingenwet-200)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-instelling-commissie-evaluatie-vreemdelingenwet-200](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-instelling-commissie-evaluatie-vreemdelingenwet-200)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2005-10-19 | heden | [2005-10-19.md](./2005-10-19.md) |
 | 2005-10-01 | 2005-10-18 | [2005-10-01.md](./2005-10-01.md) |
-| 2005-10-01 | 2005-10-18 | [2005-10-01.md](./2005-10-01.md) |
 | 2004-12-03 | 2005-09-30 | [2004-12-03.md](./2004-12-03.md) |
-| 2004-09-01 | 2004-12-02 | [2004-09-01.md](./2004-09-01.md) |
 | 2004-09-01 | 2004-12-02 | [2004-09-01.md](./2004-09-01.md) |
 | 2004-03-07 | 2004-08-31 | [2004-03-07.md](./2004-03-07.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-12-02"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling eerstelijns verblijf 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-eerstelijns-verblijf-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/subsidieregeling-eerstelijns-verblijf-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/subsidieregeling-eerstelijns-verblijf-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/subsidieregeling-eerstelijns-verblijf-2015)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2015-12-02 | 2015-12-31 | [2015-12-02.md](./2015-12-02.md) |
 | 2015-06-01 | 2015-12-01 | [2015-06-01.md](./2015-06-01.md) |
-| 2015-06-01 | 2015-12-01 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-04-23 | 2015-05-31 | [2015-04-23.md](./2015-04-23.md) |
-| 2015-01-01 | 2015-04-22 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-04-22 | [2015-01-01.md](./2015-01-01.md) |

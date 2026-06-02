@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 13 december 2013, nr.Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2025-04-03"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling bezoldiging en schadeloosstelling functionarissen Kamer van Koophandel
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-bezoldiging-en-schadeloosstelling-functionarissen-k](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-bezoldiging-en-schadeloosstelling-functionarissen-k)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-bezoldiging-en-schadeloosstelling-functionarissen-k](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-bezoldiging-en-schadeloosstelling-functionarissen-k)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2025-04-03 | heden | [2025-04-03.md](./2025-04-03.md) |
 | 2020-01-01 | 2025-04-02 | [2020-01-01.md](./2020-01-01.md) |
 | 2016-01-01 | 2019-12-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |

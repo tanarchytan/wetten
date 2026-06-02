@@ -6,7 +6,7 @@ title: Besluit van de Minister van Buitenlandse Zaken en de Minister voor Ontwik
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2004-11-17"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vaststellingsbesluit subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken (Projecten Programma voor Goed Bestuur, Mensenrechten en Vredesopbouw in Bosnië en Herzegovina)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/vaststellingsbesluit-subsidieplafond-subsidieregeling-minist-bwbr0016611](https://wetten.ai/eli/nl/ministeriele-regeling/2004/vaststellingsbesluit-subsidieplafond-subsidieregeling-minist-bwbr0016611)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/vaststellingsbesluit-subsidieplafond-subsidieregeling-minist-bwbr0016611](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/vaststellingsbesluit-subsidieplafond-subsidieregeling-minist-bwbr0016611)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-11-17 | 2005-12-31 | [2004-11-17.md](./2004-11-17.md) |
-| 2004-11-01 | 2004-11-16 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-11-16 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-04-29 | 2004-10-31 | [2004-04-29.md](./2004-04-29.md) |

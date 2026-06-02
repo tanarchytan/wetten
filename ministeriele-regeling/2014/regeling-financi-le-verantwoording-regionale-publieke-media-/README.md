@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling financiële verantwoording regionale publieke media-instellingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-financi-le-verantwoording-regionale-publieke-media-](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-financi-le-verantwoording-regionale-publieke-media-)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-financi-le-verantwoording-regionale-publieke-media-](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-financi-le-verantwoording-regionale-publieke-media-)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2016-01-01 | 2017-04-13 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-07-07 | 2015-12-31 | [2015-07-07.md](./2015-07-07.md) |
-| 2015-01-01 | 2015-07-06 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-07-06 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |

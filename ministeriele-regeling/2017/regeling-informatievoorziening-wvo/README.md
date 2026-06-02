@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-01-25"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Regeling informatievoorziening WVO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-informatievoorziening-wvo](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-informatievoorziening-wvo)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-informatievoorziening-wvo](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-informatievoorziening-wvo)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 16
 |---|---|---|
 | 2025-01-25 | heden | [2025-01-25.md](./2025-01-25.md) |
 | 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |
-| 2024-03-25 | 2024-12-31 | [2024-03-25.md](./2024-03-25.md) |
 | 2024-03-25 | 2024-12-31 | [2024-03-25.md](./2024-03-25.md) |
 | 2023-03-16 | 2024-03-24 | [2023-03-16.md](./2023-03-16.md) |
 | 2023-01-01 | 2023-03-15 | [2023-01-01.md](./2023-01-01.md) |

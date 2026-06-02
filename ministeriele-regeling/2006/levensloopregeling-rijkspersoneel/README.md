@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2016-12-14"
-state_count: 17
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Levensloopregeling rijkspersoneel
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2006/levensloopregeling-rijkspersoneel](https://wetten.ai/eli/nl/ministeriele-regeling/2006/levensloopregeling-rijkspersoneel)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/levensloopregeling-rijkspersoneel](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/levensloopregeling-rijkspersoneel)
 
 ## Versies
 
@@ -24,18 +24,11 @@ state_count: 17
 |---|---|---|
 | 2016-12-14 | 2019-12-31 | [2016-12-14.md](./2016-12-14.md) |
 | 2016-01-01 | 2016-12-13 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-12-13 | [2016-01-01.md](./2016-01-01.md) |
 | 2013-01-01 | 2015-12-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2015-12-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-05-09 | 2010-12-31 | [2009-05-09.md](./2009-05-09.md) |
 | 2008-10-01 | 2009-05-08 | [2008-10-01.md](./2008-10-01.md) |
-| 2008-10-01 | 2009-05-08 | [2008-10-01.md](./2008-10-01.md) |
-| 2008-02-22 | 2008-09-30 | [2008-02-22.md](./2008-02-22.md) |
 | 2008-02-22 | 2008-09-30 | [2008-02-22.md](./2008-02-22.md) |
 | 2006-12-23 | 2008-02-21 | [2006-12-23.md](./2006-12-23.md) |
-| 2006-12-23 | 2008-02-21 | [2006-12-23.md](./2006-12-23.md) |
-| 2006-01-01 | 2006-12-22 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-22 | [2006-01-01.md](./2006-01-01.md) |

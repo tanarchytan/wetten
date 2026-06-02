@@ -6,7 +6,7 @@ title: Wet van 10 april 2008, houdende regels inzake het gebruik van het burgers
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-07-05"
-state_count: 20
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/2008/wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de](https://wetten.ai/eli/nl/wet/2008/wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de)
+**ELI:** [/eli/nl/wet/2008/wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de](https://wettenbank.online/eli/nl/wet/2008/wet-aanvullende-bepalingen-verwerking-persoonsgegevens-in-de)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 20
 | 2019-04-01 | 2019-06-30 | [2019-04-01.md](./2019-04-01.md) |
 | 2018-11-17 | 2019-03-31 | [2018-11-17.md](./2018-11-17.md) |
 | 2018-07-28 | 2018-11-16 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-12-31 | 2017-12-31 | [2017-12-31.md](./2017-12-31.md) |

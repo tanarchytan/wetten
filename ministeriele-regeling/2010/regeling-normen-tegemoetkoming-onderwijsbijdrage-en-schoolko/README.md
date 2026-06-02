@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling normen tegemoetkoming onderwijsbijdrage en schoolkosten 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-normen-tegemoetkoming-onderwijsbijdrage-en-schoolko](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-normen-tegemoetkoming-onderwijsbijdrage-en-schoolko)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-normen-tegemoetkoming-onderwijsbijdrage-en-schoolko](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-normen-tegemoetkoming-onderwijsbijdrage-en-schoolko)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-01 | 2011-07-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-09-01 | 2010-12-31 | [2010-09-01.md](./2010-09-01.md) |
 | 2010-09-01 | 2010-12-31 | [2010-09-01.md](./2010-09-01.md) |
 | 2010-01-01 | 2010-08-31 | [2010-01-01.md](./2010-01-01.md) |

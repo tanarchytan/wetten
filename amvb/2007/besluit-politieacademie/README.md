@@ -6,7 +6,7 @@ title: Besluit van 27 juli 2007, houdende regels inzake de bekostiging, het fina
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2017-11-29"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit Politieacademie
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2007/besluit-politieacademie](https://wetten.ai/eli/nl/amvb/2007/besluit-politieacademie)
+**ELI:** [/eli/nl/amvb/2007/besluit-politieacademie](https://wettenbank.online/eli/nl/amvb/2007/besluit-politieacademie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-11-29 | heden | [2017-11-29.md](./2017-11-29.md) |
-| 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-11-28 | [2017-01-01.md](./2017-01-01.md) |
 | 2007-08-31 | 2016-12-31 | [2007-08-31.md](./2007-08-31.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Wonen, Wijken en Integratie van 5 oktober 2
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Instellingsbesluit Wetenschappelijke commissie wijkaanpak
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-wetenschappelijke-commissie-wijkaanpak](https://wetten.ai/eli/nl/ministeriele-regeling/2009/instellingsbesluit-wetenschappelijke-commissie-wijkaanpak)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-wetenschappelijke-commissie-wijkaanpak](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/instellingsbesluit-wetenschappelijke-commissie-wijkaanpak)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 9
 | 2016-01-01 | 2016-01-18 | [2016-01-01.md](./2016-01-01.md) |
 | 2013-04-16 | 2015-12-31 | [2013-04-16.md](./2013-04-16.md) |
 | 2013-04-01 | 2013-04-15 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-04-01 | 2013-04-15 | [2013-04-01.md](./2013-04-01.md) |
 | 2010-10-01 | 2013-03-31 | [2010-10-01.md](./2010-10-01.md) |
 | 2009-10-15 | 2010-09-30 | [2009-10-15.md](./2009-10-15.md) |
-| 2009-10-15 | 2010-09-30 | [2009-10-15.md](./2009-10-15.md) |
-| 2009-06-01 | 2009-10-14 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-06-01 | 2009-10-14 | [2009-06-01.md](./2009-06-01.md) |

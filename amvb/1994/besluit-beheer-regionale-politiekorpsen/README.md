@@ -6,7 +6,7 @@ title: Besluit van 28 maart 1994, houdende regels met betrekking tot het beheer 
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: BBRP
 latest_state: "2008-12-17"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 7
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** BBRP
-**ELI:** [/eli/nl/amvb/1994/besluit-beheer-regionale-politiekorpsen](https://wetten.ai/eli/nl/amvb/1994/besluit-beheer-regionale-politiekorpsen)
+**ELI:** [/eli/nl/amvb/1994/besluit-beheer-regionale-politiekorpsen](https://wettenbank.online/eli/nl/amvb/1994/besluit-beheer-regionale-politiekorpsen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-12-17 | 2012-12-31 | [2008-12-17.md](./2008-12-17.md) |
-| 2008-01-01 | 2008-12-16 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-12-16 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-05-02 | 2007-12-31 | [2007-05-02.md](./2007-05-02.md) |
 | 2006-05-01 | 2007-05-01 | [2006-05-01.md](./2006-05-01.md) |

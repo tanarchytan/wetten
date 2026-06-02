@@ -6,7 +6,7 @@ title: Rijkswet van 19 december 1984, houdende vaststelling van nieuwe, algemene
 ministry: Veiligheid en Justitie
 abbreviation: RWN
 latest_state: "2023-10-01"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** rijkswet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** RWN
-**ELI:** [/eli/nl/rijkswet/1985/rijkswet-op-het-nederlanderschap](https://wetten.ai/eli/nl/rijkswet/1985/rijkswet-op-het-nederlanderschap)
+**ELI:** [/eli/nl/rijkswet/1985/rijkswet-op-het-nederlanderschap](https://wettenbank.online/eli/nl/rijkswet/1985/rijkswet-op-het-nederlanderschap)
 
 ## Versies
 
@@ -39,5 +39,4 @@ state_count: 18
 | 2005-01-01 | 2009-02-28 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-01 | 2004-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-04-01 | 2003-12-31 | [2003-04-01.md](./2003-04-01.md) |
-| 1998-10-01 | 2003-03-31 | [1998-10-01.md](./1998-10-01.md) |
 | 1998-10-01 | 2003-03-31 | [1998-10-01.md](./1998-10-01.md) |

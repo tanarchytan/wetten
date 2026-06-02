@@ -6,7 +6,7 @@ title: Regeling financiering en verantwoording Abw, IOAW en IOAZ
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2019-03-01"
-state_count: 32
+state_count: 27
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 32
 **Citeertitel:** Regeling financiering en verantwoording IOAW, IOAZ en Bbz 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-financiering-en-verantwoording-ioaw-ioaz-en-bbz-200](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-financiering-en-verantwoording-ioaw-ioaz-en-bbz-200)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-financiering-en-verantwoording-ioaw-ioaz-en-bbz-200](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/regeling-financiering-en-verantwoording-ioaw-ioaz-en-bbz-200)
 
 ## Versies
 
@@ -41,15 +41,10 @@ state_count: 32
 | 2008-01-01 | 2008-04-19 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-04-18 | 2007-12-31 | [2007-04-18.md](./2007-04-18.md) |
 | 2007-01-25 | 2007-04-17 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-25 | 2007-04-17 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-29 | 2006-12-31 | [2006-01-29.md](./2006-01-29.md) |
 | 2006-01-01 | 2006-01-28 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-01-28 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-03-18 | 2005-12-31 | [2005-03-18.md](./2005-03-18.md) |
-| 2005-01-01 | 2005-03-17 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-17 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-04-02 | 2004-12-31 | [2004-04-02.md](./2004-04-02.md) |
 | 2004-01-01 | 2004-04-01 | [2004-01-01.md](./2004-01-01.md) |

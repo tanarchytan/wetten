@@ -6,7 +6,7 @@ title: Rijkswet van 20 december 2017, houdende bepalingen ter implementatie van 
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2025-05-03"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Rijkswet consulaire bescherming EU-burgers
 **Type:** rijkswet
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/rijkswet/2018/rijkswet-consulaire-bescherming-eu-burgers](https://wetten.ai/eli/nl/rijkswet/2018/rijkswet-consulaire-bescherming-eu-burgers)
+**ELI:** [/eli/nl/rijkswet/2018/rijkswet-consulaire-bescherming-eu-burgers](https://wettenbank.online/eli/nl/rijkswet/2018/rijkswet-consulaire-bescherming-eu-burgers)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-05-03 | heden | [2025-05-03.md](./2025-05-03.md) |
-| 2024-12-08 | 2025-05-02 | [2024-12-08.md](./2024-12-08.md) |
 | 2024-12-08 | 2025-05-02 | [2024-12-08.md](./2024-12-08.md) |
 | 2018-05-01 | 2024-12-07 | [2018-05-01.md](./2018-05-01.md) |

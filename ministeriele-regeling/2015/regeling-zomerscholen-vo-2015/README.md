@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-03-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling zomerscholen VO 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-zomerscholen-vo-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-zomerscholen-vo-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-zomerscholen-vo-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-zomerscholen-vo-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-03-20 | 2016-12-31 | [2015-03-20.md](./2015-03-20.md) |
-| 2015-03-01 | 2015-03-19 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-03-01 | 2015-03-19 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-02-19 | 2015-02-28 | [2015-02-19.md](./2015-02-19.md) |

@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 19 mei 2011 hou
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2012-12-30"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening PT heffing export bloembollen naar Japan oogstjaar 2011
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2011/verordening-pt-heffing-export-bloembollen-naar-japan-oogstja](https://wetten.ai/eli/nl/pbo/2011/verordening-pt-heffing-export-bloembollen-naar-japan-oogstja)
+**ELI:** [/eli/nl/pbo/2011/verordening-pt-heffing-export-bloembollen-naar-japan-oogstja](https://wettenbank.online/eli/nl/pbo/2011/verordening-pt-heffing-export-bloembollen-naar-japan-oogstja)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2012-12-30 | heden | [2012-12-30.md](./2012-12-30.md) |
 | 2011-09-04 | 2012-12-29 | [2011-09-04.md](./2011-09-04.md) |
-| 2011-09-04 | 2012-12-29 | [2011-09-04.md](./2011-09-04.md) |
-| 2011-06-01 | 2011-09-03 | [2011-06-01.md](./2011-06-01.md) |
 | 2011-06-01 | 2011-09-03 | [2011-06-01.md](./2011-06-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 30 oktober 2006, houdende regels met betrekking tot de onthef
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Bov szw
 latest_state: "2022-01-01"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Bov szw
-**ELI:** [/eli/nl/amvb/2006/besluit-ontheffing-verplichtingen-sociale-zekerheidswetten](https://wetten.ai/eli/nl/amvb/2006/besluit-ontheffing-verplichtingen-sociale-zekerheidswetten)
+**ELI:** [/eli/nl/amvb/2006/besluit-ontheffing-verplichtingen-sociale-zekerheidswetten](https://wettenbank.online/eli/nl/amvb/2006/besluit-ontheffing-verplichtingen-sociale-zekerheidswetten)
 
 ## Versies
 
@@ -28,10 +28,8 @@ state_count: 13
 | 2015-07-01 | 2020-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-06-30 | 2015-06-30 | [2015-06-30.md](./2015-06-30.md) |
 | 2015-01-01 | 2015-06-29 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-06-29 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-06-19 | 2013-06-30 | [2013-06-19.md](./2013-06-19.md) |
-| 2013-01-01 | 2013-06-18 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-18 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-01-01 | 2012-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |

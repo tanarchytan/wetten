@@ -6,7 +6,7 @@ title: Besluit van 20 december 2012 tot wijziging van enige fiscale uitvoeringsb
 ministry: Financiën
 abbreviation: null
 latest_state: "2013-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Wijzigingsbesluit enige fiscale uitvoeringsbesluiten (2013)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/2013/wijzigingsbesluit-enige-fiscale-uitvoeringsbesluiten-2013](https://wetten.ai/eli/nl/amvb/2013/wijzigingsbesluit-enige-fiscale-uitvoeringsbesluiten-2013)
+**ELI:** [/eli/nl/amvb/2013/wijzigingsbesluit-enige-fiscale-uitvoeringsbesluiten-2013](https://wettenbank.online/eli/nl/amvb/2013/wijzigingsbesluit-enige-fiscale-uitvoeringsbesluiten-2013)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2013-07-01 | heden | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
 | 2013-02-22 | 2013-03-31 | [2013-02-22.md](./2013-02-22.md) |
-| 2013-01-01 | 2013-02-21 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-02-21 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-11-01 | 2012-12-31 | [2012-11-01.md](./2012-11-01.md) |
 | 2012-09-01 | 2012-10-31 | [2012-09-01.md](./2012-09-01.md) |

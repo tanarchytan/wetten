@@ -6,7 +6,7 @@ title: Besluit van het bestuur van de Dienst voor het kadaster en de openbare re
 ministry: Dienst voor het kadaster en de openbare registers
 abbreviation: null
 latest_state: "2025-06-06"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Reglement inrichting organisatie Kadaster 2021
 **Type:** zbo
 **Verantwoordelijk ministerie:** Dienst voor het kadaster en de openbare registers
-**ELI:** [/eli/nl/zbo/2021/reglement-inrichting-organisatie-kadaster-2021](https://wetten.ai/eli/nl/zbo/2021/reglement-inrichting-organisatie-kadaster-2021)
+**ELI:** [/eli/nl/zbo/2021/reglement-inrichting-organisatie-kadaster-2021](https://wettenbank.online/eli/nl/zbo/2021/reglement-inrichting-organisatie-kadaster-2021)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-06-06 | heden | [2025-06-06.md](./2025-06-06.md) |
-| 2025-01-01 | 2025-06-05 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-06-05 | [2025-01-01.md](./2025-01-01.md) |
 | 2021-07-11 | 2024-12-31 | [2021-07-11.md](./2021-07-11.md) |
 | 2021-07-01 | 2021-07-10 | [2021-07-01.md](./2021-07-01.md) |

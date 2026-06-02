@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 a
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Mandaatbesluit LNV Directie Visserij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-directie-visserij](https://wetten.ai/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-directie-visserij)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-directie-visserij](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-directie-visserij)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2009-01-01 | 2009-05-05 | [2009-01-01.md](./2009-01-01.md) |
 | 2005-11-26 | 2008-12-31 | [2005-11-26.md](./2005-11-26.md) |
-| 2005-10-20 | 2005-11-25 | [2005-10-20.md](./2005-10-20.md) |
 | 2005-10-20 | 2005-11-25 | [2005-10-20.md](./2005-10-20.md) |
 | 2005-04-23 | 2005-10-19 | [2005-04-23.md](./2005-04-23.md) |

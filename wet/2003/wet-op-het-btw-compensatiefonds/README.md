@@ -6,7 +6,7 @@ title: Wet van 27 juni 2002, houdende de Wet op het BTW-compensatiefonds
 ministry: Financiën
 abbreviation: WBc
 latest_state: "2023-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** WBc
-**ELI:** [/eli/nl/wet/2003/wet-op-het-btw-compensatiefonds](https://wetten.ai/eli/nl/wet/2003/wet-op-het-btw-compensatiefonds)
+**ELI:** [/eli/nl/wet/2003/wet-op-het-btw-compensatiefonds](https://wettenbank.online/eli/nl/wet/2003/wet-op-het-btw-compensatiefonds)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 10
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-07-11 | 2012-12-31 | [2008-07-11.md](./2008-07-11.md) |
-| 2007-01-01 | 2008-07-10 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2008-07-10 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling overige pyrotechnische artikelen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-overige-pyrotechnische-artikelen](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-overige-pyrotechnische-artikelen)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-overige-pyrotechnische-artikelen](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-overige-pyrotechnische-artikelen)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 12
 | 2016-01-19 | 2016-10-16 | [2016-01-19.md](./2016-01-19.md) |
 | 2014-10-01 | 2016-01-18 | [2014-10-01.md](./2014-10-01.md) |
 | 2014-07-01 | 2014-09-30 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-07-01 | 2014-09-30 | [2014-07-01.md](./2014-07-01.md) |
 | 2013-12-06 | 2014-06-30 | [2013-12-06.md](./2013-12-06.md) |
-| 2013-07-04 | 2013-12-05 | [2013-07-04.md](./2013-07-04.md) |
 | 2013-07-04 | 2013-12-05 | [2013-07-04.md](./2013-07-04.md) |
 | 2012-01-01 | 2013-07-03 | [2012-01-01.md](./2012-01-01.md) |

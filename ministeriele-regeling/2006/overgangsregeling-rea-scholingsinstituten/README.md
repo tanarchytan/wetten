@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 22 sept
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2007-08-31"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Overgangsregeling REA-scholingsinstituten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2006/overgangsregeling-rea-scholingsinstituten](https://wetten.ai/eli/nl/ministeriele-regeling/2006/overgangsregeling-rea-scholingsinstituten)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/overgangsregeling-rea-scholingsinstituten](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/overgangsregeling-rea-scholingsinstituten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-08-31 | 2008-09-24 | [2007-08-31.md](./2007-08-31.md) |
-| 2007-01-01 | 2007-08-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-08-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-07-21 | 2006-12-31 | [2006-07-21.md](./2006-07-21.md) |
 | 2006-01-01 | 2006-07-20 | [2006-01-01.md](./2006-01-01.md) |

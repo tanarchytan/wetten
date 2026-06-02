@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 maa
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling modellen voor mbo-diploma, mbo-certificaat en mbo-verklaring
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-modellen-voor-mbo-diploma-mbo-certificaat-en-mbo-ve](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-modellen-voor-mbo-diploma-mbo-certificaat-en-mbo-ve)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-modellen-voor-mbo-diploma-mbo-certificaat-en-mbo-ve](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-modellen-voor-mbo-diploma-mbo-certificaat-en-mbo-ve)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 14
 | 2016-08-01 | 2018-07-31 | [2016-08-01.md](./2016-08-01.md) |
 | 2015-11-25 | 2016-07-31 | [2015-11-25.md](./2015-11-25.md) |
 | 2015-09-15 | 2015-11-24 | [2015-09-15.md](./2015-09-15.md) |
-| 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
 | 2014-02-15 | 2015-07-31 | [2014-02-15.md](./2014-02-15.md) |
 | 2013-08-01 | 2014-02-14 | [2013-08-01.md](./2013-08-01.md) |

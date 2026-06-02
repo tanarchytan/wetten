@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Subsidieregeling ‘Digitaliseren met beleid’
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-digitaliseren-met-beleid](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-digitaliseren-met-beleid)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-digitaliseren-met-beleid](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-digitaliseren-met-beleid)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2010-07-01 | 2010-11-16 | [2010-07-01.md](./2010-07-01.md) |
 | 2009-04-23 | 2010-06-30 | [2009-04-23.md](./2009-04-23.md) |
-| 2009-01-01 | 2009-04-22 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-04-22 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-07 | 2008-12-31 | [2008-02-07.md](./2008-02-07.md) |
 | 2007-05-16 | 2008-02-06 | [2007-05-16.md](./2007-05-16.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 12 ju
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2022-04-06"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling geluid milieubeheer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-geluid-milieubeheer](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-geluid-milieubeheer)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-geluid-milieubeheer](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-geluid-milieubeheer)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 11
 |---|---|---|
 | 2022-04-06 | 2023-12-31 | [2022-04-06.md](./2022-04-06.md) |
 | 2022-03-01 | 2022-04-05 | [2022-03-01.md](./2022-03-01.md) |
-| 2021-12-31 | 2022-02-28 | [2021-12-31.md](./2021-12-31.md) |
 | 2021-12-31 | 2022-02-28 | [2021-12-31.md](./2021-12-31.md) |
 | 2020-01-01 | 2021-12-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid
 ministry: Veiligheid en Justitie
 abbreviation: Bfs
 latest_state: "2017-09-23"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bfs
-**ELI:** [/eli/nl/amvb/1973/besluit-fondsen-en-spaarregelingen](https://wetten.ai/eli/nl/amvb/1973/besluit-fondsen-en-spaarregelingen)
+**ELI:** [/eli/nl/amvb/1973/besluit-fondsen-en-spaarregelingen](https://wettenbank.online/eli/nl/amvb/1973/besluit-fondsen-en-spaarregelingen)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 6
 | 2017-09-23 | heden | [2017-09-23.md](./2017-09-23.md) |
 | 2017-01-01 | 2017-09-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2009-01-01 | 2016-12-31 | [2009-01-01.md](./2009-01-01.md) |
-| 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2002-01-01 | 2006-12-31 | [2002-01-01.md](./2002-01-01.md) |

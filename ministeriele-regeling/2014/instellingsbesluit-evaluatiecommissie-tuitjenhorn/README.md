@@ -6,7 +6,7 @@ title: Besluit van de Minister van Veiligheid en Justitie en de Minister van Vol
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2015-06-24"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit evaluatiecommissie Tuitjenhorn
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2014/instellingsbesluit-evaluatiecommissie-tuitjenhorn](https://wetten.ai/eli/nl/ministeriele-regeling/2014/instellingsbesluit-evaluatiecommissie-tuitjenhorn)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/instellingsbesluit-evaluatiecommissie-tuitjenhorn](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/instellingsbesluit-evaluatiecommissie-tuitjenhorn)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2015-06-24 | heden | [2015-06-24.md](./2015-06-24.md) |
 | 2015-02-12 | 2015-06-23 | [2015-02-12.md](./2015-02-12.md) |
-| 2015-02-12 | 2015-06-23 | [2015-02-12.md](./2015-02-12.md) |
-| 2014-07-19 | 2015-02-11 | [2014-07-19.md](./2014-07-19.md) |
 | 2014-07-19 | 2015-02-11 | [2014-07-19.md](./2014-07-19.md) |

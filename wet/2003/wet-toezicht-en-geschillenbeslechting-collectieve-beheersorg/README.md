@@ -6,7 +6,7 @@ title: Wet van 6 maart 2003, houdende bepalingen met betrekking tot het toezicht
 ministry: Veiligheid en Justitie
 abbreviation: Wtcb
 latest_state: "2025-07-01"
-state_count: 22
+state_count: 18
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 22
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Wtcb
-**ELI:** [/eli/nl/wet/2003/wet-toezicht-en-geschillenbeslechting-collectieve-beheersorg](https://wetten.ai/eli/nl/wet/2003/wet-toezicht-en-geschillenbeslechting-collectieve-beheersorg)
+**ELI:** [/eli/nl/wet/2003/wet-toezicht-en-geschillenbeslechting-collectieve-beheersorg](https://wettenbank.online/eli/nl/wet/2003/wet-toezicht-en-geschillenbeslechting-collectieve-beheersorg)
 
 ## Versies
 
@@ -36,12 +36,8 @@ state_count: 22
 | 2015-01-01 | 2015-10-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-06-28 | 2014-12-31 | [2014-06-28.md](./2014-06-28.md) |
 | 2014-01-01 | 2014-06-27 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-06-27 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
-| 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-03-26 | 2012-12-31 | [2008-03-26.md](./2008-03-26.md) |
 | 2003-07-15 | 2008-03-25 | [2003-07-15.md](./2003-07-15.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-09-03"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit vaststelling subsidieplafonds Subsidieregeling praktijkleren studiejaar 2023–2024
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2024/besluit-vaststelling-subsidieplafonds-subsidieregeling-prakt](https://wetten.ai/eli/nl/ministeriele-regeling/2024/besluit-vaststelling-subsidieplafonds-subsidieregeling-prakt)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/besluit-vaststelling-subsidieplafonds-subsidieregeling-prakt](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/besluit-vaststelling-subsidieplafonds-subsidieregeling-prakt)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-09-03 | heden | [2025-09-03.md](./2025-09-03.md) |
-| 2024-08-07 | 2025-09-02 | [2024-08-07.md](./2024-08-07.md) |
 | 2024-08-07 | 2025-09-02 | [2024-08-07.md](./2024-08-07.md) |
 | 2024-04-07 | 2024-08-06 | [2024-04-07.md](./2024-04-07.md) |

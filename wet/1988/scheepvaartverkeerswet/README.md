@@ -6,7 +6,7 @@ title: Wet van 7 juli 1988, houdende algemene regeling met betrekking tot het sc
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 28
+state_count: 27
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 28
 **Citeertitel:** Scheepvaartverkeerswet
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/wet/1988/scheepvaartverkeerswet](https://wetten.ai/eli/nl/wet/1988/scheepvaartverkeerswet)
+**ELI:** [/eli/nl/wet/1988/scheepvaartverkeerswet](https://wettenbank.online/eli/nl/wet/1988/scheepvaartverkeerswet)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 28
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-12-21 | 2019-12-31 | [2019-12-21.md](./2019-12-21.md) |
 | 2018-07-28 | 2019-12-20 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-01-01 | 2018-05-24 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-05-03 | 2014-12-31 | [2014-05-03.md](./2014-05-03.md) |

@@ -6,7 +6,7 @@ title: Subsidieregeling Ministerie van Buitenlandse Zaken
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2005-03-10"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Subsidieregeling Ministerie van Buitenlandse Zaken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1999/subsidieregeling-ministerie-van-buitenlandse-zaken](https://wetten.ai/eli/nl/ministeriele-regeling/1999/subsidieregeling-ministerie-van-buitenlandse-zaken)
+**ELI:** [/eli/nl/ministeriele-regeling/1999/subsidieregeling-ministerie-van-buitenlandse-zaken](https://wettenbank.online/eli/nl/ministeriele-regeling/1999/subsidieregeling-ministerie-van-buitenlandse-zaken)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2004-06-26 | 2004-12-31 | [2004-06-26.md](./2004-06-26.md) |
 | 2004-04-24 | 2004-06-25 | [2004-04-24.md](./2004-04-24.md) |
 | 2004-01-30 | 2004-04-23 | [2004-01-30.md](./2004-01-30.md) |
-| 2003-03-21 | 2004-01-29 | [2003-03-21.md](./2003-03-21.md) |
 | 2003-03-21 | 2004-01-29 | [2003-03-21.md](./2003-03-21.md) |

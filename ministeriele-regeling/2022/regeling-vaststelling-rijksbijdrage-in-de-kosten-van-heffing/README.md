@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Minis
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-11-25"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling rijksbijdrage in de kosten van heffingskortingen en Ouderdomsfonds 2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-vaststelling-rijksbijdrage-in-de-kosten-van-heffing](https://wetten.ai/eli/nl/ministeriele-regeling/2022/regeling-vaststelling-rijksbijdrage-in-de-kosten-van-heffing)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-vaststelling-rijksbijdrage-in-de-kosten-van-heffing](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/regeling-vaststelling-rijksbijdrage-in-de-kosten-van-heffing)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2022-11-25 | 2022-12-31 | [2022-11-25.md](./2022-11-25.md) |
 | 2022-07-09 | 2022-11-24 | [2022-07-09.md](./2022-07-09.md) |
-| 2022-07-09 | 2022-11-24 | [2022-07-09.md](./2022-07-09.md) |
-| 2022-01-01 | 2022-07-08 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-07-08 | [2022-01-01.md](./2022-01-01.md) |

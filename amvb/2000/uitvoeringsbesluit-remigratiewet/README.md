@@ -6,7 +6,7 @@ title: Besluit van 15 maart 2000, inzake voorwaarden en maatregelen met betrekki
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Uitv besl  Rw
 latest_state: "2013-06-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 7
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Uitv besl  Rw
-**ELI:** [/eli/nl/amvb/2000/uitvoeringsbesluit-remigratiewet](https://wetten.ai/eli/nl/amvb/2000/uitvoeringsbesluit-remigratiewet)
+**ELI:** [/eli/nl/amvb/2000/uitvoeringsbesluit-remigratiewet](https://wettenbank.online/eli/nl/amvb/2000/uitvoeringsbesluit-remigratiewet)
 
 ## Versies
 
@@ -28,5 +28,4 @@ state_count: 7
 | 2008-08-20 | 2009-12-31 | [2008-08-20.md](./2008-08-20.md) |
 | 2006-01-01 | 2008-08-19 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-05-23 | 2005-12-31 | [2003-05-23.md](./2003-05-23.md) |
-| 2002-01-01 | 2003-05-22 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2003-05-22 | [2002-01-01.md](./2002-01-01.md) |

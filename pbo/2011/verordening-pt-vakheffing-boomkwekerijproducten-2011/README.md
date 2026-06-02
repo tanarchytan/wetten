@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 10 november 201
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2012-06-03"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening PT vakheffing boomkwekerijproducten 2011
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2011/verordening-pt-vakheffing-boomkwekerijproducten-2011](https://wetten.ai/eli/nl/pbo/2011/verordening-pt-vakheffing-boomkwekerijproducten-2011)
+**ELI:** [/eli/nl/pbo/2011/verordening-pt-vakheffing-boomkwekerijproducten-2011](https://wettenbank.online/eli/nl/pbo/2011/verordening-pt-vakheffing-boomkwekerijproducten-2011)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2012-06-03 | heden | [2012-06-03.md](./2012-06-03.md) |
 | 2011-03-20 | 2012-06-02 | [2011-03-20.md](./2011-03-20.md) |
-| 2011-03-20 | 2012-06-02 | [2011-03-20.md](./2011-03-20.md) |
-| 2011-01-01 | 2011-03-19 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-03-19 | [2011-01-01.md](./2011-01-01.md) |

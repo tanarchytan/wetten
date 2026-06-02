@@ -6,7 +6,7 @@ title: Besluit van 10 juli 2007, houdende regels over de hoogst toelaatbare pach
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2018-01-01"
-state_count: 13
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Pachtprijzenbesluit 2007
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2007/pachtprijzenbesluit-2007](https://wetten.ai/eli/nl/amvb/2007/pachtprijzenbesluit-2007)
+**ELI:** [/eli/nl/amvb/2007/pachtprijzenbesluit-2007](https://wettenbank.online/eli/nl/amvb/2007/pachtprijzenbesluit-2007)
 
 ## Versies
 
@@ -27,11 +27,6 @@ state_count: 13
 | 2012-07-01 | 2013-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2011-07-01 | 2012-06-30 | [2011-07-01.md](./2011-07-01.md) |
 | 2009-09-01 | 2011-06-30 | [2009-09-01.md](./2009-09-01.md) |
-| 2009-09-01 | 2011-06-30 | [2009-09-01.md](./2009-09-01.md) |
-| 2009-01-01 | 2009-08-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-08-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-10-31 | 2008-12-31 | [2007-10-31.md](./2007-10-31.md) |
-| 2007-10-31 | 2008-12-31 | [2007-10-31.md](./2007-10-31.md) |
-| 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
-| 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |

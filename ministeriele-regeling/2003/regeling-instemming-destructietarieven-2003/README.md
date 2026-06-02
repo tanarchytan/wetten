@@ -6,7 +6,7 @@ title: Regeling instemming destructietarieven 2003
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2004-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling instemming destructietarieven 2003
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-instemming-destructietarieven-2003](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-instemming-destructietarieven-2003)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-instemming-destructietarieven-2003](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-instemming-destructietarieven-2003)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2004-01-01 | 2004-06-18 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-09-11 | 2003-12-31 | [2003-09-11.md](./2003-09-11.md) |
-| 2003-09-07 | 2003-09-10 | [2003-09-07.md](./2003-09-07.md) |
 | 2003-09-07 | 2003-09-10 | [2003-09-07.md](./2003-09-07.md) |
 | 2003-01-01 | 2003-09-06 | [2003-01-01.md](./2003-01-01.md) |

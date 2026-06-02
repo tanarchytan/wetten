@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 se
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2005-04-08"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Subsidieregeling opleiding tot physician assistant
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-opleiding-tot-physician-assistant](https://wetten.ai/eli/nl/ministeriele-regeling/2004/subsidieregeling-opleiding-tot-physician-assistant)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-opleiding-tot-physician-assistant](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/subsidieregeling-opleiding-tot-physician-assistant)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2005-04-08 | 2008-12-31 | [2005-04-08.md](./2005-04-08.md) |
 | 2004-10-03 | 2005-04-07 | [2004-10-03.md](./2004-10-03.md) |
-| 2004-10-03 | 2005-04-07 | [2004-10-03.md](./2004-10-03.md) |
-| 2004-09-01 | 2004-10-02 | [2004-09-01.md](./2004-09-01.md) |
 | 2004-09-01 | 2004-10-02 | [2004-09-01.md](./2004-09-01.md) |

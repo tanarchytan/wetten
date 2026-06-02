@@ -6,7 +6,7 @@ title: Besluit van de directeur Communicatie van het Ministerie van Economische 
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2024-04-24"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging voor de directie Communicatie van het Ministerie van Economische Zaken en Klimaat 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-directie-bwbr0041829](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-directie-bwbr0041829)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-directie-bwbr0041829](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-ondermandaat-volmacht-en-machtiging-voor-de-directie-bwbr0041829)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-04-24 | heden | [2024-04-24.md](./2024-04-24.md) |
-| 2024-01-01 | 2024-04-23 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-04-23 | [2024-01-01.md](./2024-01-01.md) |
 | 2019-01-23 | 2023-12-31 | [2019-01-23.md](./2019-01-23.md) |
 | 2019-01-01 | 2019-01-22 | [2019-01-01.md](./2019-01-01.md) |

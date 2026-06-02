@@ -6,7 +6,7 @@ title: Vaststellingsregeling tarieven voor doorlopend toezicht Wet financiële d
 ministry: Financiën
 abbreviation: null
 latest_state: "2006-07-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vaststellingsregeling tarieven voor doorlopend toezicht Wet financiële dienstverlening
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2006/vaststellingsregeling-tarieven-voor-doorlopend-toezicht-wet-](https://wetten.ai/eli/nl/ministeriele-regeling/2006/vaststellingsregeling-tarieven-voor-doorlopend-toezicht-wet-)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/vaststellingsregeling-tarieven-voor-doorlopend-toezicht-wet-](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/vaststellingsregeling-tarieven-voor-doorlopend-toezicht-wet-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-07-20 | 2006-12-31 | [2006-07-20.md](./2006-07-20.md) |
-| 2006-07-01 | 2006-07-19 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-07-01 | 2006-07-19 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-06-28 | 2006-06-30 | [2006-06-28.md](./2006-06-28.md) |

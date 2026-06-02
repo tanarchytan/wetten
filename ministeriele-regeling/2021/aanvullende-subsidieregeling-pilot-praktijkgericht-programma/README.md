@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2023-03-16"
-state_count: 11
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Aanvullende subsidieregeling pilot praktijkgericht programma voor gl en tl
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2021/aanvullende-subsidieregeling-pilot-praktijkgericht-programma](https://wetten.ai/eli/nl/ministeriele-regeling/2021/aanvullende-subsidieregeling-pilot-praktijkgericht-programma)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/aanvullende-subsidieregeling-pilot-praktijkgericht-programma](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/aanvullende-subsidieregeling-pilot-praktijkgericht-programma)
 
 ## Versies
 
@@ -26,10 +26,6 @@ state_count: 11
 | 2022-08-01 | 2023-03-15 | [2022-08-01.md](./2022-08-01.md) |
 | 2022-02-16 | 2022-07-31 | [2022-02-16.md](./2022-02-16.md) |
 | 2022-02-01 | 2022-02-15 | [2022-02-01.md](./2022-02-01.md) |
-| 2022-02-01 | 2022-02-15 | [2022-02-01.md](./2022-02-01.md) |
 | 2021-11-17 | 2022-01-31 | [2021-11-17.md](./2021-11-17.md) |
-| 2021-11-17 | 2022-01-31 | [2021-11-17.md](./2021-11-17.md) |
-| 2021-10-15 | 2021-11-16 | [2021-10-15.md](./2021-10-15.md) |
-| 2021-10-15 | 2021-11-16 | [2021-10-15.md](./2021-10-15.md) |
 | 2021-10-15 | 2021-11-16 | [2021-10-15.md](./2021-10-15.md) |
 | 2021-10-14 | 2021-10-14 | [2021-10-14.md](./2021-10-14.md) |

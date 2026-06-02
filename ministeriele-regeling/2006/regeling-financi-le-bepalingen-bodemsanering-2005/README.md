@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: Rfbb
 latest_state: "2018-11-30"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Rfbb
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-financi-le-bepalingen-bodemsanering-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-financi-le-bepalingen-bodemsanering-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-financi-le-bepalingen-bodemsanering-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-financi-le-bepalingen-bodemsanering-2005)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 10
 | 2016-07-01 | 2017-06-30 | [2016-07-01.md](./2016-07-01.md) |
 | 2008-05-28 | 2016-06-30 | [2008-05-28.md](./2008-05-28.md) |
 | 2007-05-13 | 2008-05-27 | [2007-05-13.md](./2007-05-13.md) |
-| 2007-04-01 | 2007-05-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-04-01 | 2007-05-12 | [2007-04-01.md](./2007-04-01.md) |
 | 2006-12-30 | 2007-03-31 | [2006-12-30.md](./2006-12-30.md) |
 | 2006-12-17 | 2006-12-29 | [2006-12-17.md](./2006-12-17.md) |

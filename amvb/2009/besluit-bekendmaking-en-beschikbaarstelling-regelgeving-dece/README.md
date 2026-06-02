@@ -6,7 +6,7 @@ title: Besluit van 9 december 2008, houdende nadere regels in verband met de bek
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit bekendmaking en beschikbaarstelling regelgeving decentrale overheden
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2009/besluit-bekendmaking-en-beschikbaarstelling-regelgeving-dece](https://wetten.ai/eli/nl/amvb/2009/besluit-bekendmaking-en-beschikbaarstelling-regelgeving-dece)
+**ELI:** [/eli/nl/amvb/2009/besluit-bekendmaking-en-beschikbaarstelling-regelgeving-dece](https://wettenbank.online/eli/nl/amvb/2009/besluit-bekendmaking-en-beschikbaarstelling-regelgeving-dece)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2015-01-01 | 2021-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-12-19 | 2014-12-31 | [2014-12-19.md](./2014-12-19.md) |
-| 2014-01-01 | 2014-12-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-12-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2011-01-01 | 2013-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |

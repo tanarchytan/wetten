@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2008-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Erkenningsregeling APK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2000/erkenningsregeling-apk](https://wetten.ai/eli/nl/ministeriele-regeling/2000/erkenningsregeling-apk)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/erkenningsregeling-apk](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/erkenningsregeling-apk)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 11
 |---|---|---|
 | 2008-01-01 | 2009-04-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-07-04 | 2007-12-31 | [2007-07-04.md](./2007-07-04.md) |
-| 2006-07-21 | 2007-07-03 | [2006-07-21.md](./2006-07-21.md) |
 | 2006-07-21 | 2007-07-03 | [2006-07-21.md](./2006-07-21.md) |
 | 2006-01-01 | 2006-07-20 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-01 | 2005-12-31 | [2005-09-01.md](./2005-09-01.md) |

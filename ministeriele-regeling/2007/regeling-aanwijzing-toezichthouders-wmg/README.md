@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 mei
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2018-06-27"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling aanwijzing toezichthouders Wmg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-toezichthouders-wmg](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-toezichthouders-wmg)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-toezichthouders-wmg](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-toezichthouders-wmg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-06-27 | heden | [2018-06-27.md](./2018-06-27.md) |
-| 2018-01-01 | 2018-06-26 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-06-26 | [2018-01-01.md](./2018-01-01.md) |
 | 2007-06-03 | 2017-12-31 | [2007-06-03.md](./2007-06-03.md) |
 | 2006-10-01 | 2007-06-02 | [2006-10-01.md](./2006-10-01.md) |

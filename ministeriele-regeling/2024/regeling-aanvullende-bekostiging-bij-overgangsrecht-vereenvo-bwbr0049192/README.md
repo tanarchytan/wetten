@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Primair en Voortgezet Onderwijs van 15 dece
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-07-06"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling aanvullende bekostiging bij overgangsrecht vereenvoudiging bekostiging po
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-bekostiging-bij-overgangsrecht-vereenvo-bwbr0049192](https://wetten.ai/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-bekostiging-bij-overgangsrecht-vereenvo-bwbr0049192)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-bekostiging-bij-overgangsrecht-vereenvo-bwbr0049192](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/regeling-aanvullende-bekostiging-bij-overgangsrecht-vereenvo-bwbr0049192)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2024-07-06 | heden | [2024-07-06.md](./2024-07-06.md) |
 | 2024-01-04 | 2024-07-05 | [2024-01-04.md](./2024-01-04.md) |
-| 2024-01-04 | 2024-07-05 | [2024-01-04.md](./2024-01-04.md) |
-| 2024-01-01 | 2024-01-03 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-01-03 | [2024-01-01.md](./2024-01-01.md) |

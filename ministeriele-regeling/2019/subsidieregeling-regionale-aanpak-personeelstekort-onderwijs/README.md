@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2023-04-14"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Subsidieregeling regionale aanpak personeelstekort onderwijs 2020 en 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-regionale-aanpak-personeelstekort-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2019/subsidieregeling-regionale-aanpak-personeelstekort-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-regionale-aanpak-personeelstekort-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/subsidieregeling-regionale-aanpak-personeelstekort-onderwijs)
 
 ## Versies
 
@@ -28,6 +28,5 @@ state_count: 9
 | 2022-04-13 | 2022-07-11 | [2022-04-13.md](./2022-04-13.md) |
 | 2021-07-21 | 2022-04-12 | [2021-07-21.md](./2021-07-21.md) |
 | 2020-07-14 | 2021-07-20 | [2020-07-14.md](./2020-07-14.md) |
-| 2020-04-30 | 2020-07-13 | [2020-04-30.md](./2020-04-30.md) |
 | 2020-04-30 | 2020-07-13 | [2020-04-30.md](./2020-04-30.md) |
 | 2019-12-17 | 2020-04-29 | [2019-12-17.md](./2019-12-17.md) |

@@ -6,7 +6,7 @@ title: Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2011-12-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Subsidieregeling vorming en scholing raadsleden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-vorming-en-scholing-raadsleden](https://wetten.ai/eli/nl/ministeriele-regeling/2009/subsidieregeling-vorming-en-scholing-raadsleden)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-vorming-en-scholing-raadsleden](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/subsidieregeling-vorming-en-scholing-raadsleden)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2011-12-23 | 2012-01-04 | [2011-12-23.md](./2011-12-23.md) |
 | 2010-01-06 | 2011-12-22 | [2010-01-06.md](./2010-01-06.md) |
-| 2010-01-01 | 2010-01-05 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-01-05 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-06-06 | 2009-12-31 | [2009-06-06.md](./2009-06-06.md) |

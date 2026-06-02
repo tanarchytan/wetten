@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2011
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling eisen theorie-examens rijbewijscategorieën D1 en D
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-d1-en-d](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-d1-en-d)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-d1-en-d](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-d1-en-d)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2023-07-01 | 2025-06-30 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-09-14 | 2023-06-30 | [2022-09-14.md](./2022-09-14.md) |
-| 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2015-04-01 | 2022-06-30 | [2015-04-01.md](./2015-04-01.md) |
 | 2013-12-31 | 2015-03-31 | [2013-12-31.md](./2013-12-31.md) |

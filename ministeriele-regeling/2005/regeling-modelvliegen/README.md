@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Verkeer en Waterstaat van 2 december
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2021-04-22"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling modelvliegen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-modelvliegen](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-modelvliegen)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-modelvliegen](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-modelvliegen)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 14
 | 2015-07-01 | 2015-11-06 | [2015-07-01.md](./2015-07-01.md) |
 | 2014-12-12 | 2015-06-30 | [2014-12-12.md](./2014-12-12.md) |
 | 2014-03-08 | 2014-12-11 | [2014-03-08.md](./2014-03-08.md) |
-| 2014-03-06 | 2014-03-07 | [2014-03-06.md](./2014-03-06.md) |
 | 2014-03-06 | 2014-03-07 | [2014-03-06.md](./2014-03-06.md) |
 | 2013-10-01 | 2014-03-05 | [2013-10-01.md](./2013-10-01.md) |
 | 2013-07-02 | 2013-09-30 | [2013-07-02.md](./2013-07-02.md) |

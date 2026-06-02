@@ -6,7 +6,7 @@ title: Beleidsregels verdeling besteedbare middelen beheerskosten zorgverzekeraa
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2011-01-26"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Beleidsregels verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2010/beleidsregels-verdeling-besteedbare-middelen-beheerskosten-z](https://wetten.ai/eli/nl/zbo/2010/beleidsregels-verdeling-besteedbare-middelen-beheerskosten-z)
+**ELI:** [/eli/nl/zbo/2010/beleidsregels-verdeling-besteedbare-middelen-beheerskosten-z](https://wettenbank.online/eli/nl/zbo/2010/beleidsregels-verdeling-besteedbare-middelen-beheerskosten-z)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-26 | heden | [2011-01-26.md](./2011-01-26.md) |
-| 2010-12-13 | 2011-01-25 | [2010-12-13.md](./2010-12-13.md) |
 | 2010-12-13 | 2011-01-25 | [2010-12-13.md](./2010-12-13.md) |
 | 2010-01-01 | 2010-12-12 | [2010-01-01.md](./2010-01-01.md) |

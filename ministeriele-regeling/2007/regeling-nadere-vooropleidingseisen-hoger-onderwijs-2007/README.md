@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 mei 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2013-09-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling nadere vooropleidingseisen hoger onderwijs 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-nadere-vooropleidingseisen-hoger-onderwijs-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-nadere-vooropleidingseisen-hoger-onderwijs-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-nadere-vooropleidingseisen-hoger-onderwijs-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-nadere-vooropleidingseisen-hoger-onderwijs-2007)
 
 ## Versies
 
@@ -29,6 +29,5 @@ state_count: 10
 | 2009-08-02 | 2011-03-15 | [2009-08-02.md](./2009-08-02.md) |
 | 2009-03-29 | 2009-08-01 | [2009-03-29.md](./2009-03-29.md) |
 | 2008-10-24 | 2009-03-28 | [2008-10-24.md](./2008-10-24.md) |
-| 2008-09-01 | 2008-10-23 | [2008-09-01.md](./2008-09-01.md) |
 | 2008-09-01 | 2008-10-23 | [2008-09-01.md](./2008-09-01.md) |
 | 2007-06-13 | 2008-08-31 | [2007-06-13.md](./2007-06-13.md) |

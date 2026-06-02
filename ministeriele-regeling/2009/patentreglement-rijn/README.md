@@ -6,7 +6,7 @@ title: Patentreglement Rijn
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2010-05-07"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Patentreglement Rijn
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/patentreglement-rijn](https://wetten.ai/eli/nl/ministeriele-regeling/2009/patentreglement-rijn)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/patentreglement-rijn](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/patentreglement-rijn)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-05-07 | 2011-06-30 | [2010-05-07.md](./2010-05-07.md) |
-| 2009-10-01 | 2010-05-06 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-10-01 | 2010-05-06 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-07-01 | 2009-09-30 | [2009-07-01.md](./2009-07-01.md) |

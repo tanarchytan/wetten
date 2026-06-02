@@ -6,7 +6,7 @@ title: Wet van 20 december 2007, houdende wijzigingen van enkele belastingwetten
 ministry: Financiën
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Overige fiscale maatregelen 2008
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2007/overige-fiscale-maatregelen-2008](https://wetten.ai/eli/nl/wet/2007/overige-fiscale-maatregelen-2008)
+**ELI:** [/eli/nl/wet/2007/overige-fiscale-maatregelen-2008](https://wettenbank.online/eli/nl/wet/2007/overige-fiscale-maatregelen-2008)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 9
 | 2008-12-31 | 2008-12-31 | [2008-12-31.md](./2008-12-31.md) |
 | 2008-10-01 | 2008-12-30 | [2008-10-01.md](./2008-10-01.md) |
 | 2008-01-01 | 2008-09-30 | [2008-01-01.md](./2008-01-01.md) |
-| 2007-12-31 | 2007-12-31 | [2007-12-31.md](./2007-12-31.md) |
 | 2007-12-31 | 2007-12-31 | [2007-12-31.md](./2007-12-31.md) |
 | 2007-11-03 | 2007-12-30 | [2007-11-03.md](./2007-11-03.md) |
 | 2006-01-01 | 2007-11-02 | [2006-01-01.md](./2006-01-01.md) |

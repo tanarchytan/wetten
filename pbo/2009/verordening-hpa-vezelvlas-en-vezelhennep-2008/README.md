@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 13 november 2008, hou
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Verordening HPA vezelvlas en vezelhennep 2008
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2009/verordening-hpa-vezelvlas-en-vezelhennep-2008](https://wetten.ai/eli/nl/pbo/2009/verordening-hpa-vezelvlas-en-vezelhennep-2008)
+**ELI:** [/eli/nl/pbo/2009/verordening-hpa-vezelvlas-en-vezelhennep-2008](https://wettenbank.online/eli/nl/pbo/2009/verordening-hpa-vezelvlas-en-vezelhennep-2008)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2014-01-01 | 2014-04-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-10-15 | 2013-12-31 | [2013-10-15.md](./2013-10-15.md) |
 | 2010-02-13 | 2013-10-14 | [2010-02-13.md](./2010-02-13.md) |
-| 2009-07-01 | 2010-02-12 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2010-02-12 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-02-14 | 2009-06-30 | [2009-02-14.md](./2009-02-14.md) |
 | 2008-07-01 | 2009-02-13 | [2008-07-01.md](./2008-07-01.md) |

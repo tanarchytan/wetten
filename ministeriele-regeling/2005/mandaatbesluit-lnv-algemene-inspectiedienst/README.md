@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 8 n
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Mandaatbesluit LNV Algemene Inspectiedienst
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-algemene-inspectiedienst](https://wetten.ai/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-algemene-inspectiedienst)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-algemene-inspectiedienst](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/mandaatbesluit-lnv-algemene-inspectiedienst)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 12
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-06-30 | 2010-12-31 | [2010-06-30.md](./2010-06-30.md) |
 | 2010-01-28 | 2010-06-29 | [2010-01-28.md](./2010-01-28.md) |
-| 2009-07-17 | 2010-01-27 | [2009-07-17.md](./2009-07-17.md) |
 | 2009-07-17 | 2010-01-27 | [2009-07-17.md](./2009-07-17.md) |
 | 2009-07-01 | 2009-07-16 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-05-23 | 2009-06-30 | [2008-05-23.md](./2008-05-23.md) |

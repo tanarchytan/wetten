@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-03-12"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling specifieke uitkering kwijtschelding gemeentelijke belastingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-gemeentelijke-b](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-gemeentelijke-b)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-gemeentelijke-b](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-specifieke-uitkering-kwijtschelding-gemeentelijke-b)
 
 ## Versies
 
@@ -24,11 +24,8 @@ state_count: 10
 |---|---|---|
 | 2025-03-12 | heden | [2025-03-12.md](./2025-03-12.md) |
 | 2025-01-01 | 2025-03-11 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-03-11 | [2025-01-01.md](./2025-01-01.md) |
 | 2023-11-30 | 2024-12-31 | [2023-11-30.md](./2023-11-30.md) |
 | 2023-07-15 | 2023-11-29 | [2023-07-15.md](./2023-07-15.md) |
-| 2023-07-15 | 2023-11-29 | [2023-07-15.md](./2023-07-15.md) |
 | 2022-11-05 | 2023-07-14 | [2022-11-05.md](./2022-11-05.md) |
-| 2021-11-30 | 2022-11-04 | [2021-11-30.md](./2021-11-30.md) |
 | 2021-11-30 | 2022-11-04 | [2021-11-30.md](./2021-11-30.md) |
 | 2021-07-01 | 2021-11-29 | [2021-07-01.md](./2021-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 30 maart 2015
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2015-06-13"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling landbouwtelling en gecombineerde opgave 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-landbouwtelling-en-gecombineerde-opgave-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-landbouwtelling-en-gecombineerde-opgave-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-landbouwtelling-en-gecombineerde-opgave-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-landbouwtelling-en-gecombineerde-opgave-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-06-13 | 2016-03-03 | [2015-06-13.md](./2015-06-13.md) |
-| 2015-04-01 | 2015-06-12 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-04-01 | 2015-06-12 | [2015-04-01.md](./2015-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 25
+state_count: 24
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 25
 **Citeertitel:** Subsidieregeling milieugerichte technologie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-milieugerichte-technologie](https://wetten.ai/eli/nl/ministeriele-regeling/2004/subsidieregeling-milieugerichte-technologie)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-milieugerichte-technologie](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/subsidieregeling-milieugerichte-technologie)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 25
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-10-02 | 2009-12-31 | [2009-10-02.md](./2009-10-02.md) |
-| 2009-09-09 | 2009-10-01 | [2009-09-09.md](./2009-09-09.md) |
 | 2009-09-09 | 2009-10-01 | [2009-09-09.md](./2009-09-09.md) |
 | 2009-07-19 | 2009-09-08 | [2009-07-19.md](./2009-07-19.md) |
 | 2009-07-17 | 2009-07-18 | [2009-07-17.md](./2009-07-17.md) |

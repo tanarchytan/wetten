@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2021-10-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Besluit vaststelling beleidsregels subsidieverlening (financiering ontwikkelingsrelevante infrastructuurprojecten in ontwikkelingslanden (DRIVE))
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-subsidieverlening-financi](https://wetten.ai/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-subsidieverlening-financi)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-subsidieverlening-financi](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/besluit-vaststelling-beleidsregels-subsidieverlening-financi)
 
 ## Versies
 
@@ -29,7 +29,5 @@ state_count: 11
 | 2016-11-18 | 2017-05-09 | [2016-11-18.md](./2016-11-18.md) |
 | 2016-05-24 | 2016-11-17 | [2016-05-24.md](./2016-05-24.md) |
 | 2016-01-01 | 2016-05-23 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-05-23 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-11-05 | 2015-12-31 | [2015-11-05.md](./2015-11-05.md) |
-| 2015-06-17 | 2015-11-04 | [2015-06-17.md](./2015-06-17.md) |
 | 2015-06-17 | 2015-11-04 | [2015-06-17.md](./2015-06-17.md) |

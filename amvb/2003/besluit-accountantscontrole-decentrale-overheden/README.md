@@ -6,7 +6,7 @@ title: Besluit van 28 augustus 2003, houdende nadere voorschriften reikwijdte en
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-04-17"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Besluit accountantscontrole decentrale overheden
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2003/besluit-accountantscontrole-decentrale-overheden](https://wetten.ai/eli/nl/amvb/2003/besluit-accountantscontrole-decentrale-overheden)
+**ELI:** [/eli/nl/amvb/2003/besluit-accountantscontrole-decentrale-overheden](https://wettenbank.online/eli/nl/amvb/2003/besluit-accountantscontrole-decentrale-overheden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-04-17 | heden | [2025-04-17.md](./2025-04-17.md) |
-| 2025-01-01 | 2025-04-16 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-04-16 | [2025-01-01.md](./2025-01-01.md) |
 | 2017-12-09 | 2024-12-31 | [2017-12-09.md](./2017-12-09.md) |
 | 2013-12-25 | 2017-12-08 | [2013-12-25.md](./2013-12-25.md) |

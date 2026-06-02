@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie, de Minister van Binnenlandse Zaken
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2019-06-26"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling periodieke audit politiegegevens
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-periodieke-audit-politiegegevens](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-periodieke-audit-politiegegevens)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-periodieke-audit-politiegegevens](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-periodieke-audit-politiegegevens)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-06-26 | heden | [2019-06-26.md](./2019-06-26.md) |
-| 2018-05-25 | 2019-06-25 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2019-06-25 | [2018-05-25.md](./2018-05-25.md) |
 | 2013-01-01 | 2018-05-24 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-01-01 | 2012-12-31 | [2009-01-01.md](./2009-01-01.md) |

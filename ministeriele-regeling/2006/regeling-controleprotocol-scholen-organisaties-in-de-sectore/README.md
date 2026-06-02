@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 22 ma
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2006-10-27"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling controleprotocol scholen/organisaties in de sectoren PO en VO 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-controleprotocol-scholen-organisaties-in-de-sectore](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-controleprotocol-scholen-organisaties-in-de-sectore)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-controleprotocol-scholen-organisaties-in-de-sectore](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-controleprotocol-scholen-organisaties-in-de-sectore)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2006-10-27 | 2007-05-02 | [2006-10-27.md](./2006-10-27.md) |
 | 2006-04-08 | 2006-10-26 | [2006-04-08.md](./2006-04-08.md) |
-| 2006-04-08 | 2006-10-26 | [2006-04-08.md](./2006-04-08.md) |
-| 2006-01-01 | 2006-04-07 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-04-07 | [2006-01-01.md](./2006-01-01.md) |

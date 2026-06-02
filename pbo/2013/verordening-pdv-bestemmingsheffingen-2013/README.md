@@ -6,7 +6,7 @@ title: Verordening van het Productschap Diervoeder van 31 oktober 2012, houdende
 ministry: Productschap Diervoeder
 abbreviation: null
 latest_state: "2015-02-19"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening PDV bestemmingsheffingen 2013
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Diervoeder
-**ELI:** [/eli/nl/pbo/2013/verordening-pdv-bestemmingsheffingen-2013](https://wetten.ai/eli/nl/pbo/2013/verordening-pdv-bestemmingsheffingen-2013)
+**ELI:** [/eli/nl/pbo/2013/verordening-pdv-bestemmingsheffingen-2013](https://wettenbank.online/eli/nl/pbo/2013/verordening-pdv-bestemmingsheffingen-2013)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-02-19 | 2019-10-18 | [2015-02-19.md](./2015-02-19.md) |
-| 2014-01-01 | 2015-02-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2015-02-18 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |

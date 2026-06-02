@@ -6,7 +6,7 @@ title: Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 17 
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2022-10-18"
-state_count: 9
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Beleidsregels catastrofebijdrage coronapandemie 2020 en 2021
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2021/beleidsregels-catastrofebijdrage-coronapandemie-2020-en-2021](https://wetten.ai/eli/nl/zbo/2021/beleidsregels-catastrofebijdrage-coronapandemie-2020-en-2021)
+**ELI:** [/eli/nl/zbo/2021/beleidsregels-catastrofebijdrage-coronapandemie-2020-en-2021](https://wettenbank.online/eli/nl/zbo/2021/beleidsregels-catastrofebijdrage-coronapandemie-2020-en-2021)
 
 ## Versies
 
@@ -24,10 +24,5 @@ state_count: 9
 |---|---|---|
 | 2022-10-18 | heden | [2022-10-18.md](./2022-10-18.md) |
 | 2021-12-28 | 2022-10-17 | [2021-12-28.md](./2021-12-28.md) |
-| 2021-12-28 | 2022-10-17 | [2021-12-28.md](./2021-12-28.md) |
 | 2021-01-20 | 2021-12-27 | [2021-01-20.md](./2021-01-20.md) |
-| 2021-01-20 | 2021-12-27 | [2021-01-20.md](./2021-01-20.md) |
-| 2021-01-20 | 2021-12-27 | [2021-01-20.md](./2021-01-20.md) |
-| 2020-01-01 | 2021-01-19 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2021-01-19 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2021-01-19 | [2020-01-01.md](./2020-01-01.md) |

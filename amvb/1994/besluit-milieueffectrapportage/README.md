@@ -6,7 +6,7 @@ title: Besluit van 4 juli 1994, houdende uitvoering van het hoofdstuk Milieu-eff
 ministry: Infrastructuur en Milieu
 abbreviation: Besluit MER
 latest_state: "2020-12-18"
-state_count: 37
+state_count: 35
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 37
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Besluit MER
-**ELI:** [/eli/nl/amvb/1994/besluit-milieueffectrapportage](https://wetten.ai/eli/nl/amvb/1994/besluit-milieueffectrapportage)
+**ELI:** [/eli/nl/amvb/1994/besluit-milieueffectrapportage](https://wettenbank.online/eli/nl/amvb/1994/besluit-milieueffectrapportage)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 37
 | 2017-07-07 | 2017-08-31 | [2017-07-07.md](./2017-07-07.md) |
 | 2017-05-01 | 2017-07-06 | [2017-05-01.md](./2017-05-01.md) |
 | 2017-03-28 | 2017-04-30 | [2017-03-28.md](./2017-03-28.md) |
-| 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-07-01 | 2016-06-30 | [2015-07-01.md](./2015-07-01.md) |
@@ -56,7 +55,6 @@ state_count: 37
 | 2005-02-08 | 2005-06-30 | [2005-02-08.md](./2005-02-08.md) |
 | 2005-01-01 | 2005-02-07 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-01 | 2004-12-31 | [2004-12-01.md](./2004-12-01.md) |
-| 2003-02-20 | 2004-11-30 | [2003-02-20.md](./2003-02-20.md) |
 | 2003-02-20 | 2004-11-30 | [2003-02-20.md](./2003-02-20.md) |
 | 2003-01-01 | 2003-02-19 | [2003-01-01.md](./2003-01-01.md) |
 | 2000-04-03 | 2002-12-31 | [2000-04-03.md](./2000-04-03.md) |

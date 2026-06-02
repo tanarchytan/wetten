@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-07-19"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit Wetenschappelijke Adviescommissie ‘Eén tegen eenzaamheid’
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2024/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg](https://wetten.ai/eli/nl/ministeriele-regeling/2024/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg)
+**ELI:** [/eli/nl/ministeriele-regeling/2024/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg](https://wettenbank.online/eli/nl/ministeriele-regeling/2024/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-07-19 | heden | [2025-07-19.md](./2025-07-19.md) |
-| 2025-05-01 | 2025-07-18 | [2025-05-01.md](./2025-05-01.md) |
 | 2025-05-01 | 2025-07-18 | [2025-05-01.md](./2025-05-01.md) |
 | 2024-07-02 | 2025-04-30 | [2024-07-02.md](./2024-07-02.md) |
 | 2024-01-01 | 2024-07-01 | [2024-01-01.md](./2024-01-01.md) |

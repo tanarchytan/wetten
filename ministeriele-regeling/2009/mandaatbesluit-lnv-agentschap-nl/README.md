@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-10-20"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Mandaatbesluit LNV Agentschap NL
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-agentschap-nl](https://wetten.ai/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-agentschap-nl)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-agentschap-nl](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-agentschap-nl)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2010-10-20 | 2011-12-31 | [2010-10-20.md](./2010-10-20.md) |
 | 2010-06-30 | 2010-10-19 | [2010-06-30.md](./2010-06-30.md) |
-| 2010-06-30 | 2010-10-19 | [2010-06-30.md](./2010-06-30.md) |
-| 2010-01-01 | 2010-06-29 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-06-29 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-06-29 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-01 | 2009-12-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-11-01 | 2009-06-30 | [2008-11-01.md](./2008-11-01.md) |

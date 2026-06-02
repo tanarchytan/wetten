@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Ontwikkelingssamenwerking van 23 november 2
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2010-06-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit vaststelling beleidsregels en subsidieplafond Private Sector Investeringsprogramma 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-vaststelling-beleidsregels-en-subsidieplafond-privat](https://wetten.ai/eli/nl/ministeriele-regeling/2009/besluit-vaststelling-beleidsregels-en-subsidieplafond-privat)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-vaststelling-beleidsregels-en-subsidieplafond-privat](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/besluit-vaststelling-beleidsregels-en-subsidieplafond-privat)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2010-06-01 | 2010-12-31 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-01-19 | 2010-05-31 | [2010-01-19.md](./2010-01-19.md) |
-| 2010-01-01 | 2010-01-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-01-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-03 | 2009-12-31 | [2009-12-03.md](./2009-12-03.md) |

@@ -6,7 +6,7 @@ title: Regeling bestrijding maïswortelkever 2003
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-02-22"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 19
 **Citeertitel:** Regeling bestrijding boktor
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-bestrijding-boktor](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-bestrijding-boktor)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-bestrijding-boktor](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-bestrijding-boktor)
 
 ## Versies
 
@@ -38,6 +38,4 @@ state_count: 19
 | 2005-08-20 | 2005-09-09 | [2005-08-20.md](./2005-08-20.md) |
 | 2003-12-21 | 2005-08-19 | [2003-12-21.md](./2003-12-21.md) |
 | 2003-08-20 | 2003-12-20 | [2003-08-20.md](./2003-08-20.md) |
-| 2003-08-20 | 2003-12-20 | [2003-08-20.md](./2003-08-20.md) |
-| 2003-08-16 | 2003-08-19 | [2003-08-16.md](./2003-08-16.md) |
 | 2003-08-16 | 2003-08-19 | [2003-08-16.md](./2003-08-16.md) |

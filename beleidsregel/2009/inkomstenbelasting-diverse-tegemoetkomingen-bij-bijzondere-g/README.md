@@ -6,7 +6,7 @@ title: Inkomstenbelasting, schenk- en erfbelasting; diverse tegemoetkomingen bij
 ministry: Financiën
 abbreviation: null
 latest_state: "2018-12-18"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Inkomstenbelasting, diverse tegemoetkomingen bij bijzondere gebeurtenissen
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/beleidsregel/2009/inkomstenbelasting-diverse-tegemoetkomingen-bij-bijzondere-g](https://wetten.ai/eli/nl/beleidsregel/2009/inkomstenbelasting-diverse-tegemoetkomingen-bij-bijzondere-g)
+**ELI:** [/eli/nl/beleidsregel/2009/inkomstenbelasting-diverse-tegemoetkomingen-bij-bijzondere-g](https://wettenbank.online/eli/nl/beleidsregel/2009/inkomstenbelasting-diverse-tegemoetkomingen-bij-bijzondere-g)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2018-12-18 | heden | [2018-12-18.md](./2018-12-18.md) |
 | 2009-09-15 | 2018-12-17 | [2009-09-15.md](./2009-09-15.md) |
-| 2009-09-15 | 2018-12-17 | [2009-09-15.md](./2009-09-15.md) |
-| 2009-09-07 | 2009-09-14 | [2009-09-07.md](./2009-09-07.md) |
 | 2009-09-07 | 2009-09-14 | [2009-09-07.md](./2009-09-07.md) |
 | 2007-01-01 | 2009-09-06 | [2007-01-01.md](./2007-01-01.md) |

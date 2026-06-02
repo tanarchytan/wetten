@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling bekostiging hoger onderwijs 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-hoger-onderwijs-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-hoger-onderwijs-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-hoger-onderwijs-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-bekostiging-hoger-onderwijs-2004)
 
 ## Versies
 
@@ -25,7 +25,5 @@ state_count: 7
 | 2006-01-01 | 2006-12-19 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-21 | 2005-12-31 | [2005-12-21.md](./2005-12-21.md) |
 | 2005-01-01 | 2005-12-20 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-12-20 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-25 | 2004-12-31 | [2004-12-25.md](./2004-12-25.md) |
-| 2004-01-01 | 2004-12-24 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-12-24 | [2004-01-01.md](./2004-01-01.md) |

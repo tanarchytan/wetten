@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minist
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2025-08-01"
-state_count: 16
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Besluit intrekking beleidsregels Onderzoekskaders 2017 onder vaststelling beleidsregels Onderzoekskaders 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-intrekking-beleidsregels-onderzoekskaders-2017-onder](https://wetten.ai/eli/nl/ministeriele-regeling/2021/besluit-intrekking-beleidsregels-onderzoekskaders-2017-onder)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/besluit-intrekking-beleidsregels-onderzoekskaders-2017-onder](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/besluit-intrekking-beleidsregels-onderzoekskaders-2017-onder)
 
 ## Versies
 
@@ -26,15 +26,8 @@ state_count: 16
 | 2024-08-01 | 2025-07-31 | [2024-08-01.md](./2024-08-01.md) |
 | 2024-01-17 | 2024-07-31 | [2024-01-17.md](./2024-01-17.md) |
 | 2023-11-11 | 2024-01-16 | [2023-11-11.md](./2023-11-11.md) |
-| 2023-11-11 | 2024-01-16 | [2023-11-11.md](./2023-11-11.md) |
 | 2023-08-25 | 2023-11-10 | [2023-08-25.md](./2023-08-25.md) |
-| 2023-08-25 | 2023-11-10 | [2023-08-25.md](./2023-08-25.md) |
-| 2023-08-25 | 2023-11-10 | [2023-08-25.md](./2023-08-25.md) |
-| 2023-08-01 | 2023-08-24 | [2023-08-01.md](./2023-08-01.md) |
-| 2023-08-01 | 2023-08-24 | [2023-08-01.md](./2023-08-01.md) |
-| 2023-08-01 | 2023-08-24 | [2023-08-01.md](./2023-08-01.md) |
 | 2023-08-01 | 2023-08-24 | [2023-08-01.md](./2023-08-01.md) |
 | 2022-08-23 | 2023-07-31 | [2022-08-23.md](./2022-08-23.md) |
-| 2022-08-01 | 2022-08-22 | [2022-08-01.md](./2022-08-01.md) |
 | 2022-08-01 | 2022-08-22 | [2022-08-01.md](./2022-08-01.md) |
 | 2021-08-01 | 2022-07-31 | [2021-08-01.md](./2021-08-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2007-06-16"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling examinering beroepsopleidingen en KCE-tarieven 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-examinering-beroepsopleidingen-en-kce-tarieven-2006](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-examinering-beroepsopleidingen-en-kce-tarieven-2006)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-examinering-beroepsopleidingen-en-kce-tarieven-2006](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-examinering-beroepsopleidingen-en-kce-tarieven-2006)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2007-06-16 | 2014-01-22 | [2007-06-16.md](./2007-06-16.md) |
 | 2006-10-27 | 2007-06-15 | [2006-10-27.md](./2006-10-27.md) |
-| 2006-10-27 | 2007-06-15 | [2006-10-27.md](./2006-10-27.md) |
-| 2006-08-01 | 2006-10-26 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2006-10-26 | [2006-08-01.md](./2006-08-01.md) |

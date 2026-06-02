@@ -6,7 +6,7 @@ title: Regeling kostencomponent tarief deel I kentekenbewijs
 ministry: Infrastructuur en Milieu
 abbreviation: RKTKb
 latest_state: "2013-01-23"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RKTKb
-**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-kostencomponent-tarief-deel-i-kentekenbewijs](https://wetten.ai/eli/nl/ministeriele-regeling/1997/regeling-kostencomponent-tarief-deel-i-kentekenbewijs)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-kostencomponent-tarief-deel-i-kentekenbewijs](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/regeling-kostencomponent-tarief-deel-i-kentekenbewijs)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 16
 |---|---|---|
 | 2013-01-23 | 2013-12-31 | [2013-01-23.md](./2013-01-23.md) |
 | 2013-01-01 | 2013-01-22 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-01-22 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-06 | 2012-12-31 | [2012-01-06.md](./2012-01-06.md) |
-| 2012-01-01 | 2012-01-05 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-01-05 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-29 | 2011-12-31 | [2011-01-29.md](./2011-01-29.md) |
 | 2010-02-02 | 2011-01-28 | [2010-02-02.md](./2010-02-02.md) |

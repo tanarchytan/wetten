@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-07-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling eisen theorie-examens rijbewijscategorieën C1 en C
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-c1-en-c](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-c1-en-c)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-c1-en-c](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-eisen-theorie-examens-rijbewijscategorie-n-c1-en-c)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2024-07-01 | heden | [2024-07-01.md](./2024-07-01.md) |
 | 2022-09-14 | 2024-06-30 | [2022-09-14.md](./2022-09-14.md) |
-| 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-07-01 | 2022-09-13 | [2022-07-01.md](./2022-07-01.md) |
 | 2015-04-01 | 2022-06-30 | [2015-04-01.md](./2015-04-01.md) |
 | 2013-12-31 | 2015-03-31 | [2013-12-31.md](./2013-12-31.md) |

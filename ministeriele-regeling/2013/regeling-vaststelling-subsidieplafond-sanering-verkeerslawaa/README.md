@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 21 nov
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-02-21"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling vaststelling subsidieplafond sanering verkeerslawaai 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vaststelling-subsidieplafond-sanering-verkeerslawaa](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-vaststelling-subsidieplafond-sanering-verkeerslawaa)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-vaststelling-subsidieplafond-sanering-verkeerslawaa](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-vaststelling-subsidieplafond-sanering-verkeerslawaa)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-02-21 | heden | [2014-02-21.md](./2014-02-21.md) |
-| 2013-01-01 | 2014-02-20 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2014-02-20 | [2013-01-01.md](./2013-01-01.md) |

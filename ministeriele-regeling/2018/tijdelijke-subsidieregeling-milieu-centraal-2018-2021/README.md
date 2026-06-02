@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 26 
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2020-04-03"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Tijdelijke subsidieregeling Milieu Centraal 2018–2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-milieu-centraal-2018-2021](https://wetten.ai/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-milieu-centraal-2018-2021)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-milieu-centraal-2018-2021](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/tijdelijke-subsidieregeling-milieu-centraal-2018-2021)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2020-04-03 | 2021-12-31 | [2020-04-03.md](./2020-04-03.md) |
 | 2020-01-01 | 2020-04-02 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-04-02 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-03-22 | 2019-12-31 | [2019-03-22.md](./2019-03-22.md) |
-| 2019-01-01 | 2019-03-21 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-03-21 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-02-28 | 2018-12-31 | [2018-02-28.md](./2018-02-28.md) |
 | 2018-01-01 | 2018-02-27 | [2018-01-01.md](./2018-01-01.md) |

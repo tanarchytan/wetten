@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken van 29 november 2013, nr. W
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2017-03-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Instellingsbesluit Adviescommissie stralingsbescherming
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/instellingsbesluit-adviescommissie-stralingsbescherming](https://wetten.ai/eli/nl/ministeriele-regeling/2014/instellingsbesluit-adviescommissie-stralingsbescherming)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/instellingsbesluit-adviescommissie-stralingsbescherming](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/instellingsbesluit-adviescommissie-stralingsbescherming)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-03-25 | heden | [2017-03-25.md](./2017-03-25.md) |
-| 2017-01-01 | 2017-03-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2014-01-01 | 2016-12-31 | [2014-01-01.md](./2014-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Ministers van Financiën, Binnenlandse Zaken en Koninkrij
 ministry: Financiën
 abbreviation: null
 latest_state: "2023-10-05"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling schatkistbankieren decentrale overheden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-schatkistbankieren-decentrale-overheden](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-schatkistbankieren-decentrale-overheden)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-schatkistbankieren-decentrale-overheden](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-schatkistbankieren-decentrale-overheden)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2022-01-01 | 2023-10-04 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-07-01 | 2021-12-31 | [2021-07-01.md](./2021-07-01.md) |
 | 2019-10-30 | 2021-06-30 | [2019-10-30.md](./2019-10-30.md) |
-| 2019-10-01 | 2019-10-29 | [2019-10-01.md](./2019-10-01.md) |
 | 2019-10-01 | 2019-10-29 | [2019-10-01.md](./2019-10-01.md) |
 | 2013-12-15 | 2019-09-30 | [2013-12-15.md](./2013-12-15.md) |

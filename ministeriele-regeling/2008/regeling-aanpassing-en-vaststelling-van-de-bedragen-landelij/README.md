@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-01-01"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling aanpassing en vaststelling van de bedragen landelijke gemiddelde personeelslast kalenderjaar 2008 en 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-aanpassing-en-vaststelling-van-de-bedragen-landelij](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-aanpassing-en-vaststelling-van-de-bedragen-landelij)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-aanpassing-en-vaststelling-van-de-bedragen-landelij](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-aanpassing-en-vaststelling-van-de-bedragen-landelij)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 9
 | 2010-01-01 | 2010-02-12 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-08-29 | 2009-12-31 | [2009-08-29.md](./2009-08-29.md) |
 | 2009-02-14 | 2009-08-28 | [2009-02-14.md](./2009-02-14.md) |
-| 2009-02-14 | 2009-08-28 | [2009-02-14.md](./2009-02-14.md) |
-| 2009-01-01 | 2009-02-13 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-02-13 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-02-13 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-09-11 | 2008-12-31 | [2008-09-11.md](./2008-09-11.md) |
 | 2008-01-01 | 2008-09-10 | [2008-01-01.md](./2008-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 14 oktober 2015, houdende samenvoeging van de algemene maatre
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Tabaks- en rookwarenbesluit
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2016/tabaks-en-rookwarenbesluit](https://wetten.ai/eli/nl/amvb/2016/tabaks-en-rookwarenbesluit)
+**ELI:** [/eli/nl/amvb/2016/tabaks-en-rookwarenbesluit](https://wettenbank.online/eli/nl/amvb/2016/tabaks-en-rookwarenbesluit)
 
 ## Versies
 
@@ -39,8 +39,6 @@ state_count: 23
 | 2019-10-04 | 2019-12-31 | [2019-10-04.md](./2019-10-04.md) |
 | 2018-07-28 | 2019-10-03 | [2018-07-28.md](./2018-07-28.md) |
 | 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-07-27 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-10-06 | 2018-05-24 | [2016-10-06.md](./2016-10-06.md) |
 | 2016-05-20 | 2016-10-05 | [2016-05-20.md](./2016-05-20.md) |

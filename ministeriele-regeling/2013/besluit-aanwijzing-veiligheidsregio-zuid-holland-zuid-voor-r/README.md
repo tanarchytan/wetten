@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 20 nove
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-12-02"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit aanwijzing Veiligheidsregio Zuid-Holland Zuid voor regio Zuid-Holland Zuid als Regionale Ambulancevoorziening ex artikel 4 Tijdelijke wet ambulancezorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-veiligheidsregio-zuid-holland-zuid-voor-r](https://wetten.ai/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-veiligheidsregio-zuid-holland-zuid-voor-r)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-veiligheidsregio-zuid-holland-zuid-voor-r](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/besluit-aanwijzing-veiligheidsregio-zuid-holland-zuid-voor-r)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2020-12-02 | heden | [2020-12-02.md](./2020-12-02.md) |
 | 2015-01-23 | 2020-12-01 | [2015-01-23.md](./2015-01-23.md) |
-| 2013-01-02 | 2015-01-22 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-02 | 2015-01-22 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-01 | 2013-01-01 | [2013-01-01.md](./2013-01-01.md) |

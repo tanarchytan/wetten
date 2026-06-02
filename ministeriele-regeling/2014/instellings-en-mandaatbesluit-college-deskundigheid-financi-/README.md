@@ -6,7 +6,7 @@ title: Besluit van de Minister van Financiën van 11 juni 2014, FM 2014/881 M, 
 ministry: Financiën
 abbreviation: null
 latest_state: "2020-04-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Instellings- en mandaatbesluit College Deskundigheid Financiële Dienstverlening Wft
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2014/instellings-en-mandaatbesluit-college-deskundigheid-financi-](https://wetten.ai/eli/nl/ministeriele-regeling/2014/instellings-en-mandaatbesluit-college-deskundigheid-financi-)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/instellings-en-mandaatbesluit-college-deskundigheid-financi-](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/instellings-en-mandaatbesluit-college-deskundigheid-financi-)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2017-07-01 | 2020-03-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2016-04-01 | 2017-06-30 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-03-25 | 2016-03-31 | [2016-03-25.md](./2016-03-25.md) |
-| 2016-01-18 | 2016-03-24 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-03-24 | [2016-01-18.md](./2016-01-18.md) |
 | 2014-07-01 | 2016-01-17 | [2014-07-01.md](./2014-07-01.md) |

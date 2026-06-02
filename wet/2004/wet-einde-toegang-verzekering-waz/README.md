@@ -6,7 +6,7 @@ title: Wet van 6 juli 2004 tot wijziging van de Wet arbeidsongeschiktheidsverzek
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Wetv WAZ
 latest_state: "2005-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Wetv WAZ
-**ELI:** [/eli/nl/wet/2004/wet-einde-toegang-verzekering-waz](https://wetten.ai/eli/nl/wet/2004/wet-einde-toegang-verzekering-waz)
+**ELI:** [/eli/nl/wet/2004/wet-einde-toegang-verzekering-waz](https://wettenbank.online/eli/nl/wet/2004/wet-einde-toegang-verzekering-waz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-01-01 | heden | [2005-01-01.md](./2005-01-01.md) |
-| 2004-08-01 | 2004-12-31 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-08-01 | 2004-12-31 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-01-01 | 2004-07-31 | [2004-01-01.md](./2004-01-01.md) |

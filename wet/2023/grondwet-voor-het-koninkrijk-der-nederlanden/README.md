@@ -2,21 +2,21 @@
 bwb_id: BWBR0001840
 eli: /eli/nl/wet/2023/grondwet-voor-het-koninkrijk-der-nederlanden
 type: wet
-title: Grondwet voor het Koninkrijk der Nederlanden
+title: Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
-abbreviation: GW
+abbreviation: Gw
 latest_state: "2023-02-22"
 state_count: 11
 ---
 
 
-# Grondwet voor het Koninkrijk der Nederlanden
+# Grondwet voor het Koninkrijk der Nederlanden van 24 augustus 1815
 
 **BWB-id:** BWBR0001840
 **Citeertitel:** Grondwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**Afkorting:** GW
+**Afkorting:** Gw
 **ELI:** [/eli/nl/wet/2023/grondwet-voor-het-koninkrijk-der-nederlanden](https://wettenbank.online/eli/nl/wet/2023/grondwet-voor-het-koninkrijk-der-nederlanden)
 
 ## Versies

@@ -6,7 +6,7 @@ title: Wet van 24 december 1970, houdende regeling van de formaliteit van regist
 ministry: Financiën
 abbreviation: Reg.w.
 latest_state: "2023-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 11
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Reg.w.
-**ELI:** [/eli/nl/wet/1972/registratiewet-1970](https://wetten.ai/eli/nl/wet/1972/registratiewet-1970)
+**ELI:** [/eli/nl/wet/1972/registratiewet-1970](https://wettenbank.online/eli/nl/wet/1972/registratiewet-1970)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 11
 | 2019-01-01 | 2022-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-01-01 | 2018-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2014-01-01 | 2017-12-31 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-01-01 | 2012-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |

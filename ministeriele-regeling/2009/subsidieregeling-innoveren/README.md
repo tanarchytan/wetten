@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 3 december 2008, nr. 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-02-06"
-state_count: 29
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 29
 **Citeertitel:** Subsidieregeling innoveren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-innoveren](https://wetten.ai/eli/nl/ministeriele-regeling/2009/subsidieregeling-innoveren)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-innoveren](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/subsidieregeling-innoveren)
 
 ## Versies
 
@@ -36,16 +36,10 @@ state_count: 29
 | 2011-03-04 | 2011-05-15 | [2011-03-04.md](./2011-03-04.md) |
 | 2011-02-22 | 2011-03-03 | [2011-02-22.md](./2011-02-22.md) |
 | 2011-01-01 | 2011-02-21 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-02-21 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-09-14 | 2010-12-31 | [2010-09-14.md](./2010-09-14.md) |
 | 2010-09-14 | 2010-12-31 | [2010-09-14.md](./2010-09-14.md) |
 | 2010-02-19 | 2010-09-13 | [2010-02-19.md](./2010-02-19.md) |
-| 2010-02-19 | 2010-09-13 | [2010-02-19.md](./2010-02-19.md) |
-| 2010-01-22 | 2010-02-18 | [2010-01-22.md](./2010-01-22.md) |
 | 2010-01-22 | 2010-02-18 | [2010-01-22.md](./2010-01-22.md) |
 | 2010-01-01 | 2010-01-21 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-01-21 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-07-29 | 2009-12-30 | [2009-07-29.md](./2009-07-29.md) |
 | 2009-05-10 | 2009-07-28 | [2009-05-10.md](./2009-05-10.md) |

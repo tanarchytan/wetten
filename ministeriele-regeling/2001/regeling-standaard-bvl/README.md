@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat houdende de afgifte, w
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2007-06-14"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling standaard-BvL
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-standaard-bvl](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-standaard-bvl)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-standaard-bvl](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-standaard-bvl)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-06-14 | 2011-09-30 | [2007-06-14.md](./2007-06-14.md) |
-| 2007-01-01 | 2007-06-13 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-06-13 | [2007-01-01.md](./2007-01-01.md) |
 | 2001-10-15 | 2006-12-31 | [2001-10-15.md](./2001-10-15.md) |

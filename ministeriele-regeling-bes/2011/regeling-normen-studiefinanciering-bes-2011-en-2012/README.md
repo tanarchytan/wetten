@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2012-08-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling normen studiefinanciering BES 2011 en 2012
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/regeling-normen-studiefinanciering-bes-2011-en-2012](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2011/regeling-normen-studiefinanciering-bes-2011-en-2012)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2011/regeling-normen-studiefinanciering-bes-2011-en-2012](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2011/regeling-normen-studiefinanciering-bes-2011-en-2012)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-08-22 | 2012-12-31 | [2012-08-22.md](./2012-08-22.md) |
-| 2012-01-01 | 2012-08-21 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-08-21 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-08-01 | 2011-12-31 | [2011-08-01.md](./2011-08-01.md) |

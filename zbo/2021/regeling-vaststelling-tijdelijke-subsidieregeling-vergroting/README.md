@@ -6,7 +6,7 @@ title: Regeling van het Stimuleringsfonds voor de journalistiek van 1 januari 20
 ministry: Stimuleringsfonds voor de Journalistiek
 abbreviation: null
 latest_state: "2023-10-19"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling vaststelling tijdelijke subsidieregeling vergroting weerbaarheid journalisten
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stimuleringsfonds voor de Journalistiek
-**ELI:** [/eli/nl/zbo/2021/regeling-vaststelling-tijdelijke-subsidieregeling-vergroting](https://wetten.ai/eli/nl/zbo/2021/regeling-vaststelling-tijdelijke-subsidieregeling-vergroting)
+**ELI:** [/eli/nl/zbo/2021/regeling-vaststelling-tijdelijke-subsidieregeling-vergroting](https://wettenbank.online/eli/nl/zbo/2021/regeling-vaststelling-tijdelijke-subsidieregeling-vergroting)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2023-10-19 | heden | [2023-10-19.md](./2023-10-19.md) |
 | 2023-10-04 | 2023-10-18 | [2023-10-04.md](./2023-10-04.md) |
-| 2023-10-04 | 2023-10-18 | [2023-10-04.md](./2023-10-04.md) |
 | 2022-04-09 | 2023-10-03 | [2022-04-09.md](./2022-04-09.md) |
-| 2022-04-01 | 2022-04-08 | [2022-04-01.md](./2022-04-01.md) |
 | 2022-04-01 | 2022-04-08 | [2022-04-01.md](./2022-04-01.md) |
 | 2021-07-09 | 2022-03-31 | [2021-07-09.md](./2021-07-09.md) |
 | 2021-01-01 | 2021-07-08 | [2021-01-01.md](./2021-01-01.md) |

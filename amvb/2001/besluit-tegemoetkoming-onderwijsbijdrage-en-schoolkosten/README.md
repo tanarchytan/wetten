@@ -6,7 +6,7 @@ title: Besluit van 5 juli 2001, houdende regels over de tegemoetkoming in onderw
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: BTOS
 latest_state: "2024-06-27"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** BTOS
-**ELI:** [/eli/nl/amvb/2001/besluit-tegemoetkoming-onderwijsbijdrage-en-schoolkosten](https://wetten.ai/eli/nl/amvb/2001/besluit-tegemoetkoming-onderwijsbijdrage-en-schoolkosten)
+**ELI:** [/eli/nl/amvb/2001/besluit-tegemoetkoming-onderwijsbijdrage-en-schoolkosten](https://wettenbank.online/eli/nl/amvb/2001/besluit-tegemoetkoming-onderwijsbijdrage-en-schoolkosten)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 17
 | 2013-06-01 | 2014-03-28 | [2013-06-01.md](./2013-06-01.md) |
 | 2011-01-01 | 2013-05-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-04-28 | 2010-12-31 | [2010-04-28.md](./2010-04-28.md) |
-| 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-01 | 2009-12-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |

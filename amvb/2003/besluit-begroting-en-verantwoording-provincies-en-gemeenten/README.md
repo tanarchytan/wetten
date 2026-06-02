@@ -6,7 +6,7 @@ title: Besluit van 17 januari 2003, houdende de voorschriften voor de begrotings
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-04-17"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 17
 **Citeertitel:** Besluit begroting en verantwoording provincies en gemeenten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2003/besluit-begroting-en-verantwoording-provincies-en-gemeenten](https://wetten.ai/eli/nl/amvb/2003/besluit-begroting-en-verantwoording-provincies-en-gemeenten)
+**ELI:** [/eli/nl/amvb/2003/besluit-begroting-en-verantwoording-provincies-en-gemeenten](https://wettenbank.online/eli/nl/amvb/2003/besluit-begroting-en-verantwoording-provincies-en-gemeenten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-04-17 | heden | [2025-04-17.md](./2025-04-17.md) |
-| 2025-01-01 | 2025-04-16 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-04-16 | [2025-01-01.md](./2025-01-01.md) |
 | 2019-07-01 | 2024-12-31 | [2019-07-01.md](./2019-07-01.md) |
 | 2017-12-09 | 2019-06-30 | [2017-12-09.md](./2017-12-09.md) |

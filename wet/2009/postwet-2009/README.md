@@ -6,7 +6,7 @@ title: Wet van 25 maart 2009, houdende regels inzake de volledige liberalisering
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Postwet 2009
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/2009/postwet-2009](https://wetten.ai/eli/nl/wet/2009/postwet-2009)
+**ELI:** [/eli/nl/wet/2009/postwet-2009](https://wettenbank.online/eli/nl/wet/2009/postwet-2009)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 17
 |---|---|---|
 | 2019-01-01 | heden | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-28 | 2018-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-08-01 | 2018-05-24 | [2017-08-01.md](./2017-08-01.md) |
 | 2017-01-01 | 2017-07-31 | [2017-01-01.md](./2017-01-01.md) |

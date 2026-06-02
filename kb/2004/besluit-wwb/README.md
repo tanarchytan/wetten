@@ -6,7 +6,7 @@ title: Besluit van 10 oktober 2003 houdende regels ter uitvoering van de Wet wer
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Besluit WWB
 latest_state: "2006-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** kb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Besluit WWB
-**ELI:** [/eli/nl/kb/2004/besluit-wwb](https://wetten.ai/eli/nl/kb/2004/besluit-wwb)
+**ELI:** [/eli/nl/kb/2004/besluit-wwb](https://wettenbank.online/eli/nl/kb/2004/besluit-wwb)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 8
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-14 | 2005-12-31 | [2005-09-14.md](./2005-09-14.md) |
 | 2005-06-01 | 2005-09-13 | [2005-06-01.md](./2005-06-01.md) |
-| 2005-06-01 | 2005-09-13 | [2005-06-01.md](./2005-06-01.md) |
 | 2005-01-01 | 2005-05-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-10-06 | 2004-12-31 | [2004-10-06.md](./2004-10-06.md) |
-| 2004-01-01 | 2004-10-05 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-10-05 | [2004-01-01.md](./2004-01-01.md) |

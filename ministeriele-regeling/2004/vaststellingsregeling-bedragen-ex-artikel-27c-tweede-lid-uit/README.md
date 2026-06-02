@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 19 augustus 20
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-01-22"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Vaststellingsregeling bedragen ex artikel 27c, tweede lid, Uitvoeringsbesluit Rijksoctrooiwet 1995
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/vaststellingsregeling-bedragen-ex-artikel-27c-tweede-lid-uit](https://wetten.ai/eli/nl/ministeriele-regeling/2004/vaststellingsregeling-bedragen-ex-artikel-27c-tweede-lid-uit)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/vaststellingsregeling-bedragen-ex-artikel-27c-tweede-lid-uit](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/vaststellingsregeling-bedragen-ex-artikel-27c-tweede-lid-uit)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-01-22 | 2010-06-30 | [2006-01-22.md](./2006-01-22.md) |
-| 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-21 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-09-03 | 2005-12-31 | [2004-09-03.md](./2004-09-03.md) |

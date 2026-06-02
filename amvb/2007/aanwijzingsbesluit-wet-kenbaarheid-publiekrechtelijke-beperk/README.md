@@ -6,7 +6,7 @@ title: Besluit van 19 maart 2007, houdende aanwijzing van categorieën van beper
 ministry: Infrastructuur en Milieu
 abbreviation: Ab Wkpboz
 latest_state: "2024-01-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Ab Wkpboz
-**ELI:** [/eli/nl/amvb/2007/aanwijzingsbesluit-wet-kenbaarheid-publiekrechtelijke-beperk](https://wetten.ai/eli/nl/amvb/2007/aanwijzingsbesluit-wet-kenbaarheid-publiekrechtelijke-beperk)
+**ELI:** [/eli/nl/amvb/2007/aanwijzingsbesluit-wet-kenbaarheid-publiekrechtelijke-beperk](https://wettenbank.online/eli/nl/amvb/2007/aanwijzingsbesluit-wet-kenbaarheid-publiekrechtelijke-beperk)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 13
 | 2017-01-01 | 2023-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-05-02 | 2016-06-30 | [2015-05-02.md](./2015-05-02.md) |
-| 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2010-10-01 | 2013-06-30 | [2010-10-01.md](./2010-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Veiligheid en Justitie van 6 juli 2
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-04-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling model huisregels justitiële jeugdinrichtingen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-model-huisregels-justiti-le-jeugdinrichtingen](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-model-huisregels-justiti-le-jeugdinrichtingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-model-huisregels-justiti-le-jeugdinrichtingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-model-huisregels-justiti-le-jeugdinrichtingen)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2025-04-01 | heden | [2025-04-01.md](./2025-04-01.md) |
 | 2019-10-04 | 2025-03-31 | [2019-10-04.md](./2019-10-04.md) |
 | 2015-03-24 | 2019-10-03 | [2015-03-24.md](./2015-03-24.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-07-03 | 2014-12-31 | [2012-07-03.md](./2012-07-03.md) |
 | 2011-07-17 | 2012-07-02 | [2011-07-17.md](./2011-07-17.md) |

@@ -6,7 +6,7 @@ title: Wet van 23 december 1988, tot vervanging van de Monumentenwet
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: MW
 latest_state: "2016-04-14"
-state_count: 23
+state_count: 20
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 23
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** MW
-**ELI:** [/eli/nl/wet/1989/monumentenwet-1988](https://wetten.ai/eli/nl/wet/1989/monumentenwet-1988)
+**ELI:** [/eli/nl/wet/1989/monumentenwet-1988](https://wettenbank.online/eli/nl/wet/1989/monumentenwet-1988)
 
 ## Versies
 
@@ -32,10 +32,7 @@ state_count: 23
 | 2009-12-28 | 2010-09-30 | [2009-12-28.md](./2009-12-28.md) |
 | 2009-07-15 | 2009-12-27 | [2009-07-15.md](./2009-07-15.md) |
 | 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
-| 2008-07-01 | 2008-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2008-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-09-01 | 2007-12-31 | [2007-09-01.md](./2007-09-01.md) |

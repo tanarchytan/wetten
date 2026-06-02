@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-04-05"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling leerresultaten PO 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-leerresultaten-po-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-leerresultaten-po-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-leerresultaten-po-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-leerresultaten-po-2014)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2018-04-05 | 2020-07-31 | [2018-04-05.md](./2018-04-05.md) |
 | 2017-02-07 | 2018-04-04 | [2017-02-07.md](./2017-02-07.md) |
-| 2017-01-01 | 2017-02-06 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-02-06 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |

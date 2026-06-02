@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2019-09-27"
-state_count: 14
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling aanvullende bekostiging technisch vmbo 2018-2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-aanvullende-bekostiging-technisch-vmbo-2018-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-aanvullende-bekostiging-technisch-vmbo-2018-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-aanvullende-bekostiging-technisch-vmbo-2018-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-aanvullende-bekostiging-technisch-vmbo-2018-2019)
 
 ## Versies
 
@@ -24,15 +24,8 @@ state_count: 14
 |---|---|---|
 | 2019-09-27 | heden | [2019-09-27.md](./2019-09-27.md) |
 | 2019-02-27 | 2019-09-26 | [2019-02-27.md](./2019-02-27.md) |
-| 2019-02-27 | 2019-09-26 | [2019-02-27.md](./2019-02-27.md) |
-| 2019-01-01 | 2019-02-26 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-02-26 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-11-14 | 2018-12-31 | [2018-11-14.md](./2018-11-14.md) |
 | 2018-09-05 | 2018-11-13 | [2018-09-05.md](./2018-09-05.md) |
-| 2018-09-05 | 2018-11-13 | [2018-09-05.md](./2018-09-05.md) |
 | 2018-06-21 | 2018-09-04 | [2018-06-21.md](./2018-06-21.md) |
-| 2018-06-21 | 2018-09-04 | [2018-06-21.md](./2018-06-21.md) |
-| 2018-06-21 | 2018-09-04 | [2018-06-21.md](./2018-06-21.md) |
-| 2018-01-01 | 2018-06-20 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-06-20 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-06-20 | [2018-01-01.md](./2018-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Minis
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-11-22"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling Rijksbijdrage kosten heffingskortingen en Ouderdomsfonds 2023
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2023-11-22 | 2023-12-31 | [2023-11-22.md](./2023-11-22.md) |
 | 2023-06-16 | 2023-11-21 | [2023-06-16.md](./2023-06-16.md) |
-| 2023-06-16 | 2023-11-21 | [2023-06-16.md](./2023-06-16.md) |
-| 2023-01-01 | 2023-06-15 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-06-15 | [2023-01-01.md](./2023-01-01.md) |

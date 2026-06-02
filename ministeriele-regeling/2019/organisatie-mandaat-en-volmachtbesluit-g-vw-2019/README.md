@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 15 juli
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-09-13"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit G&VW 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2019/organisatie-mandaat-en-volmachtbesluit-g-vw-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2019/organisatie-mandaat-en-volmachtbesluit-g-vw-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/organisatie-mandaat-en-volmachtbesluit-g-vw-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/organisatie-mandaat-en-volmachtbesluit-g-vw-2019)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 9
 |---|---|---|
 | 2023-09-13 | heden | [2023-09-13.md](./2023-09-13.md) |
 | 2023-09-01 | 2023-09-12 | [2023-09-01.md](./2023-09-01.md) |
-| 2023-09-01 | 2023-09-12 | [2023-09-01.md](./2023-09-01.md) |
 | 2021-09-16 | 2023-08-31 | [2021-09-16.md](./2021-09-16.md) |
-| 2021-03-16 | 2021-09-15 | [2021-03-16.md](./2021-03-16.md) |
 | 2021-03-16 | 2021-09-15 | [2021-03-16.md](./2021-03-16.md) |
 | 2020-01-01 | 2021-03-15 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-26 | 2019-12-31 | [2019-07-26.md](./2019-07-26.md) |

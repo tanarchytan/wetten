@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 18 dece
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rg ngu-gu
 latest_state: "2009-06-10"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 6
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rg ngu-gu
-**ELI:** [/eli/nl/ministeriele-regeling/1987/regeling-gelijkstelling-niet-gewerkte-uren-met-gewerkte-uren](https://wetten.ai/eli/nl/ministeriele-regeling/1987/regeling-gelijkstelling-niet-gewerkte-uren-met-gewerkte-uren)
+**ELI:** [/eli/nl/ministeriele-regeling/1987/regeling-gelijkstelling-niet-gewerkte-uren-met-gewerkte-uren](https://wettenbank.online/eli/nl/ministeriele-regeling/1987/regeling-gelijkstelling-niet-gewerkte-uren-met-gewerkte-uren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-06-10 | 2012-12-31 | [2009-06-10.md](./2009-06-10.md) |
-| 2009-04-01 | 2009-06-09 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-04-01 | 2009-06-09 | [2009-04-01.md](./2009-04-01.md) |
 | 2006-10-01 | 2009-03-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 23 oktober 2024 tot herstel van wetstechnische gebreken en leemte
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-02-12"
-state_count: 12
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Verzamelwet BZK 2024
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2024/verzamelwet-bzk-2024](https://wetten.ai/eli/nl/wet/2024/verzamelwet-bzk-2024)
+**ELI:** [/eli/nl/wet/2024/verzamelwet-bzk-2024](https://wettenbank.online/eli/nl/wet/2024/verzamelwet-bzk-2024)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 12
 |---|---|---|
 | 2025-02-12 | heden | [2025-02-12.md](./2025-02-12.md) |
 | 2024-12-11 | 2025-02-11 | [2024-12-11.md](./2024-12-11.md) |
-| 2024-12-11 | 2025-02-11 | [2024-12-11.md](./2024-12-11.md) |
 | 2024-04-10 | 2024-12-10 | [2024-04-10.md](./2024-04-10.md) |
-| 2024-04-10 | 2024-12-10 | [2024-04-10.md](./2024-04-10.md) |
-| 2024-01-01 | 2024-04-09 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-04-09 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-04-02 | 2023-12-31 | [2023-04-02.md](./2023-04-02.md) |
 | 2023-01-01 | 2023-04-01 | [2023-01-01.md](./2023-01-01.md) |

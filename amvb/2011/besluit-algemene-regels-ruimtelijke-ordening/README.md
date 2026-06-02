@@ -6,7 +6,7 @@ title: Besluit van 22 augustus 2011, houdende algemene regels ter bescherming va
 ministry: Infrastructuur en Milieu
 abbreviation: Barro
 latest_state: "2020-12-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Barro
-**ELI:** [/eli/nl/amvb/2011/besluit-algemene-regels-ruimtelijke-ordening](https://wetten.ai/eli/nl/amvb/2011/besluit-algemene-regels-ruimtelijke-ordening)
+**ELI:** [/eli/nl/amvb/2011/besluit-algemene-regels-ruimtelijke-ordening](https://wettenbank.online/eli/nl/amvb/2011/besluit-algemene-regels-ruimtelijke-ordening)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 12
 | 2020-12-01 | 2023-12-31 | [2020-12-01.md](./2020-12-01.md) |
 | 2018-01-01 | 2020-11-30 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-03-28 | 2017-12-31 | [2017-03-28.md](./2017-03-28.md) |
-| 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-07-01 | 2016-06-30 | [2015-07-01.md](./2015-07-01.md) |

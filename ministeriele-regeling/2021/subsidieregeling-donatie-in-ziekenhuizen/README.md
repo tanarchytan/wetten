@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 19 augustus 2020, kenmerk
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-08-22"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Subsidieregeling donatie in ziekenhuizen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-donatie-in-ziekenhuizen](https://wetten.ai/eli/nl/ministeriele-regeling/2021/subsidieregeling-donatie-in-ziekenhuizen)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/subsidieregeling-donatie-in-ziekenhuizen](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/subsidieregeling-donatie-in-ziekenhuizen)
 
 ## Versies
 
@@ -27,7 +27,5 @@ state_count: 9
 | 2023-07-01 | 2024-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-07-16 | 2023-06-30 | [2022-07-16.md](./2022-07-16.md) |
 | 2022-01-01 | 2022-07-15 | [2022-01-01.md](./2022-01-01.md) |
-| 2022-01-01 | 2022-07-15 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-07-14 | 2021-12-31 | [2021-07-14.md](./2021-07-14.md) |
-| 2021-01-01 | 2021-07-13 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-07-13 | [2021-01-01.md](./2021-01-01.md) |

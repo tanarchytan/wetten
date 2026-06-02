@@ -6,7 +6,7 @@ title: Besluit van 16 juli 2005, houdende regels betreffende de procedures voor 
 ministry: Economische Zaken
 abbreviation: Bass
 latest_state: "2013-02-16"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Bass
-**ELI:** [/eli/nl/amvb/2005/besluit-aanbestedingen-speciale-sectoren](https://wetten.ai/eli/nl/amvb/2005/besluit-aanbestedingen-speciale-sectoren)
+**ELI:** [/eli/nl/amvb/2005/besluit-aanbestedingen-speciale-sectoren](https://wettenbank.online/eli/nl/amvb/2005/besluit-aanbestedingen-speciale-sectoren)
 
 ## Versies
 
@@ -29,5 +29,4 @@ state_count: 8
 | 2009-01-01 | 2010-02-18 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-09-15 | 2008-12-31 | [2008-09-15.md](./2008-09-15.md) |
 | 2005-12-21 | 2008-09-14 | [2005-12-21.md](./2005-12-21.md) |
-| 2005-12-01 | 2005-12-20 | [2005-12-01.md](./2005-12-01.md) |
 | 2005-12-01 | 2005-12-20 | [2005-12-01.md](./2005-12-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 augu
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-04-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling archeologische monumentenzorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-archeologische-monumentenzorg](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-archeologische-monumentenzorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-archeologische-monumentenzorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-archeologische-monumentenzorg)
 
 ## Versies
 
@@ -30,5 +30,4 @@ state_count: 10
 | 2009-01-01 | 2010-12-28 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-26 | 2007-12-31 | [2007-12-26.md](./2007-12-26.md) |
-| 2007-09-01 | 2007-12-25 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2007-12-25 | [2007-09-01.md](./2007-09-01.md) |

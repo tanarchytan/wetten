@@ -6,7 +6,7 @@ title: Tijdelijke regeling uitkering kwaliteitsverbetering indicatiestelling
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2003-07-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke regeling uitkering kwaliteitsverbetering indicatiestelling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2001/tijdelijke-regeling-uitkering-kwaliteitsverbetering-indicati](https://wetten.ai/eli/nl/ministeriele-regeling/2001/tijdelijke-regeling-uitkering-kwaliteitsverbetering-indicati)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/tijdelijke-regeling-uitkering-kwaliteitsverbetering-indicati](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/tijdelijke-regeling-uitkering-kwaliteitsverbetering-indicati)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-07-09 | 2004-06-30 | [2003-07-09.md](./2003-07-09.md) |
-| 2003-01-01 | 2003-07-08 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-07-08 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-03-02 | 2002-12-31 | [2002-03-02.md](./2002-03-02.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Financiën van 23 februari 2017, nr. 2017-000
 ministry: Financiën
 abbreviation: null
 latest_state: "2019-02-20"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit aansluiting bezwarenadviescommissie personele aangelegenheden BZK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-aansluiting-bezwarenadviescommissie-personele-aangel](https://wetten.ai/eli/nl/ministeriele-regeling/2017/besluit-aansluiting-bezwarenadviescommissie-personele-aangel)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-aansluiting-bezwarenadviescommissie-personele-aangel](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/besluit-aansluiting-bezwarenadviescommissie-personele-aangel)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-02-20 | heden | [2019-02-20.md](./2019-02-20.md) |
-| 2018-07-01 | 2019-02-19 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-07-01 | 2019-02-19 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-04-01 | 2018-06-30 | [2017-04-01.md](./2017-04-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 10 april 2007 tot compensatie van het bij postactieve ambtena
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2008-08-20"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit tijdelijke compensatie koopkrachtverlies postactieve ambtenaren Zorgverzekeringswet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/2007/besluit-tijdelijke-compensatie-koopkrachtverlies-postactieve](https://wetten.ai/eli/nl/amvb/2007/besluit-tijdelijke-compensatie-koopkrachtverlies-postactieve)
+**ELI:** [/eli/nl/amvb/2007/besluit-tijdelijke-compensatie-koopkrachtverlies-postactieve](https://wettenbank.online/eli/nl/amvb/2007/besluit-tijdelijke-compensatie-koopkrachtverlies-postactieve)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-08-20 | 2009-12-31 | [2008-08-20.md](./2008-08-20.md) |
-| 2007-05-09 | 2008-08-19 | [2007-05-09.md](./2007-05-09.md) |
 | 2007-05-09 | 2008-08-19 | [2007-05-09.md](./2007-05-09.md) |

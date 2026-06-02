@@ -6,7 +6,7 @@ title: Regeling handelaarskentekens en -kentekenbewijzen
 ministry: Infrastructuur en Milieu
 abbreviation: RHKb
 latest_state: "2021-01-05"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** RHKb
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-handelaarskentekens-en-kentekenbewijzen](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-handelaarskentekens-en-kentekenbewijzen)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-handelaarskentekens-en-kentekenbewijzen](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-handelaarskentekens-en-kentekenbewijzen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-01-05 | heden | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2016-10-12 | 2020-12-31 | [2016-10-12.md](./2016-10-12.md) |
 | 2014-04-01 | 2016-10-11 | [2014-04-01.md](./2014-04-01.md) |

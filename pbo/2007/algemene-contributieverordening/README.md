@@ -6,7 +6,7 @@ title: Algemene Contributieverordening
 ministry: Nederlandse Orde van Accountants-Administratieconsulenten
 abbreviation: null
 latest_state: "2010-08-06"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Algemene Contributieverordening
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse Orde van Accountants-Administratieconsulenten
-**ELI:** [/eli/nl/pbo/2007/algemene-contributieverordening](https://wetten.ai/eli/nl/pbo/2007/algemene-contributieverordening)
+**ELI:** [/eli/nl/pbo/2007/algemene-contributieverordening](https://wettenbank.online/eli/nl/pbo/2007/algemene-contributieverordening)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-08-06 | 2012-12-31 | [2010-08-06.md](./2010-08-06.md) |
-| 2010-07-02 | 2010-08-05 | [2010-07-02.md](./2010-07-02.md) |
 | 2010-07-02 | 2010-08-05 | [2010-07-02.md](./2010-07-02.md) |
 | 2010-01-01 | 2010-07-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |

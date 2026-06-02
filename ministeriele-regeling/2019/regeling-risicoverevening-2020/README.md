@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Medische Zorg van 4 oktober 2019, kenmerk 1
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-07-02"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling risicoverevening 2020
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-risicoverevening-2020](https://wetten.ai/eli/nl/ministeriele-regeling/2019/regeling-risicoverevening-2020)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-risicoverevening-2020](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/regeling-risicoverevening-2020)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2022-07-02 | heden | [2022-07-02.md](./2022-07-02.md) |
 | 2020-09-24 | 2022-07-01 | [2020-09-24.md](./2020-09-24.md) |
-| 2020-09-24 | 2022-07-01 | [2020-09-24.md](./2020-09-24.md) |
 | 2019-10-31 | 2020-09-23 | [2019-10-31.md](./2019-10-31.md) |
-| 2019-10-31 | 2020-09-23 | [2019-10-31.md](./2019-10-31.md) |
-| 2019-09-30 | 2019-10-30 | [2019-09-30.md](./2019-09-30.md) |
 | 2019-09-30 | 2019-10-30 | [2019-09-30.md](./2019-09-30.md) |

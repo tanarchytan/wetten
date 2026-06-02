@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 janua
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2005-02-01"
-state_count: 11
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2004](https://wetten.ai/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2004)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2004](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2004)
 
 ## Versies
 
@@ -26,10 +26,6 @@ state_count: 11
 | 2004-12-23 | 2005-01-31 | [2004-12-23.md](./2004-12-23.md) |
 | 2004-10-23 | 2004-12-22 | [2004-10-23.md](./2004-10-23.md) |
 | 2004-10-01 | 2004-10-22 | [2004-10-01.md](./2004-10-01.md) |
-| 2004-10-01 | 2004-10-22 | [2004-10-01.md](./2004-10-01.md) |
-| 2004-09-03 | 2004-09-30 | [2004-09-03.md](./2004-09-03.md) |
 | 2004-09-03 | 2004-09-30 | [2004-09-03.md](./2004-09-03.md) |
 | 2004-02-05 | 2004-09-02 | [2004-02-05.md](./2004-02-05.md) |
-| 2004-02-05 | 2004-09-02 | [2004-02-05.md](./2004-02-05.md) |
-| 2004-01-01 | 2004-02-04 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-02-04 | [2004-01-01.md](./2004-01-01.md) |

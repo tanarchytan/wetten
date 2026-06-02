@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2006-12-23"
-state_count: 11
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit plaatsvervangend secretaris-generaal SZW 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr](https://wetten.ai/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-plaatsvervangend-secr)
 
 ## Versies
 
@@ -24,12 +24,8 @@ state_count: 11
 |---|---|---|
 | 2006-12-23 | 2007-12-18 | [2006-12-23.md](./2006-12-23.md) |
 | 2006-05-01 | 2006-12-22 | [2006-05-01.md](./2006-05-01.md) |
-| 2006-05-01 | 2006-12-22 | [2006-05-01.md](./2006-05-01.md) |
-| 2006-04-01 | 2006-04-30 | [2006-04-01.md](./2006-04-01.md) |
 | 2006-04-01 | 2006-04-30 | [2006-04-01.md](./2006-04-01.md) |
 | 2006-02-01 | 2006-03-31 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-02-01 | 2006-03-31 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-12 | 2005-12-31 | [2005-01-12.md](./2005-01-12.md) |
 | 2005-01-01 | 2005-01-11 | [2005-01-01.md](./2005-01-01.md) |

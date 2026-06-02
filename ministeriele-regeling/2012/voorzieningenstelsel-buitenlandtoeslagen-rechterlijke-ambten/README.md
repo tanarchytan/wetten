@@ -6,7 +6,7 @@ title: Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: VBRA
 latest_state: "2019-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** VBRA
-**ELI:** [/eli/nl/ministeriele-regeling/2012/voorzieningenstelsel-buitenlandtoeslagen-rechterlijke-ambten](https://wetten.ai/eli/nl/ministeriele-regeling/2012/voorzieningenstelsel-buitenlandtoeslagen-rechterlijke-ambten)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/voorzieningenstelsel-buitenlandtoeslagen-rechterlijke-ambten](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/voorzieningenstelsel-buitenlandtoeslagen-rechterlijke-ambten)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 6
 |---|---|---|
 | 2019-01-01 | heden | [2019-01-01.md](./2019-01-01.md) |
 | 2017-01-03 | 2018-12-31 | [2017-01-03.md](./2017-01-03.md) |
-| 2017-01-01 | 2017-01-02 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-01-02 | [2017-01-01.md](./2017-01-01.md) |
 | 2012-07-06 | 2016-12-31 | [2012-07-06.md](./2012-07-06.md) |
 | 2012-04-02 | 2012-07-05 | [2012-04-02.md](./2012-04-02.md) |

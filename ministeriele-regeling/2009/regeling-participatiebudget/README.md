@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2019-03-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling participatiebudget
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-participatiebudget](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-participatiebudget)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-participatiebudget](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-participatiebudget)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2019-03-01 | heden | [2019-03-01.md](./2019-03-01.md) |
 | 2014-01-01 | 2019-02-28 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-09-25 | 2013-12-31 | [2013-09-25.md](./2013-09-25.md) |
-| 2013-01-01 | 2013-09-24 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-09-24 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |

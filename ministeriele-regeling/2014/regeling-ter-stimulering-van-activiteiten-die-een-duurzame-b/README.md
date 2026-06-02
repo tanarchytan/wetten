@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2017-12-29"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling ter stimulering van activiteiten die een duurzame bijdrage leveren aan het tegengaan van armoede- en schuldenproblematiek
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-ter-stimulering-van-activiteiten-die-een-duurzame-b](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-ter-stimulering-van-activiteiten-die-een-duurzame-b)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-ter-stimulering-van-activiteiten-die-een-duurzame-b](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-ter-stimulering-van-activiteiten-die-een-duurzame-b)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2017-10-01 | 2017-12-28 | [2017-10-01.md](./2017-10-01.md) |
 | 2016-03-26 | 2017-09-30 | [2016-03-26.md](./2016-03-26.md) |
 | 2015-07-01 | 2016-03-25 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-05-01 | 2015-06-30 | [2015-05-01.md](./2015-05-01.md) |
 | 2015-05-01 | 2015-06-30 | [2015-05-01.md](./2015-05-01.md) |
 | 2014-07-05 | 2015-04-30 | [2014-07-05.md](./2014-07-05.md) |

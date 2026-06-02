@@ -6,7 +6,7 @@ title: "Regeling van de Minister van Economische Zaken van 15 september 2004, nr
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-10-28"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Uitvoeringsregeling EOS: lange termijn
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-eos-lange-termijn](https://wetten.ai/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-eos-lange-termijn)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-eos-lange-termijn](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-eos-lange-termijn)
 
 ## Versies
 
@@ -27,6 +27,4 @@ state_count: 8
 | 2005-06-26 | 2005-12-17 | [2005-06-26.md](./2005-06-26.md) |
 | 2005-05-15 | 2005-06-25 | [2005-05-15.md](./2005-05-15.md) |
 | 2005-04-10 | 2005-05-14 | [2005-04-10.md](./2005-04-10.md) |
-| 2005-04-10 | 2005-05-14 | [2005-04-10.md](./2005-04-10.md) |
-| 2004-10-07 | 2005-04-09 | [2004-10-07.md](./2004-10-07.md) |
 | 2004-10-07 | 2005-04-09 | [2004-10-07.md](./2004-10-07.md) |

@@ -6,7 +6,7 @@ title: Besluit van het hoofd van de afdeling Juridische, Bestuurlijke en Operati
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2024-05-09"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Mandaatbesluit JBOZ Justitie en Veiligheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/mandaatbesluit-jboz-justitie-en-veiligheid](https://wetten.ai/eli/nl/ministeriele-regeling/2021/mandaatbesluit-jboz-justitie-en-veiligheid)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/mandaatbesluit-jboz-justitie-en-veiligheid](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/mandaatbesluit-jboz-justitie-en-veiligheid)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2024-05-09 | 2024-08-06 | [2024-05-09.md](./2024-05-09.md) |
 | 2022-05-10 | 2024-05-08 | [2022-05-10.md](./2022-05-10.md) |
-| 2022-05-01 | 2022-05-09 | [2022-05-01.md](./2022-05-01.md) |
 | 2022-05-01 | 2022-05-09 | [2022-05-01.md](./2022-05-01.md) |
 | 2021-04-22 | 2022-04-30 | [2021-04-22.md](./2021-04-22.md) |
 | 2021-02-12 | 2021-04-21 | [2021-02-12.md](./2021-02-12.md) |

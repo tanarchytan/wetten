@@ -6,7 +6,7 @@ title: Wet van 2 juni 2003, houdende regels ter bespoediging en vereenvoudiging 
 ministry: Infrastructuur en Milieu
 abbreviation: Sww
 latest_state: "2017-01-01"
-state_count: 22
+state_count: 21
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 22
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Sww
-**ELI:** [/eli/nl/wet/2003/spoedwet-wegverbreding](https://wetten.ai/eli/nl/wet/2003/spoedwet-wegverbreding)
+**ELI:** [/eli/nl/wet/2003/spoedwet-wegverbreding](https://wettenbank.online/eli/nl/wet/2003/spoedwet-wegverbreding)
 
 ## Versies
 
@@ -35,7 +35,6 @@ state_count: 22
 | 2010-03-31 | 2010-06-30 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-12-22 | 2010-03-30 | [2009-12-22.md](./2009-12-22.md) |
 | 2009-04-24 | 2009-12-21 | [2009-04-24.md](./2009-04-24.md) |
-| 2009-01-01 | 2009-04-23 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-04-23 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-07-01 | 2008-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2007-11-01 | 2008-06-30 | [2007-11-01.md](./2007-11-01.md) |

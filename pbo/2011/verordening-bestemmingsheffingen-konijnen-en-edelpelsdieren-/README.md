@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 28 oktober 2010, 
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2011-06-12"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening bestemmingsheffingen konijnen en edelpelsdieren (PPE) 2011
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2011/verordening-bestemmingsheffingen-konijnen-en-edelpelsdieren-](https://wetten.ai/eli/nl/pbo/2011/verordening-bestemmingsheffingen-konijnen-en-edelpelsdieren-)
+**ELI:** [/eli/nl/pbo/2011/verordening-bestemmingsheffingen-konijnen-en-edelpelsdieren-](https://wettenbank.online/eli/nl/pbo/2011/verordening-bestemmingsheffingen-konijnen-en-edelpelsdieren-)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-06-12 | 2019-10-16 | [2011-06-12.md](./2011-06-12.md) |
 | 2011-05-08 | 2011-06-11 | [2011-05-08.md](./2011-05-08.md) |
-| 2011-05-08 | 2011-06-11 | [2011-05-08.md](./2011-05-08.md) |
-| 2011-01-01 | 2011-05-07 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-05-07 | [2011-01-01.md](./2011-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 31 maar
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2010-04-01"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit deeltijd WW tot behoud van vakkrachten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-deeltijd-ww-tot-behoud-van-vakkrachten](https://wetten.ai/eli/nl/ministeriele-regeling/2009/besluit-deeltijd-ww-tot-behoud-van-vakkrachten)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-deeltijd-ww-tot-behoud-van-vakkrachten](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/besluit-deeltijd-ww-tot-behoud-van-vakkrachten)
 
 ## Versies
 
@@ -28,10 +28,8 @@ state_count: 13
 | 2009-07-20 | 2009-12-28 | [2009-07-20.md](./2009-07-20.md) |
 | 2009-06-26 | 2009-07-19 | [2009-06-26.md](./2009-06-26.md) |
 | 2009-06-23 | 2009-06-25 | [2009-06-23.md](./2009-06-23.md) |
-| 2009-06-23 | 2009-06-25 | [2009-06-23.md](./2009-06-23.md) |
 | 2009-05-30 | 2009-06-22 | [2009-05-30.md](./2009-05-30.md) |
 | 2009-05-08 | 2009-05-29 | [2009-05-08.md](./2009-05-08.md) |
-| 2009-04-29 | 2009-05-07 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-04-29 | 2009-05-07 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-04-04 | 2009-04-28 | [2009-04-04.md](./2009-04-04.md) |
 | 2009-04-01 | 2009-04-03 | [2009-04-01.md](./2009-04-01.md) |

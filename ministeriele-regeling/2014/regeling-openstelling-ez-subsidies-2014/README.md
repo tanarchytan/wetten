@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 11 juli 2014, nr. WJ
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2015-04-01"
-state_count: 11
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling openstelling EZ-subsidies 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-openstelling-ez-subsidies-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-openstelling-ez-subsidies-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-openstelling-ez-subsidies-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-openstelling-ez-subsidies-2014)
 
 ## Versies
 
@@ -27,9 +27,6 @@ state_count: 11
 | 2014-12-18 | 2014-12-18 | [2014-12-18.md](./2014-12-18.md) |
 | 2014-10-24 | 2014-12-17 | [2014-10-24.md](./2014-10-24.md) |
 | 2014-10-02 | 2014-10-23 | [2014-10-02.md](./2014-10-02.md) |
-| 2014-10-02 | 2014-10-23 | [2014-10-02.md](./2014-10-02.md) |
 | 2014-09-09 | 2014-10-01 | [2014-09-09.md](./2014-09-09.md) |
-| 2014-09-09 | 2014-10-01 | [2014-09-09.md](./2014-09-09.md) |
-| 2014-08-20 | 2014-09-08 | [2014-08-20.md](./2014-08-20.md) |
 | 2014-08-20 | 2014-09-08 | [2014-08-20.md](./2014-08-20.md) |
 | 2014-07-01 | 2014-08-19 | [2014-07-01.md](./2014-07-01.md) |

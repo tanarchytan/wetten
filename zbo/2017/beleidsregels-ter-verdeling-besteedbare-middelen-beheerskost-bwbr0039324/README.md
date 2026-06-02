@@ -6,7 +6,7 @@ title: Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoe
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2018-05-18"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregels ter verdeling besteedbare middelen beheerskosten Wlz-uitvoerders Wlz 2017
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2017/beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039324](https://wetten.ai/eli/nl/zbo/2017/beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039324)
+**ELI:** [/eli/nl/zbo/2017/beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039324](https://wettenbank.online/eli/nl/zbo/2017/beleidsregels-ter-verdeling-besteedbare-middelen-beheerskost-bwbr0039324)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2018-05-18 | heden | [2018-05-18.md](./2018-05-18.md) |
 | 2017-03-17 | 2018-05-17 | [2017-03-17.md](./2017-03-17.md) |
-| 2017-03-17 | 2018-05-17 | [2017-03-17.md](./2017-03-17.md) |
-| 2017-01-01 | 2017-03-16 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-16 | [2017-01-01.md](./2017-01-01.md) |

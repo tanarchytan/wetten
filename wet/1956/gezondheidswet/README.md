@@ -6,7 +6,7 @@ title: Wet van 18 januari 1956, houdende nieuwe wettelijke voorschriften met bet
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Gezw
 latest_state: "2025-07-05"
-state_count: 24
+state_count: 21
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 24
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Gezw
-**ELI:** [/eli/nl/wet/1956/gezondheidswet](https://wetten.ai/eli/nl/wet/1956/gezondheidswet)
+**ELI:** [/eli/nl/wet/1956/gezondheidswet](https://wettenbank.online/eli/nl/wet/1956/gezondheidswet)
 
 ## Versies
 
@@ -35,10 +35,7 @@ state_count: 24
 | 2012-10-10 | 2014-02-14 | [2012-10-10.md](./2012-10-10.md) |
 | 2012-07-28 | 2012-10-09 | [2012-07-28.md](./2012-07-28.md) |
 | 2012-01-01 | 2012-07-27 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-07-27 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-10-10 | 2011-12-31 | [2011-10-10.md](./2011-10-10.md) |
-| 2011-10-10 | 2011-12-31 | [2011-10-10.md](./2011-10-10.md) |
-| 2010-10-10 | 2011-10-09 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-10-09 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-05-29 | 2010-10-09 | [2010-05-29.md](./2010-05-29.md) |
 | 2009-07-01 | 2010-05-28 | [2009-07-01.md](./2009-07-01.md) |

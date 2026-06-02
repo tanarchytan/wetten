@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-07-21"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Tijdelijke subsidieregeling NL leert door met inzet van scholing
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2020/tijdelijke-subsidieregeling-nl-leert-door-met-inzet-van-scho](https://wetten.ai/eli/nl/ministeriele-regeling/2020/tijdelijke-subsidieregeling-nl-leert-door-met-inzet-van-scho)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/tijdelijke-subsidieregeling-nl-leert-door-met-inzet-van-scho](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/tijdelijke-subsidieregeling-nl-leert-door-met-inzet-van-scho)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2022-07-21 | 2023-06-30 | [2022-07-21.md](./2022-07-21.md) |
 | 2021-07-10 | 2022-07-20 | [2021-07-10.md](./2021-07-10.md) |
-| 2020-09-05 | 2021-07-09 | [2020-09-05.md](./2020-09-05.md) |
 | 2020-09-05 | 2021-07-09 | [2020-09-05.md](./2020-09-05.md) |

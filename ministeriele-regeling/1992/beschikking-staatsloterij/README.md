@@ -6,7 +6,7 @@ title: Beschikking Staatsloterij
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Beschikking Staatsloterij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1992/beschikking-staatsloterij](https://wetten.ai/eli/nl/ministeriele-regeling/1992/beschikking-staatsloterij)
+**ELI:** [/eli/nl/ministeriele-regeling/1992/beschikking-staatsloterij](https://wettenbank.online/eli/nl/ministeriele-regeling/1992/beschikking-staatsloterij)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 11
 |---|---|---|
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2018-08-13 | 2021-12-31 | [2018-08-13.md](./2018-08-13.md) |
-| 2018-01-01 | 2018-08-12 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-08-12 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-08-22 | 2017-12-31 | [2017-08-22.md](./2017-08-22.md) |
 | 2016-04-14 | 2017-08-21 | [2016-04-14.md](./2016-04-14.md) |

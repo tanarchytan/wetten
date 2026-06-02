@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 decem
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-07-20"
-state_count: 9
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling kwaliteitsafspraken mbo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-kwaliteitsafspraken-mbo](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-kwaliteitsafspraken-mbo)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-kwaliteitsafspraken-mbo](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-kwaliteitsafspraken-mbo)
 
 ## Versies
 
@@ -25,9 +25,5 @@ state_count: 9
 | 2016-07-20 | heden | [2016-07-20.md](./2016-07-20.md) |
 | 2016-03-19 | 2016-07-19 | [2016-03-19.md](./2016-03-19.md) |
 | 2016-01-01 | 2016-03-18 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-03-18 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-03-11 | 2015-12-31 | [2015-03-11.md](./2015-03-11.md) |
-| 2015-03-11 | 2015-12-31 | [2015-03-11.md](./2015-03-11.md) |
-| 2015-01-01 | 2015-03-10 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-03-10 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-10 | [2015-01-01.md](./2015-01-01.md) |

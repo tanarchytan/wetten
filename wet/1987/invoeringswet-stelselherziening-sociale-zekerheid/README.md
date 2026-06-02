@@ -6,7 +6,7 @@ title: Wet van 6 november 1986, houdende intrekking van de Werkloosheidswet, inv
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: IWS
 latest_state: "2007-07-01"
-state_count: 25
+state_count: 20
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 25
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** IWS
-**ELI:** [/eli/nl/wet/1987/invoeringswet-stelselherziening-sociale-zekerheid](https://wetten.ai/eli/nl/wet/1987/invoeringswet-stelselherziening-sociale-zekerheid)
+**ELI:** [/eli/nl/wet/1987/invoeringswet-stelselherziening-sociale-zekerheid](https://wettenbank.online/eli/nl/wet/1987/invoeringswet-stelselherziening-sociale-zekerheid)
 
 ## Versies
 
@@ -26,9 +26,7 @@ state_count: 25
 | 2007-07-01 | 2007-12-31 | [2007-07-01.md](./2007-07-01.md) |
 | 2007-02-21 | 2007-06-30 | [2007-02-21.md](./2007-02-21.md) |
 | 2007-01-01 | 2007-02-20 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-02-20 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-23 | 2006-12-31 | [2006-12-23.md](./2006-12-23.md) |
-| 2006-10-01 | 2006-12-22 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-10-01 | 2006-12-22 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-07-01 | 2006-09-30 | [2006-07-01.md](./2006-07-01.md) |
 | 2006-04-01 | 2006-06-30 | [2006-04-01.md](./2006-04-01.md) |
@@ -38,10 +36,7 @@ state_count: 25
 | 2005-01-01 | 2005-03-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-07-23 | 2004-12-31 | [2004-07-23.md](./2004-07-23.md) |
 | 2004-07-01 | 2004-07-22 | [2004-07-01.md](./2004-07-01.md) |
-| 2004-07-01 | 2004-07-22 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-04-01 | 2004-06-30 | [2004-04-01.md](./2004-04-01.md) |
-| 2004-04-01 | 2004-06-30 | [2004-04-01.md](./2004-04-01.md) |
-| 2004-01-01 | 2004-03-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-07-01 | 2003-12-31 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-04-01 | 2003-06-30 | [2003-04-01.md](./2003-04-01.md) |

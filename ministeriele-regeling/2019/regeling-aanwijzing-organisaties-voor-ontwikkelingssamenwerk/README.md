@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 nove
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2021-04-03"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling aanwijzing organisaties voor ontwikkelingssamenwerking 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-aanwijzing-organisaties-voor-ontwikkelingssamenwerk](https://wetten.ai/eli/nl/ministeriele-regeling/2019/regeling-aanwijzing-organisaties-voor-ontwikkelingssamenwerk)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-aanwijzing-organisaties-voor-ontwikkelingssamenwerk](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/regeling-aanwijzing-organisaties-voor-ontwikkelingssamenwerk)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2021-04-03 | heden | [2021-04-03.md](./2021-04-03.md) |
 | 2019-04-02 | 2021-04-02 | [2019-04-02.md](./2019-04-02.md) |
-| 2019-02-14 | 2019-04-01 | [2019-02-14.md](./2019-02-14.md) |
 | 2019-02-14 | 2019-04-01 | [2019-02-14.md](./2019-02-14.md) |
 | 2019-01-01 | 2019-02-13 | [2019-01-01.md](./2019-01-01.md) |

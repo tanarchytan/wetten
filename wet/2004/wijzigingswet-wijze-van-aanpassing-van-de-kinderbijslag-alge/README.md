@@ -6,7 +6,7 @@ title: Wet van 19 december 2003 tot wijziging van de wijze van aanpassing van de
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2005-12-29"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Wijzigingswet wijze van aanpassing van de kinderbijslag, Algemene Kinderbijslagwet, enz. (andere wijze van aanpassing kinderbijslagbedragen)
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/wet/2004/wijzigingswet-wijze-van-aanpassing-van-de-kinderbijslag-alge](https://wetten.ai/eli/nl/wet/2004/wijzigingswet-wijze-van-aanpassing-van-de-kinderbijslag-alge)
+**ELI:** [/eli/nl/wet/2004/wijzigingswet-wijze-van-aanpassing-van-de-kinderbijslag-alge](https://wettenbank.online/eli/nl/wet/2004/wijzigingswet-wijze-van-aanpassing-van-de-kinderbijslag-alge)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-12-29 | heden | [2005-12-29.md](./2005-12-29.md) |
-| 2004-01-01 | 2005-12-28 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2005-12-28 | [2004-01-01.md](./2004-01-01.md) |

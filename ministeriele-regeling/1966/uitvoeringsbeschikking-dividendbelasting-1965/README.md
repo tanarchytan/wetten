@@ -6,7 +6,7 @@ title: Uitvoeringsbeschikking dividendbelasting 1965
 ministry: Financiën
 abbreviation: Ub  Divb
 latest_state: "2024-07-01"
-state_count: 26
+state_count: 18
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 26
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Ub  Divb
-**ELI:** [/eli/nl/ministeriele-regeling/1966/uitvoeringsbeschikking-dividendbelasting-1965](https://wetten.ai/eli/nl/ministeriele-regeling/1966/uitvoeringsbeschikking-dividendbelasting-1965)
+**ELI:** [/eli/nl/ministeriele-regeling/1966/uitvoeringsbeschikking-dividendbelasting-1965](https://wettenbank.online/eli/nl/ministeriele-regeling/1966/uitvoeringsbeschikking-dividendbelasting-1965)
 
 ## Versies
 
@@ -34,18 +34,10 @@ state_count: 26
 | 2018-01-01 | 2018-03-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-07-01 | 2017-12-31 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
-| 2012-01-01 | 2016-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2016-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-03-18 | 2010-12-31 | [2010-03-18.md](./2010-03-18.md) |
 | 2010-03-18 | 2010-12-31 | [2010-03-18.md](./2010-03-18.md) |
 | 2010-01-01 | 2010-03-17 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-03-17 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-03-17 | [2010-01-01.md](./2010-01-01.md) |
 | 2006-01-01 | 2009-12-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2009-12-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2004-01-01 | 2005-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2005-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2001-01-01 | 2003-12-31 | [2001-01-01.md](./2001-01-01.md) |

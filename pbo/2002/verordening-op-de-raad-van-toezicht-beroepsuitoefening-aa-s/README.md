@@ -6,7 +6,7 @@ title: "Verordening op de Raad van Toezicht Beroepsuitoefening AA's"
 ministry: Nederlandse Orde van Accountants-Administratieconsulenten
 abbreviation: null
 latest_state: "2013-01-02"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Verordening op de Raad van Toezicht Beroepsuitoefening AA's
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse Orde van Accountants-Administratieconsulenten
-**ELI:** [/eli/nl/pbo/2002/verordening-op-de-raad-van-toezicht-beroepsuitoefening-aa-s](https://wetten.ai/eli/nl/pbo/2002/verordening-op-de-raad-van-toezicht-beroepsuitoefening-aa-s)
+**ELI:** [/eli/nl/pbo/2002/verordening-op-de-raad-van-toezicht-beroepsuitoefening-aa-s](https://wettenbank.online/eli/nl/pbo/2002/verordening-op-de-raad-van-toezicht-beroepsuitoefening-aa-s)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 9
 |---|---|---|
 | 2013-01-02 | 2013-01-16 | [2013-01-02.md](./2013-01-02.md) |
 | 2012-08-08 | 2013-01-01 | [2012-08-08.md](./2012-08-08.md) |
-| 2012-07-02 | 2012-08-07 | [2012-07-02.md](./2012-07-02.md) |
 | 2012-07-02 | 2012-08-07 | [2012-07-02.md](./2012-07-02.md) |
 | 2010-01-01 | 2012-07-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-02-01 | 2009-12-31 | [2009-02-01.md](./2009-02-01.md) |

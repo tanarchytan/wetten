@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 sep
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-03-31"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Vergoedingenbesluit Nederlandse Sportraad
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2016/vergoedingenbesluit-nederlandse-sportraad](https://wetten.ai/eli/nl/ministeriele-regeling/2016/vergoedingenbesluit-nederlandse-sportraad)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/vergoedingenbesluit-nederlandse-sportraad](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/vergoedingenbesluit-nederlandse-sportraad)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 10
 | 2020-01-01 | 2020-03-20 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-01-01 | 2019-12-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-03-28 | 2017-12-31 | [2017-03-28.md](./2017-03-28.md) |
-| 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-27 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-09-23 | 2016-12-31 | [2016-09-23.md](./2016-09-23.md) |
 | 2016-04-01 | 2016-09-22 | [2016-04-01.md](./2016-04-01.md) |

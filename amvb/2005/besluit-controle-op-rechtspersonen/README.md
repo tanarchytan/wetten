@@ -6,7 +6,7 @@ title: Besluit van 21 oktober 2004, houdende bepalingen ter uitvoering van de We
 ministry: Veiligheid en Justitie
 abbreviation: Bdv
 latest_state: "2024-01-01"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 14
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bdv
-**ELI:** [/eli/nl/amvb/2005/besluit-controle-op-rechtspersonen](https://wetten.ai/eli/nl/amvb/2005/besluit-controle-op-rechtspersonen)
+**ELI:** [/eli/nl/amvb/2005/besluit-controle-op-rechtspersonen](https://wettenbank.online/eli/nl/amvb/2005/besluit-controle-op-rechtspersonen)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 14
 |---|---|---|
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2018-07-28 | 2023-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-01 | 2018-05-24 | [2018-05-01.md](./2018-05-01.md) |
 | 2017-02-01 | 2018-04-30 | [2017-02-01.md](./2017-02-01.md) |

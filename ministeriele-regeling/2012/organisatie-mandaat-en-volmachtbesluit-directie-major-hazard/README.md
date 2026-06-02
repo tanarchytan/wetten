@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 augu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2017-07-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Major Hazard Control 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-major-hazard](https://wetten.ai/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-major-hazard)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-major-hazard](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/organisatie-mandaat-en-volmachtbesluit-directie-major-hazard)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2017-07-01 | 2017-09-11 | [2017-07-01.md](./2017-07-01.md) |
 | 2013-08-08 | 2017-06-30 | [2013-08-08.md](./2013-08-08.md) |
-| 2013-01-01 | 2013-08-07 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-08-07 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-08-31 | 2012-12-31 | [2012-08-31.md](./2012-08-31.md) |
 | 2012-01-01 | 2012-08-30 | [2012-01-01.md](./2012-01-01.md) |

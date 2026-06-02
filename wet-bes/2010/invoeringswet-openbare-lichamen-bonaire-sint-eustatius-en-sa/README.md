@@ -6,7 +6,7 @@ title: Wet van 17 mei 2010 tot invoering van de regelgeving met betrekking tot d
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: IBES
 latest_state: "2025-01-01"
-state_count: 25
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 25
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** IBES
-**ELI:** [/eli/nl/wet-bes/2010/invoeringswet-openbare-lichamen-bonaire-sint-eustatius-en-sa](https://wetten.ai/eli/nl/wet-bes/2010/invoeringswet-openbare-lichamen-bonaire-sint-eustatius-en-sa)
+**ELI:** [/eli/nl/wet-bes/2010/invoeringswet-openbare-lichamen-bonaire-sint-eustatius-en-sa](https://wettenbank.online/eli/nl/wet-bes/2010/invoeringswet-openbare-lichamen-bonaire-sint-eustatius-en-sa)
 
 ## Versies
 
@@ -35,16 +35,7 @@ state_count: 25
 | 2014-02-15 | 2016-06-30 | [2014-02-15.md](./2014-02-15.md) |
 | 2012-07-28 | 2014-02-14 | [2012-07-28.md](./2012-07-28.md) |
 | 2011-09-17 | 2012-07-27 | [2011-09-17.md](./2011-09-17.md) |
-| 2011-09-17 | 2012-07-27 | [2011-09-17.md](./2011-09-17.md) |
-| 2011-01-01 | 2011-09-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-09-16 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-12-25 | 2010-12-31 | [2010-12-25.md](./2010-12-25.md) |
-| 2010-12-25 | 2010-12-31 | [2010-12-25.md](./2010-12-25.md) |
-| 2010-12-25 | 2010-12-31 | [2010-12-25.md](./2010-12-25.md) |
 | 2010-10-11 | 2010-12-24 | [2010-10-11.md](./2010-10-11.md) |
-| 2010-10-11 | 2010-12-24 | [2010-10-11.md](./2010-10-11.md) |
-| 2010-10-11 | 2010-12-24 | [2010-10-11.md](./2010-10-11.md) |
-| 2010-10-11 | 2010-12-24 | [2010-10-11.md](./2010-10-11.md) |
-| 2010-10-10 | 2010-10-10 | [2010-10-10.md](./2010-10-10.md) |
-| 2010-10-10 | 2010-10-10 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2010-10-10 | [2010-10-10.md](./2010-10-10.md) |

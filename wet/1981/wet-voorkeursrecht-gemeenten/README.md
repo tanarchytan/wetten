@@ -6,7 +6,7 @@ title: Wet van 22 april 1981, houdende regeling van een voorkeursrecht van gemee
 ministry: Infrastructuur en Milieu
 abbreviation: WVGem
 latest_state: "2021-07-01"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WVGem
-**ELI:** [/eli/nl/wet/1981/wet-voorkeursrecht-gemeenten](https://wetten.ai/eli/nl/wet/1981/wet-voorkeursrecht-gemeenten)
+**ELI:** [/eli/nl/wet/1981/wet-voorkeursrecht-gemeenten](https://wettenbank.online/eli/nl/wet/1981/wet-voorkeursrecht-gemeenten)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 16
 | 2010-07-01 | 2010-09-30 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-04-23 | 2010-06-30 | [2010-04-23.md](./2010-04-23.md) |
 | 2010-03-31 | 2010-04-22 | [2010-03-31.md](./2010-03-31.md) |
-| 2010-03-31 | 2010-04-22 | [2010-03-31.md](./2010-03-31.md) |
-| 2008-07-01 | 2010-03-30 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2010-03-30 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-01-01 | 2008-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-09-01 | 2007-12-31 | [2007-09-01.md](./2007-09-01.md) |

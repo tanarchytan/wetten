@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid en de Staat
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Uitv.reg. Ikoa 2004
 latest_state: "2024-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Uitv.reg. Ikoa 2004
-**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-inleners-keten-en-opdrachtgeversaansprak](https://wetten.ai/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-inleners-keten-en-opdrachtgeversaansprak)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-inleners-keten-en-opdrachtgeversaansprak](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/uitvoeringsregeling-inleners-keten-en-opdrachtgeversaansprak)
 
 ## Versies
 
@@ -31,5 +31,4 @@ state_count: 10
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2006-01-01 | 2011-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-03-05 | 2005-12-31 | [2004-03-05.md](./2004-03-05.md) |
-| 2004-01-01 | 2004-03-04 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-04 | [2004-01-01.md](./2004-01-01.md) |

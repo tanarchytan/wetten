@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 29Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-11-16"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling gelijke hoedanigheid en gebruiksbestemming
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-gelijke-hoedanigheid-en-gebruiksbestemming](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-gelijke-hoedanigheid-en-gebruiksbestemming)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-gelijke-hoedanigheid-en-gebruiksbestemming](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-gelijke-hoedanigheid-en-gebruiksbestemming)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-11-16 | 2006-12-31 | [2006-11-16.md](./2006-11-16.md) |
-| 2006-10-18 | 2006-11-15 | [2006-10-18.md](./2006-10-18.md) |
 | 2006-10-18 | 2006-11-15 | [2006-10-18.md](./2006-10-18.md) |
 | 2006-09-06 | 2006-10-17 | [2006-09-06.md](./2006-09-06.md) |

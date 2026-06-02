@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2021-04-03"
-state_count: 21
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Regeling beoordeling luchtkwaliteit 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-beoordeling-luchtkwaliteit-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-beoordeling-luchtkwaliteit-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-beoordeling-luchtkwaliteit-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-beoordeling-luchtkwaliteit-2007)
 
 ## Versies
 
@@ -32,13 +32,8 @@ state_count: 21
 | 2012-11-21 | 2012-12-31 | [2012-11-21.md](./2012-11-21.md) |
 | 2009-08-15 | 2012-11-20 | [2009-08-15.md](./2009-08-15.md) |
 | 2009-08-01 | 2009-08-14 | [2009-08-01.md](./2009-08-01.md) |
-| 2009-08-01 | 2009-08-14 | [2009-08-01.md](./2009-08-01.md) |
-| 2009-03-20 | 2009-07-31 | [2009-03-20.md](./2009-03-20.md) |
 | 2009-03-20 | 2009-07-31 | [2009-03-20.md](./2009-03-20.md) |
 | 2009-03-01 | 2009-03-19 | [2009-03-01.md](./2009-03-01.md) |
-| 2009-03-01 | 2009-03-19 | [2009-03-01.md](./2009-03-01.md) |
-| 2009-03-01 | 2009-03-19 | [2009-03-01.md](./2009-03-01.md) |
-| 2008-12-21 | 2009-02-28 | [2008-12-21.md](./2008-12-21.md) |
 | 2008-12-21 | 2009-02-28 | [2008-12-21.md](./2008-12-21.md) |
 | 2008-12-19 | 2008-12-20 | [2008-12-19.md](./2008-12-19.md) |
 | 2008-07-19 | 2008-12-18 | [2008-07-19.md](./2008-07-19.md) |

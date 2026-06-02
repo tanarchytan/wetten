@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-10-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Regeling praktijkleren en Groene plus
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-praktijkleren-en-groene-plus](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-praktijkleren-en-groene-plus)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-praktijkleren-en-groene-plus](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-praktijkleren-en-groene-plus)
 
 ## Versies
 
@@ -30,6 +30,5 @@ state_count: 11
 | 2013-01-01 | 2013-04-29 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-09-24 | 2011-12-31 | [2011-09-24.md](./2011-09-24.md) |
-| 2011-08-01 | 2011-09-23 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-08-01 | 2011-09-23 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-01-01 | 2011-07-31 | [2011-01-01.md](./2011-01-01.md) |

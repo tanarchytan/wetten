@@ -6,7 +6,7 @@ title: Verordening van het Productschap Zuivel van 28 oktober 2009, houdende vas
 ministry: Productschap Zuivel
 abbreviation: null
 latest_state: "2014-04-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Zuivelverordening 2010 heffing gezondheidszorg runderen
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Zuivel
-**ELI:** [/eli/nl/pbo/2010/zuivelverordening-2010-heffing-gezondheidszorg-runderen](https://wetten.ai/eli/nl/pbo/2010/zuivelverordening-2010-heffing-gezondheidszorg-runderen)
+**ELI:** [/eli/nl/pbo/2010/zuivelverordening-2010-heffing-gezondheidszorg-runderen](https://wettenbank.online/eli/nl/pbo/2010/zuivelverordening-2010-heffing-gezondheidszorg-runderen)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 9
 | 2014-04-01 | 2014-05-02 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-02-15 | 2014-03-31 | [2014-02-15.md](./2014-02-15.md) |
 | 2014-01-01 | 2014-02-14 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-02-14 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-06-01 | 2013-12-31 | [2013-06-01.md](./2013-06-01.md) |
-| 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-05-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-01-31 | 2012-12-31 | [2010-01-31.md](./2010-01-31.md) |
 | 2010-01-01 | 2010-01-30 | [2010-01-01.md](./2010-01-01.md) |

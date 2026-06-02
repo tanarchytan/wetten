@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 jun
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2008-06-07"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke stimuleringsregeling zij-instroom leraren PO naar VO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/tijdelijke-stimuleringsregeling-zij-instroom-leraren-po-naar](https://wetten.ai/eli/nl/ministeriele-regeling/2007/tijdelijke-stimuleringsregeling-zij-instroom-leraren-po-naar)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/tijdelijke-stimuleringsregeling-zij-instroom-leraren-po-naar](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/tijdelijke-stimuleringsregeling-zij-instroom-leraren-po-naar)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-06-07 | 2009-07-31 | [2008-06-07.md](./2008-06-07.md) |
-| 2007-06-21 | 2008-06-06 | [2007-06-21.md](./2007-06-21.md) |
 | 2007-06-21 | 2008-06-06 | [2007-06-21.md](./2007-06-21.md) |
 | 2007-06-20 | 2007-06-20 | [2007-06-20.md](./2007-06-20.md) |

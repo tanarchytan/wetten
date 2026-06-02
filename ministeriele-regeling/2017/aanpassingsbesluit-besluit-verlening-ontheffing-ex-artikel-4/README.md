@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Medische Zorg van 21 november 2017, kenmerk 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2021-01-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Aanpassingsbesluit Besluit verlening ontheffing ex artikel 40, derde lid, onderdeel g, Geneesmiddelenwet, aan het RIVM
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2017/aanpassingsbesluit-besluit-verlening-ontheffing-ex-artikel-4](https://wetten.ai/eli/nl/ministeriele-regeling/2017/aanpassingsbesluit-besluit-verlening-ontheffing-ex-artikel-4)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/aanpassingsbesluit-besluit-verlening-ontheffing-ex-artikel-4](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/aanpassingsbesluit-besluit-verlening-ontheffing-ex-artikel-4)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-01-15 | heden | [2021-01-15.md](./2021-01-15.md) |
-| 2021-01-01 | 2021-01-14 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-01-14 | [2021-01-01.md](./2021-01-01.md) |
 | 2017-12-01 | 2020-12-31 | [2017-12-01.md](./2017-12-01.md) |

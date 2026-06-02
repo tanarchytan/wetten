@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 10 november 2005 houd
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2006-05-28"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Heffingsverordening HPA fonds consumptieaardappelen jaar 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2006/heffingsverordening-hpa-fonds-consumptieaardappelen-jaar-200](https://wetten.ai/eli/nl/pbo/2006/heffingsverordening-hpa-fonds-consumptieaardappelen-jaar-200)
+**ELI:** [/eli/nl/pbo/2006/heffingsverordening-hpa-fonds-consumptieaardappelen-jaar-200](https://wettenbank.online/eli/nl/pbo/2006/heffingsverordening-hpa-fonds-consumptieaardappelen-jaar-200)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2006-05-28 | 2019-10-18 | [2006-05-28.md](./2006-05-28.md) |
 | 2006-02-19 | 2006-05-27 | [2006-02-19.md](./2006-02-19.md) |
-| 2006-02-19 | 2006-05-27 | [2006-02-19.md](./2006-02-19.md) |
-| 2006-01-01 | 2006-02-18 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-02-18 | [2006-01-01.md](./2006-01-01.md) |

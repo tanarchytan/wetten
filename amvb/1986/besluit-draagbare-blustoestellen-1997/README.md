@@ -6,7 +6,7 @@ title: Besluit van 16 januari 1998, houdende regels over de veiligheid en de deu
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-09-18"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Besluit draagbare blustoestellen 1997
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/1986/besluit-draagbare-blustoestellen-1997](https://wetten.ai/eli/nl/amvb/1986/besluit-draagbare-blustoestellen-1997)
+**ELI:** [/eli/nl/amvb/1986/besluit-draagbare-blustoestellen-1997](https://wettenbank.online/eli/nl/amvb/1986/besluit-draagbare-blustoestellen-1997)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 10
 |---|---|---|
 | 2016-09-18 | heden | [2016-09-18.md](./2016-09-18.md) |
 | 2016-05-24 | 2016-09-17 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2014-01-01 | 2016-04-30 | [2014-01-01.md](./2014-01-01.md) |
 | 2011-01-01 | 2013-12-31 | [2011-01-01.md](./2011-01-01.md) |

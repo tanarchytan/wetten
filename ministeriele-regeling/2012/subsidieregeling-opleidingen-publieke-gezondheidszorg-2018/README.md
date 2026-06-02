@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 okt
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2018-10-17"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Subsidieregeling opleidingen publieke gezondheidszorg 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2012/subsidieregeling-opleidingen-publieke-gezondheidszorg-2018](https://wetten.ai/eli/nl/ministeriele-regeling/2012/subsidieregeling-opleidingen-publieke-gezondheidszorg-2018)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/subsidieregeling-opleidingen-publieke-gezondheidszorg-2018](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/subsidieregeling-opleidingen-publieke-gezondheidszorg-2018)
 
 ## Versies
 
@@ -25,11 +25,9 @@ state_count: 12
 | 2018-10-17 | 2018-12-31 | [2018-10-17.md](./2018-10-17.md) |
 | 2017-12-09 | 2018-10-16 | [2017-12-09.md](./2017-12-09.md) |
 | 2017-09-01 | 2017-12-08 | [2017-09-01.md](./2017-09-01.md) |
-| 2017-09-01 | 2017-12-08 | [2017-09-01.md](./2017-09-01.md) |
 | 2016-09-01 | 2017-08-31 | [2016-09-01.md](./2016-09-01.md) |
 | 2016-04-01 | 2016-08-31 | [2016-04-01.md](./2016-04-01.md) |
 | 2015-10-02 | 2016-03-31 | [2015-10-02.md](./2015-10-02.md) |
-| 2015-09-01 | 2015-10-01 | [2015-09-01.md](./2015-09-01.md) |
 | 2015-09-01 | 2015-10-01 | [2015-09-01.md](./2015-09-01.md) |
 | 2014-09-10 | 2015-08-31 | [2014-09-10.md](./2014-09-10.md) |
 | 2013-11-28 | 2014-09-09 | [2013-11-28.md](./2013-11-28.md) |

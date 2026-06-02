@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 29 
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2022-04-30"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Financiële regeling handelsregister BES 2022
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2022/financi-le-regeling-handelsregister-bes-2022](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2022/financi-le-regeling-handelsregister-bes-2022)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2022/financi-le-regeling-handelsregister-bes-2022](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2022/financi-le-regeling-handelsregister-bes-2022)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-04-30 | heden | [2022-04-30.md](./2022-04-30.md) |
-| 2022-01-01 | 2022-04-29 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-04-29 | [2022-01-01.md](./2022-01-01.md) |

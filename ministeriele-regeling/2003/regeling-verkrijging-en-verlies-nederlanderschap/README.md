@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Vreemdelingenzaken en Integratie van 13 maa
 ministry: Veiligheid en Justitie
 abbreviation: rvvn
 latest_state: "2010-10-10"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** rvvn
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-verkrijging-en-verlies-nederlanderschap](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-verkrijging-en-verlies-nederlanderschap)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-verkrijging-en-verlies-nederlanderschap](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-verkrijging-en-verlies-nederlanderschap)
 
 ## Versies
 
@@ -29,8 +29,6 @@ state_count: 12
 | 2008-08-01 | 2009-12-31 | [2008-08-01.md](./2008-08-01.md) |
 | 2006-10-31 | 2008-07-31 | [2006-10-31.md](./2006-10-31.md) |
 | 2006-10-01 | 2006-10-30 | [2006-10-01.md](./2006-10-01.md) |
-| 2006-10-01 | 2006-10-30 | [2006-10-01.md](./2006-10-01.md) |
-| 2006-04-02 | 2006-09-30 | [2006-04-02.md](./2006-04-02.md) |
 | 2006-04-02 | 2006-09-30 | [2006-04-02.md](./2006-04-02.md) |
 | 2006-01-01 | 2006-04-01 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-04-13 | 2005-12-31 | [2004-04-13.md](./2004-04-13.md) |

@@ -6,7 +6,7 @@ title: Besluit van 23 mei 2011, houdende bepalingen inzake de productie en distr
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Drinkwaterbesluit
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2011/drinkwaterbesluit](https://wetten.ai/eli/nl/amvb/2011/drinkwaterbesluit)
+**ELI:** [/eli/nl/amvb/2011/drinkwaterbesluit](https://wettenbank.online/eli/nl/amvb/2011/drinkwaterbesluit)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 15
 | 2015-11-28 | 2018-06-30 | [2015-11-28.md](./2015-11-28.md) |
 | 2015-07-01 | 2015-11-27 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-03-21 | 2015-06-30 | [2015-03-21.md](./2015-03-21.md) |
-| 2014-08-01 | 2015-03-20 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2015-03-20 | [2014-08-01.md](./2014-08-01.md) |
 | 2013-04-01 | 2014-07-31 | [2013-04-01.md](./2013-04-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |

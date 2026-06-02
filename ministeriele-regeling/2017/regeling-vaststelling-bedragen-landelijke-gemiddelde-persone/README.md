@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2021-07-15"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling vaststelling bedragen landelijke gemiddelde personeelslast vo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-bedragen-landelijke-gemiddelde-persone)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 9
 | 2019-07-13 | 2020-07-22 | [2019-07-13.md](./2019-07-13.md) |
 | 2018-09-22 | 2019-07-12 | [2018-09-22.md](./2018-09-22.md) |
 | 2018-08-25 | 2018-09-21 | [2018-08-25.md](./2018-08-25.md) |
-| 2018-08-01 | 2018-08-24 | [2018-08-01.md](./2018-08-01.md) |
 | 2018-08-01 | 2018-08-24 | [2018-08-01.md](./2018-08-01.md) |
 | 2017-08-23 | 2018-07-31 | [2017-08-23.md](./2017-08-23.md) |
 | 2017-01-01 | 2017-08-22 | [2017-01-01.md](./2017-01-01.md) |

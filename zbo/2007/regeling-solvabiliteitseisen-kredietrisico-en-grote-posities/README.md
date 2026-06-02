@@ -7,7 +7,7 @@ ministry: De Nederlandsche Bank N.V.
 abbreviation: "Rsk
 2010"
 latest_state: "2011-12-31"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -19,7 +19,7 @@ state_count: 7
 **Verantwoordelijk ministerie:** De Nederlandsche Bank N.V.
 **Afkorting:** Rsk
 2010
-**ELI:** [/eli/nl/zbo/2007/regeling-solvabiliteitseisen-kredietrisico-en-grote-posities](https://wetten.ai/eli/nl/zbo/2007/regeling-solvabiliteitseisen-kredietrisico-en-grote-posities)
+**ELI:** [/eli/nl/zbo/2007/regeling-solvabiliteitseisen-kredietrisico-en-grote-posities](https://wettenbank.online/eli/nl/zbo/2007/regeling-solvabiliteitseisen-kredietrisico-en-grote-posities)
 
 ## Versies
 
@@ -30,5 +30,4 @@ state_count: 7
 | 2010-12-31 | 2010-12-31 | [2010-12-31.md](./2010-12-31.md) |
 | 2010-10-31 | 2010-12-30 | [2010-10-31.md](./2010-10-31.md) |
 | 2007-12-20 | 2010-10-30 | [2007-12-20.md](./2007-12-20.md) |
-| 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-12-19 | [2007-01-01.md](./2007-01-01.md) |

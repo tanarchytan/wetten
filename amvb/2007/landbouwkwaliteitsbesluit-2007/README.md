@@ -6,7 +6,7 @@ title: Besluit van 19 september 2007, houdende regels inzake de kwaliteit van la
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2023-12-29"
-state_count: 15
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Landbouwkwaliteitsbesluit 2007
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2007/landbouwkwaliteitsbesluit-2007](https://wetten.ai/eli/nl/amvb/2007/landbouwkwaliteitsbesluit-2007)
+**ELI:** [/eli/nl/amvb/2007/landbouwkwaliteitsbesluit-2007](https://wettenbank.online/eli/nl/amvb/2007/landbouwkwaliteitsbesluit-2007)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 15
 | 2023-12-29 | heden | [2023-12-29.md](./2023-12-29.md) |
 | 2023-12-12 | 2023-12-28 | [2023-12-12.md](./2023-12-12.md) |
 | 2022-05-05 | 2023-12-11 | [2022-05-05.md](./2022-05-05.md) |
-| 2022-01-01 | 2022-05-04 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-05-04 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-03-01 | 2021-12-31 | [2021-03-01.md](./2021-03-01.md) |
 | 2016-11-08 | 2021-02-28 | [2016-11-08.md](./2016-11-08.md) |

@@ -6,7 +6,7 @@ title: Besluit van 7 april 1999, houdende regels omtrent het verstrekken van sub
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2010-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Subsidiebesluit raad voor rechtsbijstand
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/1999/subsidiebesluit-raad-voor-rechtsbijstand](https://wetten.ai/eli/nl/amvb/1999/subsidiebesluit-raad-voor-rechtsbijstand)
+**ELI:** [/eli/nl/amvb/1999/subsidiebesluit-raad-voor-rechtsbijstand](https://wettenbank.online/eli/nl/amvb/1999/subsidiebesluit-raad-voor-rechtsbijstand)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2009-07-01 | 2009-08-25 | [2009-07-01.md](./2009-07-01.md) |
 | 2006-04-01 | 2009-06-30 | [2006-04-01.md](./2006-04-01.md) |
 | 2003-09-10 | 2006-03-31 | [2003-09-10.md](./2003-09-10.md) |
-| 2003-01-01 | 2003-09-09 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-09-09 | [2003-01-01.md](./2003-01-01.md) |
 | 1999-04-28 | 2002-12-31 | [1999-04-28.md](./1999-04-28.md) |

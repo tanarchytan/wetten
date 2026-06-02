@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 7 juni 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-10-24"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling codetabellen school- en studiejaar 2018–2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-codetabellen-school-en-studiejaar-2018-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-codetabellen-school-en-studiejaar-2018-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-codetabellen-school-en-studiejaar-2018-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-codetabellen-school-en-studiejaar-2018-2019)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-10-24 | 2019-07-31 | [2018-10-24.md](./2018-10-24.md) |
-| 2018-08-01 | 2018-10-23 | [2018-08-01.md](./2018-08-01.md) |
 | 2018-08-01 | 2018-10-23 | [2018-08-01.md](./2018-08-01.md) |

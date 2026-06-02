@@ -6,7 +6,7 @@ title: Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-08-14"
-state_count: 38
+state_count: 33
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 38
 **Citeertitel:** Regeling vervoer over de binnenwateren van gevaarlijke stoffen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-vervoer-over-de-binnenwateren-van-gevaarlijke-stoff](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-vervoer-over-de-binnenwateren-van-gevaarlijke-stoff)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-vervoer-over-de-binnenwateren-van-gevaarlijke-stoff](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-vervoer-over-de-binnenwateren-van-gevaarlijke-stoff)
 
 ## Versies
 
@@ -47,16 +47,11 @@ state_count: 38
 | 2006-06-15 | 2006-12-31 | [2006-06-15.md](./2006-06-15.md) |
 | 2005-12-03 | 2006-06-14 | [2005-12-03.md](./2005-12-03.md) |
 | 2005-07-01 | 2005-12-02 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-07-01 | 2005-12-02 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-04-08 | 2005-06-30 | [2005-04-08.md](./2005-04-08.md) |
 | 2005-03-19 | 2005-04-07 | [2005-03-19.md](./2005-03-19.md) |
 | 2005-01-01 | 2005-03-18 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-05-28 | 2004-12-31 | [2004-05-28.md](./2004-05-28.md) |
 | 2004-04-30 | 2004-05-27 | [2004-04-30.md](./2004-04-30.md) |
-| 2004-04-30 | 2004-05-27 | [2004-04-30.md](./2004-04-30.md) |
-| 2003-12-31 | 2004-04-29 | [2003-12-31.md](./2003-12-31.md) |
 | 2003-12-31 | 2004-04-29 | [2003-12-31.md](./2003-12-31.md) |
 | 2003-07-30 | 2003-12-30 | [2003-07-30.md](./2003-07-30.md) |
-| 2003-07-30 | 2003-12-30 | [2003-07-30.md](./2003-07-30.md) |
-| 2003-01-22 | 2003-07-29 | [2003-01-22.md](./2003-01-22.md) |
 | 2003-01-22 | 2003-07-29 | [2003-01-22.md](./2003-01-22.md) |

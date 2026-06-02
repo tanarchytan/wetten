@@ -6,7 +6,7 @@ title: Besluit van 27 april 2012, nr. 12.001012, houdende de vaststelling van de
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-06-02"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit vaststelling toelagen voorzitter en leden College van Beroep voor het hoger onderwijs (2012)
 **Type:** kb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/kb/2012/besluit-vaststelling-toelagen-voorzitter-en-leden-college-va](https://wetten.ai/eli/nl/kb/2012/besluit-vaststelling-toelagen-voorzitter-en-leden-college-va)
+**ELI:** [/eli/nl/kb/2012/besluit-vaststelling-toelagen-voorzitter-en-leden-college-va](https://wettenbank.online/eli/nl/kb/2012/besluit-vaststelling-toelagen-voorzitter-en-leden-college-va)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2018-06-02 | 2022-12-31 | [2018-06-02.md](./2018-06-02.md) |
 | 2012-05-28 | 2018-06-01 | [2012-05-28.md](./2012-05-28.md) |
-| 2012-05-28 | 2018-06-01 | [2012-05-28.md](./2012-05-28.md) |
-| 2011-01-01 | 2012-05-27 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2012-05-27 | [2011-01-01.md](./2011-01-01.md) |

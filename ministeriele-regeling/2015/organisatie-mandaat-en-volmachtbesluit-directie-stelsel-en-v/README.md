@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 14 dec
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-12-09"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Stelsel en Volksverzekeringen 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-stelsel-en-v](https://wetten.ai/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-stelsel-en-v)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-stelsel-en-v](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/organisatie-mandaat-en-volmachtbesluit-directie-stelsel-en-v)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 10
 |---|---|---|
 | 2023-12-09 | heden | [2023-12-09.md](./2023-12-09.md) |
 | 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
-| 2023-09-01 | 2023-12-08 | [2023-09-01.md](./2023-09-01.md) |
 | 2020-01-01 | 2023-08-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-09-19 | 2019-12-31 | [2019-09-19.md](./2019-09-19.md) |
-| 2019-09-01 | 2019-09-18 | [2019-09-01.md](./2019-09-01.md) |
 | 2019-09-01 | 2019-09-18 | [2019-09-01.md](./2019-09-01.md) |
 | 2019-01-23 | 2019-08-31 | [2019-01-23.md](./2019-01-23.md) |
 | 2015-12-30 | 2019-01-22 | [2015-12-30.md](./2015-12-30.md) |

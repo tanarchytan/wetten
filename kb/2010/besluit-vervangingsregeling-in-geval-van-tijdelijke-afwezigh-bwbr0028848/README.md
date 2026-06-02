@@ -6,7 +6,7 @@ title: Besluit houdende de vervangingsregeling in geval van tijdelijke afwezighe
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2012-11-05"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit vervangingsregeling in geval van tijdelijke afwezigheid minister
 **Type:** kb
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/kb/2010/besluit-vervangingsregeling-in-geval-van-tijdelijke-afwezigh-bwbr0028848](https://wetten.ai/eli/nl/kb/2010/besluit-vervangingsregeling-in-geval-van-tijdelijke-afwezigh-bwbr0028848)
+**ELI:** [/eli/nl/kb/2010/besluit-vervangingsregeling-in-geval-van-tijdelijke-afwezigh-bwbr0028848](https://wettenbank.online/eli/nl/kb/2010/besluit-vervangingsregeling-in-geval-van-tijdelijke-afwezigh-bwbr0028848)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 9
 | 2012-11-05 | 2012-11-08 | [2012-11-05.md](./2012-11-05.md) |
 | 2011-12-29 | 2012-11-04 | [2011-12-29.md](./2011-12-29.md) |
 | 2011-12-16 | 2011-12-28 | [2011-12-16.md](./2011-12-16.md) |
-| 2011-12-16 | 2011-12-28 | [2011-12-16.md](./2011-12-16.md) |
 | 2010-11-04 | 2011-12-15 | [2010-11-04.md](./2010-11-04.md) |
 | 2010-10-20 | 2010-11-03 | [2010-10-20.md](./2010-10-20.md) |
-| 2010-10-20 | 2010-11-03 | [2010-10-20.md](./2010-10-20.md) |
-| 2010-10-14 | 2010-10-19 | [2010-10-14.md](./2010-10-14.md) |
 | 2010-10-14 | 2010-10-19 | [2010-10-14.md](./2010-10-14.md) |

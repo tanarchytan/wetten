@@ -6,7 +6,7 @@ title: Besluit van 4 juni 2003, houdende vaststelling van retributies krachtens 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2016-10-06"
-state_count: 30
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 30
 **Citeertitel:** Warenwetbesluit retributies levensmiddelen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2003/warenwetbesluit-retributies-levensmiddelen](https://wetten.ai/eli/nl/amvb/2003/warenwetbesluit-retributies-levensmiddelen)
+**ELI:** [/eli/nl/amvb/2003/warenwetbesluit-retributies-levensmiddelen](https://wettenbank.online/eli/nl/amvb/2003/warenwetbesluit-retributies-levensmiddelen)
 
 ## Versies
 
@@ -24,16 +24,9 @@ state_count: 30
 |---|---|---|
 | 2016-10-06 | 2017-12-04 | [2016-10-06.md](./2016-10-06.md) |
 | 2016-05-24 | 2016-10-05 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-24 | 2016-10-05 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-02-19 | 2016-04-30 | [2016-02-19.md](./2016-02-19.md) |
-| 2016-02-19 | 2016-04-30 | [2016-02-19.md](./2016-02-19.md) |
 | 2016-01-01 | 2016-02-18 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-02-18 | [2016-01-01.md](./2016-01-01.md) |
-| 2016-01-01 | 2016-02-18 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |
 | 2014-04-01 | 2015-03-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2013-01-01 | 2014-03-31 | [2013-01-01.md](./2013-01-01.md) |

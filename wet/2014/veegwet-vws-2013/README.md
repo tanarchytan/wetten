@@ -6,7 +6,7 @@ title: Wet van 4 december 2013 tot wijziging van de Algemene Wet Bijzondere Ziek
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2016-08-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Veegwet VWS 2013
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/2014/veegwet-vws-2013](https://wetten.ai/eli/nl/wet/2014/veegwet-vws-2013)
+**ELI:** [/eli/nl/wet/2014/veegwet-vws-2013](https://wettenbank.online/eli/nl/wet/2014/veegwet-vws-2013)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-08-01 | heden | [2016-08-01.md](./2016-08-01.md) |
-| 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-07-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2014-04-01 | 2015-12-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-02-15 | 2014-03-31 | [2014-02-15.md](./2014-02-15.md) |

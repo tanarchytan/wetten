@@ -6,7 +6,7 @@ title: Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 28 a
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2012-02-03"
-state_count: 12
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit mandaat keuringsdiensten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-mandaat-keuringsdiensten](https://wetten.ai/eli/nl/ministeriele-regeling/2007/besluit-mandaat-keuringsdiensten)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/besluit-mandaat-keuringsdiensten](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/besluit-mandaat-keuringsdiensten)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 12
 |---|---|---|
 | 2012-02-03 | 2013-02-28 | [2012-02-03.md](./2012-02-03.md) |
 | 2012-01-01 | 2012-02-02 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-02-02 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-11-26 | 2011-12-31 | [2011-11-26.md](./2011-11-26.md) |
 | 2011-11-26 | 2011-12-31 | [2011-11-26.md](./2011-11-26.md) |
 | 2010-11-20 | 2011-11-25 | [2010-11-20.md](./2010-11-20.md) |
 | 2010-07-01 | 2010-11-19 | [2010-07-01.md](./2010-07-01.md) |

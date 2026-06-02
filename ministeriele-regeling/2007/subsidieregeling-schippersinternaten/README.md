@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2008-11-07"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Subsidieregeling schippersinternaten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/subsidieregeling-schippersinternaten](https://wetten.ai/eli/nl/ministeriele-regeling/2007/subsidieregeling-schippersinternaten)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/subsidieregeling-schippersinternaten](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/subsidieregeling-schippersinternaten)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2008-11-07 | 2009-12-29 | [2008-11-07.md](./2008-11-07.md) |
 | 2008-01-01 | 2008-11-06 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-11-06 | [2008-01-01.md](./2008-01-01.md) |
-| 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |

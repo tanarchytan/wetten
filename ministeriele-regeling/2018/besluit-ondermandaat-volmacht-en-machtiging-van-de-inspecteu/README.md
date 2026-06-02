@@ -6,7 +6,7 @@ title: Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenau
 ministry: Landbouw, Natuur en Voedselkwaliteit
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van het Ministerie van Landbouw, Natuur en Voedselkwaliteit
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Landbouw, Natuur en Voedselkwaliteit
-**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-ondermandaat-volmacht-en-machtiging-van-de-inspecteu](https://wetten.ai/eli/nl/ministeriele-regeling/2018/besluit-ondermandaat-volmacht-en-machtiging-van-de-inspecteu)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-ondermandaat-volmacht-en-machtiging-van-de-inspecteu](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/besluit-ondermandaat-volmacht-en-machtiging-van-de-inspecteu)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2019-01-01 | 2019-01-22 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-31 | 2018-12-31 | [2018-07-31.md](./2018-07-31.md) |
-| 2018-07-16 | 2018-07-30 | [2018-07-16.md](./2018-07-16.md) |
 | 2018-07-16 | 2018-07-30 | [2018-07-16.md](./2018-07-16.md) |
 | 2018-03-28 | 2018-07-15 | [2018-03-28.md](./2018-03-28.md) |
 | 2017-10-26 | 2018-03-27 | [2017-10-26.md](./2017-10-26.md) |

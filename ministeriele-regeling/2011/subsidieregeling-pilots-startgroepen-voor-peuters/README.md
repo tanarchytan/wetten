@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 juni 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-04-08"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Subsidieregeling pilots startgroepen voor peuters
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/subsidieregeling-pilots-startgroepen-voor-peuters](https://wetten.ai/eli/nl/ministeriele-regeling/2011/subsidieregeling-pilots-startgroepen-voor-peuters)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/subsidieregeling-pilots-startgroepen-voor-peuters](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/subsidieregeling-pilots-startgroepen-voor-peuters)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2015-04-08 | 2018-07-31 | [2015-04-08.md](./2015-04-08.md) |
 | 2011-12-23 | 2015-04-07 | [2011-12-23.md](./2011-12-23.md) |
-| 2011-06-11 | 2011-12-22 | [2011-06-11.md](./2011-06-11.md) |
 | 2011-06-11 | 2011-12-22 | [2011-06-11.md](./2011-06-11.md) |

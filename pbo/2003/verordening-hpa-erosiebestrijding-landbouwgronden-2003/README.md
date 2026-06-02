@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 houdend
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2006-05-28"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening HPA erosiebestrijding landbouwgronden 2003
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2003/verordening-hpa-erosiebestrijding-landbouwgronden-2003](https://wetten.ai/eli/nl/pbo/2003/verordening-hpa-erosiebestrijding-landbouwgronden-2003)
+**ELI:** [/eli/nl/pbo/2003/verordening-hpa-erosiebestrijding-landbouwgronden-2003](https://wettenbank.online/eli/nl/pbo/2003/verordening-hpa-erosiebestrijding-landbouwgronden-2003)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-05-28 | 2014-12-31 | [2006-05-28.md](./2006-05-28.md) |
-| 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-07-01 | 2005-12-31 | [2003-07-01.md](./2003-07-01.md) |

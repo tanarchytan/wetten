@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 19 oktob
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregel bestuursrechtelijke handhaving Wet minimumloon en minimumvakantiebijslag 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2018/beleidsregel-bestuursrechtelijke-handhaving-wet-minimumloon-](https://wetten.ai/eli/nl/ministeriele-regeling/2018/beleidsregel-bestuursrechtelijke-handhaving-wet-minimumloon-)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/beleidsregel-bestuursrechtelijke-handhaving-wet-minimumloon-](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/beleidsregel-bestuursrechtelijke-handhaving-wet-minimumloon-)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2022-01-01 | 2024-09-06 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-06-12 | 2021-12-31 | [2021-06-12.md](./2021-06-12.md) |
 | 2018-11-24 | 2021-06-11 | [2018-11-24.md](./2018-11-24.md) |
-| 2018-11-06 | 2018-11-23 | [2018-11-06.md](./2018-11-06.md) |
 | 2018-11-06 | 2018-11-23 | [2018-11-06.md](./2018-11-06.md) |

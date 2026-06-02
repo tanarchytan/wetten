@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling loonkostensubsidie ondersteunend personeel basisscholen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-loonkostensubsidie-ondersteunend-personeel-basissch](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-loonkostensubsidie-ondersteunend-personeel-basissch)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-loonkostensubsidie-ondersteunend-personeel-basissch](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-loonkostensubsidie-ondersteunend-personeel-basissch)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 10
 | 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-10-08 | 2014-12-31 | [2013-10-08.md](./2013-10-08.md) |
 | 2012-11-01 | 2013-10-07 | [2012-11-01.md](./2012-11-01.md) |
-| 2012-08-01 | 2012-10-31 | [2012-08-01.md](./2012-08-01.md) |
 | 2012-08-01 | 2012-10-31 | [2012-08-01.md](./2012-08-01.md) |
 | 2012-07-31 | 2012-07-31 | [2012-07-31.md](./2012-07-31.md) |
 | 2012-01-01 | 2012-07-30 | [2012-01-01.md](./2012-01-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 19 juni 2013 inzake tijdelijke regels voor experimenten met stemb
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2022-10-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Tijdelijke experimentenwet stembiljetten en centrale stemopneming
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/2013/tijdelijke-experimentenwet-stembiljetten-en-centrale-stemopn](https://wetten.ai/eli/nl/wet/2013/tijdelijke-experimentenwet-stembiljetten-en-centrale-stemopn)
+**ELI:** [/eli/nl/wet/2013/tijdelijke-experimentenwet-stembiljetten-en-centrale-stemopn](https://wettenbank.online/eli/nl/wet/2013/tijdelijke-experimentenwet-stembiljetten-en-centrale-stemopn)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 11
 | 2021-12-08 | 2022-09-30 | [2021-12-08.md](./2021-12-08.md) |
 | 2019-02-22 | 2021-12-07 | [2019-02-22.md](./2019-02-22.md) |
 | 2018-07-12 | 2019-02-21 | [2018-07-12.md](./2018-07-12.md) |
-| 2018-07-10 | 2018-07-11 | [2018-07-10.md](./2018-07-10.md) |
 | 2018-07-10 | 2018-07-11 | [2018-07-10.md](./2018-07-10.md) |
 | 2017-07-01 | 2018-07-09 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-04-01 | 2017-06-30 | [2017-04-01.md](./2017-04-01.md) |

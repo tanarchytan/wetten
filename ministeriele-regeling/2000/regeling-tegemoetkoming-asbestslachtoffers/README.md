@@ -6,7 +6,7 @@ title: Regeling tot verlening van een eenmalige uitkering ter tegemoetkoming in 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rtas
 latest_state: "2014-01-01"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rtas
-**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-tegemoetkoming-asbestslachtoffers](https://wetten.ai/eli/nl/ministeriele-regeling/2000/regeling-tegemoetkoming-asbestslachtoffers)
+**ELI:** [/eli/nl/ministeriele-regeling/2000/regeling-tegemoetkoming-asbestslachtoffers](https://wettenbank.online/eli/nl/ministeriele-regeling/2000/regeling-tegemoetkoming-asbestslachtoffers)
 
 ## Versies
 
@@ -37,6 +37,5 @@ state_count: 17
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-01-01 | 2005-12-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2003-07-16 | 2004-12-31 | [2003-07-16.md](./2003-07-16.md) |
-| 2003-07-01 | 2003-07-15 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-07-15 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-01-01 | 2003-06-30 | [2003-01-01.md](./2003-01-01.md) |

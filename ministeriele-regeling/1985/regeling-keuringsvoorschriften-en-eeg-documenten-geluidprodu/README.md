@@ -6,7 +6,7 @@ title: Regeling keuringsvoorschriften en EEG-documenten geluidproduktie motorvoe
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2009-06-19"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Regeling keuringsvoorschriften en EEG-documenten geluidproduktie motorvoertuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1985/regeling-keuringsvoorschriften-en-eeg-documenten-geluidprodu](https://wetten.ai/eli/nl/ministeriele-regeling/1985/regeling-keuringsvoorschriften-en-eeg-documenten-geluidprodu)
+**ELI:** [/eli/nl/ministeriele-regeling/1985/regeling-keuringsvoorschriften-en-eeg-documenten-geluidprodu](https://wettenbank.online/eli/nl/ministeriele-regeling/1985/regeling-keuringsvoorschriften-en-eeg-documenten-geluidprodu)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-06-19 | 2015-12-31 | [2009-06-19.md](./2009-06-19.md) |
-| 2009-04-29 | 2009-06-18 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-04-29 | 2009-06-18 | [2009-04-29.md](./2009-04-29.md) |
 | 2008-07-01 | 2009-04-28 | [2008-07-01.md](./2008-07-01.md) |
 | 2004-04-17 | 2008-06-30 | [2004-04-17.md](./2004-04-17.md) |

@@ -6,7 +6,7 @@ title: Wet van 17 mei 2010 tot aanpassing van wetten in verband met de nieuwe st
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: ABES
 latest_state: "2020-08-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** ABES
-**ELI:** [/eli/nl/wet-bes/2010/aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-s](https://wetten.ai/eli/nl/wet-bes/2010/aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-s)
+**ELI:** [/eli/nl/wet-bes/2010/aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-s](https://wettenbank.online/eli/nl/wet-bes/2010/aanpassingswet-openbare-lichamen-bonaire-sint-eustatius-en-s)
 
 ## Versies
 
@@ -30,6 +30,5 @@ state_count: 10
 | 2011-08-01 | 2011-12-31 | [2011-08-01.md](./2011-08-01.md) |
 | 2011-02-17 | 2011-07-31 | [2011-02-17.md](./2011-02-17.md) |
 | 2011-01-01 | 2011-02-16 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-11 | 2010-12-31 | [2010-10-11.md](./2010-10-11.md) |
 | 2010-10-10 | 2010-10-10 | [2010-10-10.md](./2010-10-10.md) |

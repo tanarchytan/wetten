@@ -6,7 +6,7 @@ title: Wet van 2 februari 1955, houdende nieuwe regeling van de organisatie en p
 ministry: Veiligheid en Justitie
 abbreviation: Berw
 latest_state: "2023-11-16"
-state_count: 42
+state_count: 39
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 42
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Berw
-**ELI:** [/eli/nl/wet/1957/beroepswet](https://wetten.ai/eli/nl/wet/1957/beroepswet)
+**ELI:** [/eli/nl/wet/1957/beroepswet](https://wettenbank.online/eli/nl/wet/1957/beroepswet)
 
 ## Versies
 
@@ -46,10 +46,7 @@ state_count: 42
 | 2007-02-01 | 2007-12-31 | [2007-02-01.md](./2007-02-01.md) |
 | 2007-01-01 | 2007-01-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-13 | 2006-12-31 | [2006-12-13.md](./2006-12-13.md) |
-| 2006-12-13 | 2006-12-31 | [2006-12-13.md](./2006-12-13.md) |
 | 2006-02-01 | 2006-12-12 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-02-01 | 2006-12-12 | [2006-02-01.md](./2006-02-01.md) |
-| 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |
 | 2005-09-28 | 2005-12-28 | [2005-09-28.md](./2005-09-28.md) |

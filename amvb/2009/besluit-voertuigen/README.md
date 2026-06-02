@@ -6,7 +6,7 @@ title: Besluit van 21 februari 2009, houdende de vaststelling van nationale verk
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-01-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit voertuigen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2009/besluit-voertuigen](https://wetten.ai/eli/nl/amvb/2009/besluit-voertuigen)
+**ELI:** [/eli/nl/amvb/2009/besluit-voertuigen](https://wettenbank.online/eli/nl/amvb/2009/besluit-voertuigen)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 13
 | 2021-01-01 | 2021-06-30 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-12-01 | 2020-12-31 | [2020-12-01.md](./2020-12-01.md) |
 | 2020-09-04 | 2020-11-30 | [2020-09-04.md](./2020-09-04.md) |
-| 2020-03-16 | 2020-09-03 | [2020-03-16.md](./2020-03-16.md) |
 | 2020-03-16 | 2020-09-03 | [2020-03-16.md](./2020-03-16.md) |
 | 2018-10-01 | 2020-03-15 | [2018-10-01.md](./2018-10-01.md) |
 | 2018-07-01 | 2018-09-30 | [2018-07-01.md](./2018-07-01.md) |

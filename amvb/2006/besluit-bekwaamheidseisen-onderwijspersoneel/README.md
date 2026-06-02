@@ -6,7 +6,7 @@ title: Besluit van 23 augustus 2005, houdende vaststelling van bekwaamheidseisen
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 13
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit bekwaamheidseisen onderwijspersoneel
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2006/besluit-bekwaamheidseisen-onderwijspersoneel](https://wetten.ai/eli/nl/amvb/2006/besluit-bekwaamheidseisen-onderwijspersoneel)
+**ELI:** [/eli/nl/amvb/2006/besluit-bekwaamheidseisen-onderwijspersoneel](https://wettenbank.online/eli/nl/amvb/2006/besluit-bekwaamheidseisen-onderwijspersoneel)
 
 ## Versies
 
@@ -28,10 +28,7 @@ state_count: 13
 | 2017-08-01 | 2018-07-31 | [2017-08-01.md](./2017-08-01.md) |
 | 2017-03-29 | 2017-07-31 | [2017-03-29.md](./2017-03-29.md) |
 | 2016-08-01 | 2017-03-28 | [2016-08-01.md](./2016-08-01.md) |
-| 2016-08-01 | 2017-03-28 | [2016-08-01.md](./2016-08-01.md) |
 | 2013-12-19 | 2016-07-31 | [2013-12-19.md](./2013-12-19.md) |
 | 2013-08-01 | 2013-12-18 | [2013-08-01.md](./2013-08-01.md) |
-| 2013-08-01 | 2013-12-18 | [2013-08-01.md](./2013-08-01.md) |
 | 2012-08-01 | 2013-07-31 | [2012-08-01.md](./2012-08-01.md) |
-| 2006-08-01 | 2012-07-31 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2012-07-31 | [2006-08-01.md](./2006-08-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 25 oktober 1994, houdende vaststelling van regels ten aanzien
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-04-01"
-state_count: 15
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Besluit rangen politie
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1994/besluit-rangen-politie](https://wetten.ai/eli/nl/amvb/1994/besluit-rangen-politie)
+**ELI:** [/eli/nl/amvb/1994/besluit-rangen-politie](https://wettenbank.online/eli/nl/amvb/1994/besluit-rangen-politie)
 
 ## Versies
 
@@ -28,11 +28,9 @@ state_count: 15
 | 2018-07-01 | 2019-12-31 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-06-23 | 2018-06-30 | [2017-06-23.md](./2017-06-23.md) |
 | 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-12-05 | 2016-12-31 | [2013-12-05.md](./2013-12-05.md) |
 | 2013-01-01 | 2013-12-04 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-03-17 | 2012-12-31 | [2011-03-17.md](./2011-03-17.md) |
-| 2010-03-02 | 2011-03-16 | [2010-03-02.md](./2010-03-02.md) |
 | 2010-03-02 | 2011-03-16 | [2010-03-02.md](./2010-03-02.md) |
 | 2006-02-22 | 2010-03-01 | [2006-02-22.md](./2006-02-22.md) |
 | 2003-09-12 | 2006-02-21 | [2003-09-12.md](./2003-09-12.md) |

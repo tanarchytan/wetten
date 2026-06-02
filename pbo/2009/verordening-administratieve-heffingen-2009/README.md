@@ -6,7 +6,7 @@ title: Verordening van het Productschap Margarine, Vetten en Oliën van 27 novem
 ministry: Productschap voor Margarine, Vetten en Oliën
 abbreviation: null
 latest_state: "2014-08-23"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Verordening administratieve heffingen 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap voor Margarine, Vetten en Oliën
-**ELI:** [/eli/nl/pbo/2009/verordening-administratieve-heffingen-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-administratieve-heffingen-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-administratieve-heffingen-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-administratieve-heffingen-2009)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2014-08-23 | 2019-10-18 | [2014-08-23.md](./2014-08-23.md) |
 | 2014-01-01 | 2014-08-22 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-08-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2010-02-21 | 2013-12-31 | [2010-02-21.md](./2010-02-21.md) |
-| 2010-01-02 | 2010-02-20 | [2010-01-02.md](./2010-01-02.md) |
 | 2010-01-02 | 2010-02-20 | [2010-01-02.md](./2010-01-02.md) |
 | 2009-01-01 | 2010-01-01 | [2009-01-01.md](./2009-01-01.md) |

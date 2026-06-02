@@ -6,7 +6,7 @@ title: Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Belastingplan 2011
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2010/belastingplan-2011](https://wetten.ai/eli/nl/wet/2010/belastingplan-2011)
+**ELI:** [/eli/nl/wet/2010/belastingplan-2011](https://wettenbank.online/eli/nl/wet/2010/belastingplan-2011)
 
 ## Versies
 
@@ -30,6 +30,4 @@ state_count: 11
 | 2011-03-01 | 2011-12-31 | [2011-03-01.md](./2011-03-01.md) |
 | 2011-01-01 | 2011-02-28 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-12-31 | 2010-12-31 | [2010-12-31.md](./2010-12-31.md) |
-| 2010-12-31 | 2010-12-31 | [2010-12-31.md](./2010-12-31.md) |
-| 2010-10-01 | 2010-12-30 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2010-12-30 | [2010-10-01.md](./2010-10-01.md) |

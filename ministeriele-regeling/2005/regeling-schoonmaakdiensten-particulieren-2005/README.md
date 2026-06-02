@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, va
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2006-12-30"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling schoonmaakdiensten particulieren 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-schoonmaakdiensten-particulieren-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-schoonmaakdiensten-particulieren-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-schoonmaakdiensten-particulieren-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-schoonmaakdiensten-particulieren-2005)
 
 ## Versies
 
@@ -25,8 +25,5 @@ state_count: 8
 | 2006-12-30 | 2006-12-31 | [2006-12-30.md](./2006-12-30.md) |
 | 2006-01-01 | 2006-12-29 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-09-14 | 2005-12-31 | [2005-09-14.md](./2005-09-14.md) |
-| 2005-09-14 | 2005-12-31 | [2005-09-14.md](./2005-09-14.md) |
 | 2005-07-15 | 2005-09-13 | [2005-07-15.md](./2005-07-15.md) |
-| 2005-07-15 | 2005-09-13 | [2005-07-15.md](./2005-07-15.md) |
-| 2005-07-01 | 2005-07-14 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-07-14 | [2005-07-01.md](./2005-07-01.md) |

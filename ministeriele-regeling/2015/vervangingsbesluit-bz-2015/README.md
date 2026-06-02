@@ -6,7 +6,7 @@ title: Regeling van de Minister van Buitenlandse Zaken van 11 februari 2015, nr
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2020-06-16"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Vervangingsbesluit BZ 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/vervangingsbesluit-bz-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/vervangingsbesluit-bz-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/vervangingsbesluit-bz-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/vervangingsbesluit-bz-2015)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2020-06-16 | heden | [2020-06-16.md](./2020-06-16.md) |
 | 2017-10-24 | 2020-06-15 | [2017-10-24.md](./2017-10-24.md) |
 | 2015-05-08 | 2017-10-23 | [2015-05-08.md](./2015-05-08.md) |
-| 2015-02-25 | 2015-05-07 | [2015-02-25.md](./2015-02-25.md) |
 | 2015-02-25 | 2015-05-07 | [2015-02-25.md](./2015-02-25.md) |

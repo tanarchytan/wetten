@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 okto
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-07-06"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling bekostiging WPO BES 2024
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-bekostiging-wpo-bes-2024](https://wetten.ai/eli/nl/ministeriele-regeling/2023/regeling-bekostiging-wpo-bes-2024)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/regeling-bekostiging-wpo-bes-2024](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/regeling-bekostiging-wpo-bes-2024)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-07-06 | heden | [2024-07-06.md](./2024-07-06.md) |
-| 2024-01-01 | 2024-07-05 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-07-05 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-10-28 | 2023-12-31 | [2023-10-28.md](./2023-10-28.md) |

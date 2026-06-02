@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: Mor
 latest_state: "2023-07-01"
-state_count: 36
+state_count: 32
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 36
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Mor
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-omgevingsrecht](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-omgevingsrecht)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-omgevingsrecht](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-omgevingsrecht)
 
 ## Versies
 
@@ -31,15 +31,11 @@ state_count: 36
 | 2019-07-01 | 2020-06-30 | [2019-07-01.md](./2019-07-01.md) |
 | 2019-01-01 | 2019-06-30 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-11-30 | 2018-12-31 | [2018-11-30.md](./2018-11-30.md) |
-| 2018-11-30 | 2018-12-31 | [2018-11-30.md](./2018-11-30.md) |
-| 2018-05-25 | 2018-11-29 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-11-29 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-10-01 | 2018-05-24 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-07-01 | 2017-09-30 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-01-01 | 2017-06-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
-| 2016-07-01 | 2016-12-31 | [2016-07-01.md](./2016-07-01.md) |
-| 2016-04-14 | 2016-06-30 | [2016-04-14.md](./2016-04-14.md) |
 | 2016-04-14 | 2016-06-30 | [2016-04-14.md](./2016-04-14.md) |
 | 2016-03-04 | 2016-04-13 | [2016-03-04.md](./2016-03-04.md) |
 | 2016-01-01 | 2016-03-03 | [2016-01-01.md](./2016-01-01.md) |

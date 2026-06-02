@@ -6,7 +6,7 @@ title: Besluit van 22 december 2005 tot vaststelling van een algemene maatregel 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Bt AOW
 latest_state: "2011-01-12"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 8
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Bt AOW
-**ELI:** [/eli/nl/amvb/2006/besluit-tegemoetkoming-aow-ers](https://wetten.ai/eli/nl/amvb/2006/besluit-tegemoetkoming-aow-ers)
+**ELI:** [/eli/nl/amvb/2006/besluit-tegemoetkoming-aow-ers](https://wettenbank.online/eli/nl/amvb/2006/besluit-tegemoetkoming-aow-ers)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-12 | 2011-05-31 | [2011-01-12.md](./2011-01-12.md) |
-| 2011-01-01 | 2011-01-11 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-01-11 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |

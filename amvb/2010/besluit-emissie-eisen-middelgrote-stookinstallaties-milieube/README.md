@@ -6,7 +6,7 @@ title: Besluit van 7 december 2009, houdende nieuwe regels voor de emissie van m
 ministry: Infrastructuur en Milieu
 abbreviation: Bems
 latest_state: "2012-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 6
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Bems
-**ELI:** [/eli/nl/amvb/2010/besluit-emissie-eisen-middelgrote-stookinstallaties-milieube](https://wetten.ai/eli/nl/amvb/2010/besluit-emissie-eisen-middelgrote-stookinstallaties-milieube)
+**ELI:** [/eli/nl/amvb/2010/besluit-emissie-eisen-middelgrote-stookinstallaties-milieube](https://wettenbank.online/eli/nl/amvb/2010/besluit-emissie-eisen-middelgrote-stookinstallaties-milieube)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 6
 |---|---|---|
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-04-28 | 2011-12-31 | [2011-04-28.md](./2011-04-28.md) |
-| 2011-04-01 | 2011-04-27 | [2011-04-01.md](./2011-04-01.md) |
 | 2011-04-01 | 2011-04-27 | [2011-04-01.md](./2011-04-01.md) |
 | 2010-10-01 | 2011-03-31 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-04-01 | 2010-09-30 | [2010-04-01.md](./2010-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-03-20"
-state_count: 45
+state_count: 34
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 45
 **Citeertitel:** Subsidieregeling emissieverminderende voorzieningen voor voertuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-emissieverminderende-voorzieningen-voor-voe](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-emissieverminderende-voorzieningen-voor-voe)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-emissieverminderende-voorzieningen-voor-voe](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-emissieverminderende-voorzieningen-voor-voe)
 
 ## Versies
 
@@ -32,19 +32,12 @@ state_count: 45
 | 2011-01-01 | 2011-01-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-06-04 | 2010-12-31 | [2010-06-04.md](./2010-06-04.md) |
 | 2010-02-09 | 2010-06-03 | [2010-02-09.md](./2010-02-09.md) |
-| 2010-02-09 | 2010-06-03 | [2010-02-09.md](./2010-02-09.md) |
 | 2010-01-01 | 2010-02-08 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-02-08 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-02-08 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
-| 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-11-12 | 2009-12-30 | [2009-11-12.md](./2009-11-12.md) |
 | 2009-10-01 | 2009-11-11 | [2009-10-01.md](./2009-10-01.md) |
-| 2009-10-01 | 2009-11-11 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-07-18 | 2009-09-30 | [2009-07-18.md](./2009-07-18.md) |
 | 2009-06-19 | 2009-07-17 | [2009-06-19.md](./2009-06-19.md) |
-| 2009-04-29 | 2009-06-18 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-04-29 | 2009-06-18 | [2009-04-29.md](./2009-04-29.md) |
 | 2009-03-14 | 2009-04-28 | [2009-03-14.md](./2009-03-14.md) |
 | 2009-01-03 | 2009-03-13 | [2009-01-03.md](./2009-01-03.md) |
@@ -52,11 +45,7 @@ state_count: 45
 | 2008-09-06 | 2008-12-31 | [2008-09-06.md](./2008-09-06.md) |
 | 2008-06-27 | 2008-09-05 | [2008-06-27.md](./2008-06-27.md) |
 | 2008-05-01 | 2008-06-26 | [2008-05-01.md](./2008-05-01.md) |
-| 2008-05-01 | 2008-06-26 | [2008-05-01.md](./2008-05-01.md) |
 | 2008-04-01 | 2008-04-30 | [2008-04-01.md](./2008-04-01.md) |
-| 2008-04-01 | 2008-04-30 | [2008-04-01.md](./2008-04-01.md) |
-| 2008-04-01 | 2008-04-30 | [2008-04-01.md](./2008-04-01.md) |
-| 2008-03-14 | 2008-03-31 | [2008-03-14.md](./2008-03-14.md) |
 | 2008-03-14 | 2008-03-31 | [2008-03-14.md](./2008-03-14.md) |
 | 2008-01-01 | 2008-03-13 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-01 | 2007-12-31 | [2007-12-01.md](./2007-12-01.md) |

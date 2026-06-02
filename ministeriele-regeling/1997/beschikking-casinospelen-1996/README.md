@@ -6,7 +6,7 @@ title: Beschikking Casinospelen 1996
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2017-12-01"
-state_count: 20
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Beschikking casinospelen 1996
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1997/beschikking-casinospelen-1996](https://wetten.ai/eli/nl/ministeriele-regeling/1997/beschikking-casinospelen-1996)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/beschikking-casinospelen-1996](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/beschikking-casinospelen-1996)
 
 ## Versies
 
@@ -37,7 +37,6 @@ state_count: 20
 | 2007-04-30 | 2008-04-27 | [2007-04-30.md](./2007-04-30.md) |
 | 2006-04-01 | 2007-04-29 | [2006-04-01.md](./2006-04-01.md) |
 | 2005-07-16 | 2006-03-31 | [2005-07-16.md](./2005-07-16.md) |
-| 2005-07-01 | 2005-07-15 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-07-15 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-01-20 | 2005-06-30 | [2005-01-20.md](./2005-01-20.md) |
 | 2003-05-29 | 2005-01-19 | [2003-05-29.md](./2003-05-29.md) |

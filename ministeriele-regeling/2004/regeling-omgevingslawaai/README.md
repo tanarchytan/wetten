@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: Rol
 latest_state: "2010-11-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 4
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Rol
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-omgevingslawaai](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-omgevingslawaai)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-omgevingslawaai](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-omgevingslawaai)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 4
 |---|---|---|
 | 2010-11-01 | 2012-06-30 | [2010-11-01.md](./2010-11-01.md) |
 | 2004-09-23 | 2010-10-31 | [2004-09-23.md](./2004-09-23.md) |
-| 2004-07-18 | 2004-09-22 | [2004-07-18.md](./2004-07-18.md) |
 | 2004-07-18 | 2004-09-22 | [2004-07-18.md](./2004-07-18.md) |

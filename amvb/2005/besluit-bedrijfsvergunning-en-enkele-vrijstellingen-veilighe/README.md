@@ -6,7 +6,7 @@ title: Besluit van 3 december 2004, houdende nadere regels over de bedrijfsvergu
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-06-16"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Besluit bedrijfsvergunning en enkele vrijstellingen veiligheidscertificaat hoofdspoorwegen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2005/besluit-bedrijfsvergunning-en-enkele-vrijstellingen-veilighe](https://wetten.ai/eli/nl/amvb/2005/besluit-bedrijfsvergunning-en-enkele-vrijstellingen-veilighe)
+**ELI:** [/eli/nl/amvb/2005/besluit-bedrijfsvergunning-en-enkele-vrijstellingen-veilighe](https://wettenbank.online/eli/nl/amvb/2005/besluit-bedrijfsvergunning-en-enkele-vrijstellingen-veilighe)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 13
 | 2019-06-16 | heden | [2019-06-16.md](./2019-06-16.md) |
 | 2016-07-01 | 2019-06-15 | [2016-07-01.md](./2016-07-01.md) |
 | 2016-05-24 | 2016-06-30 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2015-12-15 | 2016-04-30 | [2015-12-15.md](./2015-12-15.md) |
 | 2013-01-01 | 2015-12-14 | [2013-01-01.md](./2013-01-01.md) |

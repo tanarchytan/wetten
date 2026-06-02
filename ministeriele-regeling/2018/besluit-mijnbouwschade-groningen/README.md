@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken en Klimaat, in overeenstemm
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2020-07-01"
-state_count: 12
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit mijnbouwschade Groningen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-mijnbouwschade-groningen](https://wetten.ai/eli/nl/ministeriele-regeling/2018/besluit-mijnbouwschade-groningen)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-mijnbouwschade-groningen](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/besluit-mijnbouwschade-groningen)
 
 ## Versies
 
@@ -25,11 +25,8 @@ state_count: 12
 | 2020-07-01 | 2020-07-03 | [2020-07-01.md](./2020-07-01.md) |
 | 2019-07-05 | 2020-06-30 | [2019-07-05.md](./2019-07-05.md) |
 | 2019-07-03 | 2019-07-04 | [2019-07-03.md](./2019-07-03.md) |
-| 2019-07-03 | 2019-07-04 | [2019-07-03.md](./2019-07-03.md) |
 | 2019-04-16 | 2019-07-02 | [2019-04-16.md](./2019-04-16.md) |
 | 2018-12-07 | 2019-04-15 | [2018-12-07.md](./2018-12-07.md) |
-| 2018-12-07 | 2019-04-15 | [2018-12-07.md](./2018-12-07.md) |
-| 2018-11-01 | 2018-12-06 | [2018-11-01.md](./2018-11-01.md) |
 | 2018-11-01 | 2018-12-06 | [2018-11-01.md](./2018-11-01.md) |
 | 2018-04-06 | 2018-10-31 | [2018-04-06.md](./2018-04-06.md) |
 | 2018-03-19 | 2018-04-05 | [2018-03-19.md](./2018-03-19.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-07-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling meldingsformulier batterijen en accu’s
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-meldingsformulier-batterijen-en-accu-s](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-meldingsformulier-batterijen-en-accu-s)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-meldingsformulier-batterijen-en-accu-s](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-meldingsformulier-batterijen-en-accu-s)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-07-01 | heden | [2023-07-01.md](./2023-07-01.md) |
-| 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-06-30 | [2023-01-01.md](./2023-01-01.md) |
 | 2008-09-24 | 2022-12-31 | [2008-09-24.md](./2008-09-24.md) |

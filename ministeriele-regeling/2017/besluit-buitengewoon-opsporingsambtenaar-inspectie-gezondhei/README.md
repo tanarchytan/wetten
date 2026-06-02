@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Veiligheid en Justitie van 27 septemb
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2018-08-02"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit buitengewoon opsporingsambtenaar Inspectie gezondheidszorg en jeugd
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-buitengewoon-opsporingsambtenaar-inspectie-gezondhei](https://wetten.ai/eli/nl/ministeriele-regeling/2017/besluit-buitengewoon-opsporingsambtenaar-inspectie-gezondhei)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-buitengewoon-opsporingsambtenaar-inspectie-gezondhei](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/besluit-buitengewoon-opsporingsambtenaar-inspectie-gezondhei)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2018-08-02 | heden | [2018-08-02.md](./2018-08-02.md) |
 | 2018-08-01 | 2018-08-01 | [2018-08-01.md](./2018-08-01.md) |
 | 2017-10-24 | 2018-07-31 | [2017-10-24.md](./2017-10-24.md) |
-| 2017-10-01 | 2017-10-23 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-10-01 | 2017-10-23 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-09-30 | 2017-09-30 | [2017-09-30.md](./2017-09-30.md) |

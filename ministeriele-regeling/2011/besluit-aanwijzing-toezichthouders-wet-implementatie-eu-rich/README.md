@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2023-05-31"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Besluit aanwijzing toezichthouders Wet implementatie EU-richtlijnen energie-efficiëntie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/besluit-aanwijzing-toezichthouders-wet-implementatie-eu-rich](https://wetten.ai/eli/nl/ministeriele-regeling/2011/besluit-aanwijzing-toezichthouders-wet-implementatie-eu-rich)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/besluit-aanwijzing-toezichthouders-wet-implementatie-eu-rich](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/besluit-aanwijzing-toezichthouders-wet-implementatie-eu-rich)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-05-31 | heden | [2023-05-31.md](./2023-05-31.md) |
-| 2023-04-19 | 2023-05-30 | [2023-04-19.md](./2023-04-19.md) |
 | 2023-04-19 | 2023-05-30 | [2023-04-19.md](./2023-04-19.md) |
 | 2013-07-01 | 2023-04-18 | [2013-07-01.md](./2013-07-01.md) |
 | 2012-07-18 | 2013-06-30 | [2012-07-18.md](./2012-07-18.md) |

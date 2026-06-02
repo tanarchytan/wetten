@@ -6,7 +6,7 @@ title: Besluit van 13 november 1995, houdende regelen inzake de registratie van 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Reg besl  BIG
 latest_state: "2022-08-27"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 21
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Reg besl  BIG
-**ELI:** [/eli/nl/amvb/1995/registratiebesluit-big](https://wetten.ai/eli/nl/amvb/1995/registratiebesluit-big)
+**ELI:** [/eli/nl/amvb/1995/registratiebesluit-big](https://wettenbank.online/eli/nl/amvb/1995/registratiebesluit-big)
 
 ## Versies
 
@@ -35,7 +35,6 @@ state_count: 21
 | 2017-01-01 | 2017-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-10-06 | 2016-12-31 | [2016-10-06.md](./2016-10-06.md) |
 | 2015-09-18 | 2016-10-05 | [2015-09-18.md](./2015-09-18.md) |
-| 2015-09-01 | 2015-09-17 | [2015-09-01.md](./2015-09-01.md) |
 | 2015-09-01 | 2015-09-17 | [2015-09-01.md](./2015-09-01.md) |
 | 2013-03-08 | 2015-08-31 | [2013-03-08.md](./2013-03-08.md) |
 | 2012-07-01 | 2013-03-07 | [2012-07-01.md](./2012-07-01.md) |

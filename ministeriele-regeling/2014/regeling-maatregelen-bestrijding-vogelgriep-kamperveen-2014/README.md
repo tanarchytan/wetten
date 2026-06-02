@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Economische Zaken van 23 november 2
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-12-15"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling maatregelen bestrijding vogelgriep Kamperveen 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-maatregelen-bestrijding-vogelgriep-kamperveen-2014](https://wetten.ai/eli/nl/ministeriele-regeling/2014/regeling-maatregelen-bestrijding-vogelgriep-kamperveen-2014)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/regeling-maatregelen-bestrijding-vogelgriep-kamperveen-2014](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/regeling-maatregelen-bestrijding-vogelgriep-kamperveen-2014)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2014-12-04 | 2014-12-04 | [2014-12-04.md](./2014-12-04.md) |
 | 2014-11-25 | 2014-12-03 | [2014-11-25.md](./2014-11-25.md) |
 | 2014-11-24 | 2014-11-24 | [2014-11-24.md](./2014-11-24.md) |
-| 2014-11-23 | 2014-11-23 | [2014-11-23.md](./2014-11-23.md) |
 | 2014-11-23 | 2014-11-23 | [2014-11-23.md](./2014-11-23.md) |

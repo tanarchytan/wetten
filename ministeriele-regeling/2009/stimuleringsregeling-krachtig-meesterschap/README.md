@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-07-21"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Stimuleringsregeling Krachtig meesterschap
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/stimuleringsregeling-krachtig-meesterschap](https://wetten.ai/eli/nl/ministeriele-regeling/2009/stimuleringsregeling-krachtig-meesterschap)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/stimuleringsregeling-krachtig-meesterschap](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/stimuleringsregeling-krachtig-meesterschap)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2010-07-21 | 2014-12-31 | [2010-07-21.md](./2010-07-21.md) |
 | 2010-04-20 | 2010-07-20 | [2010-04-20.md](./2010-04-20.md) |
 | 2010-03-02 | 2010-04-19 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-05-15 | 2009-12-31 | [2009-05-15.md](./2009-05-15.md) |

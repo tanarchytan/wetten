@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-04-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling frictie- en transitiekosten culturele basisinfrastructuur 2009–2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-frictie-en-transitiekosten-culturele-basisinfrastru](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-frictie-en-transitiekosten-culturele-basisinfrastru)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-frictie-en-transitiekosten-culturele-basisinfrastru](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-frictie-en-transitiekosten-culturele-basisinfrastru)
 
 ## Versies
 
@@ -27,6 +27,4 @@ state_count: 8
 | 2012-12-22 | 2013-12-31 | [2012-12-22.md](./2012-12-22.md) |
 | 2012-09-18 | 2012-12-21 | [2012-09-18.md](./2012-09-18.md) |
 | 2011-12-23 | 2012-09-17 | [2011-12-23.md](./2011-12-23.md) |
-| 2011-12-23 | 2012-09-17 | [2011-12-23.md](./2011-12-23.md) |
-| 2011-11-22 | 2011-12-22 | [2011-11-22.md](./2011-11-22.md) |
 | 2011-11-22 | 2011-12-22 | [2011-11-22.md](./2011-11-22.md) |

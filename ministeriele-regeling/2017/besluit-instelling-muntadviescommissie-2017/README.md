@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Financiën van 20 januari 2017, 2017-
 ministry: Financiën
 abbreviation: null
 latest_state: "2019-03-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit instelling Muntadviescommissie 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-instelling-muntadviescommissie-2017](https://wetten.ai/eli/nl/ministeriele-regeling/2017/besluit-instelling-muntadviescommissie-2017)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/besluit-instelling-muntadviescommissie-2017](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/besluit-instelling-muntadviescommissie-2017)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2019-03-01 | 2019-03-13 | [2019-03-01.md](./2019-03-01.md) |
 | 2017-10-21 | 2019-02-28 | [2017-10-21.md](./2017-10-21.md) |
-| 2017-09-01 | 2017-10-20 | [2017-09-01.md](./2017-09-01.md) |
 | 2017-09-01 | 2017-10-20 | [2017-09-01.md](./2017-09-01.md) |
 | 2017-01-31 | 2017-08-31 | [2017-01-31.md](./2017-01-31.md) |
 | 2017-01-01 | 2017-01-30 | [2017-01-01.md](./2017-01-01.md) |

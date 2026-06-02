@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 sep
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2011-01-02"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2010)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2009/wijzigingsregeling-regeling-zorgverzekering-vereveningsbijdr-bwbr0026476](https://wetten.ai/eli/nl/ministeriele-regeling/2009/wijzigingsregeling-regeling-zorgverzekering-vereveningsbijdr-bwbr0026476)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/wijzigingsregeling-regeling-zorgverzekering-vereveningsbijdr-bwbr0026476](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/wijzigingsregeling-regeling-zorgverzekering-vereveningsbijdr-bwbr0026476)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-02 | heden | [2011-01-02.md](./2011-01-02.md) |
-| 2010-09-30 | 2011-01-01 | [2010-09-30.md](./2010-09-30.md) |
 | 2010-09-30 | 2011-01-01 | [2010-09-30.md](./2010-09-30.md) |
 | 2009-10-08 | 2010-09-29 | [2009-10-08.md](./2009-10-08.md) |
 | 2009-09-30 | 2009-10-07 | [2009-09-30.md](./2009-09-30.md) |

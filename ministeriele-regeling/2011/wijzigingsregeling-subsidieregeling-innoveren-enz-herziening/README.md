@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-05-16"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Wijzigingsregeling Subsidieregeling innoveren, enz. (herziening hoofdstuk 4 (Innovatieprestatiecontracten))
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/wijzigingsregeling-subsidieregeling-innoveren-enz-herziening](https://wetten.ai/eli/nl/ministeriele-regeling/2011/wijzigingsregeling-subsidieregeling-innoveren-enz-herziening)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/wijzigingsregeling-subsidieregeling-innoveren-enz-herziening](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/wijzigingsregeling-subsidieregeling-innoveren-enz-herziening)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-05-16 | heden | [2011-05-16.md](./2011-05-16.md) |
-| 2011-03-04 | 2011-05-15 | [2011-03-04.md](./2011-03-04.md) |
 | 2011-03-04 | 2011-05-15 | [2011-03-04.md](./2011-03-04.md) |

@@ -6,7 +6,7 @@ title: Besluit van 25 maart 1985, houdende bepaling van bewijzen van bekwaamheid
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2006-03-22"
-state_count: 13
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Bevoegdhedenbesluit WPO
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/1985/bevoegdhedenbesluit-wpo](https://wetten.ai/eli/nl/amvb/1985/bevoegdhedenbesluit-wpo)
+**ELI:** [/eli/nl/amvb/1985/bevoegdhedenbesluit-wpo](https://wettenbank.online/eli/nl/amvb/1985/bevoegdhedenbesluit-wpo)
 
 ## Versies
 
@@ -25,13 +25,7 @@ state_count: 13
 | 2006-03-22 | 2006-07-31 | [2006-03-22.md](./2006-03-22.md) |
 | 2005-04-29 | 2006-03-21 | [2005-04-29.md](./2005-04-29.md) |
 | 2004-08-04 | 2005-04-28 | [2004-08-04.md](./2004-08-04.md) |
-| 2004-08-04 | 2005-04-28 | [2004-08-04.md](./2004-08-04.md) |
-| 2004-08-01 | 2004-08-03 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-08-01 | 2004-08-03 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-08-01 | 2004-08-03 | [2004-08-01.md](./2004-08-01.md) |
 | 2003-08-01 | 2004-07-31 | [2003-08-01.md](./2003-08-01.md) |
-| 2003-08-01 | 2004-07-31 | [2003-08-01.md](./2003-08-01.md) |
 | 2003-03-12 | 2003-07-31 | [2003-03-12.md](./2003-03-12.md) |
-| 2003-03-12 | 2003-07-31 | [2003-03-12.md](./2003-03-12.md) |
-| 2002-02-13 | 2003-03-11 | [2002-02-13.md](./2002-02-13.md) |
 | 2002-02-13 | 2003-03-11 | [2002-02-13.md](./2002-02-13.md) |

@@ -6,7 +6,7 @@ title: Regeling, houdende bepalingen omtrent de bemanning van zeegaande zeilsche
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-04-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling bemanning zeegaande zeilschepen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-bemanning-zeegaande-zeilschepen](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-bemanning-zeegaande-zeilschepen)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-bemanning-zeegaande-zeilschepen](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-bemanning-zeegaande-zeilschepen)
 
 ## Versies
 
@@ -29,6 +29,5 @@ state_count: 10
 | 2009-07-01 | 2010-12-30 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-01-01 | 2009-06-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2004-11-26 | 2007-12-31 | [2004-11-26.md](./2004-11-26.md) |
-| 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2004-11-01 | 2004-11-25 | [2004-11-01.md](./2004-11-01.md) |
 | 2002-10-13 | 2004-10-31 | [2002-10-13.md](./2002-10-13.md) |

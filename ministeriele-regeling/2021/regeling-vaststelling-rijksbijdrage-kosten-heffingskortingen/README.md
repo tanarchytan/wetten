@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 juni
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2021-11-23"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling rijksbijdrage kosten heffingskortingen 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2021-11-23 | 2021-12-31 | [2021-11-23.md](./2021-11-23.md) |
 | 2021-07-06 | 2021-11-22 | [2021-07-06.md](./2021-07-06.md) |
-| 2021-07-06 | 2021-11-22 | [2021-07-06.md](./2021-07-06.md) |
-| 2021-01-01 | 2021-07-05 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-07-05 | [2021-01-01.md](./2021-01-01.md) |

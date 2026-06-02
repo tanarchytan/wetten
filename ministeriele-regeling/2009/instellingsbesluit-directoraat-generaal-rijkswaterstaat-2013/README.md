@@ -6,7 +6,7 @@ title: Besluit van de Minister van Verkeer en Waterstaat tot het instellen van h
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-03-12"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-directoraat-generaal-rijkswaterstaat-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2009/instellingsbesluit-directoraat-generaal-rijkswaterstaat-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/instellingsbesluit-directoraat-generaal-rijkswaterstaat-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/instellingsbesluit-directoraat-generaal-rijkswaterstaat-2013)
 
 ## Versies
 
@@ -24,11 +24,9 @@ state_count: 13
 |---|---|---|
 | 2025-03-12 | heden | [2025-03-12.md](./2025-03-12.md) |
 | 2025-02-01 | 2025-03-11 | [2025-02-01.md](./2025-02-01.md) |
-| 2025-02-01 | 2025-03-11 | [2025-02-01.md](./2025-02-01.md) |
 | 2024-01-01 | 2025-01-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-06-01 | 2023-12-31 | [2023-06-01.md](./2023-06-01.md) |
 | 2018-02-09 | 2023-05-31 | [2018-02-09.md](./2018-02-09.md) |
-| 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2014-01-01 | 2017-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-04-01 | 2013-12-31 | [2013-04-01.md](./2013-04-01.md) |

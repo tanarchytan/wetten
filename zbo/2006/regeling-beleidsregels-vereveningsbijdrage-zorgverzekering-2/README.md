@@ -6,7 +6,7 @@ title: Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2009-10-23"
-state_count: 10
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling beleidsregels vereveningsbijdrage zorgverzekering 2006
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2006/regeling-beleidsregels-vereveningsbijdrage-zorgverzekering-2](https://wetten.ai/eli/nl/zbo/2006/regeling-beleidsregels-vereveningsbijdrage-zorgverzekering-2)
+**ELI:** [/eli/nl/zbo/2006/regeling-beleidsregels-vereveningsbijdrage-zorgverzekering-2](https://wettenbank.online/eli/nl/zbo/2006/regeling-beleidsregels-vereveningsbijdrage-zorgverzekering-2)
 
 ## Versies
 
@@ -24,11 +24,5 @@ state_count: 10
 |---|---|---|
 | 2009-10-23 | heden | [2009-10-23.md](./2009-10-23.md) |
 | 2007-10-11 | 2009-10-22 | [2007-10-11.md](./2007-10-11.md) |
-| 2007-10-11 | 2009-10-22 | [2007-10-11.md](./2007-10-11.md) |
 | 2006-10-29 | 2007-10-10 | [2006-10-29.md](./2006-10-29.md) |
-| 2006-10-29 | 2007-10-10 | [2006-10-29.md](./2006-10-29.md) |
-| 2006-10-29 | 2007-10-10 | [2006-10-29.md](./2006-10-29.md) |
-| 2006-01-01 | 2006-10-28 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-10-28 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-10-28 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-10-28 | [2006-01-01.md](./2006-01-01.md) |

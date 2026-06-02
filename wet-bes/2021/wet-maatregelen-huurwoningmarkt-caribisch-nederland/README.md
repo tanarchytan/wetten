@@ -16,7 +16,7 @@ state_count: 2
 **Citeertitel:** Wet maatregelen huurwoningmarkt Caribisch Nederland
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet-bes/2021/wet-maatregelen-huurwoningmarkt-caribisch-nederland](https://wetten.ai/eli/nl/wet-bes/2021/wet-maatregelen-huurwoningmarkt-caribisch-nederland)
+**ELI:** [/eli/nl/wet-bes/2021/wet-maatregelen-huurwoningmarkt-caribisch-nederland](https://wettenbank.online/eli/nl/wet-bes/2021/wet-maatregelen-huurwoningmarkt-caribisch-nederland)
 
 ## Versies
 

@@ -6,7 +6,7 @@ title: Wet van 6 november 2008, houdende regels inzake een vergunningstelsel met
 ministry: Infrastructuur en Milieu
 abbreviation: Wabo
 latest_state: "2023-04-19"
-state_count: 30
+state_count: 24
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 30
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Wabo
-**ELI:** [/eli/nl/wet/2010/wet-algemene-bepalingen-omgevingsrecht](https://wetten.ai/eli/nl/wet/2010/wet-algemene-bepalingen-omgevingsrecht)
+**ELI:** [/eli/nl/wet/2010/wet-algemene-bepalingen-omgevingsrecht](https://wettenbank.online/eli/nl/wet/2010/wet-algemene-bepalingen-omgevingsrecht)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 30
 | 2022-10-01 | 2023-04-18 | [2022-10-01.md](./2022-10-01.md) |
 | 2021-07-01 | 2022-09-30 | [2021-07-01.md](./2021-07-01.md) |
 | 2018-07-28 | 2021-06-30 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-07-01 | 2017-12-31 | [2016-07-01.md](./2016-07-01.md) |
@@ -45,11 +44,6 @@ state_count: 30
 | 2012-04-01 | 2012-09-30 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-03-23 | 2012-03-31 | [2012-03-23.md](./2012-03-23.md) |
 | 2012-01-01 | 2012-03-22 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-03-22 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-07-27 | 2011-12-31 | [2011-07-27.md](./2011-07-27.md) |
 | 2011-07-27 | 2011-12-31 | [2011-07-27.md](./2011-07-27.md) |
 | 2011-07-01 | 2011-07-26 | [2011-07-01.md](./2011-07-01.md) |
-| 2011-07-01 | 2011-07-26 | [2011-07-01.md](./2011-07-01.md) |
-| 2010-10-01 | 2011-06-30 | [2010-10-01.md](./2010-10-01.md) |
-| 2010-10-01 | 2011-06-30 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-10-01 | 2011-06-30 | [2010-10-01.md](./2010-10-01.md) |

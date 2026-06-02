@@ -6,7 +6,7 @@ title: Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waarder
 ministry: Financiën
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Uitvoeringsregeling kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-kostenverrekening-en-gegevensuitwisselin](https://wetten.ai/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-kostenverrekening-en-gegevensuitwisselin)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-kostenverrekening-en-gegevensuitwisselin](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/uitvoeringsregeling-kostenverrekening-en-gegevensuitwisselin)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 13
 | 2011-07-01 | 2017-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2009-01-01 | 2011-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-03-02 | 2008-12-31 | [2008-03-02.md](./2008-03-02.md) |
-| 2008-01-01 | 2008-03-01 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-03-01 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |

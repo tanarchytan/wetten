@@ -6,7 +6,7 @@ title: Besluit van 26 september 1995, houdende uitvoering van artikel 66 van de 
 ministry: Defensie
 abbreviation: null
 latest_state: "2003-05-23"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit uitvoering artikel 66 van de Wet financiële voorzieningen privatisering ABP
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/1995/besluit-uitvoering-artikel-66-van-de-wet-financi-le-voorzien](https://wetten.ai/eli/nl/amvb/1995/besluit-uitvoering-artikel-66-van-de-wet-financi-le-voorzien)
+**ELI:** [/eli/nl/amvb/1995/besluit-uitvoering-artikel-66-van-de-wet-financi-le-voorzien](https://wettenbank.online/eli/nl/amvb/1995/besluit-uitvoering-artikel-66-van-de-wet-financi-le-voorzien)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-05-23 | heden | [2003-05-23.md](./2003-05-23.md) |
-| 2001-06-01 | 2003-05-22 | [2001-06-01.md](./2001-06-01.md) |
 | 2001-06-01 | 2003-05-22 | [2001-06-01.md](./2001-06-01.md) |
 | 1995-10-28 | 2001-05-31 | [1995-10-28.md](./1995-10-28.md) |

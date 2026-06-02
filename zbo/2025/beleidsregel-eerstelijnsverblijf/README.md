@@ -6,7 +6,7 @@ title: Beleidsregel eerstelijnsverblijf
 ministry: Nederlandse Zorgautoriteit
 abbreviation: null
 latest_state: "2025-01-25"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Beleidsregel eerstelijnsverblijf
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse Zorgautoriteit
-**ELI:** [/eli/nl/zbo/2025/beleidsregel-eerstelijnsverblijf](https://wetten.ai/eli/nl/zbo/2025/beleidsregel-eerstelijnsverblijf)
+**ELI:** [/eli/nl/zbo/2025/beleidsregel-eerstelijnsverblijf](https://wettenbank.online/eli/nl/zbo/2025/beleidsregel-eerstelijnsverblijf)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-01-25 | heden | [2025-01-25.md](./2025-01-25.md) |
-| 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-01-24 | [2025-01-01.md](./2025-01-01.md) |

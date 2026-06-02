@@ -6,7 +6,7 @@ title: Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluite
 ministry: Financiën
 abbreviation: Abbh 2001
 latest_state: "2007-07-18"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Abbh 2001
-**ELI:** [/eli/nl/amvb/2001/aanpassingsbesluit-van-enige-uitvoeringsbesluiten-belastingh](https://wetten.ai/eli/nl/amvb/2001/aanpassingsbesluit-van-enige-uitvoeringsbesluiten-belastingh)
+**ELI:** [/eli/nl/amvb/2001/aanpassingsbesluit-van-enige-uitvoeringsbesluiten-belastingh](https://wettenbank.online/eli/nl/amvb/2001/aanpassingsbesluit-van-enige-uitvoeringsbesluiten-belastingh)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 5
 |---|---|---|
 | 2007-07-18 | heden | [2007-07-18.md](./2007-07-18.md) |
 | 2003-01-01 | 2007-07-17 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2007-07-17 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

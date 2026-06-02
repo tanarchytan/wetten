@@ -6,7 +6,7 @@ title: Verordening van het Hoofdbedrijfschap voor de Agrarische Groothandel van 
 ministry: Hoofdbedrijfschap Agrarische Groothandel
 abbreviation: null
 latest_state: "2011-06-05"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening HBAG heffing bloemen en planten 2010
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdbedrijfschap Agrarische Groothandel
-**ELI:** [/eli/nl/pbo/2010/verordening-hbag-heffing-bloemen-en-planten-2010](https://wetten.ai/eli/nl/pbo/2010/verordening-hbag-heffing-bloemen-en-planten-2010)
+**ELI:** [/eli/nl/pbo/2010/verordening-hbag-heffing-bloemen-en-planten-2010](https://wettenbank.online/eli/nl/pbo/2010/verordening-hbag-heffing-bloemen-en-planten-2010)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-06-05 | 2020-05-12 | [2011-06-05.md](./2011-06-05.md) |
 | 2010-05-08 | 2011-06-04 | [2010-05-08.md](./2010-05-08.md) |
-| 2010-05-08 | 2011-06-04 | [2010-05-08.md](./2010-05-08.md) |
-| 2010-01-01 | 2010-05-07 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-05-07 | [2010-01-01.md](./2010-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 17 maar
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2009-11-20"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Besluit instelling Stuurgroep en commissies pilot commissies verplichte ggz
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-instelling-stuurgroep-en-commissies-pilot-commissies](https://wetten.ai/eli/nl/ministeriele-regeling/2009/besluit-instelling-stuurgroep-en-commissies-pilot-commissies)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-instelling-stuurgroep-en-commissies-pilot-commissies](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/besluit-instelling-stuurgroep-en-commissies-pilot-commissies)
 
 ## Versies
 
@@ -24,12 +24,7 @@ state_count: 11
 |---|---|---|
 | 2009-11-20 | 2009-12-30 | [2009-11-20.md](./2009-11-20.md) |
 | 2009-09-04 | 2009-11-19 | [2009-09-04.md](./2009-09-04.md) |
-| 2009-09-04 | 2009-11-19 | [2009-09-04.md](./2009-09-04.md) |
-| 2009-08-01 | 2009-09-03 | [2009-08-01.md](./2009-08-01.md) |
-| 2009-08-01 | 2009-09-03 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-08-01 | 2009-09-03 | [2009-08-01.md](./2009-08-01.md) |
 | 2009-04-10 | 2009-07-31 | [2009-04-10.md](./2009-04-10.md) |
-| 2009-04-10 | 2009-07-31 | [2009-04-10.md](./2009-04-10.md) |
-| 2009-03-01 | 2009-04-09 | [2009-03-01.md](./2009-03-01.md) |
 | 2009-03-01 | 2009-04-09 | [2009-03-01.md](./2009-03-01.md) |
 | 2008-12-01 | 2009-02-28 | [2008-12-01.md](./2008-12-01.md) |

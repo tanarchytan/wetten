@@ -6,7 +6,7 @@ title: Verordening van het Productschap Akkerbouw van 13 november 2008 houdende 
 ministry: Productschap Akkerbouw
 abbreviation: null
 latest_state: "2013-08-04"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Heffingsverordening PA fonds pootaardappelen 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2009/heffingsverordening-pa-fonds-pootaardappelen-2009](https://wetten.ai/eli/nl/pbo/2009/heffingsverordening-pa-fonds-pootaardappelen-2009)
+**ELI:** [/eli/nl/pbo/2009/heffingsverordening-pa-fonds-pootaardappelen-2009](https://wettenbank.online/eli/nl/pbo/2009/heffingsverordening-pa-fonds-pootaardappelen-2009)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-08-04 | 2019-10-18 | [2013-08-04.md](./2013-08-04.md) |
-| 2013-01-01 | 2013-08-03 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-08-03 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-02-08 | 2012-12-31 | [2009-02-08.md](./2009-02-08.md) |
 | 2009-01-01 | 2009-02-07 | [2009-01-01.md](./2009-01-01.md) |

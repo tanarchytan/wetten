@@ -6,7 +6,7 @@ title: Bezoldigingsbesluit Commissie toezicht financiën politieke partijen
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2025-05-31"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Bezoldigingsbesluit Commissie toezicht financiën politieke partijen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2014/bezoldigingsbesluit-commissie-toezicht-financi-n-politieke-p](https://wetten.ai/eli/nl/ministeriele-regeling/2014/bezoldigingsbesluit-commissie-toezicht-financi-n-politieke-p)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/bezoldigingsbesluit-commissie-toezicht-financi-n-politieke-p](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/bezoldigingsbesluit-commissie-toezicht-financi-n-politieke-p)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-05-31 | heden | [2025-05-31.md](./2025-05-31.md) |
-| 2020-01-01 | 2025-05-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2025-05-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2014-01-16 | 2019-12-31 | [2014-01-16.md](./2014-01-16.md) |

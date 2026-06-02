@@ -6,7 +6,7 @@ title: Beleidsregel van De Nederlandsche Bank N.V. en de Stichting Autoriteit Fi
 ministry: De Nederlandsche Bank
 abbreviation: null
 latest_state: "2023-04-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Beleidsregel geschiktheid 2012
 **Type:** zbo
 **Verantwoordelijk ministerie:** De Nederlandsche Bank
-**ELI:** [/eli/nl/zbo/2012/beleidsregel-geschiktheid-2012](https://wetten.ai/eli/nl/zbo/2012/beleidsregel-geschiktheid-2012)
+**ELI:** [/eli/nl/zbo/2012/beleidsregel-geschiktheid-2012](https://wettenbank.online/eli/nl/zbo/2012/beleidsregel-geschiktheid-2012)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 9
 | 2020-01-15 | 2023-03-31 | [2020-01-15.md](./2020-01-15.md) |
 | 2017-12-23 | 2020-01-14 | [2017-12-23.md](./2017-12-23.md) |
 | 2016-04-06 | 2017-12-22 | [2016-04-06.md](./2016-04-06.md) |
-| 2016-04-01 | 2016-04-05 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-04-01 | 2016-04-05 | [2016-04-01.md](./2016-04-01.md) |
 | 2013-07-31 | 2016-03-31 | [2013-07-31.md](./2013-07-31.md) |
 | 2012-07-04 | 2013-07-30 | [2012-07-04.md](./2012-07-04.md) |

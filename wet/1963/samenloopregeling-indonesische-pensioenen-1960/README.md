@@ -6,7 +6,7 @@ title: Wet van 29 mei 1963, houdende nadere maatregelen ten aanzien van een Indo
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: SIP
 latest_state: "2015-01-01"
-state_count: 11
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 11
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** SIP
-**ELI:** [/eli/nl/wet/1963/samenloopregeling-indonesische-pensioenen-1960](https://wetten.ai/eli/nl/wet/1963/samenloopregeling-indonesische-pensioenen-1960)
+**ELI:** [/eli/nl/wet/1963/samenloopregeling-indonesische-pensioenen-1960](https://wettenbank.online/eli/nl/wet/1963/samenloopregeling-indonesische-pensioenen-1960)
 
 ## Versies
 
@@ -27,10 +27,6 @@ state_count: 11
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-04-01 | 2013-06-30 | [2013-04-01.md](./2013-04-01.md) |
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2012-04-01 | 2012-12-31 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-04-01 | 2012-12-31 | [2012-04-01.md](./2012-04-01.md) |
 | 2011-01-01 | 2012-03-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2012-03-31 | [2011-01-01.md](./2011-01-01.md) |
-| 2002-01-01 | 2010-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2010-12-31 | [2002-01-01.md](./2002-01-01.md) |

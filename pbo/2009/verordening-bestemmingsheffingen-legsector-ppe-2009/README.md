@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 30 oktober 2008, 
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2009-07-12"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening bestemmingsheffingen legsector (PPE) 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2009/verordening-bestemmingsheffingen-legsector-ppe-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-bestemmingsheffingen-legsector-ppe-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-bestemmingsheffingen-legsector-ppe-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-bestemmingsheffingen-legsector-ppe-2009)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2009-07-12 | 2019-10-16 | [2009-07-12.md](./2009-07-12.md) |
 | 2009-02-01 | 2009-07-11 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-02-01 | 2009-07-11 | [2009-02-01.md](./2009-02-01.md) |
-| 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-01-31 | [2009-01-01.md](./2009-01-01.md) |

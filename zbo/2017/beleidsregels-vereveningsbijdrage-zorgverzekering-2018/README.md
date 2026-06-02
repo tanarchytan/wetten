@@ -6,7 +6,7 @@ title: Beleidsregels vereveningsbijdrage zorgverzekering 2018
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2020-02-25"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregels vereveningsbijdrage zorgverzekering 2018
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2017/beleidsregels-vereveningsbijdrage-zorgverzekering-2018](https://wetten.ai/eli/nl/zbo/2017/beleidsregels-vereveningsbijdrage-zorgverzekering-2018)
+**ELI:** [/eli/nl/zbo/2017/beleidsregels-vereveningsbijdrage-zorgverzekering-2018](https://wettenbank.online/eli/nl/zbo/2017/beleidsregels-vereveningsbijdrage-zorgverzekering-2018)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2020-02-25 | heden | [2020-02-25.md](./2020-02-25.md) |
 | 2017-10-25 | 2020-02-24 | [2017-10-25.md](./2017-10-25.md) |
-| 2017-10-25 | 2020-02-24 | [2017-10-25.md](./2017-10-25.md) |
-| 2017-10-01 | 2017-10-24 | [2017-10-01.md](./2017-10-01.md) |
 | 2017-10-01 | 2017-10-24 | [2017-10-01.md](./2017-10-01.md) |

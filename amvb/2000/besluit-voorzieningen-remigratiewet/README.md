@@ -6,7 +6,7 @@ title: Besluit van 14 oktober 1999 tot het stellen van nadere regels met betrekk
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: BvRw
 latest_state: "2013-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 9
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** BvRw
-**ELI:** [/eli/nl/amvb/2000/besluit-voorzieningen-remigratiewet](https://wetten.ai/eli/nl/amvb/2000/besluit-voorzieningen-remigratiewet)
+**ELI:** [/eli/nl/amvb/2000/besluit-voorzieningen-remigratiewet](https://wettenbank.online/eli/nl/amvb/2000/besluit-voorzieningen-remigratiewet)
 
 ## Versies
 
@@ -29,6 +29,5 @@ state_count: 9
 | 2008-08-20 | 2009-12-31 | [2008-08-20.md](./2008-08-20.md) |
 | 2007-01-01 | 2008-08-19 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-04-01 | 2006-12-31 | [2006-04-01.md](./2006-04-01.md) |
-| 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2002-01-01 | 2005-12-31 | [2002-01-01.md](./2002-01-01.md) |

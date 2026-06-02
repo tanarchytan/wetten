@@ -6,7 +6,7 @@ title: Besluit van 3 juli 2006 tot vaststelling van een eenmalige uitkering 2004
 ministry: Defensie
 abbreviation: null
 latest_state: "2007-07-04"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit vaststelling eenmalige uitkering 2004, enz. (arbeidsvoorwaardenmaatregelen sector Defensie)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/amvb/2006/besluit-vaststelling-eenmalige-uitkering-2004-enz-arbeidsvoo](https://wetten.ai/eli/nl/amvb/2006/besluit-vaststelling-eenmalige-uitkering-2004-enz-arbeidsvoo)
+**ELI:** [/eli/nl/amvb/2006/besluit-vaststelling-eenmalige-uitkering-2004-enz-arbeidsvoo](https://wettenbank.online/eli/nl/amvb/2006/besluit-vaststelling-eenmalige-uitkering-2004-enz-arbeidsvoo)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2007-07-04 | heden | [2007-07-04.md](./2007-07-04.md) |
 | 2006-08-16 | 2007-07-03 | [2006-08-16.md](./2006-08-16.md) |
-| 2006-08-16 | 2007-07-03 | [2006-08-16.md](./2006-08-16.md) |
-| 2006-01-01 | 2006-08-15 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-08-15 | [2006-01-01.md](./2006-01-01.md) |

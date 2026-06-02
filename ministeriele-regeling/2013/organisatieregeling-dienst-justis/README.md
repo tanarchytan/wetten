@@ -6,7 +6,7 @@ title: Regeling van de directeur-generaal Jeugd en Sanctietoepassing van het min
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2014-05-09"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatieregeling Dienst Justis
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/organisatieregeling-dienst-justis](https://wetten.ai/eli/nl/ministeriele-regeling/2013/organisatieregeling-dienst-justis)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/organisatieregeling-dienst-justis](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/organisatieregeling-dienst-justis)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2014-05-09 | 2015-08-21 | [2014-05-09.md](./2014-05-09.md) |
 | 2013-10-23 | 2014-05-08 | [2013-10-23.md](./2013-10-23.md) |
 | 2013-06-07 | 2013-10-22 | [2013-06-07.md](./2013-06-07.md) |
-| 2013-06-07 | 2013-10-22 | [2013-06-07.md](./2013-06-07.md) |
-| 2013-01-02 | 2013-06-06 | [2013-01-02.md](./2013-01-02.md) |
 | 2013-01-02 | 2013-06-06 | [2013-01-02.md](./2013-01-02.md) |

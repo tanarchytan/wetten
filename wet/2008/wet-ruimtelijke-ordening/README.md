@@ -6,7 +6,7 @@ title: Wet van 20 oktober 2006, houdende nieuwe regels omtrent de ruimtelijke or
 ministry: Infrastructuur en Milieu
 abbreviation: Wro
 latest_state: "2021-07-01"
-state_count: 21
+state_count: 19
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 21
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Wro
-**ELI:** [/eli/nl/wet/2008/wet-ruimtelijke-ordening](https://wetten.ai/eli/nl/wet/2008/wet-ruimtelijke-ordening)
+**ELI:** [/eli/nl/wet/2008/wet-ruimtelijke-ordening](https://wettenbank.online/eli/nl/wet/2008/wet-ruimtelijke-ordening)
 
 ## Versies
 
@@ -41,6 +41,4 @@ state_count: 21
 | 2010-03-31 | 2010-06-22 | [2010-03-31.md](./2010-03-31.md) |
 | 2009-07-15 | 2010-03-30 | [2009-07-15.md](./2009-07-15.md) |
 | 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
-| 2009-07-01 | 2009-07-14 | [2009-07-01.md](./2009-07-01.md) |
-| 2008-07-01 | 2009-06-30 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2009-06-30 | [2008-07-01.md](./2008-07-01.md) |

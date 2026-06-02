@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Veiligheid en Justitie van 20 decemb
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2020-10-07"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Machtigingsbesluit politieambtenaren NVIK
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2014/machtigingsbesluit-politieambtenaren-nvik](https://wetten.ai/eli/nl/ministeriele-regeling/2014/machtigingsbesluit-politieambtenaren-nvik)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/machtigingsbesluit-politieambtenaren-nvik](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/machtigingsbesluit-politieambtenaren-nvik)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-10-07 | heden | [2020-10-07.md](./2020-10-07.md) |
-| 2014-03-01 | 2020-10-06 | [2014-03-01.md](./2014-03-01.md) |
 | 2014-03-01 | 2020-10-06 | [2014-03-01.md](./2014-03-01.md) |
 | 2014-01-01 | 2014-02-28 | [2014-01-01.md](./2014-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 5 maart 2012, 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-06-16"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Regeling indienststelling spoorvoertuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-indienststelling-spoorvoertuigen](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-indienststelling-spoorvoertuigen)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-indienststelling-spoorvoertuigen](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-indienststelling-spoorvoertuigen)
 
 ## Versies
 
@@ -32,6 +32,4 @@ state_count: 13
 | 2013-01-01 | 2013-03-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-10-26 | 2012-12-31 | [2012-10-26.md](./2012-10-26.md) |
 | 2012-07-25 | 2012-10-25 | [2012-07-25.md](./2012-07-25.md) |
-| 2012-07-25 | 2012-10-25 | [2012-07-25.md](./2012-07-25.md) |
-| 2012-04-01 | 2012-07-24 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-04-01 | 2012-07-24 | [2012-04-01.md](./2012-04-01.md) |

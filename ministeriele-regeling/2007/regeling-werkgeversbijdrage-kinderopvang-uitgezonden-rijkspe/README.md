@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2010-10-14"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-werkgeversbijdrage-kinderopvang-uitgezonden-rijkspe](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-werkgeversbijdrage-kinderopvang-uitgezonden-rijkspe)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-werkgeversbijdrage-kinderopvang-uitgezonden-rijkspe](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-werkgeversbijdrage-kinderopvang-uitgezonden-rijkspe)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-10-14 | 2019-12-31 | [2010-10-14.md](./2010-10-14.md) |
-| 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-08-01 | 2010-10-13 | [2010-08-01.md](./2010-08-01.md) |
 | 2007-11-18 | 2010-07-31 | [2007-11-18.md](./2007-11-18.md) |
 | 2007-01-01 | 2007-11-17 | [2007-01-01.md](./2007-01-01.md) |

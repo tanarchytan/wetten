@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 12 ju
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-12-19"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 19
 **Citeertitel:** Reken- en meetvoorschrift geluid 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/reken-en-meetvoorschrift-geluid-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2012/reken-en-meetvoorschrift-geluid-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/reken-en-meetvoorschrift-geluid-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/reken-en-meetvoorschrift-geluid-2012)
 
 ## Versies
 
@@ -26,10 +26,8 @@ state_count: 19
 | 2022-10-01 | 2023-12-18 | [2022-10-01.md](./2022-10-01.md) |
 | 2022-03-01 | 2022-09-30 | [2022-03-01.md](./2022-03-01.md) |
 | 2021-12-31 | 2022-02-28 | [2021-12-31.md](./2021-12-31.md) |
-| 2021-12-31 | 2022-02-28 | [2021-12-31.md](./2021-12-31.md) |
 | 2021-04-01 | 2021-12-30 | [2021-04-01.md](./2021-04-01.md) |
 | 2020-12-19 | 2021-03-31 | [2020-12-19.md](./2020-12-19.md) |
-| 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-01-01 | 2020-08-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-01-01 | 2019-12-31 | [2019-01-01.md](./2019-01-01.md) |

@@ -6,7 +6,7 @@ title: Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 
 ministry: Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs
 abbreviation: null
 latest_state: "2024-11-11"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Reglement Vervangingsfonds en Bedrijfsgezondheidszorg voor het onderwijs 2024
 **Type:** zbo
 **Verantwoordelijk ministerie:** Stichting Vervangingsfonds en Bedrijfsgezondheidszorg voor het Onderwijs
-**ELI:** [/eli/nl/zbo/2024/reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h](https://wetten.ai/eli/nl/zbo/2024/reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h)
+**ELI:** [/eli/nl/zbo/2024/reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h](https://wettenbank.online/eli/nl/zbo/2024/reglement-vervangingsfonds-en-bedrijfsgezondheidszorg-voor-h)
 
 ## Versies
 
@@ -25,7 +25,5 @@ state_count: 7
 | 2024-11-11 | heden | [2024-11-11.md](./2024-11-11.md) |
 | 2024-10-28 | 2024-11-10 | [2024-10-28.md](./2024-10-28.md) |
 | 2024-10-02 | 2024-10-27 | [2024-10-02.md](./2024-10-02.md) |
-| 2024-10-02 | 2024-10-27 | [2024-10-02.md](./2024-10-02.md) |
 | 2024-08-12 | 2024-10-01 | [2024-08-12.md](./2024-08-12.md) |
-| 2024-01-01 | 2024-08-11 | [2024-01-01.md](./2024-01-01.md) |
 | 2024-01-01 | 2024-08-11 | [2024-01-01.md](./2024-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 24Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2011-03-10"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling instandhoudingsmaatregelen zeevisserij
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-instandhoudingsmaatregelen-zeevisserij](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-instandhoudingsmaatregelen-zeevisserij)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-instandhoudingsmaatregelen-zeevisserij](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-instandhoudingsmaatregelen-zeevisserij)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 14
 | 2010-06-01 | 2010-07-31 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-04-01 | 2010-05-31 | [2010-04-01.md](./2010-04-01.md) |
 | 2010-03-02 | 2010-03-31 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-02-01 | 2010-03-01 | [2010-02-01.md](./2010-02-01.md) |
 | 2010-02-01 | 2010-03-01 | [2010-02-01.md](./2010-02-01.md) |
 | 2010-01-01 | 2010-01-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-09-06 | 2009-12-31 | [2009-09-06.md](./2009-09-06.md) |

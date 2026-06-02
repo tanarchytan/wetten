@@ -6,7 +6,7 @@ title: Wet van 23 december 2015 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2019-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Belastingplan 2016
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2015/belastingplan-2016](https://wetten.ai/eli/nl/wet/2015/belastingplan-2016)
+**ELI:** [/eli/nl/wet/2015/belastingplan-2016](https://wettenbank.online/eli/nl/wet/2015/belastingplan-2016)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2019-01-01 | heden | [2019-01-01.md](./2019-01-01.md) |
 | 2017-01-01 | 2018-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
-| 2015-12-31 | 2015-12-31 | [2015-12-31.md](./2015-12-31.md) |
 | 2015-12-31 | 2015-12-31 | [2015-12-31.md](./2015-12-31.md) |
 | 2015-10-29 | 2015-12-30 | [2015-10-29.md](./2015-10-29.md) |
 | 2015-09-15 | 2015-10-28 | [2015-09-15.md](./2015-09-15.md) |

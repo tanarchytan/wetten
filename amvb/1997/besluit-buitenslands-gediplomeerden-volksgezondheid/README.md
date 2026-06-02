@@ -6,7 +6,7 @@ title: Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2020-10-01"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Besluit buitenslands gediplomeerden volksgezondheid
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1997/besluit-buitenslands-gediplomeerden-volksgezondheid](https://wetten.ai/eli/nl/amvb/1997/besluit-buitenslands-gediplomeerden-volksgezondheid)
+**ELI:** [/eli/nl/amvb/1997/besluit-buitenslands-gediplomeerden-volksgezondheid](https://wettenbank.online/eli/nl/amvb/1997/besluit-buitenslands-gediplomeerden-volksgezondheid)
 
 ## Versies
 
@@ -32,7 +32,6 @@ state_count: 14
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2009-01-01 | 2011-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-01 | 2008-12-31 | [2008-02-01.md](./2008-02-01.md) |
-| 2007-12-21 | 2008-01-31 | [2007-12-21.md](./2007-12-21.md) |
 | 2007-12-21 | 2008-01-31 | [2007-12-21.md](./2007-12-21.md) |
 | 2006-03-29 | 2007-12-20 | [2006-03-29.md](./2006-03-29.md) |
 | 1997-12-01 | 2006-03-28 | [1997-12-01.md](./1997-12-01.md) |

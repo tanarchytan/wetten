@@ -6,7 +6,7 @@ title: Wet van 24 oktober 1984, houdende algemene regelen in verband met wijzigi
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: ARHI
 latest_state: "2024-01-01"
-state_count: 25
+state_count: 24
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 25
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
 **Afkorting:** ARHI
-**ELI:** [/eli/nl/wet/1984/wet-algemene-regels-herindeling](https://wetten.ai/eli/nl/wet/1984/wet-algemene-regels-herindeling)
+**ELI:** [/eli/nl/wet/1984/wet-algemene-regels-herindeling](https://wettenbank.online/eli/nl/wet/1984/wet-algemene-regels-herindeling)
 
 ## Versies
 
@@ -45,6 +45,5 @@ state_count: 25
 | 2004-01-01 | 2005-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-08-01 | 2003-12-31 | [2003-08-01.md](./2003-08-01.md) |
 | 2003-02-19 | 2003-07-31 | [2003-02-19.md](./2003-02-19.md) |
-| 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-01-01 | 2002-03-06 | [2002-01-01.md](./2002-01-01.md) |

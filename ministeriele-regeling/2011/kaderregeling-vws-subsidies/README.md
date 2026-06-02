@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 ap
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 11
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Kaderregeling VWS-subsidies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2011/kaderregeling-vws-subsidies](https://wetten.ai/eli/nl/ministeriele-regeling/2011/kaderregeling-vws-subsidies)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/kaderregeling-vws-subsidies](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/kaderregeling-vws-subsidies)
 
 ## Versies
 
@@ -25,11 +25,8 @@ state_count: 11
 | 2016-01-01 | 2016-03-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-02-17 | 2015-12-31 | [2015-02-17.md](./2015-02-17.md) |
 | 2014-10-01 | 2015-02-16 | [2014-10-01.md](./2014-10-01.md) |
-| 2014-10-01 | 2015-02-16 | [2014-10-01.md](./2014-10-01.md) |
 | 2013-10-01 | 2014-09-30 | [2013-10-01.md](./2013-10-01.md) |
 | 2012-10-01 | 2013-09-30 | [2012-10-01.md](./2012-10-01.md) |
 | 2011-10-01 | 2012-09-30 | [2011-10-01.md](./2011-10-01.md) |
 | 2011-07-02 | 2011-09-30 | [2011-07-02.md](./2011-07-02.md) |
-| 2011-07-02 | 2011-09-30 | [2011-07-02.md](./2011-07-02.md) |
-| 2011-07-01 | 2011-07-01 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-07-01 | 2011-07-01 | [2011-07-01.md](./2011-07-01.md) |

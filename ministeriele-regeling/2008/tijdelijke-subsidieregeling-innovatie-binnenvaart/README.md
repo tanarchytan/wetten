@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Verkeer en Waterstaat met betrekking
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Tijdelijke subsidieregeling innovatie binnenvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2008/tijdelijke-subsidieregeling-innovatie-binnenvaart](https://wetten.ai/eli/nl/ministeriele-regeling/2008/tijdelijke-subsidieregeling-innovatie-binnenvaart)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/tijdelijke-subsidieregeling-innovatie-binnenvaart](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/tijdelijke-subsidieregeling-innovatie-binnenvaart)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2011-01-01 | 2012-06-30 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-07-08 | 2010-12-31 | [2010-07-08.md](./2010-07-08.md) |
 | 2009-06-18 | 2010-07-07 | [2009-06-18.md](./2009-06-18.md) |
-| 2009-04-01 | 2009-06-17 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-04-01 | 2009-06-17 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-02-14 | 2009-03-31 | [2009-02-14.md](./2009-02-14.md) |
 | 2008-07-10 | 2009-02-13 | [2008-07-10.md](./2008-07-10.md) |

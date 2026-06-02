@@ -6,7 +6,7 @@ title: Besluit van 24 maart 2009, nr. TRCJZ/2009/711, houdende verlening van mac
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-01-28"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Mandaatbesluit LNV Directie Organisatie en Bedrijfsvoering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-directie-organisatie-en-bedrijfsvoering](https://wetten.ai/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-directie-organisatie-en-bedrijfsvoering)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-directie-organisatie-en-bedrijfsvoering](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/mandaatbesluit-lnv-directie-organisatie-en-bedrijfsvoering)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-01-28 | 2011-04-30 | [2010-01-28.md](./2010-01-28.md) |
-| 2009-04-02 | 2010-01-27 | [2009-04-02.md](./2009-04-02.md) |
 | 2009-04-02 | 2010-01-27 | [2009-04-02.md](./2009-04-02.md) |

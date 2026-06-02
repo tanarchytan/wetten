@@ -6,7 +6,7 @@ title: Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiti
 ministry: Financiën
 abbreviation: Buaob 1968
 latest_state: "2019-02-23"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** kb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Buaob 1968
-**ELI:** [/eli/nl/kb/1969/besluit-uitsluiting-aftrek-omzetbelasting-1968](https://wetten.ai/eli/nl/kb/1969/besluit-uitsluiting-aftrek-omzetbelasting-1968)
+**ELI:** [/eli/nl/kb/1969/besluit-uitsluiting-aftrek-omzetbelasting-1968](https://wettenbank.online/eli/nl/kb/1969/besluit-uitsluiting-aftrek-omzetbelasting-1968)
 
 ## Versies
 
@@ -25,11 +25,8 @@ state_count: 10
 |---|---|---|
 | 2019-02-23 | heden | [2019-02-23.md](./2019-02-23.md) |
 | 2019-01-01 | 2019-02-22 | [2019-01-01.md](./2019-01-01.md) |
-| 2019-01-01 | 2019-02-22 | [2019-01-01.md](./2019-01-01.md) |
 | 2011-07-01 | 2018-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2004-09-03 | 2011-06-30 | [2004-09-03.md](./2004-09-03.md) |
 | 2004-01-01 | 2004-09-02 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-09-02 | [2004-01-01.md](./2004-01-01.md) |
 | 2002-09-25 | 2003-12-31 | [2002-09-25.md](./2002-09-25.md) |
-| 2002-01-01 | 2002-09-24 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-09-24 | [2002-01-01.md](./2002-01-01.md) |

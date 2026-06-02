@@ -6,7 +6,7 @@ title: Besluit van 15 september 2004 tot vaststelling van het tijdstip van herbe
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Bhaw
 latest_state: "2015-01-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 5
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Bhaw
-**ELI:** [/eli/nl/amvb/2004/besluit-eenmalige-herbeoordelingen-arbeidsongeschiktheidswet](https://wetten.ai/eli/nl/amvb/2004/besluit-eenmalige-herbeoordelingen-arbeidsongeschiktheidswet)
+**ELI:** [/eli/nl/amvb/2004/besluit-eenmalige-herbeoordelingen-arbeidsongeschiktheidswet](https://wettenbank.online/eli/nl/amvb/2004/besluit-eenmalige-herbeoordelingen-arbeidsongeschiktheidswet)
 
 ## Versies
 
@@ -26,5 +26,4 @@ state_count: 5
 | 2015-01-01 | heden | [2015-01-01.md](./2015-01-01.md) |
 | 2010-01-01 | 2014-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2005-12-29 | 2009-12-31 | [2005-12-29.md](./2005-12-29.md) |
-| 2004-10-01 | 2005-12-28 | [2004-10-01.md](./2004-10-01.md) |
 | 2004-10-01 | 2005-12-28 | [2004-10-01.md](./2004-10-01.md) |

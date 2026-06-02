@@ -6,7 +6,7 @@ title: Regeling houdende voorschriften voor aanvraag, afgifte, wijziging en verl
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2006-05-11"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling vergunning tot vluchtuitvoering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vergunning-tot-vluchtuitvoering](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-vergunning-tot-vluchtuitvoering)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-vergunning-tot-vluchtuitvoering](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-vergunning-tot-vluchtuitvoering)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-05-11 | 2008-07-18 | [2006-05-11.md](./2006-05-11.md) |
-| 2005-01-01 | 2006-05-10 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2006-05-10 | [2005-01-01.md](./2005-01-01.md) |
 | 2002-12-04 | 2004-12-31 | [2002-12-04.md](./2002-12-04.md) |

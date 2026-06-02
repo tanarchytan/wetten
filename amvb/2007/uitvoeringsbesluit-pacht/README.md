@@ -6,7 +6,7 @@ title: Besluit van 1 oktober 2007, houdende uitvoering van titel 7.5 (Pacht) van
 ministry: Economische Zaken
 abbreviation: Ubp
 latest_state: "2025-01-01"
-state_count: 31
+state_count: 27
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 31
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Ubp
-**ELI:** [/eli/nl/amvb/2007/uitvoeringsbesluit-pacht](https://wetten.ai/eli/nl/amvb/2007/uitvoeringsbesluit-pacht)
+**ELI:** [/eli/nl/amvb/2007/uitvoeringsbesluit-pacht](https://wettenbank.online/eli/nl/amvb/2007/uitvoeringsbesluit-pacht)
 
 ## Versies
 
@@ -44,13 +44,9 @@ state_count: 31
 | 2011-07-01 | 2011-12-31 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-02-11 | 2011-06-30 | [2011-02-11.md](./2011-02-11.md) |
 | 2011-01-01 | 2011-02-10 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-02-10 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-07-01 | 2010-12-31 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-07-01 | 2010-12-31 | [2010-07-01.md](./2010-07-01.md) |
 | 2010-01-01 | 2010-06-30 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-10-31 | 2008-12-31 | [2007-10-31.md](./2007-10-31.md) |
-| 2007-10-31 | 2008-12-31 | [2007-10-31.md](./2007-10-31.md) |
-| 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-09-01 | 2007-10-30 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-01-01 | 2007-08-31 | [2007-01-01.md](./2007-01-01.md) |

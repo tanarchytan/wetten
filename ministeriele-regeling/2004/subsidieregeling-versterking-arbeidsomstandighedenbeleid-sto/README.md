@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling Versterking Arbeidsomstandighedenbeleid Stoffen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-versterking-arbeidsomstandighedenbeleid-sto](https://wetten.ai/eli/nl/ministeriele-regeling/2004/subsidieregeling-versterking-arbeidsomstandighedenbeleid-sto)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/subsidieregeling-versterking-arbeidsomstandighedenbeleid-sto](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/subsidieregeling-versterking-arbeidsomstandighedenbeleid-sto)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-01-01 | 2008-04-02 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-05-26 | 2005-12-31 | [2005-05-26.md](./2005-05-26.md) |
 | 2005-05-26 | 2005-12-31 | [2005-05-26.md](./2005-05-26.md) |
 | 2004-02-25 | 2005-05-25 | [2004-02-25.md](./2004-02-25.md) |

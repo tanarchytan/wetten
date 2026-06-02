@@ -6,7 +6,7 @@ title: Regeling verstrekkingen bepaalde categorieën vreemdelingen
 ministry: Veiligheid en Justitie
 abbreviation: Rvb
 latest_state: "2020-04-17"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Rvb
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-verstrekkingen-bepaalde-categorie-n-vreemdelingen](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-verstrekkingen-bepaalde-categorie-n-vreemdelingen)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-verstrekkingen-bepaalde-categorie-n-vreemdelingen](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-verstrekkingen-bepaalde-categorie-n-vreemdelingen)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 10
 |---|---|---|
 | 2020-04-17 | heden | [2020-04-17.md](./2020-04-17.md) |
 | 2019-09-12 | 2020-04-16 | [2019-09-12.md](./2019-09-12.md) |
-| 2019-04-03 | 2019-09-11 | [2019-04-03.md](./2019-04-03.md) |
 | 2019-04-03 | 2019-09-11 | [2019-04-03.md](./2019-04-03.md) |
 | 2015-01-01 | 2019-04-02 | [2015-01-01.md](./2015-01-01.md) |
 | 2011-01-01 | 2014-12-31 | [2011-01-01.md](./2011-01-01.md) |

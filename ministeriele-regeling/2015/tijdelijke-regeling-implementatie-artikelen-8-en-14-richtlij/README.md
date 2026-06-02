@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 10 ju
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Tijdelijke regeling implementatie artikelen 8 en 14 Richtlijn energie-efficiëntie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2015/tijdelijke-regeling-implementatie-artikelen-8-en-14-richtlij](https://wetten.ai/eli/nl/ministeriele-regeling/2015/tijdelijke-regeling-implementatie-artikelen-8-en-14-richtlij)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/tijdelijke-regeling-implementatie-artikelen-8-en-14-richtlij](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/tijdelijke-regeling-implementatie-artikelen-8-en-14-richtlij)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2024-01-01 | 2024-06-14 | [2024-01-01.md](./2024-01-01.md) |
 | 2021-12-17 | 2023-12-31 | [2021-12-17.md](./2021-12-17.md) |
-| 2021-07-01 | 2021-12-16 | [2021-07-01.md](./2021-07-01.md) |
 | 2021-07-01 | 2021-12-16 | [2021-07-01.md](./2021-07-01.md) |
 | 2019-07-01 | 2021-06-30 | [2019-07-01.md](./2019-07-01.md) |
 | 2017-07-01 | 2019-06-30 | [2017-07-01.md](./2017-07-01.md) |

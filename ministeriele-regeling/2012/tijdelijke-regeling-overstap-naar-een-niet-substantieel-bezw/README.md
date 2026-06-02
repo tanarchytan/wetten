@@ -6,7 +6,7 @@ title: Tijdelijke Regeling van de Minister van Binnenlandse Zaken en Koninkrijks
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2015-12-23"
-state_count: 14
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Tijdelijke regeling overstap naar een niet substantieel bezwarende functie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2012/tijdelijke-regeling-overstap-naar-een-niet-substantieel-bezw](https://wetten.ai/eli/nl/ministeriele-regeling/2012/tijdelijke-regeling-overstap-naar-een-niet-substantieel-bezw)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/tijdelijke-regeling-overstap-naar-een-niet-substantieel-bezw](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/tijdelijke-regeling-overstap-naar-een-niet-substantieel-bezw)
 
 ## Versies
 
@@ -24,15 +24,9 @@ state_count: 14
 |---|---|---|
 | 2015-12-23 | 2018-12-31 | [2015-12-23.md](./2015-12-23.md) |
 | 2015-04-01 | 2015-12-22 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-04-01 | 2015-12-22 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-03-24 | 2015-03-31 | [2015-03-24.md](./2015-03-24.md) |
 | 2015-03-24 | 2015-03-31 | [2015-03-24.md](./2015-03-24.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
-| 2013-04-15 | 2014-06-30 | [2013-04-15.md](./2013-04-15.md) |
 | 2013-04-15 | 2014-06-30 | [2013-04-15.md](./2013-04-15.md) |
 | 2012-07-06 | 2013-04-14 | [2012-07-06.md](./2012-07-06.md) |
 | 2009-01-01 | 2012-07-05 | [2009-01-01.md](./2009-01-01.md) |

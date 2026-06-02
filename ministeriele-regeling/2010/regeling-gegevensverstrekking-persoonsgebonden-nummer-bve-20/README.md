@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-08-01"
-state_count: 22
+state_count: 16
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 22
 **Citeertitel:** Regeling gegevensverstrekking persoonsgebonden nummer BVE 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-gegevensverstrekking-persoonsgebonden-nummer-bve-20](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-gegevensverstrekking-persoonsgebonden-nummer-bve-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-gegevensverstrekking-persoonsgebonden-nummer-bve-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-gegevensverstrekking-persoonsgebonden-nummer-bve-20)
 
 ## Versies
 
@@ -26,21 +26,15 @@ state_count: 22
 | 2016-04-01 | 2016-07-31 | [2016-04-01.md](./2016-04-01.md) |
 | 2015-11-25 | 2016-03-31 | [2015-11-25.md](./2015-11-25.md) |
 | 2015-09-15 | 2015-11-24 | [2015-09-15.md](./2015-09-15.md) |
-| 2015-09-15 | 2015-11-24 | [2015-09-15.md](./2015-09-15.md) |
 | 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
-| 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
-| 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
-| 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-08-01 | 2014-12-31 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-02-15 | 2014-07-31 | [2014-02-15.md](./2014-02-15.md) |
 | 2014-01-01 | 2014-02-14 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-08-01 | 2013-12-31 | [2013-08-01.md](./2013-08-01.md) |
-| 2013-08-01 | 2013-12-31 | [2013-08-01.md](./2013-08-01.md) |
 | 2013-01-01 | 2013-07-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-04-01 | 2012-12-31 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-01-07 | 2012-03-31 | [2012-01-07.md](./2012-01-07.md) |
-| 2012-01-01 | 2012-01-06 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-01-06 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-08-01 | 2011-12-31 | [2010-08-01.md](./2010-08-01.md) |
 | 2010-01-01 | 2010-07-31 | [2010-01-01.md](./2010-01-01.md) |

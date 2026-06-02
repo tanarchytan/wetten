@@ -6,7 +6,7 @@ title: Regeling, houdende regels voor de wijze van berekenen van geluidsbelastin
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2004-10-10"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling berekening geluidsbelasting in Kosteneenheden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-berekening-geluidsbelasting-in-kosteneenheden](https://wetten.ai/eli/nl/ministeriele-regeling/1996/regeling-berekening-geluidsbelasting-in-kosteneenheden)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/regeling-berekening-geluidsbelasting-in-kosteneenheden](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/regeling-berekening-geluidsbelasting-in-kosteneenheden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-10-10 | 2008-12-23 | [2004-10-10.md](./2004-10-10.md) |
-| 2004-08-01 | 2004-10-09 | [2004-08-01.md](./2004-08-01.md) |
 | 2004-08-01 | 2004-10-09 | [2004-08-01.md](./2004-08-01.md) |
 | 1996-11-30 | 2004-07-31 | [1996-11-30.md](./1996-11-30.md) |

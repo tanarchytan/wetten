@@ -6,7 +6,7 @@ title: Besluit van 13 november 1999 houdende het treffen van een overgangsvoorzi
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2013-09-07"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit overgangsrecht FLO-functies
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2000/besluit-overgangsrecht-flo-functies](https://wetten.ai/eli/nl/amvb/2000/besluit-overgangsrecht-flo-functies)
+**ELI:** [/eli/nl/amvb/2000/besluit-overgangsrecht-flo-functies](https://wettenbank.online/eli/nl/amvb/2000/besluit-overgangsrecht-flo-functies)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2007-01-01 | 2011-05-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2005-07-01 | 2006-12-31 | [2005-07-01.md](./2005-07-01.md) |
 | 2003-01-10 | 2005-06-30 | [2003-01-10.md](./2003-01-10.md) |
-| 2002-08-01 | 2003-01-09 | [2002-08-01.md](./2002-08-01.md) |
 | 2002-08-01 | 2003-01-09 | [2002-08-01.md](./2002-08-01.md) |
 | 2000-01-01 | 2002-07-31 | [2000-01-01.md](./2000-01-01.md) |

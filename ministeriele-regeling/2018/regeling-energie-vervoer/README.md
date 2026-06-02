@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 18
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2025-03-26"
-state_count: 16
+state_count: 12
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Regeling energie vervoer
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-energie-vervoer](https://wetten.ai/eli/nl/ministeriele-regeling/2018/regeling-energie-vervoer)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/regeling-energie-vervoer](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/regeling-energie-vervoer)
 
 ## Versies
 
@@ -24,17 +24,13 @@ state_count: 16
 |---|---|---|
 | 2025-03-26 | heden | [2025-03-26.md](./2025-03-26.md) |
 | 2025-01-01 | 2025-03-25 | [2025-01-01.md](./2025-01-01.md) |
-| 2025-01-01 | 2025-03-25 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2023-02-17 | 2023-12-31 | [2023-02-17.md](./2023-02-17.md) |
-| 2023-02-13 | 2023-02-16 | [2023-02-13.md](./2023-02-13.md) |
 | 2023-02-13 | 2023-02-16 | [2023-02-13.md](./2023-02-13.md) |
 | 2023-01-01 | 2023-02-12 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-01-01 | 2022-12-31 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2018-12-01 | 2020-12-31 | [2018-12-01.md](./2018-12-01.md) |
 | 2018-07-01 | 2018-11-30 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-11-30 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-06-30 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-01-01 | 2018-05-24 | [2018-01-01.md](./2018-01-01.md) |

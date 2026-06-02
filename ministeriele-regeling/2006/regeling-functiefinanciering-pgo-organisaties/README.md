@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 de
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2007-11-04"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling functiefinanciering PGO-organisaties
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-functiefinanciering-pgo-organisaties](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-functiefinanciering-pgo-organisaties)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-functiefinanciering-pgo-organisaties](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-functiefinanciering-pgo-organisaties)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2007-11-04 | 2008-12-31 | [2007-11-04.md](./2007-11-04.md) |
 | 2006-12-21 | 2007-11-03 | [2006-12-21.md](./2006-12-21.md) |
 | 2006-01-06 | 2006-12-20 | [2006-01-06.md](./2006-01-06.md) |
-| 2006-01-06 | 2006-12-20 | [2006-01-06.md](./2006-01-06.md) |
-| 2006-01-01 | 2006-01-05 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-01-05 | [2006-01-01.md](./2006-01-01.md) |

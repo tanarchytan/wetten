@@ -6,7 +6,7 @@ title: Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetk
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2018-07-28"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit tegemoetkoming specifieke zorgkosten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2010/besluit-tegemoetkoming-specifieke-zorgkosten](https://wetten.ai/eli/nl/amvb/2010/besluit-tegemoetkoming-specifieke-zorgkosten)
+**ELI:** [/eli/nl/amvb/2010/besluit-tegemoetkoming-specifieke-zorgkosten](https://wettenbank.online/eli/nl/amvb/2010/besluit-tegemoetkoming-specifieke-zorgkosten)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 9
 |---|---|---|
 | 2018-07-28 | heden | [2018-07-28.md](./2018-07-28.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2010-11-17 | 2018-05-24 | [2010-11-17.md](./2010-11-17.md) |
 | 2010-07-07 | 2010-11-16 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-07-07 | 2010-11-16 | [2010-07-07.md](./2010-07-07.md) |
-| 2010-01-01 | 2010-07-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-07-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |

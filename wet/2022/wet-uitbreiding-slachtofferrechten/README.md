@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wet uitbreiding slachtofferrechten
 **Type:** wet
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/wet/2022/wet-uitbreiding-slachtofferrechten](https://wetten.ai/eli/nl/wet/2022/wet-uitbreiding-slachtofferrechten)
+**ELI:** [/eli/nl/wet/2022/wet-uitbreiding-slachtofferrechten](https://wettenbank.online/eli/nl/wet/2022/wet-uitbreiding-slachtofferrechten)
 
 ## Versies
 

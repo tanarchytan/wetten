@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maar
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2005-01-01"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Sociale Verzekeringen 2004
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-directie-sociale-verz](https://wetten.ai/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-directie-sociale-verz)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-directie-sociale-verz](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/organisatie-mandaat-en-volmachtbesluit-directie-sociale-verz)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2005-01-01 | 2005-05-05 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-04-07 | 2004-12-31 | [2004-04-07.md](./2004-04-07.md) |
 | 2004-04-01 | 2004-04-06 | [2004-04-01.md](./2004-04-01.md) |
-| 2004-04-01 | 2004-04-06 | [2004-04-01.md](./2004-04-01.md) |
-| 2004-01-01 | 2004-03-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-03-31 | [2004-01-01.md](./2004-01-01.md) |

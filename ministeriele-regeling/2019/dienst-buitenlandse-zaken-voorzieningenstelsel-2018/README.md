@@ -6,7 +6,7 @@ title: Regeling van de Minister van Buitenlandse Zaken van 19 november 2018, nr.
 ministry: Buitenlandse Zaken
 abbreviation: DBZV 2018
 latest_state: "2019-07-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
 **Afkorting:** DBZV 2018
-**ELI:** [/eli/nl/ministeriele-regeling/2019/dienst-buitenlandse-zaken-voorzieningenstelsel-2018](https://wetten.ai/eli/nl/ministeriele-regeling/2019/dienst-buitenlandse-zaken-voorzieningenstelsel-2018)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/dienst-buitenlandse-zaken-voorzieningenstelsel-2018](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/dienst-buitenlandse-zaken-voorzieningenstelsel-2018)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-07-01 | 2019-12-31 | [2019-07-01.md](./2019-07-01.md) |
-| 2019-06-01 | 2019-06-30 | [2019-06-01.md](./2019-06-01.md) |
 | 2019-06-01 | 2019-06-30 | [2019-06-01.md](./2019-06-01.md) |
 | 2019-01-01 | 2019-05-31 | [2019-01-01.md](./2019-01-01.md) |

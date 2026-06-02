@@ -6,7 +6,7 @@ title: Regeling van de directeur Operatie van de Justitiële Informatiedienst va
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-10-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Mandaatregeling Operatie Justid 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2014/mandaatregeling-operatie-justid-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2014/mandaatregeling-operatie-justid-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/mandaatregeling-operatie-justid-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/mandaatregeling-operatie-justid-2013)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2016-10-01 | 2017-03-28 | [2016-10-01.md](./2016-10-01.md) |
 | 2014-03-11 | 2016-09-30 | [2014-03-11.md](./2014-03-11.md) |
-| 2014-01-21 | 2014-03-10 | [2014-01-21.md](./2014-01-21.md) |
 | 2014-01-21 | 2014-03-10 | [2014-01-21.md](./2014-01-21.md) |

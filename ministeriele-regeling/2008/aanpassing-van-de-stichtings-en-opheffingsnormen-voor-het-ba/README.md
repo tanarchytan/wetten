@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2008-09-14"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/aanpassing-van-de-stichtings-en-opheffingsnormen-voor-het-ba](https://wetten.ai/eli/nl/ministeriele-regeling/2008/aanpassing-van-de-stichtings-en-opheffingsnormen-voor-het-ba)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/aanpassing-van-de-stichtings-en-opheffingsnormen-voor-het-ba](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/aanpassing-van-de-stichtings-en-opheffingsnormen-voor-het-ba)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-09-14 | 2013-07-31 | [2008-09-14.md](./2008-09-14.md) |
-| 2008-08-02 | 2008-09-13 | [2008-08-02.md](./2008-08-02.md) |
 | 2008-08-02 | 2008-09-13 | [2008-08-02.md](./2008-08-02.md) |
 | 2008-08-01 | 2008-08-01 | [2008-08-01.md](./2008-08-01.md) |

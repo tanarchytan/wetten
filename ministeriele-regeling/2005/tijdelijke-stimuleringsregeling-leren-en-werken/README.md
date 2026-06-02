@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2008-12-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Tijdelijke stimuleringsregeling leren en werken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-stimuleringsregeling-leren-en-werken](https://wetten.ai/eli/nl/ministeriele-regeling/2005/tijdelijke-stimuleringsregeling-leren-en-werken)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-stimuleringsregeling-leren-en-werken](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/tijdelijke-stimuleringsregeling-leren-en-werken)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 9
 |---|---|---|
 | 2008-12-01 | 2009-03-09 | [2008-12-01.md](./2008-12-01.md) |
 | 2008-09-03 | 2008-11-30 | [2008-09-03.md](./2008-09-03.md) |
-| 2008-03-10 | 2008-09-02 | [2008-03-10.md](./2008-03-10.md) |
 | 2008-03-10 | 2008-09-02 | [2008-03-10.md](./2008-03-10.md) |
 | 2007-09-02 | 2008-03-09 | [2007-09-02.md](./2007-09-02.md) |
 | 2007-04-05 | 2007-09-01 | [2007-04-05.md](./2007-04-05.md) |

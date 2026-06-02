@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap en de Staat
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2020-06-24"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Subsidieregeling cultuurbegeleider primair en speciaal onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-cultuurbegeleider-primair-en-speciaal-onder](https://wetten.ai/eli/nl/ministeriele-regeling/2017/subsidieregeling-cultuurbegeleider-primair-en-speciaal-onder)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-cultuurbegeleider-primair-en-speciaal-onder](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/subsidieregeling-cultuurbegeleider-primair-en-speciaal-onder)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2020-06-24 | 2022-09-30 | [2020-06-24.md](./2020-06-24.md) |
 | 2020-03-23 | 2020-06-23 | [2020-03-23.md](./2020-03-23.md) |
-| 2020-03-23 | 2020-06-23 | [2020-03-23.md](./2020-03-23.md) |
 | 2019-12-20 | 2020-03-22 | [2019-12-20.md](./2019-12-20.md) |
-| 2019-01-01 | 2019-12-19 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-12-19 | [2019-01-01.md](./2019-01-01.md) |
 | 2017-10-01 | 2018-12-31 | [2017-10-01.md](./2017-10-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 7 december 2001, houdende wijziging van de regio-indeling en 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 25
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 25
 **Citeertitel:** Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2002/besluit-regionale-meld-en-co-rdinatiefunctie-voortijdig-scho](https://wetten.ai/eli/nl/amvb/2002/besluit-regionale-meld-en-co-rdinatiefunctie-voortijdig-scho)
+**ELI:** [/eli/nl/amvb/2002/besluit-regionale-meld-en-co-rdinatiefunctie-voortijdig-scho](https://wettenbank.online/eli/nl/amvb/2002/besluit-regionale-meld-en-co-rdinatiefunctie-voortijdig-scho)
 
 ## Versies
 
@@ -30,20 +30,12 @@ state_count: 25
 | 2014-01-06 | 2017-12-31 | [2014-01-06.md](./2014-01-06.md) |
 | 2010-10-01 | 2014-01-05 | [2010-10-01.md](./2010-10-01.md) |
 | 2010-09-01 | 2010-09-30 | [2010-09-01.md](./2010-09-01.md) |
-| 2010-09-01 | 2010-09-30 | [2010-09-01.md](./2010-09-01.md) |
 | 2008-04-30 | 2010-08-31 | [2008-04-30.md](./2008-04-30.md) |
 | 2006-01-01 | 2008-04-29 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-11-25 | 2005-12-31 | [2005-11-25.md](./2005-11-25.md) |
 | 2005-06-01 | 2005-11-24 | [2005-06-01.md](./2005-06-01.md) |
 | 2005-05-07 | 2005-05-31 | [2005-05-07.md](./2005-05-07.md) |
-| 2005-05-07 | 2005-05-31 | [2005-05-07.md](./2005-05-07.md) |
-| 2005-01-01 | 2005-05-06 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2005-05-06 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-05-06 | [2005-01-01.md](./2005-01-01.md) |
 | 2003-10-11 | 2004-12-31 | [2003-10-11.md](./2003-10-11.md) |
-| 2003-10-11 | 2004-12-31 | [2003-10-11.md](./2003-10-11.md) |
 | 2003-01-01 | 2003-10-10 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-10-10 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-10-10 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

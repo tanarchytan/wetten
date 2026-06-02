@@ -6,7 +6,7 @@ title: Besluit van 24 november 2009 tot aanpassing van diverse besluiten ter imp
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-04-23"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Aanpassingsbesluit dienstenrichtlijn
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2009/aanpassingsbesluit-dienstenrichtlijn](https://wetten.ai/eli/nl/amvb/2009/aanpassingsbesluit-dienstenrichtlijn)
+**ELI:** [/eli/nl/amvb/2009/aanpassingsbesluit-dienstenrichtlijn](https://wettenbank.online/eli/nl/amvb/2009/aanpassingsbesluit-dienstenrichtlijn)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-04-23 | heden | [2010-04-23.md](./2010-04-23.md) |
-| 2009-12-28 | 2010-04-22 | [2009-12-28.md](./2009-12-28.md) |
 | 2009-12-28 | 2010-04-22 | [2009-12-28.md](./2009-12-28.md) |
 | 2009-12-16 | 2009-12-27 | [2009-12-16.md](./2009-12-16.md) |
 | 2009-12-02 | 2009-12-15 | [2009-12-02.md](./2009-12-02.md) |

@@ -6,7 +6,7 @@ title: Besluit van 30 juli 1993, betreffende de regeling van de vergoeding van r
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2002-08-28"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Besluit vergoeding representatiekosten rijkspersoneel
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1993/besluit-vergoeding-representatiekosten-rijkspersoneel](https://wetten.ai/eli/nl/amvb/1993/besluit-vergoeding-representatiekosten-rijkspersoneel)
+**ELI:** [/eli/nl/amvb/1993/besluit-vergoeding-representatiekosten-rijkspersoneel](https://wettenbank.online/eli/nl/amvb/1993/besluit-vergoeding-representatiekosten-rijkspersoneel)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2002-08-28 | 2013-12-31 | [2002-08-28.md](./2002-08-28.md) |
 | 2002-06-01 | 2002-08-27 | [2002-06-01.md](./2002-06-01.md) |
-| 2002-01-01 | 2002-05-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-05-31 | [2002-01-01.md](./2002-01-01.md) |

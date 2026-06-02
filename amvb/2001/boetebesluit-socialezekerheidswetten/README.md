@@ -6,7 +6,7 @@ title: Besluit van 14 oktober 2000, houdende regels omtrent de hoogte van op te 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: BB Szw
 latest_state: "2018-11-14"
-state_count: 26
+state_count: 22
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 26
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** BB Szw
-**ELI:** [/eli/nl/amvb/2001/boetebesluit-socialezekerheidswetten](https://wetten.ai/eli/nl/amvb/2001/boetebesluit-socialezekerheidswetten)
+**ELI:** [/eli/nl/amvb/2001/boetebesluit-socialezekerheidswetten](https://wettenbank.online/eli/nl/amvb/2001/boetebesluit-socialezekerheidswetten)
 
 ## Versies
 
@@ -25,16 +25,12 @@ state_count: 26
 |---|---|---|
 | 2018-11-14 | heden | [2018-11-14.md](./2018-11-14.md) |
 | 2018-07-01 | 2018-11-13 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-07-01 | 2018-11-13 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-01-01 | 2018-06-30 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2018-06-30 | [2017-01-01.md](./2017-01-01.md) |
-| 2015-01-01 | 2016-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2016-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-03-12 | 2014-06-30 | [2014-03-12.md](./2014-03-12.md) |
 | 2013-01-01 | 2014-03-11 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-10-20 | 2012-12-31 | [2012-10-20.md](./2012-10-20.md) |
-| 2011-01-01 | 2012-10-19 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2012-10-19 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-01 | 2009-12-31 | [2009-12-01.md](./2009-12-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Financiën van 5 maart 2019, directie
 ministry: Financiën
 abbreviation: null
 latest_state: "2023-09-08"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit Muntadviescommissie 2019
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-muntadviescommissie-2019](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-muntadviescommissie-2019)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-muntadviescommissie-2019](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-muntadviescommissie-2019)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2023-09-08 | heden | [2023-09-08.md](./2023-09-08.md) |
 | 2020-04-17 | 2023-09-07 | [2020-04-17.md](./2020-04-17.md) |
-| 2019-11-01 | 2020-04-16 | [2019-11-01.md](./2019-11-01.md) |
 | 2019-11-01 | 2020-04-16 | [2019-11-01.md](./2019-11-01.md) |
 | 2019-03-14 | 2019-10-31 | [2019-03-14.md](./2019-03-14.md) |
 | 2019-03-01 | 2019-03-13 | [2019-03-01.md](./2019-03-01.md) |

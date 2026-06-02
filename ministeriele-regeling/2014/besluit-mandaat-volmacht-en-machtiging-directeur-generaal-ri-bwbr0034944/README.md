@@ -6,7 +6,7 @@ title: Besluit van de Minister van Infrastructuur en Milieu, van 17 maart 2014,
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2015-05-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit mandaat, volmacht en machtiging directeur-generaal Rijksdienst voor Ondernemend Nederland van het ministerie van Economische Zaken voor de uitvoering van diverse subsidieregelingen en -programma’s en enige andere regelingen en besluiten op het terrein van het ministerie van Infrastructuur en Milieu 2014
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandaat-volmacht-en-machtiging-directeur-generaal-ri-bwbr0034944](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-mandaat-volmacht-en-machtiging-directeur-generaal-ri-bwbr0034944)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandaat-volmacht-en-machtiging-directeur-generaal-ri-bwbr0034944](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-mandaat-volmacht-en-machtiging-directeur-generaal-ri-bwbr0034944)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 8
 | 2015-03-01 | 2015-04-30 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-02-03 | 2015-02-28 | [2015-02-03.md](./2015-02-03.md) |
 | 2014-08-22 | 2015-02-02 | [2014-08-22.md](./2014-08-22.md) |
-| 2014-08-01 | 2014-08-21 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2014-08-21 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-03-21 | 2014-07-31 | [2014-03-21.md](./2014-03-21.md) |
 | 2014-03-01 | 2014-03-20 | [2014-03-01.md](./2014-03-01.md) |

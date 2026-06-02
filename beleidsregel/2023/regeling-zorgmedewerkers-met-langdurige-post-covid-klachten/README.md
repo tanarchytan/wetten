@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister voor Langdurige Zorg en Sport van 30 augustu
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2024-06-15"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling zorgmedewerkers met langdurige post-COVID klachten
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/beleidsregel/2023/regeling-zorgmedewerkers-met-langdurige-post-covid-klachten](https://wetten.ai/eli/nl/beleidsregel/2023/regeling-zorgmedewerkers-met-langdurige-post-covid-klachten)
+**ELI:** [/eli/nl/beleidsregel/2023/regeling-zorgmedewerkers-met-langdurige-post-covid-klachten](https://wettenbank.online/eli/nl/beleidsregel/2023/regeling-zorgmedewerkers-met-langdurige-post-covid-klachten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-06-15 | heden | [2024-06-15.md](./2024-06-15.md) |
-| 2023-09-02 | 2024-06-14 | [2023-09-02.md](./2023-09-02.md) |
 | 2023-09-02 | 2024-06-14 | [2023-09-02.md](./2023-09-02.md) |

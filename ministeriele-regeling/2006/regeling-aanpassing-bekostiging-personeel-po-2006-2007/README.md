@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 5 juli
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2007-08-01"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling aanpassing bekostiging personeel PO 2006–2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-aanpassing-bekostiging-personeel-po-2006-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2006/regeling-aanpassing-bekostiging-personeel-po-2006-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/regeling-aanpassing-bekostiging-personeel-po-2006-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/regeling-aanpassing-bekostiging-personeel-po-2006-2007)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2007-08-01 | 2007-12-11 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-04-13 | 2007-07-31 | [2007-04-13.md](./2007-04-13.md) |
-| 2007-04-13 | 2007-07-31 | [2007-04-13.md](./2007-04-13.md) |
-| 2006-08-01 | 2007-04-12 | [2006-08-01.md](./2006-08-01.md) |
-| 2006-08-01 | 2007-04-12 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-08-01 | 2007-04-12 | [2006-08-01.md](./2006-08-01.md) |
 | 2006-07-16 | 2006-07-31 | [2006-07-16.md](./2006-07-16.md) |

@@ -6,7 +6,7 @@ title: Regeling ammoniak en veehouderij
 ministry: Infrastructuur en Milieu
 abbreviation: Rav
 latest_state: "2023-04-01"
-state_count: 40
+state_count: 37
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 40
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Rav
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-ammoniak-en-veehouderij](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-ammoniak-en-veehouderij)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-ammoniak-en-veehouderij](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-ammoniak-en-veehouderij)
 
 ## Versies
 
@@ -44,18 +44,15 @@ state_count: 40
 | 2015-06-09 | 2015-07-31 | [2015-06-09.md](./2015-06-09.md) |
 | 2014-09-11 | 2015-06-08 | [2014-09-11.md](./2014-09-11.md) |
 | 2014-08-01 | 2014-09-10 | [2014-08-01.md](./2014-08-01.md) |
-| 2014-08-01 | 2014-09-10 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-01-01 | 2014-07-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2012-10-25 | 2013-12-31 | [2012-10-25.md](./2012-10-25.md) |
 | 2011-10-19 | 2012-10-24 | [2011-10-19.md](./2011-10-19.md) |
 | 2011-02-12 | 2011-10-18 | [2011-02-12.md](./2011-02-12.md) |
 | 2010-06-30 | 2011-02-11 | [2010-06-30.md](./2010-06-30.md) |
 | 2010-06-01 | 2010-06-29 | [2010-06-01.md](./2010-06-01.md) |
-| 2010-06-01 | 2010-06-29 | [2010-06-01.md](./2010-06-01.md) |
 | 2010-01-01 | 2010-05-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-05-08 | 2009-12-31 | [2009-05-08.md](./2009-05-08.md) |
 | 2007-05-16 | 2009-05-07 | [2007-05-16.md](./2007-05-16.md) |
-| 2007-04-02 | 2007-05-15 | [2007-04-02.md](./2007-04-02.md) |
 | 2007-04-02 | 2007-05-15 | [2007-04-02.md](./2007-04-02.md) |
 | 2006-10-26 | 2007-04-01 | [2006-10-26.md](./2006-10-26.md) |
 | 2005-12-08 | 2006-10-25 | [2005-12-08.md](./2005-12-08.md) |

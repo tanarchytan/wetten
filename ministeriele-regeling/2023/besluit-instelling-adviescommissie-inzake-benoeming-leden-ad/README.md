@@ -6,7 +6,7 @@ title: Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 juni 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2024-09-12"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit instelling adviescommissie inzake benoeming leden Adviesraad voor wetenschap, technologie en innovatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-instelling-adviescommissie-inzake-benoeming-leden-ad](https://wetten.ai/eli/nl/ministeriele-regeling/2023/besluit-instelling-adviescommissie-inzake-benoeming-leden-ad)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-instelling-adviescommissie-inzake-benoeming-leden-ad](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/besluit-instelling-adviescommissie-inzake-benoeming-leden-ad)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-09-12 | heden | [2024-09-12.md](./2024-09-12.md) |
-| 2024-07-26 | 2024-09-11 | [2024-07-26.md](./2024-07-26.md) |
 | 2024-07-26 | 2024-09-11 | [2024-07-26.md](./2024-07-26.md) |
 | 2023-12-05 | 2024-07-25 | [2023-12-05.md](./2023-12-05.md) |
 | 2023-07-02 | 2023-12-04 | [2023-07-02.md](./2023-07-02.md) |

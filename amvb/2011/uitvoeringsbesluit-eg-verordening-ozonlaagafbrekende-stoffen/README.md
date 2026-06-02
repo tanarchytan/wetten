@@ -6,7 +6,7 @@ title: Besluit van 31 mei 2011, houdende regels ten behoeve van de uitvoering va
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-07-03"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2011/uitvoeringsbesluit-eg-verordening-ozonlaagafbrekende-stoffen](https://wetten.ai/eli/nl/amvb/2011/uitvoeringsbesluit-eg-verordening-ozonlaagafbrekende-stoffen)
+**ELI:** [/eli/nl/amvb/2011/uitvoeringsbesluit-eg-verordening-ozonlaagafbrekende-stoffen](https://wettenbank.online/eli/nl/amvb/2011/uitvoeringsbesluit-eg-verordening-ozonlaagafbrekende-stoffen)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2014-07-03 | 2015-11-30 | [2014-07-03.md](./2014-07-03.md) |
 | 2014-07-01 | 2014-07-02 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-07-01 | 2014-07-02 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-02-14 | 2014-06-30 | [2014-02-14.md](./2014-02-14.md) |
 | 2014-02-14 | 2014-06-30 | [2014-02-14.md](./2014-02-14.md) |
 | 2011-06-30 | 2014-02-13 | [2011-06-30.md](./2011-06-30.md) |

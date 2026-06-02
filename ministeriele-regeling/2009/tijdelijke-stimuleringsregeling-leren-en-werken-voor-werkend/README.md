@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-03-02"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke stimuleringsregeling leren en werken voor werkende jongeren zonder startkwalificatie, werkzoekenden en met werkloosheid bedreigden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leren-en-werken-voor-werkend](https://wetten.ai/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leren-en-werken-voor-werkend)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leren-en-werken-voor-werkend](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/tijdelijke-stimuleringsregeling-leren-en-werken-voor-werkend)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-03-02 | 2012-01-31 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-02-07 | 2009-12-31 | [2009-02-07.md](./2009-02-07.md) |

@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 20 maart 2003 houdend
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2007-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Verordening HPA wratziekte 2003
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2003/verordening-hpa-wratziekte-2003](https://wetten.ai/eli/nl/pbo/2003/verordening-hpa-wratziekte-2003)
+**ELI:** [/eli/nl/pbo/2003/verordening-hpa-wratziekte-2003](https://wettenbank.online/eli/nl/pbo/2003/verordening-hpa-wratziekte-2003)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2007-01-01 | 2007-07-07 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-31 | 2006-12-31 | [2006-12-31.md](./2006-12-31.md) |
 | 2006-05-28 | 2006-12-30 | [2006-05-28.md](./2006-05-28.md) |
-| 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-05-27 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-05-29 | 2005-12-31 | [2005-05-29.md](./2005-05-29.md) |
 | 2003-07-01 | 2005-05-28 | [2003-07-01.md](./2003-07-01.md) |

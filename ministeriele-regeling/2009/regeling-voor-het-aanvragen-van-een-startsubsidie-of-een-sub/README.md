@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-06-22"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling voor het aanvragen van een startsubsidie of een subsidie veldinitiatief Passend onderwijs 2009–2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-voor-het-aanvragen-van-een-startsubsidie-of-een-sub](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-voor-het-aanvragen-van-een-startsubsidie-of-een-sub)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-voor-het-aanvragen-van-een-startsubsidie-of-een-sub](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-voor-het-aanvragen-van-een-startsubsidie-of-een-sub)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2010-06-22 | 2011-12-31 | [2010-06-22.md](./2010-06-22.md) |
 | 2010-01-01 | 2010-06-21 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-06-21 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-05-13 | 2009-12-31 | [2009-05-13.md](./2009-05-13.md) |
 | 2009-05-13 | 2009-12-31 | [2009-05-13.md](./2009-05-13.md) |
 | 2009-01-01 | 2009-05-12 | [2009-01-01.md](./2009-01-01.md) |

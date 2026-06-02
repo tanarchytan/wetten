@@ -6,7 +6,7 @@ title: Wet van 27 juni 2002, houdende bepalingen inzake de geldtransactiekantore
 ministry: Financiën
 abbreviation: Wgt
 latest_state: "2012-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 11
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Wgt
-**ELI:** [/eli/nl/wet/2002/wet-inzake-de-geldtransactiekantoren](https://wetten.ai/eli/nl/wet/2002/wet-inzake-de-geldtransactiekantoren)
+**ELI:** [/eli/nl/wet/2002/wet-inzake-de-geldtransactiekantoren](https://wettenbank.online/eli/nl/wet/2002/wet-inzake-de-geldtransactiekantoren)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-04-30 | 2011-12-31 | [2011-04-30.md](./2011-04-30.md) |
 | 2011-04-30 | 2011-12-31 | [2011-04-30.md](./2011-04-30.md) |
 | 2009-11-01 | 2011-04-29 | [2009-11-01.md](./2009-11-01.md) |
 | 2009-08-01 | 2009-10-31 | [2009-08-01.md](./2009-08-01.md) |

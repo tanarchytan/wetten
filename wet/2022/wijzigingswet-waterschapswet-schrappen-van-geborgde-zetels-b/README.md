@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Wijzigingswet Waterschapswet (schrappen van geborgde zetels bedrijven)
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/wet/2022/wijzigingswet-waterschapswet-schrappen-van-geborgde-zetels-b](https://wetten.ai/eli/nl/wet/2022/wijzigingswet-waterschapswet-schrappen-van-geborgde-zetels-b)
+**ELI:** [/eli/nl/wet/2022/wijzigingswet-waterschapswet-schrappen-van-geborgde-zetels-b](https://wettenbank.online/eli/nl/wet/2022/wijzigingswet-waterschapswet-schrappen-van-geborgde-zetels-b)
 
 ## Versies
 

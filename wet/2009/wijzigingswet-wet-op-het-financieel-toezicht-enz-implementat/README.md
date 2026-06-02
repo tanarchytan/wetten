@@ -6,7 +6,7 @@ title: Wet van 15 oktober 2009 tot wijziging van de Wet op het financieel toezic
 ministry: Financiën
 abbreviation: null
 latest_state: "2011-07-01"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Wijzigingswet Wet op het financieel toezicht, enz. (implementatie Richtlijn nr. 2007/64/EG)
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2009/wijzigingswet-wet-op-het-financieel-toezicht-enz-implementat](https://wetten.ai/eli/nl/wet/2009/wijzigingswet-wet-op-het-financieel-toezicht-enz-implementat)
+**ELI:** [/eli/nl/wet/2009/wijzigingswet-wet-op-het-financieel-toezicht-enz-implementat](https://wettenbank.online/eli/nl/wet/2009/wijzigingswet-wet-op-het-financieel-toezicht-enz-implementat)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-07-01 | heden | [2011-07-01.md](./2011-07-01.md) |
-| 2009-11-01 | 2011-06-30 | [2009-11-01.md](./2009-11-01.md) |
 | 2009-11-01 | 2011-06-30 | [2009-11-01.md](./2009-11-01.md) |

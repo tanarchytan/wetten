@@ -6,7 +6,7 @@ title: Besluit van de raad van bestuur van de Nederlandse Organisatie van Wetens
 ministry: Nederlandse Organisatie voor Wetenschappelijk Onderzoek
 abbreviation: null
 latest_state: "2020-04-07"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Klachtenregeling Wetenschappelijke Integriteit NWO
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse Organisatie voor Wetenschappelijk Onderzoek
-**ELI:** [/eli/nl/zbo/2019/klachtenregeling-wetenschappelijke-integriteit-nwo](https://wetten.ai/eli/nl/zbo/2019/klachtenregeling-wetenschappelijke-integriteit-nwo)
+**ELI:** [/eli/nl/zbo/2019/klachtenregeling-wetenschappelijke-integriteit-nwo](https://wettenbank.online/eli/nl/zbo/2019/klachtenregeling-wetenschappelijke-integriteit-nwo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-04-07 | heden | [2020-04-07.md](./2020-04-07.md) |
-| 2019-06-01 | 2020-04-06 | [2019-06-01.md](./2019-06-01.md) |
 | 2019-06-01 | 2020-04-06 | [2019-06-01.md](./2019-06-01.md) |

@@ -6,7 +6,7 @@ title: Besluit ondermandaat, volmacht en machtiging van de secretaris-generaal v
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2016-09-09"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit ondermandaat, volmacht en machtiging plaatsvervangend secretaris-generaal van het Ministerie van Economische Zaken 2016
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-ondermandaat-volmacht-en-machtiging-plaatsvervangend](https://wetten.ai/eli/nl/ministeriele-regeling/2015/besluit-ondermandaat-volmacht-en-machtiging-plaatsvervangend)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-ondermandaat-volmacht-en-machtiging-plaatsvervangend](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/besluit-ondermandaat-volmacht-en-machtiging-plaatsvervangend)
 
 ## Versies
 
@@ -24,9 +24,7 @@ state_count: 8
 |---|---|---|
 | 2016-09-09 | 2018-12-31 | [2016-09-09.md](./2016-09-09.md) |
 | 2016-09-01 | 2016-09-08 | [2016-09-01.md](./2016-09-01.md) |
-| 2016-09-01 | 2016-09-08 | [2016-09-01.md](./2016-09-01.md) |
 | 2015-03-19 | 2016-08-31 | [2015-03-19.md](./2015-03-19.md) |
-| 2015-03-01 | 2015-03-18 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-03-01 | 2015-03-18 | [2015-03-01.md](./2015-03-01.md) |
 | 2015-01-07 | 2015-02-28 | [2015-01-07.md](./2015-01-07.md) |
 | 2015-01-01 | 2015-01-06 | [2015-01-01.md](./2015-01-01.md) |

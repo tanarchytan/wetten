@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Economische Zaken van 29 juli 2016, 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-05-08"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit vergoeding leden en plaatsvervangende leden van het College voor de toelating van gewasbeschermingsmiddelen en biociden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-vergoeding-leden-en-plaatsvervangende-leden-van-het-](https://wetten.ai/eli/nl/ministeriele-regeling/2016/besluit-vergoeding-leden-en-plaatsvervangende-leden-van-het-)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-vergoeding-leden-en-plaatsvervangende-leden-van-het-](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/besluit-vergoeding-leden-en-plaatsvervangende-leden-van-het-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-05-08 | heden | [2020-05-08.md](./2020-05-08.md) |
-| 2020-01-01 | 2020-05-07 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-05-07 | [2020-01-01.md](./2020-01-01.md) |
 | 2016-08-18 | 2019-12-31 | [2016-08-18.md](./2016-08-18.md) |
 | 2016-01-01 | 2016-08-17 | [2016-01-01.md](./2016-01-01.md) |

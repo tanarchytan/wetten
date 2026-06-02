@@ -6,7 +6,7 @@ title: Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/1994/tijdelijke-vergoedingsregeling-psychotherapie-na-oorlogse-ge](https://wetten.ai/eli/nl/ministeriele-regeling/1994/tijdelijke-vergoedingsregeling-psychotherapie-na-oorlogse-ge)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/tijdelijke-vergoedingsregeling-psychotherapie-na-oorlogse-ge](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/tijdelijke-vergoedingsregeling-psychotherapie-na-oorlogse-ge)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2011-01-01 | heden | [2011-01-01.md](./2011-01-01.md) |
 | 2009-12-17 | 2010-12-31 | [2009-12-17.md](./2009-12-17.md) |
 | 2006-11-01 | 2009-12-16 | [2006-11-01.md](./2006-11-01.md) |
-| 2006-10-01 | 2006-10-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-10-01 | 2006-10-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2002-01-01 | 2006-09-30 | [2002-01-01.md](./2002-01-01.md) |

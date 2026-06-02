@@ -6,7 +6,7 @@ title: Tijdelijke regeling van de Staatssecretaris van Verkeer en Waterstaat hou
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-04-05"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Tijdelijke subsidieregeling Inland AIS-apparaten binnenvaart
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-inland-ais-apparaten-binnenvaart](https://wetten.ai/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-inland-ais-apparaten-binnenvaart)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-inland-ais-apparaten-binnenvaart](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/tijdelijke-subsidieregeling-inland-ais-apparaten-binnenvaart)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-04-05 | 2012-12-31 | [2011-04-05.md](./2011-04-05.md) |
-| 2009-12-02 | 2011-04-04 | [2009-12-02.md](./2009-12-02.md) |
 | 2009-12-02 | 2011-04-04 | [2009-12-02.md](./2009-12-02.md) |

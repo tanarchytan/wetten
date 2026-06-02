@@ -6,7 +6,7 @@ title: Beleidsregel van het Instituut Mijnbouwschade Groningen van 8 juni 2023 m
 ministry: Instituut Mijnbouwschade Groningen
 abbreviation: null
 latest_state: "2024-10-22"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregel duurzaam herstel
 **Type:** zbo
 **Verantwoordelijk ministerie:** Instituut Mijnbouwschade Groningen
-**ELI:** [/eli/nl/zbo/2023/beleidsregel-duurzaam-herstel](https://wetten.ai/eli/nl/zbo/2023/beleidsregel-duurzaam-herstel)
+**ELI:** [/eli/nl/zbo/2023/beleidsregel-duurzaam-herstel](https://wettenbank.online/eli/nl/zbo/2023/beleidsregel-duurzaam-herstel)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2024-10-22 | heden | [2024-10-22.md](./2024-10-22.md) |
 | 2024-03-15 | 2024-10-21 | [2024-03-15.md](./2024-03-15.md) |
-| 2024-02-01 | 2024-03-14 | [2024-02-01.md](./2024-02-01.md) |
 | 2024-02-01 | 2024-03-14 | [2024-02-01.md](./2024-02-01.md) |
 | 2023-07-01 | 2024-01-31 | [2023-07-01.md](./2023-07-01.md) |

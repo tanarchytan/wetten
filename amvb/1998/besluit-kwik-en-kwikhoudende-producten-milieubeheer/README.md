@@ -6,7 +6,7 @@ title: Besluit van 9 september 1998, houdende regels betreffende producten die k
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-04-19"
-state_count: 20
+state_count: 19
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Besluit kwik en kwikhoudende producten milieubeheer
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/1998/besluit-kwik-en-kwikhoudende-producten-milieubeheer](https://wetten.ai/eli/nl/amvb/1998/besluit-kwik-en-kwikhoudende-producten-milieubeheer)
+**ELI:** [/eli/nl/amvb/1998/besluit-kwik-en-kwikhoudende-producten-milieubeheer](https://wettenbank.online/eli/nl/amvb/1998/besluit-kwik-en-kwikhoudende-producten-milieubeheer)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 20
 | 2019-02-16 | 2020-12-30 | [2019-02-16.md](./2019-02-16.md) |
 | 2016-09-18 | 2019-02-15 | [2016-09-18.md](./2016-09-18.md) |
 | 2016-05-24 | 2016-09-17 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2014-07-01 | 2016-04-30 | [2014-07-01.md](./2014-07-01.md) |
 | 2013-01-02 | 2014-06-30 | [2013-01-02.md](./2013-01-02.md) |

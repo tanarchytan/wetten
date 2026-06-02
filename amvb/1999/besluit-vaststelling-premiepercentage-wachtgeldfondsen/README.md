@@ -6,7 +6,7 @@ title: Besluit van 16 december 1998 tot vaststelling van een algemene maatregel 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2005-05-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit vaststelling premiepercentage wachtgeldfondsen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/1999/besluit-vaststelling-premiepercentage-wachtgeldfondsen](https://wetten.ai/eli/nl/amvb/1999/besluit-vaststelling-premiepercentage-wachtgeldfondsen)
+**ELI:** [/eli/nl/amvb/1999/besluit-vaststelling-premiepercentage-wachtgeldfondsen](https://wettenbank.online/eli/nl/amvb/1999/besluit-vaststelling-premiepercentage-wachtgeldfondsen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-05-25 | 2005-12-31 | [2005-05-25.md](./2005-05-25.md) |
-| 2004-12-30 | 2005-05-24 | [2004-12-30.md](./2004-12-30.md) |
 | 2004-12-30 | 2005-05-24 | [2004-12-30.md](./2004-12-30.md) |
 | 2002-01-01 | 2004-12-29 | [2002-01-01.md](./2002-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 11 december 2013, houdende regels voor de opleiding van regis
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-09-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2014/besluit-opleidingen-en-bevoegdheden-nautische-beroepsbeoefen](https://wetten.ai/eli/nl/amvb/2014/besluit-opleidingen-en-bevoegdheden-nautische-beroepsbeoefen)
+**ELI:** [/eli/nl/amvb/2014/besluit-opleidingen-en-bevoegdheden-nautische-beroepsbeoefen](https://wettenbank.online/eli/nl/amvb/2014/besluit-opleidingen-en-bevoegdheden-nautische-beroepsbeoefen)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 12
 | 2019-02-01 | 2020-12-31 | [2019-02-01.md](./2019-02-01.md) |
 | 2017-01-01 | 2019-01-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-02-02 | 2016-12-31 | [2016-02-02.md](./2016-02-02.md) |
-| 2016-01-18 | 2016-02-01 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-02-01 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-01 | 2016-01-17 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |

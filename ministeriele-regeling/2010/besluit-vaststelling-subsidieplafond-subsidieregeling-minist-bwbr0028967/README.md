@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Buitenlandse Zaken van 11 november 2
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2011-01-15"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit vaststelling subsidieplafond Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Matra-Programma subsidieplafond 2011)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-vaststelling-subsidieplafond-subsidieregeling-minist-bwbr0028967](https://wetten.ai/eli/nl/ministeriele-regeling/2010/besluit-vaststelling-subsidieplafond-subsidieregeling-minist-bwbr0028967)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/besluit-vaststelling-subsidieplafond-subsidieregeling-minist-bwbr0028967](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/besluit-vaststelling-subsidieplafond-subsidieregeling-minist-bwbr0028967)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-01-15 | 2011-12-31 | [2011-01-15.md](./2011-01-15.md) |
-| 2010-11-20 | 2011-01-14 | [2010-11-20.md](./2010-11-20.md) |
 | 2010-11-20 | 2011-01-14 | [2010-11-20.md](./2010-11-20.md) |

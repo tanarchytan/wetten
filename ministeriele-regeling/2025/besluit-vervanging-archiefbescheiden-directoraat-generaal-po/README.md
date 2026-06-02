@@ -16,7 +16,7 @@ state_count: 2
 **Citeertitel:** Besluit Vervanging archiefbescheiden Directoraat-Generaal Politie en Veiligheidsregio’s ter uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2025/besluit-vervanging-archiefbescheiden-directoraat-generaal-po](https://wetten.ai/eli/nl/ministeriele-regeling/2025/besluit-vervanging-archiefbescheiden-directoraat-generaal-po)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/besluit-vervanging-archiefbescheiden-directoraat-generaal-po](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/besluit-vervanging-archiefbescheiden-directoraat-generaal-po)
 
 ## Versies
 

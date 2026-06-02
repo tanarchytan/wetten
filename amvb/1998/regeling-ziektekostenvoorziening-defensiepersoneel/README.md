@@ -6,7 +6,7 @@ title: Besluit van 5 juli 1997 tot vervanging van de Regeling ziektekostenvoorzi
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling ziektekostenvoorziening defensiepersoneel
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/amvb/1998/regeling-ziektekostenvoorziening-defensiepersoneel](https://wetten.ai/eli/nl/amvb/1998/regeling-ziektekostenvoorziening-defensiepersoneel)
+**ELI:** [/eli/nl/amvb/1998/regeling-ziektekostenvoorziening-defensiepersoneel](https://wettenbank.online/eli/nl/amvb/1998/regeling-ziektekostenvoorziening-defensiepersoneel)
 
 ## Versies
 
@@ -26,7 +26,4 @@ state_count: 8
 | 2004-01-01 | 2005-12-31 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-05-23 | 2003-12-31 | [2003-05-23.md](./2003-05-23.md) |
 | 2002-09-13 | 2003-05-22 | [2002-09-13.md](./2002-09-13.md) |
-| 2002-09-13 | 2003-05-22 | [2002-09-13.md](./2002-09-13.md) |
-| 2001-11-07 | 2002-09-12 | [2001-11-07.md](./2001-11-07.md) |
-| 2001-11-07 | 2002-09-12 | [2001-11-07.md](./2001-11-07.md) |
 | 2001-11-07 | 2002-09-12 | [2001-11-07.md](./2001-11-07.md) |

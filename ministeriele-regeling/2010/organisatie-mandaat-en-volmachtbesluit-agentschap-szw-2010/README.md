@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 aug
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-03-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit Agentschap SZW 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2010/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2010](https://wetten.ai/eli/nl/ministeriele-regeling/2010/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2010)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2010](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/organisatie-mandaat-en-volmachtbesluit-agentschap-szw-2010)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2013-03-01 | 2013-06-28 | [2013-03-01.md](./2013-03-01.md) |
 | 2011-05-18 | 2013-02-28 | [2011-05-18.md](./2011-05-18.md) |
-| 2011-04-01 | 2011-05-17 | [2011-04-01.md](./2011-04-01.md) |
 | 2011-04-01 | 2011-05-17 | [2011-04-01.md](./2011-04-01.md) |
 | 2010-09-21 | 2011-03-31 | [2010-09-21.md](./2010-09-21.md) |
 | 2010-06-01 | 2010-09-20 | [2010-06-01.md](./2010-06-01.md) |

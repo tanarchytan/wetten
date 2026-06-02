@@ -6,7 +6,7 @@ title: Besluit van 11 december 2014, houdende regels met betrekking tot de werkz
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-07-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit advisering beschut werk
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2015/besluit-advisering-beschut-werk](https://wetten.ai/eli/nl/amvb/2015/besluit-advisering-beschut-werk)
+**ELI:** [/eli/nl/amvb/2015/besluit-advisering-beschut-werk](https://wettenbank.online/eli/nl/amvb/2015/besluit-advisering-beschut-werk)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2022-07-01 | heden | [2022-07-01.md](./2022-07-01.md) |
 | 2018-02-08 | 2022-06-30 | [2018-02-08.md](./2018-02-08.md) |
-| 2018-01-01 | 2018-02-07 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-07 | [2018-01-01.md](./2018-01-01.md) |
 | 2017-02-25 | 2017-12-31 | [2017-02-25.md](./2017-02-25.md) |
 | 2015-05-01 | 2017-02-24 | [2015-05-01.md](./2015-05-01.md) |

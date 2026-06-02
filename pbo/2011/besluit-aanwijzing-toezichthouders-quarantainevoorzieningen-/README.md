@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Vis van 2 december 2010 tot 
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2012-01-14"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit aanwijzing toezichthouders quarantainevoorzieningen 2010
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2011/besluit-aanwijzing-toezichthouders-quarantainevoorzieningen-](https://wetten.ai/eli/nl/pbo/2011/besluit-aanwijzing-toezichthouders-quarantainevoorzieningen-)
+**ELI:** [/eli/nl/pbo/2011/besluit-aanwijzing-toezichthouders-quarantainevoorzieningen-](https://wettenbank.online/eli/nl/pbo/2011/besluit-aanwijzing-toezichthouders-quarantainevoorzieningen-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-01-14 | 2014-12-31 | [2012-01-14.md](./2012-01-14.md) |
-| 2011-01-01 | 2012-01-13 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2012-01-13 | [2011-01-01.md](./2011-01-01.md) |

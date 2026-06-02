@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media van 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2020-06-24"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit vaststelling beleidskader subsidie vrijroosteren leraren fase II 2019–2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidskader-subsidie-vrijroosteren-ler](https://wetten.ai/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidskader-subsidie-vrijroosteren-ler)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidskader-subsidie-vrijroosteren-ler](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/besluit-vaststelling-beleidskader-subsidie-vrijroosteren-ler)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2020-06-24 | 2022-12-31 | [2020-06-24.md](./2020-06-24.md) |
 | 2020-03-23 | 2020-06-23 | [2020-03-23.md](./2020-03-23.md) |
-| 2020-03-23 | 2020-06-23 | [2020-03-23.md](./2020-03-23.md) |
-| 2020-01-01 | 2020-03-22 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-03-22 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-12-05 | 2019-12-31 | [2019-12-05.md](./2019-12-05.md) |
-| 2019-06-18 | 2019-12-04 | [2019-06-18.md](./2019-06-18.md) |
 | 2019-06-18 | 2019-12-04 | [2019-06-18.md](./2019-06-18.md) |

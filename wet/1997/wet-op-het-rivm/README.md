@@ -6,7 +6,7 @@ title: Wet van 21 oktober 1996, houdende regeling van de taakuitoefening door he
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Wet op het RIVM
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/1997/wet-op-het-rivm](https://wetten.ai/eli/nl/wet/1997/wet-op-het-rivm)
+**ELI:** [/eli/nl/wet/1997/wet-op-het-rivm](https://wettenbank.online/eli/nl/wet/1997/wet-op-het-rivm)
 
 ## Versies
 
@@ -25,10 +25,8 @@ state_count: 11
 | 2024-01-01 | heden | [2024-01-01.md](./2024-01-01.md) |
 | 2023-10-05 | 2023-12-31 | [2023-10-05.md](./2023-10-05.md) |
 | 2021-01-01 | 2023-10-04 | [2021-01-01.md](./2021-01-01.md) |
-| 2021-01-01 | 2023-10-04 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-03-19 | 2020-12-31 | [2020-03-19.md](./2020-03-19.md) |
 | 2018-07-28 | 2020-03-18 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2017-01-01 | 2018-05-24 | [2017-01-01.md](./2017-01-01.md) |
 | 2005-12-28 | 2016-12-31 | [2005-12-28.md](./2005-12-28.md) |

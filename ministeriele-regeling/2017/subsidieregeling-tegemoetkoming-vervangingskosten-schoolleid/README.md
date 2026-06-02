@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2021-04-30"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Subsidieregeling tegemoetkoming vervangingskosten schoolleiders primair onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-tegemoetkoming-vervangingskosten-schoolleid](https://wetten.ai/eli/nl/ministeriele-regeling/2017/subsidieregeling-tegemoetkoming-vervangingskosten-schoolleid)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/subsidieregeling-tegemoetkoming-vervangingskosten-schoolleid](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/subsidieregeling-tegemoetkoming-vervangingskosten-schoolleid)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 10
 |---|---|---|
 | 2021-04-30 | 2022-12-31 | [2021-04-30.md](./2021-04-30.md) |
 | 2021-04-01 | 2021-04-29 | [2021-04-01.md](./2021-04-01.md) |
-| 2021-04-01 | 2021-04-29 | [2021-04-01.md](./2021-04-01.md) |
-| 2020-04-01 | 2021-03-31 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-04-01 | 2021-03-31 | [2020-04-01.md](./2020-04-01.md) |
 | 2020-01-01 | 2020-03-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-10-09 | 2019-12-31 | [2019-10-09.md](./2019-10-09.md) |

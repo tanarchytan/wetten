@@ -6,7 +6,7 @@ title: Besluit van 27 september 2016 tot vaststelling van het Algemeen besluit e
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2018-07-28"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Algemeen besluit erkenning EU-beroepskwalificaties
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2016/algemeen-besluit-erkenning-eu-beroepskwalificaties](https://wetten.ai/eli/nl/amvb/2016/algemeen-besluit-erkenning-eu-beroepskwalificaties)
+**ELI:** [/eli/nl/amvb/2016/algemeen-besluit-erkenning-eu-beroepskwalificaties](https://wettenbank.online/eli/nl/amvb/2016/algemeen-besluit-erkenning-eu-beroepskwalificaties)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2018-07-28 | heden | [2018-07-28.md](./2018-07-28.md) |
 | 2018-06-01 | 2018-07-27 | [2018-06-01.md](./2018-06-01.md) |
-| 2018-06-01 | 2018-07-27 | [2018-06-01.md](./2018-06-01.md) |
-| 2018-05-25 | 2018-05-31 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-05-31 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-10-11 | 2018-05-24 | [2016-10-11.md](./2016-10-11.md) |

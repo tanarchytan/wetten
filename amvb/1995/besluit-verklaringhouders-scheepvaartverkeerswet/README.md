@@ -6,7 +6,7 @@ title: Besluit van 16 augustus 1995, houdende bepalingen met betrekking tot houd
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-01-01"
-state_count: 11
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Besluit verklaringhouders Scheepvaartverkeerswet
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/1995/besluit-verklaringhouders-scheepvaartverkeerswet](https://wetten.ai/eli/nl/amvb/1995/besluit-verklaringhouders-scheepvaartverkeerswet)
+**ELI:** [/eli/nl/amvb/1995/besluit-verklaringhouders-scheepvaartverkeerswet](https://wettenbank.online/eli/nl/amvb/1995/besluit-verklaringhouders-scheepvaartverkeerswet)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 11
 |---|---|---|
 | 2014-01-01 | heden | [2014-01-01.md](./2014-01-01.md) |
 | 2011-10-12 | 2013-12-31 | [2011-10-12.md](./2011-10-12.md) |
-| 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
 | 2011-07-01 | 2011-10-11 | [2011-07-01.md](./2011-07-01.md) |
 | 2009-07-01 | 2011-06-30 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-10-01 | 2009-06-30 | [2008-10-01.md](./2008-10-01.md) |

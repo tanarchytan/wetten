@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Veiligheid en Justitie van 21 septem
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2019-06-15"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling Halt 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-halt-2013](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-halt-2013)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-halt-2013](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-halt-2013)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2019-06-15 | 2022-10-18 | [2019-06-15.md](./2019-06-15.md) |
 | 2015-03-24 | 2019-06-14 | [2015-03-24.md](./2015-03-24.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-01-01 | 2014-12-31 | [2013-01-01.md](./2013-01-01.md) |

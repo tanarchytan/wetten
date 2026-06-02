@@ -6,7 +6,7 @@ title: Bekendmaking van de Minister voor Basis- en Voortgezet Onderwijs en Media
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2019-04-10"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit wijziging subsidieplafond Regeling subsidie zij-instroom 2017 voor het kalenderjaar 2017 en vaststelling van het subsidieplafond voor het kalenderjaar 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-wijziging-subsidieplafond-regeling-subsidie-zij-inst-bwbr0040678](https://wetten.ai/eli/nl/ministeriele-regeling/2018/besluit-wijziging-subsidieplafond-regeling-subsidie-zij-inst-bwbr0040678)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/besluit-wijziging-subsidieplafond-regeling-subsidie-zij-inst-bwbr0040678](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/besluit-wijziging-subsidieplafond-regeling-subsidie-zij-inst-bwbr0040678)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2019-04-10 | heden | [2019-04-10.md](./2019-04-10.md) |
 | 2018-10-13 | 2019-04-09 | [2018-10-13.md](./2018-10-13.md) |
-| 2018-10-13 | 2019-04-09 | [2018-10-13.md](./2018-10-13.md) |
-| 2018-10-12 | 2018-10-12 | [2018-10-12.md](./2018-10-12.md) |
 | 2018-10-12 | 2018-10-12 | [2018-10-12.md](./2018-10-12.md) |
 | 2018-05-01 | 2018-10-11 | [2018-05-01.md](./2018-05-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M.
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-10-15"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Rechtspositieregeling lid Raad van bestuur SVB
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2003/rechtspositieregeling-lid-raad-van-bestuur-svb](https://wetten.ai/eli/nl/ministeriele-regeling/2003/rechtspositieregeling-lid-raad-van-bestuur-svb)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/rechtspositieregeling-lid-raad-van-bestuur-svb](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/rechtspositieregeling-lid-raad-van-bestuur-svb)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2012-10-15 | 2016-12-31 | [2012-10-15.md](./2012-10-15.md) |
 | 2010-01-06 | 2012-10-14 | [2010-01-06.md](./2010-01-06.md) |
-| 2010-01-01 | 2010-01-05 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-01-05 | [2010-01-01.md](./2010-01-01.md) |
 | 2003-02-01 | 2009-12-31 | [2003-02-01.md](./2003-02-01.md) |

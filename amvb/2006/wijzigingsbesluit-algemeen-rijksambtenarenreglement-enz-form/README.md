@@ -6,7 +6,7 @@ title: Besluit van 7 december 2006, houdende wijziging van het Algemeen Rijksamb
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2007-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (formalisering Arbeidsvoorwaardenovereenkomst sector Rijk 2005–2006)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2006/wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-form](https://wetten.ai/eli/nl/amvb/2006/wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-form)
+**ELI:** [/eli/nl/amvb/2006/wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-form](https://wettenbank.online/eli/nl/amvb/2006/wijzigingsbesluit-algemeen-rijksambtenarenreglement-enz-form)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2007-01-01 | 2019-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-12-21 | 2006-12-31 | [2006-12-21.md](./2006-12-21.md) |
-| 2006-12-01 | 2006-12-20 | [2006-12-01.md](./2006-12-01.md) |
 | 2006-12-01 | 2006-12-20 | [2006-12-01.md](./2006-12-01.md) |
 | 2006-01-01 | 2006-11-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |

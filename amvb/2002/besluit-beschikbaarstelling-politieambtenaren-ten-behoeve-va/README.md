@@ -6,7 +6,7 @@ title: Besluit van 11 december 2002, houdende regels inzake beschikbaarstelling 
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2024-06-22"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2002/besluit-beschikbaarstelling-politieambtenaren-ten-behoeve-va](https://wetten.ai/eli/nl/amvb/2002/besluit-beschikbaarstelling-politieambtenaren-ten-behoeve-va)
+**ELI:** [/eli/nl/amvb/2002/besluit-beschikbaarstelling-politieambtenaren-ten-behoeve-va](https://wettenbank.online/eli/nl/amvb/2002/besluit-beschikbaarstelling-politieambtenaren-ten-behoeve-va)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2024-06-22 | heden | [2024-06-22.md](./2024-06-22.md) |
 | 2017-06-23 | 2024-06-21 | [2017-06-23.md](./2017-06-23.md) |
-| 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-06-22 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-10-13 | 2012-12-31 | [2010-10-13.md](./2010-10-13.md) |

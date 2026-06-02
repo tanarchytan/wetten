@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Financiën, de Minister van Volkshui
 ministry: Financiën
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Klachtenregeling bijzondere opsporingsdiensten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2008/klachtenregeling-bijzondere-opsporingsdiensten](https://wetten.ai/eli/nl/ministeriele-regeling/2008/klachtenregeling-bijzondere-opsporingsdiensten)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/klachtenregeling-bijzondere-opsporingsdiensten](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/klachtenregeling-bijzondere-opsporingsdiensten)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2022-01-01 | heden | [2022-01-01.md](./2022-01-01.md) |
 | 2018-05-10 | 2021-12-31 | [2018-05-10.md](./2018-05-10.md) |
 | 2018-01-01 | 2018-05-09 | [2018-01-01.md](./2018-01-01.md) |
-| 2018-01-01 | 2018-05-09 | [2018-01-01.md](./2018-01-01.md) |
 | 2014-03-12 | 2017-12-31 | [2014-03-12.md](./2014-03-12.md) |
-| 2013-01-01 | 2014-03-11 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2014-03-11 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-01-01 | 2012-12-31 | [2008-01-01.md](./2008-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 17 december 1997 tot vaststelling van regels als bedoeld in a
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Ib Waz
 latest_state: "2005-05-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Ib Waz
-**ELI:** [/eli/nl/amvb/1998/inkomensbesluit-waz](https://wetten.ai/eli/nl/amvb/1998/inkomensbesluit-waz)
+**ELI:** [/eli/nl/amvb/1998/inkomensbesluit-waz](https://wettenbank.online/eli/nl/amvb/1998/inkomensbesluit-waz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-05-25 | heden | [2005-05-25.md](./2005-05-25.md) |
-| 2004-01-01 | 2005-05-24 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2005-05-24 | [2004-01-01.md](./2004-01-01.md) |
 | 2002-01-01 | 2003-12-31 | [2002-01-01.md](./2002-01-01.md) |

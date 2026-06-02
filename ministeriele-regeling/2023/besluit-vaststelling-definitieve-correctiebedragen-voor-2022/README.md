@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Klimaat en Energie van 19 april 2023, nr. WJ
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2023-12-23"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit vaststelling definitieve correctiebedragen voor 2022 bij de Subsidieregeling coöperatieve energieopwekking
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-vaststelling-definitieve-correctiebedragen-voor-2022](https://wetten.ai/eli/nl/ministeriele-regeling/2023/besluit-vaststelling-definitieve-correctiebedragen-voor-2022)
+**ELI:** [/eli/nl/ministeriele-regeling/2023/besluit-vaststelling-definitieve-correctiebedragen-voor-2022](https://wettenbank.online/eli/nl/ministeriele-regeling/2023/besluit-vaststelling-definitieve-correctiebedragen-voor-2022)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-12-23 | heden | [2023-12-23.md](./2023-12-23.md) |
-| 2023-04-27 | 2023-12-22 | [2023-04-27.md](./2023-04-27.md) |
 | 2023-04-27 | 2023-12-22 | [2023-04-27.md](./2023-04-27.md) |

@@ -6,7 +6,7 @@ title: Besluit van 24 februari 1998, houdende aanpassing van het Besluit vaartij
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2002-09-25"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Wijzigingsbesluit Besluit vaartijden en bemanningssterkte binnenvaart
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/1998/wijzigingsbesluit-besluit-vaartijden-en-bemanningssterkte-bi](https://wetten.ai/eli/nl/amvb/1998/wijzigingsbesluit-besluit-vaartijden-en-bemanningssterkte-bi)
+**ELI:** [/eli/nl/amvb/1998/wijzigingsbesluit-besluit-vaartijden-en-bemanningssterkte-bi](https://wettenbank.online/eli/nl/amvb/1998/wijzigingsbesluit-besluit-vaartijden-en-bemanningssterkte-bi)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2002-09-25 | 2009-06-30 | [2002-09-25.md](./2002-09-25.md) |
-| 2002-07-01 | 2002-09-24 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-07-01 | 2002-09-24 | [2002-07-01.md](./2002-07-01.md) |
 | 1998-03-11 | 2002-06-30 | [1998-03-11.md](./1998-03-11.md) |

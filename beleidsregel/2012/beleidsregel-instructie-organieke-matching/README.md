@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Veiligheid en Justitie d.d. 10 mei 2012,
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2013-05-17"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregel Instructie organieke matching
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/beleidsregel/2012/beleidsregel-instructie-organieke-matching](https://wetten.ai/eli/nl/beleidsregel/2012/beleidsregel-instructie-organieke-matching)
+**ELI:** [/eli/nl/beleidsregel/2012/beleidsregel-instructie-organieke-matching](https://wettenbank.online/eli/nl/beleidsregel/2012/beleidsregel-instructie-organieke-matching)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2013-05-17 | heden | [2013-05-17.md](./2013-05-17.md) |
 | 2012-06-02 | 2013-05-16 | [2012-06-02.md](./2012-06-02.md) |
-| 2012-06-02 | 2013-05-16 | [2012-06-02.md](./2012-06-02.md) |
-| 2012-01-31 | 2012-06-01 | [2012-01-31.md](./2012-01-31.md) |
 | 2012-01-31 | 2012-06-01 | [2012-01-31.md](./2012-01-31.md) |

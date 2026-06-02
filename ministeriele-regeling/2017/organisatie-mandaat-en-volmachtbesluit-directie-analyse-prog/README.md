@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 31 augu
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2025-07-30"
-state_count: 18
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Analyse, Programmering en Strategie 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2017/organisatie-mandaat-en-volmachtbesluit-directie-analyse-prog](https://wetten.ai/eli/nl/ministeriele-regeling/2017/organisatie-mandaat-en-volmachtbesluit-directie-analyse-prog)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/organisatie-mandaat-en-volmachtbesluit-directie-analyse-prog](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/organisatie-mandaat-en-volmachtbesluit-directie-analyse-prog)
 
 ## Versies
 
@@ -24,18 +24,14 @@ state_count: 18
 |---|---|---|
 | 2025-07-30 | heden | [2025-07-30.md](./2025-07-30.md) |
 | 2025-04-01 | 2025-07-29 | [2025-04-01.md](./2025-04-01.md) |
-| 2025-04-01 | 2025-07-29 | [2025-04-01.md](./2025-04-01.md) |
 | 2024-03-21 | 2025-03-31 | [2024-03-21.md](./2024-03-21.md) |
 | 2023-09-01 | 2024-03-20 | [2023-09-01.md](./2023-09-01.md) |
 | 2023-05-24 | 2023-08-31 | [2023-05-24.md](./2023-05-24.md) |
 | 2022-07-21 | 2023-05-23 | [2022-07-21.md](./2022-07-21.md) |
 | 2022-05-01 | 2022-07-20 | [2022-05-01.md](./2022-05-01.md) |
-| 2022-05-01 | 2022-07-20 | [2022-05-01.md](./2022-05-01.md) |
 | 2022-01-01 | 2022-04-30 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-07-15 | 2021-12-31 | [2021-07-15.md](./2021-07-15.md) |
 | 2020-01-01 | 2021-07-14 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2021-07-14 | [2020-01-01.md](./2020-01-01.md) |
-| 2019-04-01 | 2019-12-31 | [2019-04-01.md](./2019-04-01.md) |
 | 2019-04-01 | 2019-12-31 | [2019-04-01.md](./2019-04-01.md) |
 | 2018-06-30 | 2019-03-31 | [2018-06-30.md](./2018-06-30.md) |
 | 2017-09-12 | 2018-06-29 | [2017-09-12.md](./2017-09-12.md) |

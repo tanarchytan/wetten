@@ -6,7 +6,7 @@ title: Regeling pilot toevoeging verzoek toelating Wsnp
 ministry: Raad voor Rechtsbijstand
 abbreviation: null
 latest_state: "2023-08-04"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling pilot toevoeging verzoek toelating Wsnp
 **Type:** zbo
 **Verantwoordelijk ministerie:** Raad voor Rechtsbijstand
-**ELI:** [/eli/nl/zbo/2021/regeling-pilot-toevoeging-verzoek-toelating-wsnp](https://wetten.ai/eli/nl/zbo/2021/regeling-pilot-toevoeging-verzoek-toelating-wsnp)
+**ELI:** [/eli/nl/zbo/2021/regeling-pilot-toevoeging-verzoek-toelating-wsnp](https://wettenbank.online/eli/nl/zbo/2021/regeling-pilot-toevoeging-verzoek-toelating-wsnp)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-08-04 | 2025-04-30 | [2023-08-04.md](./2023-08-04.md) |
-| 2023-01-01 | 2023-08-03 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-08-03 | [2023-01-01.md](./2023-01-01.md) |
 | 2021-05-01 | 2022-12-31 | [2021-05-01.md](./2021-05-01.md) |

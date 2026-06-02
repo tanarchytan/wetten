@@ -6,7 +6,7 @@ title: Beleidsregel Boete werknemer 2010
 ministry: Uitvoeringsinstituut Werknemersverzekeringen
 abbreviation: null
 latest_state: "2013-12-10"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Beleidsregel Boete werknemer 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut Werknemersverzekeringen
-**ELI:** [/eli/nl/zbo/2010/beleidsregel-boete-werknemer-2010](https://wetten.ai/eli/nl/zbo/2010/beleidsregel-boete-werknemer-2010)
+**ELI:** [/eli/nl/zbo/2010/beleidsregel-boete-werknemer-2010](https://wettenbank.online/eli/nl/zbo/2010/beleidsregel-boete-werknemer-2010)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-12-10 | heden | [2013-12-10.md](./2013-12-10.md) |
-| 2013-01-01 | 2013-12-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-12-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-07-14 | 2012-12-31 | [2011-07-14.md](./2011-07-14.md) |
 | 2010-06-02 | 2011-07-13 | [2010-06-02.md](./2010-06-02.md) |

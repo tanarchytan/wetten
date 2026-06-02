@@ -6,7 +6,7 @@ title: Besluit van 5 september 2007, houdende nadere regels omtrent gewasbescher
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Besluit gewasbeschermingsmiddelen en biociden
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2007/besluit-gewasbeschermingsmiddelen-en-biociden](https://wetten.ai/eli/nl/amvb/2007/besluit-gewasbeschermingsmiddelen-en-biociden)
+**ELI:** [/eli/nl/amvb/2007/besluit-gewasbeschermingsmiddelen-en-biociden](https://wettenbank.online/eli/nl/amvb/2007/besluit-gewasbeschermingsmiddelen-en-biociden)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 21
 | 2015-01-01 | 2015-02-25 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-04-01 | 2014-12-31 | [2014-04-01.md](./2014-04-01.md) |
 | 2014-03-01 | 2014-03-31 | [2014-03-01.md](./2014-03-01.md) |
-| 2013-09-01 | 2014-02-28 | [2013-09-01.md](./2013-09-01.md) |
 | 2013-09-01 | 2014-02-28 | [2013-09-01.md](./2013-09-01.md) |
 | 2012-10-17 | 2013-08-31 | [2012-10-17.md](./2012-10-17.md) |
 | 2011-12-16 | 2012-10-16 | [2011-12-16.md](./2011-12-16.md) |

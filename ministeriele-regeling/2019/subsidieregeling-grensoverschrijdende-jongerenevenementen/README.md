@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2021-07-10"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling grensoverschrijdende jongerenevenementen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-grensoverschrijdende-jongerenevenementen](https://wetten.ai/eli/nl/ministeriele-regeling/2019/subsidieregeling-grensoverschrijdende-jongerenevenementen)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/subsidieregeling-grensoverschrijdende-jongerenevenementen](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/subsidieregeling-grensoverschrijdende-jongerenevenementen)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2021-07-10 | 2024-12-31 | [2021-07-10.md](./2021-07-10.md) |
 | 2020-12-18 | 2021-07-09 | [2020-12-18.md](./2020-12-18.md) |
-| 2020-10-31 | 2020-12-17 | [2020-10-31.md](./2020-10-31.md) |
 | 2020-10-31 | 2020-12-17 | [2020-10-31.md](./2020-10-31.md) |
 | 2020-06-30 | 2020-10-30 | [2020-06-30.md](./2020-06-30.md) |
 | 2019-12-19 | 2020-06-29 | [2019-12-19.md](./2019-12-19.md) |

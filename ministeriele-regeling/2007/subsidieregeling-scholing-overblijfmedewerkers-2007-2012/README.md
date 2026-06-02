@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-05-28"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling scholing overblijfmedewerkers 2007–2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/subsidieregeling-scholing-overblijfmedewerkers-2007-2012](https://wetten.ai/eli/nl/ministeriele-regeling/2007/subsidieregeling-scholing-overblijfmedewerkers-2007-2012)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/subsidieregeling-scholing-overblijfmedewerkers-2007-2012](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/subsidieregeling-scholing-overblijfmedewerkers-2007-2012)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2011-05-28 | 2014-01-22 | [2011-05-28.md](./2011-05-28.md) |
 | 2010-08-21 | 2011-05-27 | [2010-08-21.md](./2010-08-21.md) |
 | 2008-03-06 | 2010-08-20 | [2008-03-06.md](./2008-03-06.md) |
-| 2007-08-01 | 2008-03-05 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-08-01 | 2008-03-05 | [2007-08-01.md](./2007-08-01.md) |
 | 2007-05-11 | 2007-07-31 | [2007-05-11.md](./2007-05-11.md) |

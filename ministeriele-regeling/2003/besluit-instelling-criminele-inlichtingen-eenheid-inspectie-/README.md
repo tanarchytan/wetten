@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 7 augus
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-11-27"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit instelling criminele inlichtingen eenheid Inspectie SZW-DO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2003/besluit-instelling-criminele-inlichtingen-eenheid-inspectie-](https://wetten.ai/eli/nl/ministeriele-regeling/2003/besluit-instelling-criminele-inlichtingen-eenheid-inspectie-)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/besluit-instelling-criminele-inlichtingen-eenheid-inspectie-](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/besluit-instelling-criminele-inlichtingen-eenheid-inspectie-)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 9
 | 2013-01-01 | 2013-11-26 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-06-07 | 2012-12-31 | [2009-06-07.md](./2009-06-07.md) |
 | 2008-01-01 | 2009-06-06 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2009-06-06 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-12-24 | 2007-12-31 | [2006-12-24.md](./2006-12-24.md) |
-| 2006-01-01 | 2006-12-23 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-23 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-08-10 | 2005-12-31 | [2003-08-10.md](./2003-08-10.md) |

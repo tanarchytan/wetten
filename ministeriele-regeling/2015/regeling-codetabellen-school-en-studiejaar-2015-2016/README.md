@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 16 aug
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-05-20"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling codetabellen school- en studiejaar 2015–2016
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-codetabellen-school-en-studiejaar-2015-2016](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-codetabellen-school-en-studiejaar-2015-2016)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-codetabellen-school-en-studiejaar-2015-2016](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-codetabellen-school-en-studiejaar-2015-2016)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2016-05-20 | 2016-07-31 | [2016-05-20.md](./2016-05-20.md) |
 | 2015-08-29 | 2016-05-19 | [2015-08-29.md](./2015-08-29.md) |
-| 2015-08-29 | 2016-05-19 | [2015-08-29.md](./2015-08-29.md) |
-| 2015-08-01 | 2015-08-28 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-08-01 | 2015-08-28 | [2015-08-01.md](./2015-08-01.md) |

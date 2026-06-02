@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Besluit beperking openbaarheid archief Directie Coördinatie Integratiebeleid Minderheden van het Ministerie van Justitie, 2000–2004, (1997) 2001–2002 (2004)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2025/besluit-beperking-openbaarheid-archief-directie-co-rdinatie-](https://wetten.ai/eli/nl/ministeriele-regeling/2025/besluit-beperking-openbaarheid-archief-directie-co-rdinatie-)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/besluit-beperking-openbaarheid-archief-directie-co-rdinatie-](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/besluit-beperking-openbaarheid-archief-directie-co-rdinatie-)
 
 ## Versies
 

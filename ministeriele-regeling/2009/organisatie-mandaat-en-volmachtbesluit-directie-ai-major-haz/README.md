@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 apr
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie AI Major Hazard Control 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-major-haz](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-major-haz)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-major-haz](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-major-haz)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2012-01-01 | 2012-08-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-10-21 | 2011-12-31 | [2010-10-21.md](./2010-10-21.md) |
-| 2010-03-01 | 2010-10-20 | [2010-03-01.md](./2010-03-01.md) |
 | 2010-03-01 | 2010-10-20 | [2010-03-01.md](./2010-03-01.md) |
 | 2009-04-30 | 2010-02-28 | [2009-04-30.md](./2009-04-30.md) |
 | 2009-01-01 | 2009-04-29 | [2009-01-01.md](./2009-01-01.md) |

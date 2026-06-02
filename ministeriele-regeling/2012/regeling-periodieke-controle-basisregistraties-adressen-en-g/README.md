@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 25 oktober 201
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2018-07-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling periodieke controle basisregistraties adressen en gebouwen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-periodieke-controle-basisregistraties-adressen-en-g](https://wetten.ai/eli/nl/ministeriele-regeling/2012/regeling-periodieke-controle-basisregistraties-adressen-en-g)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/regeling-periodieke-controle-basisregistraties-adressen-en-g](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/regeling-periodieke-controle-basisregistraties-adressen-en-g)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2018-07-01 | heden | [2018-07-01.md](./2018-07-01.md) |
 | 2015-03-13 | 2018-06-30 | [2015-03-13.md](./2015-03-13.md) |
-| 2015-01-01 | 2015-03-12 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-12 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-01-01 | 2014-12-31 | [2012-01-01.md](./2012-01-01.md) |

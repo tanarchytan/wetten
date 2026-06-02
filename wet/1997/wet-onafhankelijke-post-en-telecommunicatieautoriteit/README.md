@@ -6,7 +6,7 @@ title: Wet van 5 juli 1997, houdende regels inzake instelling van een college vo
 ministry: Economische Zaken
 abbreviation: OPTA
 latest_state: "2012-06-30"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 13
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** OPTA
-**ELI:** [/eli/nl/wet/1997/wet-onafhankelijke-post-en-telecommunicatieautoriteit](https://wetten.ai/eli/nl/wet/1997/wet-onafhankelijke-post-en-telecommunicatieautoriteit)
+**ELI:** [/eli/nl/wet/1997/wet-onafhankelijke-post-en-telecommunicatieautoriteit](https://wettenbank.online/eli/nl/wet/1997/wet-onafhankelijke-post-en-telecommunicatieautoriteit)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 13
 | 2009-04-01 | 2010-10-09 | [2009-04-01.md](./2009-04-01.md) |
 | 2009-01-01 | 2009-03-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-08-17 | 2008-12-31 | [2007-08-17.md](./2007-08-17.md) |
-| 2007-06-30 | 2007-08-16 | [2007-06-30.md](./2007-06-30.md) |
 | 2007-06-30 | 2007-08-16 | [2007-06-30.md](./2007-06-30.md) |
 | 2004-05-19 | 2007-06-29 | [2004-05-19.md](./2004-05-19.md) |
 | 2003-05-21 | 2004-05-18 | [2003-05-21.md](./2003-05-21.md) |

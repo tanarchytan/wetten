@@ -6,7 +6,7 @@ title: Beleidsregel van de Staatssecretaris van Economische Zaken van 17 mei 20
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2021-06-03"
-state_count: 13
+state_count: 12
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 13
 **Citeertitel:** Beleidsregel Uitvoeringsregeling rechtstreekse betalingen GLB
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2015/beleidsregel-uitvoeringsregeling-rechtstreekse-betalingen-gl](https://wetten.ai/eli/nl/beleidsregel/2015/beleidsregel-uitvoeringsregeling-rechtstreekse-betalingen-gl)
+**ELI:** [/eli/nl/beleidsregel/2015/beleidsregel-uitvoeringsregeling-rechtstreekse-betalingen-gl](https://wettenbank.online/eli/nl/beleidsregel/2015/beleidsregel-uitvoeringsregeling-rechtstreekse-betalingen-gl)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-06-03 | 2022-12-31 | [2021-06-03.md](./2021-06-03.md) |
-| 2021-04-21 | 2021-06-02 | [2021-04-21.md](./2021-04-21.md) |
 | 2021-04-21 | 2021-06-02 | [2021-04-21.md](./2021-04-21.md) |
 | 2021-01-01 | 2021-04-20 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |

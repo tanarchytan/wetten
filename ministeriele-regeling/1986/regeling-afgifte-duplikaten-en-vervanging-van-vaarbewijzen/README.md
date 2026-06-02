@@ -6,7 +6,7 @@ title: Regeling afgifte duplikaten en vervanging van vaarbewijzen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2005-12-03"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling afgifte duplikaten en vervanging van vaarbewijzen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1986/regeling-afgifte-duplikaten-en-vervanging-van-vaarbewijzen](https://wetten.ai/eli/nl/ministeriele-regeling/1986/regeling-afgifte-duplikaten-en-vervanging-van-vaarbewijzen)
+**ELI:** [/eli/nl/ministeriele-regeling/1986/regeling-afgifte-duplikaten-en-vervanging-van-vaarbewijzen](https://wettenbank.online/eli/nl/ministeriele-regeling/1986/regeling-afgifte-duplikaten-en-vervanging-van-vaarbewijzen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-12-03 | 2009-06-30 | [2005-12-03.md](./2005-12-03.md) |
-| 2005-07-01 | 2005-12-02 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-12-02 | [2005-07-01.md](./2005-07-01.md) |
 | 1994-09-16 | 2005-06-30 | [1994-09-16.md](./1994-09-16.md) |

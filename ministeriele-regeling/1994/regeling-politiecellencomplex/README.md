@@ -6,7 +6,7 @@ title: Regeling van de Ministers van Binnenlandse Zaken en van Justitie. (nrs. E
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2017-03-18"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Regeling politiecellencomplex
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-politiecellencomplex](https://wetten.ai/eli/nl/ministeriele-regeling/1994/regeling-politiecellencomplex)
+**ELI:** [/eli/nl/ministeriele-regeling/1994/regeling-politiecellencomplex](https://wettenbank.online/eli/nl/ministeriele-regeling/1994/regeling-politiecellencomplex)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-03-18 | 2020-09-30 | [2017-03-18.md](./2017-03-18.md) |
-| 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-03-17 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-07-01 | 2016-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2013-01-01 | 2015-06-30 | [2013-01-01.md](./2013-01-01.md) |

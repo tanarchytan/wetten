@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 dec
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Warenwetregeling vaststelling van tarieven voor retributies levensmiddelen 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2008/warenwetregeling-vaststelling-van-tarieven-voor-retributies-](https://wetten.ai/eli/nl/ministeriele-regeling/2008/warenwetregeling-vaststelling-van-tarieven-voor-retributies-)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/warenwetregeling-vaststelling-van-tarieven-voor-retributies-](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/warenwetregeling-vaststelling-van-tarieven-voor-retributies-)
 
 ## Versies
 
@@ -40,6 +40,5 @@ state_count: 21
 | 2008-09-21 | 2009-01-06 | [2008-09-21.md](./2008-09-21.md) |
 | 2008-05-15 | 2008-09-20 | [2008-05-15.md](./2008-05-15.md) |
 | 2008-03-01 | 2008-05-14 | [2008-03-01.md](./2008-03-01.md) |
-| 2008-01-04 | 2008-02-29 | [2008-01-04.md](./2008-01-04.md) |
 | 2008-01-04 | 2008-02-29 | [2008-01-04.md](./2008-01-04.md) |
 | 2008-01-01 | 2008-01-03 | [2008-01-01.md](./2008-01-01.md) |

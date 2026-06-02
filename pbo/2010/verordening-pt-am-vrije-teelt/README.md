@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw van 30 maart 2010 h
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2010-09-12"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Verordening PT AM Vrije Teelt
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2010/verordening-pt-am-vrije-teelt](https://wetten.ai/eli/nl/pbo/2010/verordening-pt-am-vrije-teelt)
+**ELI:** [/eli/nl/pbo/2010/verordening-pt-am-vrije-teelt](https://wettenbank.online/eli/nl/pbo/2010/verordening-pt-am-vrije-teelt)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-09-12 | 2012-10-13 | [2010-09-12.md](./2010-09-12.md) |
-| 2010-07-11 | 2010-09-11 | [2010-07-11.md](./2010-07-11.md) |
 | 2010-07-11 | 2010-09-11 | [2010-07-11.md](./2010-07-11.md) |

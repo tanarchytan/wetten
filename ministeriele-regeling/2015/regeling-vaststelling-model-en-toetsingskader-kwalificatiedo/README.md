@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 dec
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2015-09-15"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling model en toetsingskader kwalificatiedossiers 2015–2016
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-vaststelling-model-en-toetsingskader-kwalificatiedo](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-vaststelling-model-en-toetsingskader-kwalificatiedo)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-vaststelling-model-en-toetsingskader-kwalificatiedo](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-vaststelling-model-en-toetsingskader-kwalificatiedo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-09-15 | 2015-12-31 | [2015-09-15.md](./2015-09-15.md) |
-| 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-08-01 | 2015-09-14 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-01-07 | 2015-07-31 | [2015-01-07.md](./2015-01-07.md) |
 | 2014-08-01 | 2015-01-06 | [2014-08-01.md](./2014-08-01.md) |

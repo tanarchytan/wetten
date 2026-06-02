@@ -6,7 +6,7 @@ title: Wet van 29 november 1962, houdende een regeling tot het tegengaan van het
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-07-17"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Hamsterwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/1962/hamsterwet](https://wetten.ai/eli/nl/wet/1962/hamsterwet)
+**ELI:** [/eli/nl/wet/1962/hamsterwet](https://wettenbank.online/eli/nl/wet/1962/hamsterwet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-07-17 | heden | [2020-07-17.md](./2020-07-17.md) |
-| 2019-01-01 | 2020-07-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2020-07-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2014-01-25 | 2018-12-31 | [2014-01-25.md](./2014-01-25.md) |
 | 2013-01-01 | 2014-01-24 | [2013-01-01.md](./2013-01-01.md) |

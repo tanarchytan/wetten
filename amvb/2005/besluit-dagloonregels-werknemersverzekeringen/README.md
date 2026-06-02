@@ -6,7 +6,7 @@ title: Besluit van 8 oktober 2005, houdende regels in verband met het vaststelle
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2013-01-01"
-state_count: 18
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Besluit dagloonregels werknemersverzekeringen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2005/besluit-dagloonregels-werknemersverzekeringen](https://wetten.ai/eli/nl/amvb/2005/besluit-dagloonregels-werknemersverzekeringen)
+**ELI:** [/eli/nl/amvb/2005/besluit-dagloonregels-werknemersverzekeringen](https://wettenbank.online/eli/nl/amvb/2005/besluit-dagloonregels-werknemersverzekeringen)
 
 ## Versies
 
@@ -28,15 +28,8 @@ state_count: 18
 | 2008-05-01 | 2009-06-30 | [2008-05-01.md](./2008-05-01.md) |
 | 2008-01-01 | 2008-04-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-03-23 | 2007-12-31 | [2007-03-23.md](./2007-03-23.md) |
-| 2007-03-23 | 2007-12-31 | [2007-03-23.md](./2007-03-23.md) |
 | 2007-01-01 | 2007-03-22 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-03-22 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-03-22 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
-| 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-10-01 | 2006-12-31 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-09-30 | 2006-09-30 | [2006-09-30.md](./2006-09-30.md) |
-| 2006-09-30 | 2006-09-30 | [2006-09-30.md](./2006-09-30.md) |
-| 2006-01-01 | 2006-09-29 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-09-29 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-12-29 | 2005-12-31 | [2005-12-29.md](./2005-12-29.md) |

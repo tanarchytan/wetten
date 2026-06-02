@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie d.d. 23 mei 2007, nr. 5484160/07/
 ministry: Veiligheid en Justitie
 abbreviation: RTGB
 latest_state: "2023-01-01"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** RTGB
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-toetsing-geweldsbeheersing-buitengewoon-opsporingsa](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-toetsing-geweldsbeheersing-buitengewoon-opsporingsa)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-toetsing-geweldsbeheersing-buitengewoon-opsporingsa](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-toetsing-geweldsbeheersing-buitengewoon-opsporingsa)
 
 ## Versies
 
@@ -28,8 +28,6 @@ state_count: 10
 | 2018-07-01 | 2020-12-11 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-02-27 | 2018-06-30 | [2018-02-27.md](./2018-02-27.md) |
 | 2017-01-01 | 2018-02-26 | [2017-01-01.md](./2017-01-01.md) |
-| 2017-01-01 | 2018-02-26 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-07-08 | 2012-12-31 | [2010-07-08.md](./2010-07-08.md) |
-| 2007-06-01 | 2010-07-07 | [2007-06-01.md](./2007-06-01.md) |
 | 2007-06-01 | 2010-07-07 | [2007-06-01.md](./2007-06-01.md) |

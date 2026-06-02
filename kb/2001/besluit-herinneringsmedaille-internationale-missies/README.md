@@ -6,7 +6,7 @@ title: Besluit van 23 maart 2001, houdende instelling van de Herinneringsmedaill
 ministry: Defensie
 abbreviation: null
 latest_state: "2019-07-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit Herinneringsmedaille Internationale Missies
 **Type:** kb
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/kb/2001/besluit-herinneringsmedaille-internationale-missies](https://wetten.ai/eli/nl/kb/2001/besluit-herinneringsmedaille-internationale-missies)
+**ELI:** [/eli/nl/kb/2001/besluit-herinneringsmedaille-internationale-missies](https://wettenbank.online/eli/nl/kb/2001/besluit-herinneringsmedaille-internationale-missies)
 
 ## Versies
 
@@ -27,5 +27,4 @@ state_count: 7
 | 2013-07-19 | 2016-06-30 | [2013-07-19.md](./2013-07-19.md) |
 | 2013-01-01 | 2013-07-18 | [2013-01-01.md](./2013-01-01.md) |
 | 2005-08-24 | 2012-12-31 | [2005-08-24.md](./2005-08-24.md) |
-| 2001-06-01 | 2005-08-23 | [2001-06-01.md](./2001-06-01.md) |
 | 2001-06-01 | 2005-08-23 | [2001-06-01.md](./2001-06-01.md) |

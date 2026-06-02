@@ -6,7 +6,7 @@ title: Regeling benoemingseisen examencommissieleden
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2008-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling benoemingseisen examencommissieleden
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1992/regeling-benoemingseisen-examencommissieleden](https://wetten.ai/eli/nl/ministeriele-regeling/1992/regeling-benoemingseisen-examencommissieleden)
+**ELI:** [/eli/nl/ministeriele-regeling/1992/regeling-benoemingseisen-examencommissieleden](https://wettenbank.online/eli/nl/ministeriele-regeling/1992/regeling-benoemingseisen-examencommissieleden)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 8
 | 2008-01-01 | 2010-09-30 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-01-01 | 2007-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-03-31 | 2005-12-31 | [2005-03-31.md](./2005-03-31.md) |
-| 2005-01-01 | 2005-03-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-03-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-07-21 | 2004-12-31 | [2004-07-21.md](./2004-07-21.md) |
 | 2004-01-01 | 2004-07-20 | [2004-01-01.md](./2004-01-01.md) |

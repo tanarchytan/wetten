@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken van 8 november 2005, nr. 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2009-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Subsidieregeling IOP-TTI-module van de experimentele Kaderregeling subsidies innovatieprojecten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-iop-tti-module-van-de-experimentele-kaderre](https://wetten.ai/eli/nl/ministeriele-regeling/2005/subsidieregeling-iop-tti-module-van-de-experimentele-kaderre)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-iop-tti-module-van-de-experimentele-kaderre](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/subsidieregeling-iop-tti-module-van-de-experimentele-kaderre)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 9
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-04-19 | 2008-12-31 | [2007-04-19.md](./2007-04-19.md) |
 | 2006-12-20 | 2007-04-18 | [2006-12-20.md](./2006-12-20.md) |
-| 2006-10-31 | 2006-12-19 | [2006-10-31.md](./2006-10-31.md) |
 | 2006-10-31 | 2006-12-19 | [2006-10-31.md](./2006-10-31.md) |
 | 2006-09-02 | 2006-10-30 | [2006-09-02.md](./2006-09-02.md) |
 | 2006-06-16 | 2006-09-01 | [2006-06-16.md](./2006-06-16.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2015-01-01"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling superheffing 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-superheffing-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-superheffing-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-superheffing-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-superheffing-2008)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 12
 | 2013-04-01 | 2013-12-31 | [2013-04-01.md](./2013-04-01.md) |
 | 2012-04-01 | 2013-03-31 | [2012-04-01.md](./2012-04-01.md) |
 | 2012-01-01 | 2012-03-31 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-04-02 | 2011-12-31 | [2011-04-02.md](./2011-04-02.md) |
 | 2011-04-02 | 2011-12-31 | [2011-04-02.md](./2011-04-02.md) |
 | 2011-04-01 | 2011-04-01 | [2011-04-01.md](./2011-04-01.md) |
 | 2010-07-01 | 2011-03-31 | [2010-07-01.md](./2010-07-01.md) |

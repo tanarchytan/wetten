@@ -6,7 +6,7 @@ title: Beleidsregels UWV normbedragen voorzieningen 2010
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: null
 latest_state: "2010-08-19"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Beleidsregels UWV normbedragen voorzieningen 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
-**ELI:** [/eli/nl/zbo/2010/beleidsregels-uwv-normbedragen-voorzieningen-2010](https://wetten.ai/eli/nl/zbo/2010/beleidsregels-uwv-normbedragen-voorzieningen-2010)
+**ELI:** [/eli/nl/zbo/2010/beleidsregels-uwv-normbedragen-voorzieningen-2010](https://wettenbank.online/eli/nl/zbo/2010/beleidsregels-uwv-normbedragen-voorzieningen-2010)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2010-08-19 | heden | [2010-08-19.md](./2010-08-19.md) |
 | 2010-01-19 | 2010-08-18 | [2010-01-19.md](./2010-01-19.md) |
-| 2010-01-19 | 2010-08-18 | [2010-01-19.md](./2010-01-19.md) |
-| 2010-01-01 | 2010-01-18 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-01-18 | [2010-01-01.md](./2010-01-01.md) |

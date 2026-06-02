@@ -6,7 +6,7 @@ title: Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Uitbreiding kring van verzekerden ingevolge de Ziektewet en de Wet op de arbeidsongeschiktheidsverzekering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/1968/uitbreiding-kring-van-verzekerden-ingevolge-de-ziektewet-en-](https://wetten.ai/eli/nl/ministeriele-regeling/1968/uitbreiding-kring-van-verzekerden-ingevolge-de-ziektewet-en-)
+**ELI:** [/eli/nl/ministeriele-regeling/1968/uitbreiding-kring-van-verzekerden-ingevolge-de-ziektewet-en-](https://wettenbank.online/eli/nl/ministeriele-regeling/1968/uitbreiding-kring-van-verzekerden-ingevolge-de-ziektewet-en-)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2016-01-01 | heden | [2016-01-01.md](./2016-01-01.md) |
 | 2013-07-01 | 2015-12-31 | [2013-07-01.md](./2013-07-01.md) |
-| 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
 | 2007-01-01 | 2012-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2005-12-29 | 2006-12-31 | [2005-12-29.md](./2005-12-29.md) |

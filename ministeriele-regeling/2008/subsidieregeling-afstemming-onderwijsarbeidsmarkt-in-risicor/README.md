@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 aug
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-06-09"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Subsidieregeling afstemming onderwijsarbeidsmarkt in risicoregio’s voortgezet onderwijs 2008–2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-afstemming-onderwijsarbeidsmarkt-in-risicor](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-afstemming-onderwijsarbeidsmarkt-in-risicor)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-afstemming-onderwijsarbeidsmarkt-in-risicor](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-afstemming-onderwijsarbeidsmarkt-in-risicor)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2011-06-09 | 2013-12-30 | [2011-06-09.md](./2011-06-09.md) |
 | 2010-03-02 | 2011-06-08 | [2010-03-02.md](./2010-03-02.md) |
-| 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-01 | 2009-12-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-09-05 | 2009-06-30 | [2008-09-05.md](./2008-09-05.md) |

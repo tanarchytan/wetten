@@ -6,7 +6,7 @@ title: Uitvoeringsbeschikking vennootschapsbelasting 1971
 ministry: Financiën
 abbreviation: Ub  Vpb
 latest_state: "2024-01-01"
-state_count: 28
+state_count: 22
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 28
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Ub  Vpb
-**ELI:** [/eli/nl/ministeriele-regeling/1971/uitvoeringsbeschikking-vennootschapsbelasting-1971](https://wetten.ai/eli/nl/ministeriele-regeling/1971/uitvoeringsbeschikking-vennootschapsbelasting-1971)
+**ELI:** [/eli/nl/ministeriele-regeling/1971/uitvoeringsbeschikking-vennootschapsbelasting-1971](https://wettenbank.online/eli/nl/ministeriele-regeling/1971/uitvoeringsbeschikking-vennootschapsbelasting-1971)
 
 ## Versies
 
@@ -33,18 +33,12 @@ state_count: 28
 | 2018-01-01 | 2018-03-31 | [2018-01-01.md](./2018-01-01.md) |
 | 2016-01-01 | 2017-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-06-12 | 2015-12-31 | [2015-06-12.md](./2015-06-12.md) |
-| 2015-06-12 | 2015-12-31 | [2015-06-12.md](./2015-06-12.md) |
 | 2015-01-01 | 2015-06-11 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-01-01 | 2014-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
-| 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
-| 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-12-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-01-01 | 2007-12-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |

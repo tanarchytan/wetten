@@ -6,7 +6,7 @@ title: Besluit van 23 augustus 2001, houdende bepalingen omtrent de bemanning va
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-11-15"
-state_count: 21
+state_count: 18
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Besluit zeevarenden
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2002/besluit-zeevarenden](https://wetten.ai/eli/nl/amvb/2002/besluit-zeevarenden)
+**ELI:** [/eli/nl/amvb/2002/besluit-zeevarenden](https://wettenbank.online/eli/nl/amvb/2002/besluit-zeevarenden)
 
 ## Versies
 
@@ -34,12 +34,9 @@ state_count: 21
 | 2010-10-08 | 2010-12-30 | [2010-10-08.md](./2010-10-08.md) |
 | 2009-04-01 | 2010-10-07 | [2009-04-01.md](./2009-04-01.md) |
 | 2008-12-23 | 2009-03-31 | [2008-12-23.md](./2008-12-23.md) |
-| 2008-12-23 | 2009-03-31 | [2008-12-23.md](./2008-12-23.md) |
 | 2007-11-23 | 2008-12-22 | [2007-11-23.md](./2007-11-23.md) |
 | 2007-10-20 | 2007-11-22 | [2007-10-20.md](./2007-10-20.md) |
 | 2007-07-20 | 2007-10-19 | [2007-07-20.md](./2007-07-20.md) |
 | 2005-01-01 | 2007-07-19 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-11-01 | 2004-12-31 | [2004-11-01.md](./2004-11-01.md) |
-| 2004-11-01 | 2004-12-31 | [2004-11-01.md](./2004-11-01.md) |
-| 2002-02-01 | 2004-10-31 | [2002-02-01.md](./2002-02-01.md) |
 | 2002-02-01 | 2004-10-31 | [2002-02-01.md](./2002-02-01.md) |

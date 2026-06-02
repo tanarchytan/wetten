@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 24 jan
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2007-09-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit Arbeidsmarkt 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsmarkt-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsmarkt-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsmarkt-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsmarkt-2005)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 9
 | 2007-09-01 | 2008-12-31 | [2007-09-01.md](./2007-09-01.md) |
 | 2007-07-18 | 2007-08-31 | [2007-07-18.md](./2007-07-18.md) |
 | 2007-07-01 | 2007-07-17 | [2007-07-01.md](./2007-07-01.md) |
-| 2007-07-01 | 2007-07-17 | [2007-07-01.md](./2007-07-01.md) |
 | 2006-11-12 | 2007-06-30 | [2006-11-12.md](./2006-11-12.md) |
-| 2006-05-01 | 2006-11-11 | [2006-05-01.md](./2006-05-01.md) |
 | 2006-05-01 | 2006-11-11 | [2006-05-01.md](./2006-05-01.md) |
 | 2005-02-06 | 2006-04-30 | [2005-02-06.md](./2005-02-06.md) |
 | 2005-01-01 | 2005-02-05 | [2005-01-01.md](./2005-01-01.md) |

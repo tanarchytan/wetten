@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Subsidieregeling regionale aanpak lerarentekort
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-regionale-aanpak-lerarentekort](https://wetten.ai/eli/nl/ministeriele-regeling/2018/subsidieregeling-regionale-aanpak-lerarentekort)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/subsidieregeling-regionale-aanpak-lerarentekort](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/subsidieregeling-regionale-aanpak-lerarentekort)
 
 ## Versies
 
@@ -24,6 +24,5 @@ state_count: 5
 |---|---|---|
 | 2022-08-01 | 2022-12-30 | [2022-08-01.md](./2022-08-01.md) |
 | 2019-10-18 | 2022-07-31 | [2019-10-18.md](./2019-10-18.md) |
-| 2019-07-24 | 2019-10-17 | [2019-07-24.md](./2019-07-24.md) |
 | 2019-07-24 | 2019-10-17 | [2019-07-24.md](./2019-07-24.md) |
 | 2018-12-07 | 2019-07-23 | [2018-12-07.md](./2018-12-07.md) |

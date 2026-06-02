@@ -6,7 +6,7 @@ title: Beschikking visserij visserijzone, zeegebied en kustwateren
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-11-25"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Beschikking visserij visserijzone, zeegebied en kustwateren
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1978/beschikking-visserij-visserijzone-zeegebied-en-kustwateren](https://wetten.ai/eli/nl/ministeriele-regeling/1978/beschikking-visserij-visserijzone-zeegebied-en-kustwateren)
+**ELI:** [/eli/nl/ministeriele-regeling/1978/beschikking-visserij-visserijzone-zeegebied-en-kustwateren](https://wettenbank.online/eli/nl/ministeriele-regeling/1978/beschikking-visserij-visserijzone-zeegebied-en-kustwateren)
 
 ## Versies
 
@@ -32,7 +32,6 @@ state_count: 14
 | 2005-09-01 | 2005-10-22 | [2005-09-01.md](./2005-09-01.md) |
 | 2005-08-25 | 2005-08-31 | [2005-08-25.md](./2005-08-25.md) |
 | 2005-01-12 | 2005-08-24 | [2005-01-12.md](./2005-01-12.md) |
-| 2005-01-01 | 2005-01-11 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-01-11 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-01-02 | 2004-12-31 | [2004-01-02.md](./2004-01-02.md) |
 | 2003-02-28 | 2004-01-01 | [2003-02-28.md](./2003-02-28.md) |

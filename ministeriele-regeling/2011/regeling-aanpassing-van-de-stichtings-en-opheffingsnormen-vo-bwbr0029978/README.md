@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 mei
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-10-28"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo-bwbr0029978](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo-bwbr0029978)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo-bwbr0029978](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo-bwbr0029978)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-10-28 | 2013-07-31 | [2011-10-28.md](./2011-10-28.md) |
 | 2011-05-25 | 2011-10-27 | [2011-05-25.md](./2011-05-25.md) |
-| 2011-05-25 | 2011-10-27 | [2011-05-25.md](./2011-05-25.md) |
-| 2011-01-01 | 2011-05-24 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-05-24 | [2011-01-01.md](./2011-01-01.md) |

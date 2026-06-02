@@ -6,7 +6,7 @@ title: Regeling houdende regels voor de goedkeuring en het gebruik van controlea
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2016-10-14"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 8
 **Citeertitel:** Regeling controleapparaten 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-controleapparaten-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-controleapparaten-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-controleapparaten-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-controleapparaten-2005)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-10-14 | 2019-06-14 | [2016-10-14.md](./2016-10-14.md) |
-| 2016-10-01 | 2016-10-13 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-10-01 | 2016-10-13 | [2016-10-01.md](./2016-10-01.md) |
 | 2016-03-02 | 2016-09-30 | [2016-03-02.md](./2016-03-02.md) |
 | 2014-01-01 | 2016-03-01 | [2014-01-01.md](./2014-01-01.md) |

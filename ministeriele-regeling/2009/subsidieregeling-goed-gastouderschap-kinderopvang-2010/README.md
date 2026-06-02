@@ -6,7 +6,7 @@ title: Regeling van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap van 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2010-10-14"
-state_count: 9
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Subsidieregeling goed gastouderschap kinderopvang 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-goed-gastouderschap-kinderopvang-2010](https://wetten.ai/eli/nl/ministeriele-regeling/2009/subsidieregeling-goed-gastouderschap-kinderopvang-2010)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/subsidieregeling-goed-gastouderschap-kinderopvang-2010](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/subsidieregeling-goed-gastouderschap-kinderopvang-2010)
 
 ## Versies
 
@@ -24,10 +24,6 @@ state_count: 9
 |---|---|---|
 | 2010-10-14 | heden | [2010-10-14.md](./2010-10-14.md) |
 | 2010-08-27 | 2010-10-13 | [2010-08-27.md](./2010-08-27.md) |
-| 2010-08-27 | 2010-10-13 | [2010-08-27.md](./2010-08-27.md) |
 | 2010-08-01 | 2010-08-26 | [2010-08-01.md](./2010-08-01.md) |
-| 2010-08-01 | 2010-08-26 | [2010-08-01.md](./2010-08-01.md) |
-| 2010-08-01 | 2010-08-26 | [2010-08-01.md](./2010-08-01.md) |
-| 2010-01-01 | 2010-07-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-07-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-11 | 2009-12-31 | [2009-12-11.md](./2009-12-11.md) |

@@ -6,7 +6,7 @@ title: Besluit van 9 mei 2001, houdende vaststelling van een regeling inzake bez
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2004-07-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2001/besluit-bezoldiging-en-tegemoetkoming-in-kosten-leden-dageli](https://wetten.ai/eli/nl/amvb/2001/besluit-bezoldiging-en-tegemoetkoming-in-kosten-leden-dageli)
+**ELI:** [/eli/nl/amvb/2001/besluit-bezoldiging-en-tegemoetkoming-in-kosten-leden-dageli](https://wettenbank.online/eli/nl/amvb/2001/besluit-bezoldiging-en-tegemoetkoming-in-kosten-leden-dageli)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-07-09 | 2007-12-28 | [2004-07-09.md](./2004-07-09.md) |
-| 2003-01-01 | 2004-07-08 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2004-07-08 | [2003-01-01.md](./2003-01-01.md) |
 | 2001-07-01 | 2002-12-31 | [2001-07-01.md](./2001-07-01.md) |

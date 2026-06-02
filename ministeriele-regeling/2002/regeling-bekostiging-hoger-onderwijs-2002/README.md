@@ -6,7 +6,7 @@ title: Regeling houdende onder meer vaststelling van bedragen en factoren als be
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2003-12-31"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling bekostiging hoger onderwijs 2002
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-bekostiging-hoger-onderwijs-2002](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-bekostiging-hoger-onderwijs-2002)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-bekostiging-hoger-onderwijs-2002](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-bekostiging-hoger-onderwijs-2002)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-12-31 | 2003-12-31 | [2003-12-31.md](./2003-12-31.md) |
-| 2003-01-01 | 2003-12-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-12-30 | [2003-01-01.md](./2003-01-01.md) |

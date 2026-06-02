@@ -6,7 +6,7 @@ title: Tijdelijke regeling van de Minister van Onderwijs, Cultuur en Wetenschap 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-23"
-state_count: 11
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Tijdelijke regeling lerarenbeurs voor scholing
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/tijdelijke-regeling-lerarenbeurs-voor-scholing](https://wetten.ai/eli/nl/ministeriele-regeling/2008/tijdelijke-regeling-lerarenbeurs-voor-scholing)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/tijdelijke-regeling-lerarenbeurs-voor-scholing](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/tijdelijke-regeling-lerarenbeurs-voor-scholing)
 
 ## Versies
 
@@ -25,10 +25,7 @@ state_count: 11
 | 2014-01-23 | 2016-12-31 | [2014-01-23.md](./2014-01-23.md) |
 | 2010-03-05 | 2014-01-22 | [2010-03-05.md](./2010-03-05.md) |
 | 2010-01-01 | 2010-03-04 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-03-04 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-05-20 | 2009-12-31 | [2009-05-20.md](./2009-05-20.md) |
-| 2009-05-20 | 2009-12-31 | [2009-05-20.md](./2009-05-20.md) |
-| 2009-01-02 | 2009-05-19 | [2009-01-02.md](./2009-01-02.md) |
 | 2009-01-02 | 2009-05-19 | [2009-01-02.md](./2009-01-02.md) |
 | 2008-11-13 | 2009-01-01 | [2008-11-13.md](./2008-11-13.md) |
 | 2008-07-24 | 2008-11-12 | [2008-07-24.md](./2008-07-24.md) |

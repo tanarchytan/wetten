@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwer
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2015-12-11"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit vaststelling subsidieplafond en beleidsregels subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Tweede call Fonds Duurzaam Ondernemen en Voedselzekerheid)
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-subsidieplafond-en-beleidsregels-subsid-bwbr0035228](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-subsidieplafond-en-beleidsregels-subsid-bwbr0035228)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-subsidieplafond-en-beleidsregels-subsid-bwbr0035228](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-vaststelling-subsidieplafond-en-beleidsregels-subsid-bwbr0035228)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-12-11 | 2015-12-31 | [2015-12-11.md](./2015-12-11.md) |
-| 2014-06-25 | 2015-12-10 | [2014-06-25.md](./2014-06-25.md) |
 | 2014-06-25 | 2015-12-10 | [2014-06-25.md](./2014-06-25.md) |
 | 2014-03-06 | 2014-06-24 | [2014-03-06.md](./2014-03-06.md) |

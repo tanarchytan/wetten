@@ -6,7 +6,7 @@ title: Regeling afdracht vergoeding afgifte rijbewijzen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2013-07-10"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 10
 **Citeertitel:** Regeling afdracht vergoeding afgifte rijbewijzen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-afdracht-vergoeding-afgifte-rijbewijzen](https://wetten.ai/eli/nl/ministeriele-regeling/1997/regeling-afdracht-vergoeding-afgifte-rijbewijzen)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-afdracht-vergoeding-afgifte-rijbewijzen](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/regeling-afdracht-vergoeding-afgifte-rijbewijzen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-07-10 | 2015-12-31 | [2013-07-10.md](./2013-07-10.md) |
-| 2013-01-01 | 2013-07-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-07-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2010-02-02 | 2012-12-31 | [2010-02-02.md](./2010-02-02.md) |
 | 2009-01-01 | 2010-02-01 | [2009-01-01.md](./2009-01-01.md) |

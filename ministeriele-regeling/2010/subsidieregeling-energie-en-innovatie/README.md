@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken, en de Minister van Landbo
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2014-07-01"
-state_count: 23
+state_count: 21
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 23
 **Citeertitel:** Subsidieregeling energie en innovatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-energie-en-innovatie](https://wetten.ai/eli/nl/ministeriele-regeling/2010/subsidieregeling-energie-en-innovatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/subsidieregeling-energie-en-innovatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/subsidieregeling-energie-en-innovatie)
 
 ## Versies
 
@@ -27,8 +27,6 @@ state_count: 23
 | 2014-01-01 | 2014-04-01 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-09-05 | 2013-12-31 | [2013-09-05.md](./2013-09-05.md) |
 | 2013-08-24 | 2013-09-04 | [2013-08-24.md](./2013-08-24.md) |
-| 2013-08-24 | 2013-09-04 | [2013-08-24.md](./2013-08-24.md) |
-| 2013-07-03 | 2013-08-23 | [2013-07-03.md](./2013-07-03.md) |
 | 2013-07-03 | 2013-08-23 | [2013-07-03.md](./2013-07-03.md) |
 | 2013-05-09 | 2013-07-02 | [2013-05-09.md](./2013-05-09.md) |
 | 2013-02-22 | 2013-05-08 | [2013-02-22.md](./2013-02-22.md) |

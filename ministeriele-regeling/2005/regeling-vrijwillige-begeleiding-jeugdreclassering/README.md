@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04
 ministry: Veiligheid en Justitie
 abbreviation: Rvbjr
 latest_state: "2020-01-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 7
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Rvbjr
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-vrijwillige-begeleiding-jeugdreclassering](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-vrijwillige-begeleiding-jeugdreclassering)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-vrijwillige-begeleiding-jeugdreclassering](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-vrijwillige-begeleiding-jeugdreclassering)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 |---|---|---|
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2015-03-24 | 2019-12-31 | [2015-03-24.md](./2015-03-24.md) |
-| 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-03-23 | [2015-01-01.md](./2015-01-01.md) |
 | 2012-07-03 | 2014-12-31 | [2012-07-03.md](./2012-07-03.md) |
 | 2005-01-19 | 2012-07-02 | [2005-01-19.md](./2005-01-19.md) |

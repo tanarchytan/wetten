@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordenin
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2012-04-14"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit mandaat, volmacht en machtiging Agentschap NL Bodem+
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-bodem](https://wetten.ai/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-bodem)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-bodem](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/besluit-mandaat-volmacht-en-machtiging-agentschap-nl-bodem)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 8
 | 2010-01-01 | 2012-04-13 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-21 | 2009-12-31 | [2009-07-21.md](./2009-07-21.md) |
 | 2008-04-03 | 2009-07-20 | [2008-04-03.md](./2008-04-03.md) |
-| 2008-01-01 | 2008-04-02 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-04-02 | [2008-01-01.md](./2008-01-01.md) |
 | 2006-12-01 | 2007-12-31 | [2006-12-01.md](./2006-12-01.md) |
 | 2005-01-01 | 2006-11-30 | [2005-01-01.md](./2005-01-01.md) |

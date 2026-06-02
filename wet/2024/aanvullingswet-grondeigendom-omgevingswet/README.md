@@ -16,7 +16,7 @@ state_count: 1
 **Citeertitel:** Aanvullingswet grondeigendom Omgevingswet
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/wet/2024/aanvullingswet-grondeigendom-omgevingswet](https://wetten.ai/eli/nl/wet/2024/aanvullingswet-grondeigendom-omgevingswet)
+**ELI:** [/eli/nl/wet/2024/aanvullingswet-grondeigendom-omgevingswet](https://wettenbank.online/eli/nl/wet/2024/aanvullingswet-grondeigendom-omgevingswet)
 
 ## Versies
 

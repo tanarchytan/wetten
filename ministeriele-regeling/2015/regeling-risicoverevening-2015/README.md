@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport, van 15 ja
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-12-05"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling risicoverevening 2015
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-risicoverevening-2015](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-risicoverevening-2015)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-risicoverevening-2015](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-risicoverevening-2015)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2015-12-05 | heden | [2015-12-05.md](./2015-12-05.md) |
 | 2015-02-10 | 2015-12-04 | [2015-02-10.md](./2015-02-10.md) |
-| 2015-02-10 | 2015-12-04 | [2015-02-10.md](./2015-02-10.md) |
-| 2014-09-30 | 2015-02-09 | [2014-09-30.md](./2014-09-30.md) |
 | 2014-09-30 | 2015-02-09 | [2014-09-30.md](./2014-09-30.md) |
 | 2013-09-30 | 2014-09-29 | [2013-09-30.md](./2013-09-30.md) |
 | 2012-09-30 | 2013-09-29 | [2012-09-30.md](./2012-09-30.md) |

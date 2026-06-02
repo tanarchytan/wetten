@@ -6,7 +6,7 @@ title: Wet van 7 oktober 1964, tot regeling van de uitoefening van de bedrijven 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-02-12"
-state_count: 25
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 25
 **Citeertitel:** Alcoholwet
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/1966/alcoholwet](https://wetten.ai/eli/nl/wet/1966/alcoholwet)
+**ELI:** [/eli/nl/wet/1966/alcoholwet](https://wettenbank.online/eli/nl/wet/1966/alcoholwet)
 
 ## Versies
 
@@ -34,8 +34,6 @@ state_count: 25
 | 2015-01-01 | 2017-12-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-02-15 | 2014-12-31 | [2014-02-15.md](./2014-02-15.md) |
 | 2014-01-01 | 2014-02-14 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-02-14 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-07-14 | 2011-12-31 | [2010-07-14.md](./2010-07-14.md) |

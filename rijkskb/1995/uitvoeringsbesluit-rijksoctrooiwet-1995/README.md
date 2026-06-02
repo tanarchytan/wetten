@@ -6,7 +6,7 @@ title: Besluit van 20 februari 1995, houdende regels ter uitvoering van de Rijks
 ministry: Economische Zaken
 abbreviation: Ub ROW 1995
 latest_state: "2016-10-07"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 12
 **Type:** rijkskb
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** Ub ROW 1995
-**ELI:** [/eli/nl/rijkskb/1995/uitvoeringsbesluit-rijksoctrooiwet-1995](https://wetten.ai/eli/nl/rijkskb/1995/uitvoeringsbesluit-rijksoctrooiwet-1995)
+**ELI:** [/eli/nl/rijkskb/1995/uitvoeringsbesluit-rijksoctrooiwet-1995](https://wettenbank.online/eli/nl/rijkskb/1995/uitvoeringsbesluit-rijksoctrooiwet-1995)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-10-07 | heden | [2016-10-07.md](./2016-10-07.md) |
-| 2016-01-18 | 2016-10-06 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-10-06 | [2016-01-18.md](./2016-01-18.md) |
 | 2010-10-10 | 2016-01-17 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-04-01 | 2010-10-09 | [2010-04-01.md](./2010-04-01.md) |

@@ -6,7 +6,7 @@ title: Wet van 29 juni 2006, houdende nieuwe regels betreffende maatschappelijke
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: WMO
 latest_state: "2014-07-16"
-state_count: 19
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** WMO
-**ELI:** [/eli/nl/wet/2007/wet-maatschappelijke-ondersteuning](https://wetten.ai/eli/nl/wet/2007/wet-maatschappelijke-ondersteuning)
+**ELI:** [/eli/nl/wet/2007/wet-maatschappelijke-ondersteuning](https://wettenbank.online/eli/nl/wet/2007/wet-maatschappelijke-ondersteuning)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 19
 |---|---|---|
 | 2014-07-16 | 2014-12-31 | [2014-07-16.md](./2014-07-16.md) |
 | 2014-01-06 | 2014-07-15 | [2014-01-06.md](./2014-01-06.md) |
-| 2014-01-06 | 2014-07-15 | [2014-01-06.md](./2014-01-06.md) |
-| 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-07-01 | 2013-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-01-01 | 2013-06-30 | [2013-01-01.md](./2013-01-01.md) |
@@ -37,8 +35,6 @@ state_count: 19
 | 2009-08-26 | 2009-12-31 | [2009-08-26.md](./2009-08-26.md) |
 | 2009-07-08 | 2009-08-25 | [2009-07-08.md](./2009-07-08.md) |
 | 2008-06-01 | 2009-07-07 | [2008-06-01.md](./2008-06-01.md) |
-| 2008-06-01 | 2009-07-07 | [2008-06-01.md](./2008-06-01.md) |
-| 2007-04-01 | 2008-05-31 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-04-01 | 2008-05-31 | [2007-04-01.md](./2007-04-01.md) |
 | 2007-01-01 | 2007-03-31 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |

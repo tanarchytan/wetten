@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Infrastructuur en Milieu van 31 okto
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2020-12-19"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Regeling relatieve zuinigheid personenauto’s
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-relatieve-zuinigheid-personenauto-s](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-relatieve-zuinigheid-personenauto-s)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-relatieve-zuinigheid-personenauto-s](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-relatieve-zuinigheid-personenauto-s)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-12-19 | heden | [2020-12-19.md](./2020-12-19.md) |
-| 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2018-04-11 | 2020-08-31 | [2018-04-11.md](./2018-04-11.md) |
 | 2015-02-28 | 2018-04-10 | [2015-02-28.md](./2015-02-28.md) |

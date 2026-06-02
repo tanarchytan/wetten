@@ -6,7 +6,7 @@ title: Besluit aanwijzing toezichthouders UWV
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: Bat UWV
 latest_state: "2023-10-03"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 7
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
 **Afkorting:** Bat UWV
-**ELI:** [/eli/nl/zbo/2008/besluit-aanwijzing-toezichthouders-uwv](https://wetten.ai/eli/nl/zbo/2008/besluit-aanwijzing-toezichthouders-uwv)
+**ELI:** [/eli/nl/zbo/2008/besluit-aanwijzing-toezichthouders-uwv](https://wettenbank.online/eli/nl/zbo/2008/besluit-aanwijzing-toezichthouders-uwv)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-10-03 | heden | [2023-10-03.md](./2023-10-03.md) |
-| 2023-09-01 | 2023-10-02 | [2023-09-01.md](./2023-09-01.md) |
 | 2023-09-01 | 2023-10-02 | [2023-09-01.md](./2023-09-01.md) |
 | 2015-01-21 | 2023-08-31 | [2015-01-21.md](./2015-01-21.md) |
 | 2013-07-11 | 2015-01-20 | [2013-07-11.md](./2013-07-11.md) |

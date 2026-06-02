@@ -6,7 +6,7 @@ title: Wet van 23 januari 1997 tot uitvoering van richtlijn nr. 94/45/EG van de 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: EOR
 latest_state: "2017-12-16"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 9
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** EOR
-**ELI:** [/eli/nl/wet/1997/wet-op-de-europese-ondernemingsraden](https://wetten.ai/eli/nl/wet/1997/wet-op-de-europese-ondernemingsraden)
+**ELI:** [/eli/nl/wet/1997/wet-op-de-europese-ondernemingsraden](https://wettenbank.online/eli/nl/wet/1997/wet-op-de-europese-ondernemingsraden)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2017-12-16 | heden | [2017-12-16.md](./2017-12-16.md) |
-| 2017-10-10 | 2017-12-15 | [2017-10-10.md](./2017-10-10.md) |
 | 2017-10-10 | 2017-12-15 | [2017-10-10.md](./2017-10-10.md) |
 | 2013-01-01 | 2017-10-09 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-01-01 | 2012-12-31 | [2012-01-01.md](./2012-01-01.md) |

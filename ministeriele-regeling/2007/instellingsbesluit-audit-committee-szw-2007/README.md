@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 juni 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-05-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Instellingsbesluit Audit Committee SZW 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2007/instellingsbesluit-audit-committee-szw-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/instellingsbesluit-audit-committee-szw-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/instellingsbesluit-audit-committee-szw-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/instellingsbesluit-audit-committee-szw-2007)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2012-05-01 | 2012-08-23 | [2012-05-01.md](./2012-05-01.md) |
 | 2009-07-18 | 2012-04-30 | [2009-07-18.md](./2009-07-18.md) |
 | 2009-06-01 | 2009-07-17 | [2009-06-01.md](./2009-06-01.md) |
-| 2009-06-01 | 2009-07-17 | [2009-06-01.md](./2009-06-01.md) |
-| 2009-01-01 | 2009-05-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2009-05-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-07-21 | 2008-12-31 | [2007-07-21.md](./2007-07-21.md) |
 | 2007-06-01 | 2007-07-20 | [2007-06-01.md](./2007-06-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Veiligheid en Justitie van 16 februari 2016, 
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2018-02-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Besluit voortzetting Commissie modernisering Wetboek van Strafvordering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-voortzetting-commissie-modernisering-wetboek-van-str](https://wetten.ai/eli/nl/ministeriele-regeling/2016/besluit-voortzetting-commissie-modernisering-wetboek-van-str)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/besluit-voortzetting-commissie-modernisering-wetboek-van-str](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/besluit-voortzetting-commissie-modernisering-wetboek-van-str)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 7
 |---|---|---|
 | 2018-02-01 | 2018-04-10 | [2018-02-01.md](./2018-02-01.md) |
 | 2016-11-22 | 2018-01-31 | [2016-11-22.md](./2016-11-22.md) |
-| 2016-09-02 | 2016-11-21 | [2016-09-02.md](./2016-09-02.md) |
 | 2016-09-02 | 2016-11-21 | [2016-09-02.md](./2016-09-02.md) |
 | 2016-09-01 | 2016-09-01 | [2016-09-01.md](./2016-09-01.md) |
 | 2016-02-27 | 2016-08-31 | [2016-02-27.md](./2016-02-27.md) |

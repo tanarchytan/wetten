@@ -6,7 +6,7 @@ title: Vaststelling qouta suiker, isoglucose en inulinestroop verkoopseizoenen 2
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2005-10-29"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling vaststelling quota suiker, isoglucose en inulinestroop voor de verkoopseizoenen 2001/2002 tot en met 2005/2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-vaststelling-quota-suiker-isoglucose-en-inulinestro)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2005-10-29 | 2006-06-30 | [2005-10-29.md](./2005-10-29.md) |
 | 2005-07-01 | 2005-10-28 | [2005-07-01.md](./2005-07-01.md) |
-| 2005-07-01 | 2005-10-28 | [2005-07-01.md](./2005-07-01.md) |
 | 2003-10-25 | 2005-06-30 | [2003-10-25.md](./2003-10-25.md) |
-| 2003-07-01 | 2003-10-24 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-10-24 | [2003-07-01.md](./2003-07-01.md) |
 | 2001-09-28 | 2003-06-30 | [2001-09-28.md](./2001-09-28.md) |

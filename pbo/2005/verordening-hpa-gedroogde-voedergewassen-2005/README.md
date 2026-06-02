@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 9 juni 2005 tot vasts
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2007-04-29"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Verordening HPA gedroogde voedergewassen 2005
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2005/verordening-hpa-gedroogde-voedergewassen-2005](https://wetten.ai/eli/nl/pbo/2005/verordening-hpa-gedroogde-voedergewassen-2005)
+**ELI:** [/eli/nl/pbo/2005/verordening-hpa-gedroogde-voedergewassen-2005](https://wettenbank.online/eli/nl/pbo/2005/verordening-hpa-gedroogde-voedergewassen-2005)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-04-29 | 2013-05-17 | [2007-04-29.md](./2007-04-29.md) |
-| 2006-10-16 | 2007-04-28 | [2006-10-16.md](./2006-10-16.md) |
 | 2006-10-16 | 2007-04-28 | [2006-10-16.md](./2006-10-16.md) |
 | 2005-09-03 | 2006-10-15 | [2005-09-03.md](./2005-09-03.md) |
 | 2005-04-01 | 2005-09-02 | [2005-04-01.md](./2005-04-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2012-07-01"
-state_count: 22
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 22
 **Citeertitel:** Regeling monitoring handel in emissierechten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-monitoring-handel-in-emissierechten](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-monitoring-handel-in-emissierechten)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-monitoring-handel-in-emissierechten](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-monitoring-handel-in-emissierechten)
 
 ## Versies
 
@@ -25,16 +25,11 @@ state_count: 22
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-09-01 | 2011-12-31 | [2011-09-01.md](./2011-09-01.md) |
-| 2011-09-01 | 2011-12-31 | [2011-09-01.md](./2011-09-01.md) |
 | 2011-06-01 | 2011-08-31 | [2011-06-01.md](./2011-06-01.md) |
 | 2010-10-06 | 2011-05-31 | [2010-10-06.md](./2010-10-06.md) |
 | 2010-10-01 | 2010-10-05 | [2010-10-01.md](./2010-10-01.md) |
-| 2010-10-01 | 2010-10-05 | [2010-10-01.md](./2010-10-01.md) |
-| 2010-02-24 | 2010-09-30 | [2010-02-24.md](./2010-02-24.md) |
 | 2010-02-24 | 2010-09-30 | [2010-02-24.md](./2010-02-24.md) |
 | 2010-02-18 | 2010-02-23 | [2010-02-18.md](./2010-02-18.md) |
-| 2010-02-18 | 2010-02-23 | [2010-02-18.md](./2010-02-18.md) |
-| 2010-01-16 | 2010-02-17 | [2010-01-16.md](./2010-01-16.md) |
 | 2010-01-16 | 2010-02-17 | [2010-01-16.md](./2010-01-16.md) |
 | 2008-05-25 | 2010-01-15 | [2008-05-25.md](./2008-05-25.md) |
 | 2008-01-01 | 2008-05-24 | [2008-01-01.md](./2008-01-01.md) |

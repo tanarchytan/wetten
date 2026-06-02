@@ -6,7 +6,7 @@ title: Beleidsregels van de Minister van Landbouw, Natuur en Voedselkwaliteit va
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Beleidsregels dierenwelzijn 2009
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/beleidsregel/2009/beleidsregels-dierenwelzijn-2009](https://wetten.ai/eli/nl/beleidsregel/2009/beleidsregels-dierenwelzijn-2009)
+**ELI:** [/eli/nl/beleidsregel/2009/beleidsregels-dierenwelzijn-2009](https://wettenbank.online/eli/nl/beleidsregel/2009/beleidsregels-dierenwelzijn-2009)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 9
 |---|---|---|
 | 2020-01-01 | heden | [2020-01-01.md](./2020-01-01.md) |
 | 2014-07-02 | 2019-12-31 | [2014-07-02.md](./2014-07-02.md) |
-| 2014-07-01 | 2014-07-01 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-07-01 | 2014-07-01 | [2014-07-01.md](./2014-07-01.md) |
 | 2011-05-04 | 2014-06-30 | [2011-05-04.md](./2011-05-04.md) |
 | 2010-09-03 | 2011-05-03 | [2010-09-03.md](./2010-09-03.md) |

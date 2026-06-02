@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M.
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2004-02-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke aanvullende stimuleringsregeling regulier maken 10.000 ID-banen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2003/tijdelijke-aanvullende-stimuleringsregeling-regulier-maken-1](https://wetten.ai/eli/nl/ministeriele-regeling/2003/tijdelijke-aanvullende-stimuleringsregeling-regulier-maken-1)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/tijdelijke-aanvullende-stimuleringsregeling-regulier-maken-1](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/tijdelijke-aanvullende-stimuleringsregeling-regulier-maken-1)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2004-02-15 | 2006-06-30 | [2004-02-15.md](./2004-02-15.md) |
-| 2004-01-01 | 2004-02-14 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-02-14 | [2004-01-01.md](./2004-01-01.md) |
 | 2003-04-25 | 2003-12-31 | [2003-04-25.md](./2003-04-25.md) |

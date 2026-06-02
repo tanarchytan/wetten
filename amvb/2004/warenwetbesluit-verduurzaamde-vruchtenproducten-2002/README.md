@@ -16,7 +16,7 @@ state_count: 3
 **Citeertitel:** Warenwetbesluit Verduurzaamde vruchtenproducten 2002
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2004/warenwetbesluit-verduurzaamde-vruchtenproducten-2002](https://wetten.ai/eli/nl/amvb/2004/warenwetbesluit-verduurzaamde-vruchtenproducten-2002)
+**ELI:** [/eli/nl/amvb/2004/warenwetbesluit-verduurzaamde-vruchtenproducten-2002](https://wettenbank.online/eli/nl/amvb/2004/warenwetbesluit-verduurzaamde-vruchtenproducten-2002)
 
 ## Versies
 

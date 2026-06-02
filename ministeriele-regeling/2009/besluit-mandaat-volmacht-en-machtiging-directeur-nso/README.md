@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken, de Minister van Onderwijs,
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2010-02-17"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Besluit mandaat, volmacht en machtiging directeur NSO
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-mandaat-volmacht-en-machtiging-directeur-nso](https://wetten.ai/eli/nl/ministeriele-regeling/2009/besluit-mandaat-volmacht-en-machtiging-directeur-nso)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/besluit-mandaat-volmacht-en-machtiging-directeur-nso](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/besluit-mandaat-volmacht-en-machtiging-directeur-nso)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-02-17 | heden | [2010-02-17.md](./2010-02-17.md) |
-| 2010-01-01 | 2010-02-16 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-02-16 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-07-17 | 2009-12-31 | [2009-07-17.md](./2009-07-17.md) |
 | 2009-07-01 | 2009-07-16 | [2009-07-01.md](./2009-07-01.md) |

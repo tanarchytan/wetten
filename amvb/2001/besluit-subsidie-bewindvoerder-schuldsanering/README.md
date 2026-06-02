@@ -6,7 +6,7 @@ title: Besluit van 6 februari 2001, houdende regels omtrent het verstrekken van 
 ministry: Veiligheid en Justitie
 abbreviation: Bsubs bs
 latest_state: "2013-07-01"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bsubs bs
-**ELI:** [/eli/nl/amvb/2001/besluit-subsidie-bewindvoerder-schuldsanering](https://wetten.ai/eli/nl/amvb/2001/besluit-subsidie-bewindvoerder-schuldsanering)
+**ELI:** [/eli/nl/amvb/2001/besluit-subsidie-bewindvoerder-schuldsanering](https://wettenbank.online/eli/nl/amvb/2001/besluit-subsidie-bewindvoerder-schuldsanering)
 
 ## Versies
 
@@ -34,9 +34,7 @@ state_count: 17
 | 2005-07-01 | 2006-06-30 | [2005-07-01.md](./2005-07-01.md) |
 | 2004-05-19 | 2005-06-30 | [2004-05-19.md](./2004-05-19.md) |
 | 2003-10-01 | 2004-05-18 | [2003-10-01.md](./2003-10-01.md) |
-| 2003-10-01 | 2004-05-18 | [2003-10-01.md](./2003-10-01.md) |
 | 2003-07-24 | 2003-09-30 | [2003-07-24.md](./2003-07-24.md) |
-| 2003-07-01 | 2003-07-23 | [2003-07-01.md](./2003-07-01.md) |
 | 2003-07-01 | 2003-07-23 | [2003-07-01.md](./2003-07-01.md) |
 | 2002-07-01 | 2003-06-30 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-01-01 | 2002-06-30 | [2002-01-01.md](./2002-01-01.md) |

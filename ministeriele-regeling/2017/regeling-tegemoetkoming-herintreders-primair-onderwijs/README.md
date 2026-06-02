@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2019-05-29"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling tegemoetkoming herintreders primair onderwijs
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-tegemoetkoming-herintreders-primair-onderwijs](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-tegemoetkoming-herintreders-primair-onderwijs)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-tegemoetkoming-herintreders-primair-onderwijs](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-tegemoetkoming-herintreders-primair-onderwijs)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-05-29 | heden | [2019-05-29.md](./2019-05-29.md) |
-| 2019-01-01 | 2019-05-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-05-28 | [2019-01-01.md](./2019-01-01.md) |
 | 2017-11-01 | 2018-12-31 | [2017-11-01.md](./2017-11-01.md) |

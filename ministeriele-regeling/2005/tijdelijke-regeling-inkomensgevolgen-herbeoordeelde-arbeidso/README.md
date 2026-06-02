@@ -6,7 +6,7 @@ title: Tijdelijke regeling van de Minister van Sociale Zaken en Werkgelegenheid 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: TRI
 latest_state: "2010-01-01"
-state_count: 11
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 11
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** TRI
-**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-inkomensgevolgen-herbeoordeelde-arbeidso](https://wetten.ai/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-inkomensgevolgen-herbeoordeelde-arbeidso)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-inkomensgevolgen-herbeoordeelde-arbeidso](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-inkomensgevolgen-herbeoordeelde-arbeidso)
 
 ## Versies
 
@@ -31,6 +31,4 @@ state_count: 11
 | 2006-10-01 | 2007-03-22 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-07-07 | 2005-12-31 | [2005-07-07.md](./2005-07-07.md) |
-| 2005-07-07 | 2005-12-31 | [2005-07-07.md](./2005-07-07.md) |
-| 2005-01-01 | 2005-07-06 | [2005-01-01.md](./2005-01-01.md) |
 | 2005-01-01 | 2005-07-06 | [2005-01-01.md](./2005-01-01.md) |

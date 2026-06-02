@@ -6,7 +6,7 @@ title: Wet van 25 februari 1954, houdende regeling ter bevordering van een goede
 ministry: Economische Zaken
 abbreviation: VWB
 latest_state: "2007-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** VWB
-**ELI:** [/eli/nl/wet/1955/vestigingswet-bedrijven-1954](https://wetten.ai/eli/nl/wet/1955/vestigingswet-bedrijven-1954)
+**ELI:** [/eli/nl/wet/1955/vestigingswet-bedrijven-1954](https://wettenbank.online/eli/nl/wet/1955/vestigingswet-bedrijven-1954)
 
 ## Versies
 
@@ -27,7 +27,5 @@ state_count: 8
 | 2005-01-01 | 2006-12-31 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-30 | 2004-12-31 | [2004-12-30.md](./2004-12-30.md) |
 | 2002-07-01 | 2004-12-29 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-07-01 | 2004-12-29 | [2002-07-01.md](./2002-07-01.md) |
-| 2002-06-01 | 2002-06-30 | [2002-06-01.md](./2002-06-01.md) |
 | 2002-06-01 | 2002-06-30 | [2002-06-01.md](./2002-06-01.md) |
 | 2001-01-01 | 2002-05-31 | [2001-01-01.md](./2001-01-01.md) |

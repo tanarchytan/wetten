@@ -6,7 +6,7 @@ title: Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 8 o
 ministry: Zorginstituut Nederland
 abbreviation: null
 latest_state: "2021-09-07"
-state_count: 10
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Beleidsregels vereveningsbijdrage zorgverzekering 2020
 **Type:** zbo
 **Verantwoordelijk ministerie:** Zorginstituut Nederland
-**ELI:** [/eli/nl/zbo/2019/beleidsregels-vereveningsbijdrage-zorgverzekering-2020](https://wetten.ai/eli/nl/zbo/2019/beleidsregels-vereveningsbijdrage-zorgverzekering-2020)
+**ELI:** [/eli/nl/zbo/2019/beleidsregels-vereveningsbijdrage-zorgverzekering-2020](https://wettenbank.online/eli/nl/zbo/2019/beleidsregels-vereveningsbijdrage-zorgverzekering-2020)
 
 ## Versies
 
@@ -24,11 +24,6 @@ state_count: 10
 |---|---|---|
 | 2021-09-07 | heden | [2021-09-07.md](./2021-09-07.md) |
 | 2020-10-24 | 2021-09-06 | [2020-10-24.md](./2020-10-24.md) |
-| 2020-10-24 | 2021-09-06 | [2020-10-24.md](./2020-10-24.md) |
-| 2020-01-01 | 2020-10-23 | [2020-01-01.md](./2020-01-01.md) |
-| 2020-01-01 | 2020-10-23 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-10-23 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-10-31 | 2019-12-31 | [2019-10-31.md](./2019-10-31.md) |
-| 2019-10-31 | 2019-12-31 | [2019-10-31.md](./2019-10-31.md) |
-| 2019-10-01 | 2019-10-30 | [2019-10-01.md](./2019-10-01.md) |
 | 2019-10-01 | 2019-10-30 | [2019-10-01.md](./2019-10-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Justitie van 2 september 2008, nr. 5
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2016-08-26"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling erkenning EU-beroepskwalificaties advocatuur
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-advocatuur](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-advocatuur)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-advocatuur](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-erkenning-eu-beroepskwalificaties-advocatuur)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-08-26 | heden | [2016-08-26.md](./2016-08-26.md) |
-| 2016-01-18 | 2016-08-25 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-08-25 | [2016-01-18.md](./2016-01-18.md) |
 | 2013-01-01 | 2016-01-17 | [2013-01-01.md](./2013-01-01.md) |
 | 2008-09-25 | 2012-12-31 | [2008-09-25.md](./2008-09-25.md) |

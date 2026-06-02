@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken en Klimaat en de Minister 
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2022-07-14"
-state_count: 53
+state_count: 47
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 53
 **Citeertitel:** Regeling openstelling EZK- en LNV-subsidies 2021
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-openstelling-ezk-en-lnv-subsidies-2021](https://wetten.ai/eli/nl/ministeriele-regeling/2021/regeling-openstelling-ezk-en-lnv-subsidies-2021)
+**ELI:** [/eli/nl/ministeriele-regeling/2021/regeling-openstelling-ezk-en-lnv-subsidies-2021](https://wettenbank.online/eli/nl/ministeriele-regeling/2021/regeling-openstelling-ezk-en-lnv-subsidies-2021)
 
 ## Versies
 
@@ -32,14 +32,9 @@ state_count: 53
 | 2021-12-18 | 2021-12-20 | [2021-12-18.md](./2021-12-18.md) |
 | 2021-12-15 | 2021-12-17 | [2021-12-15.md](./2021-12-15.md) |
 | 2021-12-08 | 2021-12-14 | [2021-12-08.md](./2021-12-08.md) |
-| 2021-12-08 | 2021-12-14 | [2021-12-08.md](./2021-12-08.md) |
-| 2021-12-03 | 2021-12-07 | [2021-12-03.md](./2021-12-03.md) |
 | 2021-12-03 | 2021-12-07 | [2021-12-03.md](./2021-12-03.md) |
 | 2021-11-22 | 2021-12-02 | [2021-11-22.md](./2021-11-22.md) |
-| 2021-11-22 | 2021-12-02 | [2021-11-22.md](./2021-11-22.md) |
 | 2021-11-02 | 2021-11-21 | [2021-11-02.md](./2021-11-02.md) |
-| 2021-11-02 | 2021-11-21 | [2021-11-02.md](./2021-11-02.md) |
-| 2021-11-01 | 2021-11-01 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-11-01 | 2021-11-01 | [2021-11-01.md](./2021-11-01.md) |
 | 2021-10-21 | 2021-10-31 | [2021-10-21.md](./2021-10-21.md) |
 | 2021-10-13 | 2021-10-20 | [2021-10-13.md](./2021-10-13.md) |
@@ -67,7 +62,6 @@ state_count: 53
 | 2021-03-31 | 2021-03-31 | [2021-03-31.md](./2021-03-31.md) |
 | 2021-03-30 | 2021-03-30 | [2021-03-30.md](./2021-03-30.md) |
 | 2021-03-24 | 2021-03-29 | [2021-03-24.md](./2021-03-24.md) |
-| 2021-03-01 | 2021-03-23 | [2021-03-01.md](./2021-03-01.md) |
 | 2021-03-01 | 2021-03-23 | [2021-03-01.md](./2021-03-01.md) |
 | 2021-02-17 | 2021-02-28 | [2021-02-17.md](./2021-02-17.md) |
 | 2021-02-12 | 2021-02-16 | [2021-02-12.md](./2021-02-12.md) |

@@ -5,8 +5,8 @@ type: ministeriele-regeling
 title: Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie, van 14 juli 2011, nr. 218837, houdende samenvoeging en vereenvoudiging van diverse regelingen op het gebied van de zeevisserij (Uitvoeringsregeling zeevisserij)
 ministry: Economische Zaken
 abbreviation: null
-latest_state: "2026-05-20"
-state_count: 71
+latest_state: "2026-06-01"
+state_count: 72
 ---
 
 
@@ -22,6 +22,7 @@ state_count: 71
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
+| 2026-06-01 | heden | [2026-06-01.md](./2026-06-01.md) |
 | 2026-05-20 | heden | [2026-05-20.md](./2026-05-20.md) |
 | 2026-05-01 | 2026-05-19 | [2026-05-01.md](./2026-05-01.md) |
 | 2026-04-01 | 2026-04-30 | [2026-04-01.md](./2026-04-01.md) |

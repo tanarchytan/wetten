@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 2 november 2006, 
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2008-03-02"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening bestemmingsheffingen pluimveevleessector (PPE) 2007
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2007/verordening-bestemmingsheffingen-pluimveevleessector-ppe-200](https://wetten.ai/eli/nl/pbo/2007/verordening-bestemmingsheffingen-pluimveevleessector-ppe-200)
+**ELI:** [/eli/nl/pbo/2007/verordening-bestemmingsheffingen-pluimveevleessector-ppe-200](https://wettenbank.online/eli/nl/pbo/2007/verordening-bestemmingsheffingen-pluimveevleessector-ppe-200)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2008-03-02 | 2019-10-16 | [2008-03-02.md](./2008-03-02.md) |
 | 2007-04-22 | 2008-03-01 | [2007-04-22.md](./2007-04-22.md) |
-| 2007-04-22 | 2008-03-01 | [2007-04-22.md](./2007-04-22.md) |
-| 2007-01-01 | 2007-04-21 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-04-21 | [2007-01-01.md](./2007-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 jan
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2007-01-01"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit Arbeidsinspectie 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/organisatie-mandaat-en-volmachtbesluit-arbeidsinspectie-2005)
 
 ## Versies
 
@@ -25,10 +25,7 @@ state_count: 10
 | 2007-01-01 | 2007-06-16 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-10-29 | 2006-12-31 | [2006-10-29.md](./2006-10-29.md) |
 | 2006-04-01 | 2006-10-28 | [2006-04-01.md](./2006-04-01.md) |
-| 2006-04-01 | 2006-10-28 | [2006-04-01.md](./2006-04-01.md) |
 | 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2006-01-01 | 2006-03-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-03-01 | 2005-12-31 | [2005-03-01.md](./2005-03-01.md) |
 | 2005-03-01 | 2005-12-31 | [2005-03-01.md](./2005-03-01.md) |
 | 2005-02-05 | 2005-02-28 | [2005-02-05.md](./2005-02-05.md) |
 | 2005-02-01 | 2005-02-04 | [2005-02-01.md](./2005-02-01.md) |

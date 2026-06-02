@@ -6,7 +6,7 @@ title: Regeling met betrekking tot de erkenning en aanwijzing van rechtspersonen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling erkende organisaties Schepenwet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-erkende-organisaties-schepenwet](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-erkende-organisaties-schepenwet)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-erkende-organisaties-schepenwet](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-erkende-organisaties-schepenwet)
 
 ## Versies
 
@@ -28,7 +28,6 @@ state_count: 10
 | 2011-06-17 | 2011-11-29 | [2011-06-17.md](./2011-06-17.md) |
 | 2010-10-10 | 2011-06-16 | [2010-10-10.md](./2010-10-10.md) |
 | 2008-12-25 | 2010-10-09 | [2008-12-25.md](./2008-12-25.md) |
-| 2008-11-01 | 2008-12-24 | [2008-11-01.md](./2008-11-01.md) |
 | 2008-11-01 | 2008-12-24 | [2008-11-01.md](./2008-11-01.md) |
 | 2006-03-26 | 2008-10-31 | [2006-03-26.md](./2006-03-26.md) |
 | 2003-02-09 | 2006-03-25 | [2003-02-09.md](./2003-02-09.md) |

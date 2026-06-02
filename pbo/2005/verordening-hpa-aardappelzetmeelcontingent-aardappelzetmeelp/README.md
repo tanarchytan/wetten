@@ -6,7 +6,7 @@ title: Verordening van het Hoofdproductschap Akkerbouw van 9 juni 2005 tot vasts
 ministry: Hoofdproductschap Akkerbouw
 abbreviation: null
 latest_state: "2007-04-29"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening HPA aardappelzetmeelcontingent, aardappelzetmeelpremie en steun voor zetmeelaardappelen 2005
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdproductschap Akkerbouw
-**ELI:** [/eli/nl/pbo/2005/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp](https://wetten.ai/eli/nl/pbo/2005/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp)
+**ELI:** [/eli/nl/pbo/2005/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp](https://wettenbank.online/eli/nl/pbo/2005/verordening-hpa-aardappelzetmeelcontingent-aardappelzetmeelp)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2007-04-29 | 2014-12-31 | [2007-04-29.md](./2007-04-29.md) |
-| 2006-10-16 | 2007-04-28 | [2006-10-16.md](./2006-10-16.md) |
 | 2006-10-16 | 2007-04-28 | [2006-10-16.md](./2006-10-16.md) |
 | 2005-11-27 | 2006-10-15 | [2005-11-27.md](./2005-11-27.md) |

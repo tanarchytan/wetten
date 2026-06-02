@@ -6,7 +6,7 @@ title: Wet van 18 december 2008, houdende wijziging van enkele belastingwetten e
 ministry: Financiën
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Overige fiscale maatregelen 2009
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2008/overige-fiscale-maatregelen-2009](https://wetten.ai/eli/nl/wet/2008/overige-fiscale-maatregelen-2009)
+**ELI:** [/eli/nl/wet/2008/overige-fiscale-maatregelen-2009](https://wettenbank.online/eli/nl/wet/2008/overige-fiscale-maatregelen-2009)
 
 ## Versies
 
@@ -27,6 +27,4 @@ state_count: 8
 | 2010-01-01 | 2010-12-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-12-31 | 2008-12-31 | [2008-12-31.md](./2008-12-31.md) |
-| 2008-12-31 | 2008-12-31 | [2008-12-31.md](./2008-12-31.md) |
-| 2008-10-06 | 2008-12-30 | [2008-10-06.md](./2008-10-06.md) |
 | 2008-10-06 | 2008-12-30 | [2008-10-06.md](./2008-10-06.md) |

@@ -6,7 +6,7 @@ title: Besluit beleidsregels ontslagtaak UWV 2010
 ministry: Uitvoeringsinstituut werknemersverzekeringen
 abbreviation: null
 latest_state: "2012-03-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit beleidsregels ontslagtaak UWV 2010
 **Type:** zbo
 **Verantwoordelijk ministerie:** Uitvoeringsinstituut werknemersverzekeringen
-**ELI:** [/eli/nl/zbo/2009/besluit-beleidsregels-ontslagtaak-uwv-2010](https://wetten.ai/eli/nl/zbo/2009/besluit-beleidsregels-ontslagtaak-uwv-2010)
+**ELI:** [/eli/nl/zbo/2009/besluit-beleidsregels-ontslagtaak-uwv-2010](https://wettenbank.online/eli/nl/zbo/2009/besluit-beleidsregels-ontslagtaak-uwv-2010)
 
 ## Versies
 
@@ -27,7 +27,5 @@ state_count: 9
 | 2011-09-11 | 2012-02-15 | [2011-09-11.md](./2011-09-11.md) |
 | 2010-03-11 | 2011-09-10 | [2010-03-11.md](./2010-03-11.md) |
 | 2009-12-12 | 2010-03-10 | [2009-12-12.md](./2009-12-12.md) |
-| 2009-12-12 | 2010-03-10 | [2009-12-12.md](./2009-12-12.md) |
-| 2009-12-01 | 2009-12-11 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-12-01 | 2009-12-11 | [2009-12-01.md](./2009-12-01.md) |
 | 2009-11-30 | 2009-11-30 | [2009-11-30.md](./2009-11-30.md) |

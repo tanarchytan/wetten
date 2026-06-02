@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling Stichting Nederlands Onderwijs in het Buitenland 2014–2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-stichting-nederlands-onderwijs-in-het-buitenland-20](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-stichting-nederlands-onderwijs-in-het-buitenland-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-stichting-nederlands-onderwijs-in-het-buitenland-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-stichting-nederlands-onderwijs-in-het-buitenland-20)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2017-01-01 | 2018-11-30 | [2017-01-01.md](./2017-01-01.md) |
 | 2015-09-19 | 2016-12-31 | [2015-09-19.md](./2015-09-19.md) |
 | 2015-01-01 | 2015-09-18 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-09-18 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-02 | 2014-12-31 | [2014-07-02.md](./2014-07-02.md) |
-| 2014-01-01 | 2014-07-01 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-07-01 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-12-12 | 2013-12-31 | [2013-12-12.md](./2013-12-12.md) |

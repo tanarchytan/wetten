@@ -6,7 +6,7 @@ title: Wet sociaal statuut verzelfstandiging overheidsdiensten BES
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2011-10-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Wet sociaal statuut verzelfstandiging overheidsdiensten BES
 **Type:** wet-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet-bes/2010/wet-sociaal-statuut-verzelfstandiging-overheidsdiensten-bes](https://wetten.ai/eli/nl/wet-bes/2010/wet-sociaal-statuut-verzelfstandiging-overheidsdiensten-bes)
+**ELI:** [/eli/nl/wet-bes/2010/wet-sociaal-statuut-verzelfstandiging-overheidsdiensten-bes](https://wettenbank.online/eli/nl/wet-bes/2010/wet-sociaal-statuut-verzelfstandiging-overheidsdiensten-bes)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2011-10-09 | heden | [2011-10-09.md](./2011-10-09.md) |
 | 2011-08-30 | 2011-10-08 | [2011-08-30.md](./2011-08-30.md) |
-| 2010-10-10 | 2011-08-29 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2011-08-29 | [2010-10-10.md](./2010-10-10.md) |

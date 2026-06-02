@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 18 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-04-29"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling tarieven Plantenziektenkundige Dienst
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-tarieven-plantenziektenkundige-dienst](https://wetten.ai/eli/nl/ministeriele-regeling/2005/regeling-tarieven-plantenziektenkundige-dienst)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/regeling-tarieven-plantenziektenkundige-dienst](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/regeling-tarieven-plantenziektenkundige-dienst)
 
 ## Versies
 
@@ -29,6 +29,4 @@ state_count: 10
 | 2006-01-01 | 2006-08-17 | [2006-01-01.md](./2006-01-01.md) |
 | 2005-10-14 | 2005-12-31 | [2005-10-14.md](./2005-10-14.md) |
 | 2005-09-01 | 2005-10-13 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-09-01 | 2005-10-13 | [2005-09-01.md](./2005-09-01.md) |
-| 2005-04-01 | 2005-08-31 | [2005-04-01.md](./2005-04-01.md) |
 | 2005-04-01 | 2005-08-31 | [2005-04-01.md](./2005-04-01.md) |

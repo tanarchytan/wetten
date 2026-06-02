@@ -6,7 +6,7 @@ title: Regeling toelating bestrijdingsmiddelen 1995
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-06-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling toelating bestrijdingsmiddelen 1995
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-toelating-bestrijdingsmiddelen-1995](https://wetten.ai/eli/nl/ministeriele-regeling/1995/regeling-toelating-bestrijdingsmiddelen-1995)
+**ELI:** [/eli/nl/ministeriele-regeling/1995/regeling-toelating-bestrijdingsmiddelen-1995](https://wettenbank.online/eli/nl/ministeriele-regeling/1995/regeling-toelating-bestrijdingsmiddelen-1995)
 
 ## Versies
 
@@ -29,6 +29,5 @@ state_count: 10
 | 2004-12-01 | 2004-12-14 | [2004-12-01.md](./2004-12-01.md) |
 | 2003-10-01 | 2004-11-30 | [2003-10-01.md](./2003-10-01.md) |
 | 2003-05-30 | 2003-09-30 | [2003-05-30.md](./2003-05-30.md) |
-| 2003-03-01 | 2003-05-29 | [2003-03-01.md](./2003-03-01.md) |
 | 2003-03-01 | 2003-05-29 | [2003-03-01.md](./2003-03-01.md) |
 | 2002-12-01 | 2003-02-28 | [2002-12-01.md](./2002-12-01.md) |

@@ -6,7 +6,7 @@ title: Verordening van het Productschap Wijn van 5 november 2008, houdende regel
 ministry: Productschap Wijn
 abbreviation: null
 latest_state: "2013-03-02"
-state_count: 11
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Verordening W financieringsheffing wijn 2009
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Wijn
-**ELI:** [/eli/nl/pbo/2009/verordening-w-financieringsheffing-wijn-2009](https://wetten.ai/eli/nl/pbo/2009/verordening-w-financieringsheffing-wijn-2009)
+**ELI:** [/eli/nl/pbo/2009/verordening-w-financieringsheffing-wijn-2009](https://wettenbank.online/eli/nl/pbo/2009/verordening-w-financieringsheffing-wijn-2009)
 
 ## Versies
 
@@ -24,12 +24,9 @@ state_count: 11
 |---|---|---|
 | 2013-03-02 | 2019-10-18 | [2013-03-02.md](./2013-03-02.md) |
 | 2013-01-01 | 2013-03-01 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-03-01 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-05-13 | 2012-12-31 | [2012-05-13.md](./2012-05-13.md) |
 | 2011-03-13 | 2012-05-12 | [2011-03-13.md](./2011-03-13.md) |
 | 2011-01-01 | 2011-03-12 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-03-12 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-03-07 | 2010-12-31 | [2010-03-07.md](./2010-03-07.md) |
-| 2010-01-01 | 2010-03-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-06 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |

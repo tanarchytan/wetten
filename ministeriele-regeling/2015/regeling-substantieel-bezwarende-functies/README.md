@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Wonen en Rijksdienst van 19 maart 2015, nr.
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2016-06-07"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling substantieel bezwarende functies
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-substantieel-bezwarende-functies](https://wetten.ai/eli/nl/ministeriele-regeling/2015/regeling-substantieel-bezwarende-functies)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/regeling-substantieel-bezwarende-functies](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/regeling-substantieel-bezwarende-functies)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2016-06-07 | 2019-12-31 | [2016-06-07.md](./2016-06-07.md) |
 | 2016-01-28 | 2016-06-06 | [2016-01-28.md](./2016-01-28.md) |
-| 2016-01-28 | 2016-06-06 | [2016-01-28.md](./2016-01-28.md) |
 | 2015-04-01 | 2016-01-27 | [2015-04-01.md](./2015-04-01.md) |
-| 2015-04-01 | 2016-01-27 | [2015-04-01.md](./2015-04-01.md) |
-| 2014-10-01 | 2015-03-31 | [2014-10-01.md](./2014-10-01.md) |
 | 2014-10-01 | 2015-03-31 | [2014-10-01.md](./2014-10-01.md) |

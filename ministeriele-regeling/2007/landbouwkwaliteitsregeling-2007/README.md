@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 14Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2023-10-14"
-state_count: 31
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 31
 **Citeertitel:** Landbouwkwaliteitsregeling 2007
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2007/landbouwkwaliteitsregeling-2007](https://wetten.ai/eli/nl/ministeriele-regeling/2007/landbouwkwaliteitsregeling-2007)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/landbouwkwaliteitsregeling-2007](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/landbouwkwaliteitsregeling-2007)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 31
 | 2023-10-14 | heden | [2023-10-14.md](./2023-10-14.md) |
 | 2023-07-01 | 2023-10-13 | [2023-07-01.md](./2023-07-01.md) |
 | 2022-05-05 | 2023-06-30 | [2022-05-05.md](./2022-05-05.md) |
-| 2022-01-01 | 2022-05-04 | [2022-01-01.md](./2022-01-01.md) |
 | 2022-01-01 | 2022-05-04 | [2022-01-01.md](./2022-01-01.md) |
 | 2015-11-26 | 2021-12-31 | [2015-11-26.md](./2015-11-26.md) |
 | 2014-07-01 | 2015-11-25 | [2014-07-01.md](./2014-07-01.md) |
@@ -40,16 +39,9 @@ state_count: 31
 | 2012-01-01 | 2012-03-06 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-07-02 | 2011-12-31 | [2011-07-02.md](./2011-07-02.md) |
 | 2011-01-01 | 2011-07-01 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-07-01 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-12-25 | 2010-12-31 | [2010-12-25.md](./2010-12-25.md) |
 | 2010-12-25 | 2010-12-31 | [2010-12-25.md](./2010-12-25.md) |
 | 2010-07-17 | 2010-12-24 | [2010-07-17.md](./2010-07-17.md) |
-| 2010-07-17 | 2010-12-24 | [2010-07-17.md](./2010-07-17.md) |
-| 2009-07-01 | 2010-07-16 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2010-07-16 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
-| 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-08-01 | 2008-12-31 | [2008-08-01.md](./2008-08-01.md) |
-| 2008-08-01 | 2008-12-31 | [2008-08-01.md](./2008-08-01.md) |
-| 2007-09-28 | 2008-07-31 | [2007-09-28.md](./2007-09-28.md) |
 | 2007-09-28 | 2008-07-31 | [2007-09-28.md](./2007-09-28.md) |

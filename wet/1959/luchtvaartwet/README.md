@@ -6,7 +6,7 @@ title: Wet van 15 januari 1958, houdende nieuwe regelen omtrent de luchtvaart
 ministry: Infrastructuur en Milieu
 abbreviation: LVW
 latest_state: "2024-01-01"
-state_count: 44
+state_count: 40
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 44
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** LVW
-**ELI:** [/eli/nl/wet/1959/luchtvaartwet](https://wetten.ai/eli/nl/wet/1959/luchtvaartwet)
+**ELI:** [/eli/nl/wet/1959/luchtvaartwet](https://wettenbank.online/eli/nl/wet/1959/luchtvaartwet)
 
 ## Versies
 
@@ -37,12 +37,8 @@ state_count: 44
 | 2009-04-01 | 2009-06-30 | [2009-04-01.md](./2009-04-01.md) |
 | 2008-12-30 | 2009-03-31 | [2008-12-30.md](./2008-12-30.md) |
 | 2008-12-24 | 2008-12-29 | [2008-12-24.md](./2008-12-24.md) |
-| 2008-12-24 | 2008-12-29 | [2008-12-24.md](./2008-12-24.md) |
-| 2008-09-24 | 2008-12-23 | [2008-09-24.md](./2008-09-24.md) |
 | 2008-09-24 | 2008-12-23 | [2008-09-24.md](./2008-09-24.md) |
 | 2008-07-19 | 2008-09-23 | [2008-07-19.md](./2008-07-19.md) |
-| 2008-07-19 | 2008-09-23 | [2008-07-19.md](./2008-07-19.md) |
-| 2008-07-11 | 2008-07-18 | [2008-07-11.md](./2008-07-11.md) |
 | 2008-07-11 | 2008-07-18 | [2008-07-11.md](./2008-07-11.md) |
 | 2008-07-01 | 2008-07-10 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-06-11 | 2008-06-30 | [2008-06-11.md](./2008-06-11.md) |

@@ -6,7 +6,7 @@ title: Besluit van 3 september 1996 tot vaststelling van een algemene maatregel 
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: WAS
 latest_state: "2016-05-25"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 12
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** WAS
-**ELI:** [/eli/nl/amvb/1997/warenwetbesluit-attractie-en-speeltoestellen](https://wetten.ai/eli/nl/amvb/1997/warenwetbesluit-attractie-en-speeltoestellen)
+**ELI:** [/eli/nl/amvb/1997/warenwetbesluit-attractie-en-speeltoestellen](https://wettenbank.online/eli/nl/amvb/1997/warenwetbesluit-attractie-en-speeltoestellen)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 12
 | 2010-03-26 | 2012-03-20 | [2010-03-26.md](./2010-03-26.md) |
 | 2009-12-02 | 2010-03-25 | [2009-12-02.md](./2009-12-02.md) |
 | 2008-10-03 | 2009-12-01 | [2008-10-03.md](./2008-10-03.md) |
-| 2006-07-13 | 2008-10-02 | [2006-07-13.md](./2006-07-13.md) |
 | 2006-07-13 | 2008-10-02 | [2006-07-13.md](./2006-07-13.md) |
 | 2006-04-01 | 2006-07-12 | [2006-04-01.md](./2006-04-01.md) |
 | 2003-09-01 | 2006-03-31 | [2003-09-01.md](./2003-09-01.md) |

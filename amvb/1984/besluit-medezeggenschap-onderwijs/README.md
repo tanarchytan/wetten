@@ -6,7 +6,7 @@ title: Besluit van 10 september 1984, houdende afwijkingen van het bepaalde in d
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 10
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Besluit medezeggenschap onderwijs
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/1984/besluit-medezeggenschap-onderwijs](https://wetten.ai/eli/nl/amvb/1984/besluit-medezeggenschap-onderwijs)
+**ELI:** [/eli/nl/amvb/1984/besluit-medezeggenschap-onderwijs](https://wettenbank.online/eli/nl/amvb/1984/besluit-medezeggenschap-onderwijs)
 
 ## Versies
 
@@ -28,7 +28,5 @@ state_count: 10
 | 2014-01-01 | 2018-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2004-05-28 | 2013-12-31 | [2004-05-28.md](./2004-05-28.md) |
 | 2003-08-01 | 2004-05-27 | [2003-08-01.md](./2003-08-01.md) |
-| 2003-08-01 | 2004-05-27 | [2003-08-01.md](./2003-08-01.md) |
-| 2001-08-01 | 2003-07-31 | [2001-08-01.md](./2001-08-01.md) |
 | 2001-08-01 | 2003-07-31 | [2001-08-01.md](./2001-08-01.md) |
 | 1999-08-01 | 2001-07-31 | [1999-08-01.md](./1999-08-01.md) |

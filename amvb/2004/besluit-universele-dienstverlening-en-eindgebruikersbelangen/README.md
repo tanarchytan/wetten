@@ -6,7 +6,7 @@ title: Besluit van 7 mei 2004, houdende regels met betrekking tot universele die
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2022-04-09"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Besluit universele dienstverlening en eindgebruikersbelangen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/amvb/2004/besluit-universele-dienstverlening-en-eindgebruikersbelangen](https://wetten.ai/eli/nl/amvb/2004/besluit-universele-dienstverlening-en-eindgebruikersbelangen)
+**ELI:** [/eli/nl/amvb/2004/besluit-universele-dienstverlening-en-eindgebruikersbelangen](https://wettenbank.online/eli/nl/amvb/2004/besluit-universele-dienstverlening-en-eindgebruikersbelangen)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 21
 | 2020-12-21 | 2022-03-01 | [2020-12-21.md](./2020-12-21.md) |
 | 2017-01-01 | 2020-12-20 | [2017-01-01.md](./2017-01-01.md) |
 | 2016-11-03 | 2016-12-31 | [2016-11-03.md](./2016-11-03.md) |
-| 2016-04-30 | 2016-11-02 | [2016-04-30.md](./2016-04-30.md) |
 | 2016-04-30 | 2016-11-02 | [2016-04-30.md](./2016-04-30.md) |
 | 2015-02-26 | 2016-04-29 | [2015-02-26.md](./2015-02-26.md) |
 | 2015-01-01 | 2015-02-25 | [2015-01-01.md](./2015-01-01.md) |

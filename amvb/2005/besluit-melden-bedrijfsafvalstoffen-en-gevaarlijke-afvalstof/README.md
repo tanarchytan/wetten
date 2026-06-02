@@ -6,7 +6,7 @@ title: Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2025-07-01"
-state_count: 20
+state_count: 18
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2005/besluit-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalstof](https://wetten.ai/eli/nl/amvb/2005/besluit-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalstof)
+**ELI:** [/eli/nl/amvb/2005/besluit-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalstof](https://wettenbank.online/eli/nl/amvb/2005/besluit-melden-bedrijfsafvalstoffen-en-gevaarlijke-afvalstof)
 
 ## Versies
 
@@ -27,10 +27,8 @@ state_count: 20
 | 2023-07-01 | 2023-12-31 | [2023-07-01.md](./2023-07-01.md) |
 | 2021-11-06 | 2023-06-30 | [2021-11-06.md](./2021-11-06.md) |
 | 2021-01-05 | 2021-11-05 | [2021-01-05.md](./2021-01-05.md) |
-| 2021-01-05 | 2021-11-05 | [2021-01-05.md](./2021-01-05.md) |
 | 2020-07-01 | 2021-01-04 | [2020-07-01.md](./2020-07-01.md) |
 | 2014-07-03 | 2020-06-30 | [2014-07-03.md](./2014-07-03.md) |
-| 2014-02-14 | 2014-07-02 | [2014-02-14.md](./2014-02-14.md) |
 | 2014-02-14 | 2014-07-02 | [2014-02-14.md](./2014-02-14.md) |
 | 2012-10-23 | 2014-02-13 | [2012-10-23.md](./2012-10-23.md) |
 | 2011-03-05 | 2012-10-22 | [2011-03-05.md](./2011-03-05.md) |

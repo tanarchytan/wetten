@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 25 nove
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-10-22"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Besluit mandaat en machtiging Rijksdienst voor Ondernemend Nederland subsidieverstrekking Topsector Life Sciences and Health
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandaat-en-machtiging-rijksdienst-voor-ondernemend-n](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-mandaat-en-machtiging-rijksdienst-voor-ondernemend-n)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-mandaat-en-machtiging-rijksdienst-voor-ondernemend-n](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-mandaat-en-machtiging-rijksdienst-voor-ondernemend-n)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-10-22 | heden | [2015-10-22.md](./2015-10-22.md) |
-| 2014-12-04 | 2015-10-21 | [2014-12-04.md](./2014-12-04.md) |
 | 2014-12-04 | 2015-10-21 | [2014-12-04.md](./2014-12-04.md) |

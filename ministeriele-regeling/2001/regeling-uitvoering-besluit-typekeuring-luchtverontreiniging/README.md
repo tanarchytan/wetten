@@ -6,7 +6,7 @@ title: Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en 
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2014-02-18"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling uitvoering Besluit typekeuring luchtverontreiniging motoren voor mobiele machines
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-uitvoering-besluit-typekeuring-luchtverontreiniging](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-uitvoering-besluit-typekeuring-luchtverontreiniging)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-uitvoering-besluit-typekeuring-luchtverontreiniging](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-uitvoering-besluit-typekeuring-luchtverontreiniging)
 
 ## Versies
 
@@ -29,6 +29,5 @@ state_count: 10
 | 2005-05-20 | 2005-12-30 | [2005-05-20.md](./2005-05-20.md) |
 | 2004-12-02 | 2005-05-19 | [2004-12-02.md](./2004-12-02.md) |
 | 2003-06-21 | 2004-12-01 | [2003-06-21.md](./2003-06-21.md) |
-| 2003-01-01 | 2003-06-20 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2003-06-20 | [2003-01-01.md](./2003-01-01.md) |
 | 2001-01-31 | 2002-12-31 | [2001-01-31.md](./2001-01-31.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 nove
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2022-01-27"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Instellingsbesluit Wetenschappelijke Adviescommissie ‘Eén tegen eenzaamheid’
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2018/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg](https://wetten.ai/eli/nl/ministeriele-regeling/2018/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg)
+**ELI:** [/eli/nl/ministeriele-regeling/2018/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg](https://wettenbank.online/eli/nl/ministeriele-regeling/2018/instellingsbesluit-wetenschappelijke-adviescommissie-e-n-teg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-01-27 | 2023-12-31 | [2022-01-27.md](./2022-01-27.md) |
-| 2021-12-31 | 2022-01-26 | [2021-12-31.md](./2021-12-31.md) |
 | 2021-12-31 | 2022-01-26 | [2021-12-31.md](./2021-12-31.md) |
 | 2021-06-12 | 2021-12-30 | [2021-06-12.md](./2021-06-12.md) |
 | 2020-01-01 | 2021-06-11 | [2020-01-01.md](./2020-01-01.md) |

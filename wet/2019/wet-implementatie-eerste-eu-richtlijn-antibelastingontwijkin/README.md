@@ -6,7 +6,7 @@ title: Wet van 19 december 2018 tot wijziging van de Wet op de vennootschapsbela
 ministry: Financiën
 abbreviation: null
 latest_state: "2019-11-06"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Wet implementatie eerste EU-richtlijn antibelastingontwijking
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2019/wet-implementatie-eerste-eu-richtlijn-antibelastingontwijkin](https://wetten.ai/eli/nl/wet/2019/wet-implementatie-eerste-eu-richtlijn-antibelastingontwijkin)
+**ELI:** [/eli/nl/wet/2019/wet-implementatie-eerste-eu-richtlijn-antibelastingontwijkin](https://wettenbank.online/eli/nl/wet/2019/wet-implementatie-eerste-eu-richtlijn-antibelastingontwijkin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-11-06 | heden | [2019-11-06.md](./2019-11-06.md) |
-| 2019-01-01 | 2019-11-05 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-11-05 | [2019-01-01.md](./2019-01-01.md) |

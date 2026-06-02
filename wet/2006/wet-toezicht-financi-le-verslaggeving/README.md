@@ -6,7 +6,7 @@ title: Wet van 28 september 2006, houdende regels inzake het toezicht op en de h
 ministry: Financiën
 abbreviation: Wtfv
 latest_state: "2025-03-01"
-state_count: 19
+state_count: 18
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** Wtfv
-**ELI:** [/eli/nl/wet/2006/wet-toezicht-financi-le-verslaggeving](https://wetten.ai/eli/nl/wet/2006/wet-toezicht-financi-le-verslaggeving)
+**ELI:** [/eli/nl/wet/2006/wet-toezicht-financi-le-verslaggeving](https://wettenbank.online/eli/nl/wet/2006/wet-toezicht-financi-le-verslaggeving)
 
 ## Versies
 
@@ -36,7 +36,6 @@ state_count: 19
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-01 | 2012-12-31 | [2012-07-01.md](./2012-07-01.md) |
 | 2012-01-01 | 2012-06-30 | [2012-01-01.md](./2012-01-01.md) |
-| 2011-04-30 | 2011-12-31 | [2011-04-30.md](./2011-04-30.md) |
 | 2011-04-30 | 2011-12-31 | [2011-04-30.md](./2011-04-30.md) |
 | 2009-01-01 | 2011-04-29 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-11-01 | 2008-12-31 | [2007-11-01.md](./2007-11-01.md) |

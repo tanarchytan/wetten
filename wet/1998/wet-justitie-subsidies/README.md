@@ -6,7 +6,7 @@ title: Wet van 20 juni 1996, houdende regels inzake de verstrekking van subsidie
 ministry: Veiligheid en Justitie
 abbreviation: Wjs
 latest_state: "2022-05-01"
-state_count: 15
+state_count: 12
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 15
 **Type:** wet
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Wjs
-**ELI:** [/eli/nl/wet/1998/wet-justitie-subsidies](https://wetten.ai/eli/nl/wet/1998/wet-justitie-subsidies)
+**ELI:** [/eli/nl/wet/1998/wet-justitie-subsidies](https://wettenbank.online/eli/nl/wet/1998/wet-justitie-subsidies)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 15
 | 2022-05-01 | 2022-06-30 | [2022-05-01.md](./2022-05-01.md) |
 | 2016-08-01 | 2022-04-30 | [2016-08-01.md](./2016-08-01.md) |
 | 2015-07-01 | 2016-07-31 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-07-01 | 2016-07-31 | [2015-07-01.md](./2015-07-01.md) |
-| 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-11-01 | 2014-12-31 | [2014-11-01.md](./2014-11-01.md) |
 | 2013-07-01 | 2014-10-31 | [2013-07-01.md](./2013-07-01.md) |
@@ -35,6 +33,5 @@ state_count: 15
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-03-26 | 2008-12-31 | [2008-03-26.md](./2008-03-26.md) |
 | 2004-05-01 | 2008-03-25 | [2004-05-01.md](./2004-05-01.md) |
-| 2003-01-01 | 2004-04-30 | [2003-01-01.md](./2003-01-01.md) |
 | 2003-01-01 | 2004-04-30 | [2003-01-01.md](./2003-01-01.md) |
 | 1999-03-01 | 2002-12-31 | [1999-03-01.md](./1999-03-01.md) |

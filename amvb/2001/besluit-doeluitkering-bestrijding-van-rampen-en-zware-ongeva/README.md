@@ -6,7 +6,7 @@ title: Besluit van 16 februari 2001 tot regeling van de doeluitkering bestrijdin
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2008-01-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Besluit doeluitkering bestrijding van rampen en zware ongevallen
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/2001/besluit-doeluitkering-bestrijding-van-rampen-en-zware-ongeva](https://wetten.ai/eli/nl/amvb/2001/besluit-doeluitkering-bestrijding-van-rampen-en-zware-ongeva)
+**ELI:** [/eli/nl/amvb/2001/besluit-doeluitkering-bestrijding-van-rampen-en-zware-ongeva](https://wettenbank.online/eli/nl/amvb/2001/besluit-doeluitkering-bestrijding-van-rampen-en-zware-ongeva)
 
 ## Versies
 
@@ -26,8 +26,6 @@ state_count: 9
 | 2007-09-12 | 2007-12-31 | [2007-09-12.md](./2007-09-12.md) |
 | 2006-03-15 | 2007-09-11 | [2006-03-15.md](./2006-03-15.md) |
 | 2005-01-01 | 2006-03-14 | [2005-01-01.md](./2005-01-01.md) |
-| 2005-01-01 | 2006-03-14 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-07-01 | 2004-12-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2002-12-18 | 2004-06-30 | [2002-12-18.md](./2002-12-18.md) |
-| 2002-01-01 | 2002-12-17 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-12-17 | [2002-01-01.md](./2002-01-01.md) |

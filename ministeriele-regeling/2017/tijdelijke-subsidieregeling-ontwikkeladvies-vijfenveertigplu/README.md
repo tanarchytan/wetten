@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 nove
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2020-03-18"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Tijdelijke subsidieregeling ontwikkeladvies vijfenveertigplussers
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2017/tijdelijke-subsidieregeling-ontwikkeladvies-vijfenveertigplu](https://wetten.ai/eli/nl/ministeriele-regeling/2017/tijdelijke-subsidieregeling-ontwikkeladvies-vijfenveertigplu)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/tijdelijke-subsidieregeling-ontwikkeladvies-vijfenveertigplu](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/tijdelijke-subsidieregeling-ontwikkeladvies-vijfenveertigplu)
 
 ## Versies
 
@@ -26,6 +26,4 @@ state_count: 7
 | 2018-12-28 | 2020-03-17 | [2018-12-28.md](./2018-12-28.md) |
 | 2018-11-17 | 2018-12-27 | [2018-11-17.md](./2018-11-17.md) |
 | 2018-03-28 | 2018-11-16 | [2018-03-28.md](./2018-03-28.md) |
-| 2018-03-28 | 2018-11-16 | [2018-03-28.md](./2018-03-28.md) |
-| 2017-12-05 | 2018-03-27 | [2017-12-05.md](./2017-12-05.md) |
 | 2017-12-05 | 2018-03-27 | [2017-12-05.md](./2017-12-05.md) |

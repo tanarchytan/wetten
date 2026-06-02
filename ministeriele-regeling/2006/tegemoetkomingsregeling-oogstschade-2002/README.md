@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-11-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 4
 **Citeertitel:** Tegemoetkomingsregeling oogstschade 2002
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/tegemoetkomingsregeling-oogstschade-2002](https://wetten.ai/eli/nl/ministeriele-regeling/2006/tegemoetkomingsregeling-oogstschade-2002)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/tegemoetkomingsregeling-oogstschade-2002](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/tegemoetkomingsregeling-oogstschade-2002)
 
 ## Versies
 
@@ -24,5 +24,4 @@ state_count: 4
 |---|---|---|
 | 2006-11-09 | heden | [2006-11-09.md](./2006-11-09.md) |
 | 2006-02-22 | 2006-11-08 | [2006-02-22.md](./2006-02-22.md) |
-| 2006-02-03 | 2006-02-21 | [2006-02-03.md](./2006-02-03.md) |
 | 2006-02-03 | 2006-02-21 | [2006-02-03.md](./2006-02-03.md) |

@@ -6,7 +6,7 @@ title: Regeling procesgang eerste ziektejaar
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rpetz
 latest_state: "2025-07-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rpetz
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-procesgang-eerste-en-tweede-ziektejaar](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-procesgang-eerste-en-tweede-ziektejaar)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-procesgang-eerste-en-tweede-ziektejaar](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-procesgang-eerste-en-tweede-ziektejaar)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 10
 | 2025-07-01 | heden | [2025-07-01.md](./2025-07-01.md) |
 | 2023-07-01 | 2025-06-30 | [2023-07-01.md](./2023-07-01.md) |
 | 2017-10-27 | 2023-06-30 | [2017-10-27.md](./2017-10-27.md) |
-| 2017-07-01 | 2017-10-26 | [2017-07-01.md](./2017-07-01.md) |
 | 2017-07-01 | 2017-10-26 | [2017-07-01.md](./2017-07-01.md) |
 | 2007-01-01 | 2017-06-30 | [2007-01-01.md](./2007-01-01.md) |
 | 2005-12-29 | 2006-12-31 | [2005-12-29.md](./2005-12-29.md) |

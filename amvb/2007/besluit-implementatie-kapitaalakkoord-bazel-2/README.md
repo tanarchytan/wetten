@@ -6,7 +6,7 @@ title: Besluit van 11 december 2006, houdende wijziging van het Besluit prudenti
 ministry: Financiën
 abbreviation: BikB2
 latest_state: "2011-02-16"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -17,14 +17,13 @@ state_count: 5
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
 **Afkorting:** BikB2
-**ELI:** [/eli/nl/amvb/2007/besluit-implementatie-kapitaalakkoord-bazel-2](https://wetten.ai/eli/nl/amvb/2007/besluit-implementatie-kapitaalakkoord-bazel-2)
+**ELI:** [/eli/nl/amvb/2007/besluit-implementatie-kapitaalakkoord-bazel-2](https://wettenbank.online/eli/nl/amvb/2007/besluit-implementatie-kapitaalakkoord-bazel-2)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-02-16 | heden | [2011-02-16.md](./2011-02-16.md) |
-| 2010-01-01 | 2011-02-15 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2011-02-15 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-01-01 | 2009-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2007-01-01 | 2008-12-31 | [2007-01-01.md](./2007-01-01.md) |

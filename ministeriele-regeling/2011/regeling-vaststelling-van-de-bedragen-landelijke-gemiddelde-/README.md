@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 26 feb
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-08-20"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling van de bedragen landelijke gemiddelde personeelslast voortgezet onderwijs, kalenderjaar 2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-van-de-bedragen-landelijke-gemiddelde-](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-van-de-bedragen-landelijke-gemiddelde-)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-van-de-bedragen-landelijke-gemiddelde-](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-van-de-bedragen-landelijke-gemiddelde-)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2011-08-20 | 2011-12-31 | [2011-08-20.md](./2011-08-20.md) |
 | 2011-03-12 | 2011-08-19 | [2011-03-12.md](./2011-03-12.md) |
-| 2011-03-12 | 2011-08-19 | [2011-03-12.md](./2011-03-12.md) |
-| 2011-01-01 | 2011-03-11 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-03-11 | [2011-01-01.md](./2011-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2011-02-01"
-state_count: 21
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Subsidieregeling voor motorrijtuigen met een emissiearme dieselmotor en recht op teruggaaf BPM
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-voor-motorrijtuigen-met-een-emissiearme-die](https://wetten.ai/eli/nl/ministeriele-regeling/2006/subsidieregeling-voor-motorrijtuigen-met-een-emissiearme-die)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/subsidieregeling-voor-motorrijtuigen-met-een-emissiearme-die](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/subsidieregeling-voor-motorrijtuigen-met-een-emissiearme-die)
 
 ## Versies
 
@@ -27,11 +27,8 @@ state_count: 21
 | 2010-06-04 | 2010-12-31 | [2010-06-04.md](./2010-06-04.md) |
 | 2010-02-09 | 2010-06-03 | [2010-02-09.md](./2010-02-09.md) |
 | 2010-01-01 | 2010-02-08 | [2010-01-01.md](./2010-01-01.md) |
-| 2010-01-01 | 2010-02-08 | [2010-01-01.md](./2010-01-01.md) |
-| 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-11-12 | 2009-12-30 | [2009-11-12.md](./2009-11-12.md) |
-| 2009-10-01 | 2009-11-11 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-10-01 | 2009-11-11 | [2009-10-01.md](./2009-10-01.md) |
 | 2009-01-02 | 2009-09-30 | [2009-01-02.md](./2009-01-02.md) |
 | 2009-01-01 | 2009-01-01 | [2009-01-01.md](./2009-01-01.md) |
@@ -40,6 +37,5 @@ state_count: 21
 | 2008-01-01 | 2008-03-31 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-05-04 | 2007-12-31 | [2007-05-04.md](./2007-05-04.md) |
 | 2007-01-25 | 2007-05-03 | [2007-01-25.md](./2007-01-25.md) |
-| 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2007-01-24 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-03-30 | 2006-12-31 | [2006-03-30.md](./2006-03-30.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 dece
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rvv WW
 latest_state: "2005-07-01"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 8
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rvv WW
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-verplichtingen-ww](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-verplichtingen-ww)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-verplichtingen-ww](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-vrijstelling-verplichtingen-ww)
 
 ## Versies
 
@@ -27,7 +27,4 @@ state_count: 8
 | 2005-01-01 | 2005-06-30 | [2005-01-01.md](./2005-01-01.md) |
 | 2004-12-29 | 2004-12-31 | [2004-12-29.md](./2004-12-29.md) |
 | 2004-05-27 | 2004-12-28 | [2004-05-27.md](./2004-05-27.md) |
-| 2004-05-27 | 2004-12-28 | [2004-05-27.md](./2004-05-27.md) |
-| 2004-01-01 | 2004-05-26 | [2004-01-01.md](./2004-01-01.md) |
-| 2004-01-01 | 2004-05-26 | [2004-01-01.md](./2004-01-01.md) |
 | 2004-01-01 | 2004-05-26 | [2004-01-01.md](./2004-01-01.md) |

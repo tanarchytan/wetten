@@ -6,7 +6,7 @@ title: Regeling van de Minister van Verkeer en Waterstaat houdende regels met be
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2020-07-01"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Regeling verkeersregelaars 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verkeersregelaars-2009](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-verkeersregelaars-2009)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-verkeersregelaars-2009](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-verkeersregelaars-2009)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 10
 | 2017-10-01 | 2020-06-30 | [2017-10-01.md](./2017-10-01.md) |
 | 2016-04-01 | 2017-09-30 | [2016-04-01.md](./2016-04-01.md) |
 | 2016-01-23 | 2016-03-31 | [2016-01-23.md](./2016-01-23.md) |
-| 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2016-01-18 | 2016-01-22 | [2016-01-18.md](./2016-01-18.md) |
 | 2013-01-01 | 2016-01-17 | [2013-01-01.md](./2013-01-01.md) |
 | 2009-05-01 | 2012-12-31 | [2009-05-01.md](./2009-05-01.md) |

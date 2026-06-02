@@ -6,7 +6,7 @@ title: Wet van 1 juli 2020 tot wijziging van de Algemene wet inkomensafhankelijk
 ministry: Financiën
 abbreviation: null
 latest_state: "2022-11-05"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Wet hardheidsaanpassing Awir
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2020/wet-hardheidsaanpassing-awir](https://wetten.ai/eli/nl/wet/2020/wet-hardheidsaanpassing-awir)
+**ELI:** [/eli/nl/wet/2020/wet-hardheidsaanpassing-awir](https://wettenbank.online/eli/nl/wet/2020/wet-hardheidsaanpassing-awir)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-11-05 | heden | [2022-11-05.md](./2022-11-05.md) |
-| 2021-01-26 | 2022-11-04 | [2021-01-26.md](./2021-01-26.md) |
 | 2021-01-26 | 2022-11-04 | [2021-01-26.md](./2021-01-26.md) |
 | 2020-07-07 | 2021-01-25 | [2020-07-07.md](./2020-07-07.md) |

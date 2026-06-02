@@ -6,7 +6,7 @@ title: Besluit van 4 augustus 2010, houdende wijziging van het Besluit tegemoetk
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2010-08-18"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Wijzigingsbesluit Besluit tegemoetkoming chronisch zieken en gehandicapten (verbetering selectiecriteria voor de aanspraak op een tegemoetkoming)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2010/wijzigingsbesluit-besluit-tegemoetkoming-chronisch-zieken-en](https://wetten.ai/eli/nl/amvb/2010/wijzigingsbesluit-besluit-tegemoetkoming-chronisch-zieken-en)
+**ELI:** [/eli/nl/amvb/2010/wijzigingsbesluit-besluit-tegemoetkoming-chronisch-zieken-en](https://wettenbank.online/eli/nl/amvb/2010/wijzigingsbesluit-besluit-tegemoetkoming-chronisch-zieken-en)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2010-08-18 | 2015-12-31 | [2010-08-18.md](./2010-08-18.md) |
 | 2010-07-01 | 2010-08-17 | [2010-07-01.md](./2010-07-01.md) |
-| 2010-07-01 | 2010-08-17 | [2010-07-01.md](./2010-07-01.md) |
-| 2010-01-01 | 2010-06-30 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-06-30 | [2010-01-01.md](./2010-01-01.md) |

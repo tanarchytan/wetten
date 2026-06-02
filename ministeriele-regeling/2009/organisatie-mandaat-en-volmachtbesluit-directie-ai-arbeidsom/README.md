@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid, van 19 ma
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-01-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie AI Arbeidsomstandigheden 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-arbeidsom](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-arbeidsom)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-arbeidsom](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-ai-arbeidsom)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 9
 | 2012-01-01 | 2012-08-31 | [2012-01-01.md](./2012-01-01.md) |
 | 2010-10-21 | 2011-12-31 | [2010-10-21.md](./2010-10-21.md) |
 | 2010-03-01 | 2010-10-20 | [2010-03-01.md](./2010-03-01.md) |
-| 2010-03-01 | 2010-10-20 | [2010-03-01.md](./2010-03-01.md) |
 | 2009-07-29 | 2010-02-28 | [2009-07-29.md](./2009-07-29.md) |
-| 2009-06-01 | 2009-07-28 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-06-01 | 2009-07-28 | [2009-06-01.md](./2009-06-01.md) |
 | 2009-04-05 | 2009-05-31 | [2009-04-05.md](./2009-04-05.md) |
 | 2009-01-01 | 2009-04-04 | [2009-01-01.md](./2009-01-01.md) |

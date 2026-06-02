@@ -6,7 +6,7 @@ title: Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 1 maart
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2010-05-28"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Instellingsbesluit Ondersteuningsteam aanpak arbeidsmarkt 2010
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-ondersteuningsteam-aanpak-arbeidsmarkt-20](https://wetten.ai/eli/nl/ministeriele-regeling/2010/instellingsbesluit-ondersteuningsteam-aanpak-arbeidsmarkt-20)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/instellingsbesluit-ondersteuningsteam-aanpak-arbeidsmarkt-20](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/instellingsbesluit-ondersteuningsteam-aanpak-arbeidsmarkt-20)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2010-05-28 | 2010-08-31 | [2010-05-28.md](./2010-05-28.md) |
-| 2010-05-01 | 2010-05-27 | [2010-05-01.md](./2010-05-01.md) |
 | 2010-05-01 | 2010-05-27 | [2010-05-01.md](./2010-05-01.md) |
 | 2010-03-11 | 2010-04-30 | [2010-03-11.md](./2010-03-11.md) |
 | 2010-01-01 | 2010-03-10 | [2010-01-01.md](./2010-01-01.md) |

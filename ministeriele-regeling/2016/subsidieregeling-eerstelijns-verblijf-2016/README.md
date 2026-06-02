@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport va
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2016-11-25"
-state_count: 11
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 11
 **Citeertitel:** Subsidieregeling eerstelijns verblijf 2016
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-eerstelijns-verblijf-2016](https://wetten.ai/eli/nl/ministeriele-regeling/2016/subsidieregeling-eerstelijns-verblijf-2016)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-eerstelijns-verblijf-2016](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/subsidieregeling-eerstelijns-verblijf-2016)
 
 ## Versies
 
@@ -24,12 +24,7 @@ state_count: 11
 |---|---|---|
 | 2016-11-25 | 2016-12-31 | [2016-11-25.md](./2016-11-25.md) |
 | 2016-10-04 | 2016-11-24 | [2016-10-04.md](./2016-10-04.md) |
-| 2016-10-04 | 2016-11-24 | [2016-10-04.md](./2016-10-04.md) |
 | 2016-09-01 | 2016-10-03 | [2016-09-01.md](./2016-09-01.md) |
-| 2016-09-01 | 2016-10-03 | [2016-09-01.md](./2016-09-01.md) |
-| 2016-09-01 | 2016-10-03 | [2016-09-01.md](./2016-09-01.md) |
-| 2016-06-01 | 2016-08-31 | [2016-06-01.md](./2016-06-01.md) |
 | 2016-06-01 | 2016-08-31 | [2016-06-01.md](./2016-06-01.md) |
 | 2016-04-20 | 2016-05-31 | [2016-04-20.md](./2016-04-20.md) |
-| 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |
 | 2016-01-01 | 2016-04-19 | [2016-01-01.md](./2016-01-01.md) |

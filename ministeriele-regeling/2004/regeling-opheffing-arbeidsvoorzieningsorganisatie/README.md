@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 okto
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2015-08-26"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling opheffing Arbeidsvoorzieningsorganisatie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-opheffing-arbeidsvoorzieningsorganisatie](https://wetten.ai/eli/nl/ministeriele-regeling/2004/regeling-opheffing-arbeidsvoorzieningsorganisatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2004/regeling-opheffing-arbeidsvoorzieningsorganisatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2004/regeling-opheffing-arbeidsvoorzieningsorganisatie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2015-08-26 | heden | [2015-08-26.md](./2015-08-26.md) |
-| 2015-01-01 | 2015-08-25 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-08-25 | [2015-01-01.md](./2015-01-01.md) |
 | 2009-01-01 | 2014-12-31 | [2009-01-01.md](./2009-01-01.md) |
 | 2004-11-01 | 2008-12-31 | [2004-11-01.md](./2004-11-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 okto
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-02-21"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling aanwijzing buitenlandse diploma’s volksgezondheid
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-buitenlandse-diploma-s-volksgezondheid](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-buitenlandse-diploma-s-volksgezondheid)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-buitenlandse-diploma-s-volksgezondheid](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-aanwijzing-buitenlandse-diploma-s-volksgezondheid)
 
 ## Versies
 
@@ -27,6 +27,5 @@ state_count: 8
 | 2019-04-01 | 2022-07-07 | [2019-04-01.md](./2019-04-01.md) |
 | 2016-03-19 | 2019-03-31 | [2016-03-19.md](./2016-03-19.md) |
 | 2013-11-07 | 2016-03-18 | [2013-11-07.md](./2013-11-07.md) |
-| 2013-07-01 | 2013-11-06 | [2013-07-01.md](./2013-07-01.md) |
 | 2013-07-01 | 2013-11-06 | [2013-07-01.md](./2013-07-01.md) |
 | 2007-10-13 | 2013-06-30 | [2007-10-13.md](./2007-10-13.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2024-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Saneringsregeling asbestwegen tweede fase
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2003/saneringsregeling-asbestwegen-tweede-fase](https://wetten.ai/eli/nl/ministeriele-regeling/2003/saneringsregeling-asbestwegen-tweede-fase)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/saneringsregeling-asbestwegen-tweede-fase](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/saneringsregeling-asbestwegen-tweede-fase)
 
 ## Versies
 
@@ -26,5 +26,4 @@ state_count: 6
 | 2008-07-01 | 2023-12-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-06-01 | 2008-06-30 | [2008-06-01.md](./2008-06-01.md) |
 | 2004-12-08 | 2008-05-31 | [2004-12-08.md](./2004-12-08.md) |
-| 2003-02-01 | 2004-12-07 | [2003-02-01.md](./2003-02-01.md) |
 | 2003-02-01 | 2004-12-07 | [2003-02-01.md](./2003-02-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 19 feb
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-06-26"
-state_count: 9
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling bevordering kennisfunctie hogescholen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-bevordering-kennisfunctie-hogescholen](https://wetten.ai/eli/nl/ministeriele-regeling/2010/regeling-bevordering-kennisfunctie-hogescholen)
+**ELI:** [/eli/nl/ministeriele-regeling/2010/regeling-bevordering-kennisfunctie-hogescholen](https://wettenbank.online/eli/nl/ministeriele-regeling/2010/regeling-bevordering-kennisfunctie-hogescholen)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 9
 |---|---|---|
 | 2014-06-26 | 2014-12-31 | [2014-06-26.md](./2014-06-26.md) |
 | 2014-01-23 | 2014-06-25 | [2014-01-23.md](./2014-01-23.md) |
-| 2014-01-23 | 2014-06-25 | [2014-01-23.md](./2014-01-23.md) |
-| 2014-01-01 | 2014-01-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-01-22 | [2014-01-01.md](./2014-01-01.md) |
 | 2010-05-26 | 2013-12-31 | [2010-05-26.md](./2010-05-26.md) |
-| 2010-03-02 | 2010-05-25 | [2010-03-02.md](./2010-03-02.md) |
 | 2010-03-02 | 2010-05-25 | [2010-03-02.md](./2010-03-02.md) |
 | 2010-01-01 | 2010-03-01 | [2010-01-01.md](./2010-01-01.md) |

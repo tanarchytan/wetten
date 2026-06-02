@@ -6,7 +6,7 @@ title: Wet van 21 april 1994, houdende voorzieningen ter bevordering van de tots
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2005-11-02"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Kaderwet bestuur in verandering
 **Type:** wet
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/wet/1994/kaderwet-bestuur-in-verandering](https://wetten.ai/eli/nl/wet/1994/kaderwet-bestuur-in-verandering)
+**ELI:** [/eli/nl/wet/1994/kaderwet-bestuur-in-verandering](https://wettenbank.online/eli/nl/wet/1994/kaderwet-bestuur-in-verandering)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2005-07-01 | 2005-11-01 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-03-16 | 2005-06-30 | [2005-03-16.md](./2005-03-16.md) |
 | 2003-02-19 | 2005-03-15 | [2003-02-19.md](./2003-02-19.md) |
-| 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2001-01-01 | 2002-03-06 | [2001-01-01.md](./2001-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling verband houdende met de herziening van de douanewetgeving 10 mei
 ministry: Financiën
 abbreviation: null
 latest_state: "2008-07-01"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Douaneregeling
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/1996/douaneregeling](https://wetten.ai/eli/nl/ministeriele-regeling/1996/douaneregeling)
+**ELI:** [/eli/nl/ministeriele-regeling/1996/douaneregeling](https://wettenbank.online/eli/nl/ministeriele-regeling/1996/douaneregeling)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 16
 |---|---|---|
 | 2008-07-01 | 2008-07-31 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-02-16 | 2008-06-30 | [2008-02-16.md](./2008-02-16.md) |
-| 2008-01-26 | 2008-02-15 | [2008-01-26.md](./2008-01-26.md) |
 | 2008-01-26 | 2008-02-15 | [2008-01-26.md](./2008-01-26.md) |
 | 2007-06-01 | 2008-01-25 | [2007-06-01.md](./2007-06-01.md) |
 | 2006-12-17 | 2007-05-31 | [2006-12-17.md](./2006-12-17.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2018-12-29"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling beleidsindicatoren gemeenten
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-beleidsindicatoren-gemeenten](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-beleidsindicatoren-gemeenten)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-beleidsindicatoren-gemeenten](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-beleidsindicatoren-gemeenten)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-12-29 | heden | [2018-12-29.md](./2018-12-29.md) |
-| 2018-02-01 | 2018-12-28 | [2018-02-01.md](./2018-02-01.md) |
 | 2018-02-01 | 2018-12-28 | [2018-02-01.md](./2018-02-01.md) |
 | 2017-11-16 | 2018-01-31 | [2017-11-16.md](./2017-11-16.md) |
 | 2016-04-14 | 2017-11-15 | [2016-04-14.md](./2016-04-14.md) |

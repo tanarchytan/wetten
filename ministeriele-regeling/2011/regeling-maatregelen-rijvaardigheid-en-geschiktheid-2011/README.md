@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Milieu, van 31 oktober 20
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-04-01"
-state_count: 30
+state_count: 23
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 30
 **Citeertitel:** Regeling maatregelen rijvaardigheid en geschiktheid 2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-maatregelen-rijvaardigheid-en-geschiktheid-2011](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-maatregelen-rijvaardigheid-en-geschiktheid-2011)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-maatregelen-rijvaardigheid-en-geschiktheid-2011](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-maatregelen-rijvaardigheid-en-geschiktheid-2011)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 30
 | 2023-04-01 | heden | [2023-04-01.md](./2023-04-01.md) |
 | 2020-07-01 | 2023-03-31 | [2020-07-01.md](./2020-07-01.md) |
 | 2020-02-01 | 2020-06-30 | [2020-02-01.md](./2020-02-01.md) |
-| 2020-01-01 | 2020-01-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2020-01-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-05-01 | 2019-12-31 | [2018-05-01.md](./2018-05-01.md) |
 | 2018-03-15 | 2018-04-30 | [2018-03-15.md](./2018-03-15.md) |
@@ -43,12 +42,6 @@ state_count: 30
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-10-01 | 2012-12-31 | [2012-10-01.md](./2012-10-01.md) |
 | 2012-08-29 | 2012-09-30 | [2012-08-29.md](./2012-08-29.md) |
-| 2012-08-29 | 2012-09-30 | [2012-08-29.md](./2012-08-29.md) |
 | 2012-06-06 | 2012-08-28 | [2012-06-06.md](./2012-06-06.md) |
-| 2012-06-06 | 2012-08-28 | [2012-06-06.md](./2012-06-06.md) |
-| 2012-06-06 | 2012-08-28 | [2012-06-06.md](./2012-06-06.md) |
-| 2011-12-01 | 2012-06-05 | [2011-12-01.md](./2011-12-01.md) |
-| 2011-12-01 | 2012-06-05 | [2011-12-01.md](./2011-12-01.md) |
-| 2011-12-01 | 2012-06-05 | [2011-12-01.md](./2011-12-01.md) |
 | 2011-12-01 | 2012-06-05 | [2011-12-01.md](./2011-12-01.md) |
 | 2011-11-01 | 2011-11-30 | [2011-11-01.md](./2011-11-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister voor Wonen en Rijksdienst van 24Â juni 2015, nr.Â
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2022-07-29"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-mandaat-autoriteit-woningcorporaties-en-aanwijzing-t](https://wetten.ai/eli/nl/ministeriele-regeling/2015/besluit-mandaat-autoriteit-woningcorporaties-en-aanwijzing-t)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/besluit-mandaat-autoriteit-woningcorporaties-en-aanwijzing-t](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/besluit-mandaat-autoriteit-woningcorporaties-en-aanwijzing-t)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 16
 |---|---|---|
 | 2022-07-29 | 2024-03-06 | [2022-07-29.md](./2022-07-29.md) |
 | 2022-06-02 | 2022-07-28 | [2022-06-02.md](./2022-06-02.md) |
-| 2022-06-02 | 2022-07-28 | [2022-06-02.md](./2022-06-02.md) |
 | 2022-01-01 | 2022-06-01 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-10-01 | 2021-12-31 | [2021-10-01.md](./2021-10-01.md) |
-| 2021-01-01 | 2021-09-30 | [2021-01-01.md](./2021-01-01.md) |
 | 2021-01-01 | 2021-09-30 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-02-02 | 2020-12-31 | [2019-02-02.md](./2019-02-02.md) |
 | 2018-12-01 | 2019-02-01 | [2018-12-01.md](./2018-12-01.md) |

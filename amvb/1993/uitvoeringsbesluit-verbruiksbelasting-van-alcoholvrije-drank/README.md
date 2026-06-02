@@ -6,7 +6,7 @@ title: Besluit van 24 december 1992, tot vaststelling van het Uitvoeringsbesluit
 ministry: Financiën
 abbreviation: null
 latest_state: "2023-02-16"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 19
 **Citeertitel:** Uitvoeringsbesluit verbruiksbelasting van alcoholvrije dranken
 **Type:** amvb
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/amvb/1993/uitvoeringsbesluit-verbruiksbelasting-van-alcoholvrije-drank](https://wetten.ai/eli/nl/amvb/1993/uitvoeringsbesluit-verbruiksbelasting-van-alcoholvrije-drank)
+**ELI:** [/eli/nl/amvb/1993/uitvoeringsbesluit-verbruiksbelasting-van-alcoholvrije-drank](https://wettenbank.online/eli/nl/amvb/1993/uitvoeringsbesluit-verbruiksbelasting-van-alcoholvrije-drank)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 19
 |---|---|---|
 | 2023-02-16 | heden | [2023-02-16.md](./2023-02-16.md) |
 | 2023-02-13 | 2023-02-15 | [2023-02-13.md](./2023-02-13.md) |
-| 2023-02-13 | 2023-02-15 | [2023-02-13.md](./2023-02-13.md) |
 | 2023-01-01 | 2023-02-12 | [2023-01-01.md](./2023-01-01.md) |
 | 2016-05-24 | 2022-12-31 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-01-01 | 2016-04-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |

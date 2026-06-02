@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 mei 
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2009-06-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Facilitaire Zaken 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2007/organisatie-mandaat-en-volmachtbesluit-directie-facilitaire-](https://wetten.ai/eli/nl/ministeriele-regeling/2007/organisatie-mandaat-en-volmachtbesluit-directie-facilitaire-)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/organisatie-mandaat-en-volmachtbesluit-directie-facilitaire-](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/organisatie-mandaat-en-volmachtbesluit-directie-facilitaire-)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2009-06-01 | 2009-07-28 | [2009-06-01.md](./2009-06-01.md) |
 | 2008-08-07 | 2009-05-31 | [2008-08-07.md](./2008-08-07.md) |
-| 2008-01-01 | 2008-08-06 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-08-06 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-06-15 | 2007-12-31 | [2007-06-15.md](./2007-06-15.md) |
 | 2006-05-01 | 2007-06-14 | [2006-05-01.md](./2006-05-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 3 december 2004, houdende regels met betrekking tot het veili
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2023-09-01"
-state_count: 17
+state_count: 15
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 17
 **Citeertitel:** Besluit spoorverkeer
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/amvb/2005/besluit-spoorverkeer](https://wetten.ai/eli/nl/amvb/2005/besluit-spoorverkeer)
+**ELI:** [/eli/nl/amvb/2005/besluit-spoorverkeer](https://wettenbank.online/eli/nl/amvb/2005/besluit-spoorverkeer)
 
 ## Versies
 
@@ -25,12 +25,10 @@ state_count: 17
 | 2023-09-01 | heden | [2023-09-01.md](./2023-09-01.md) |
 | 2023-08-08 | 2023-08-31 | [2023-08-08.md](./2023-08-08.md) |
 | 2023-07-01 | 2023-08-07 | [2023-07-01.md](./2023-07-01.md) |
-| 2023-07-01 | 2023-08-07 | [2023-07-01.md](./2023-07-01.md) |
 | 2021-12-17 | 2023-06-30 | [2021-12-17.md](./2021-12-17.md) |
 | 2019-06-16 | 2021-12-16 | [2019-06-16.md](./2019-06-16.md) |
 | 2018-07-01 | 2019-06-15 | [2018-07-01.md](./2018-07-01.md) |
 | 2017-02-14 | 2018-06-30 | [2017-02-14.md](./2017-02-14.md) |
-| 2016-11-26 | 2017-02-13 | [2016-11-26.md](./2016-11-26.md) |
 | 2016-11-26 | 2017-02-13 | [2016-11-26.md](./2016-11-26.md) |
 | 2015-07-04 | 2016-11-25 | [2015-07-04.md](./2015-07-04.md) |
 | 2013-01-01 | 2015-07-03 | [2013-01-01.md](./2013-01-01.md) |

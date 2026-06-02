@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2017-11-07"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling rijksbijdrage kosten heffingskortingen 2017
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-vaststelling-rijksbijdrage-kosten-heffingskortingen)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2017-11-07 | 2017-12-31 | [2017-11-07.md](./2017-11-07.md) |
 | 2017-06-22 | 2017-11-06 | [2017-06-22.md](./2017-06-22.md) |
-| 2017-06-22 | 2017-11-06 | [2017-06-22.md](./2017-06-22.md) |
-| 2017-01-01 | 2017-06-21 | [2017-01-01.md](./2017-01-01.md) |
 | 2017-01-01 | 2017-06-21 | [2017-01-01.md](./2017-01-01.md) |

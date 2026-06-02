@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vis van 30 september 2010, houdende rege
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2011-02-26"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Verordening financiering mosselpromotie 2011
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2011/verordening-financiering-mosselpromotie-2011](https://wetten.ai/eli/nl/pbo/2011/verordening-financiering-mosselpromotie-2011)
+**ELI:** [/eli/nl/pbo/2011/verordening-financiering-mosselpromotie-2011](https://wettenbank.online/eli/nl/pbo/2011/verordening-financiering-mosselpromotie-2011)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2011-02-26 | 2019-10-18 | [2011-02-26.md](./2011-02-26.md) |
-| 2011-01-01 | 2011-02-25 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2011-02-25 | [2011-01-01.md](./2011-01-01.md) |

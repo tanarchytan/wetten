@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2016-07-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Uitvoeringsregeling Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-wet-kenbaarheid-publiekrechtelijke-beper](https://wetten.ai/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-wet-kenbaarheid-publiekrechtelijke-beper)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-wet-kenbaarheid-publiekrechtelijke-beper](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/uitvoeringsregeling-wet-kenbaarheid-publiekrechtelijke-beper)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2016-07-01 | 2020-03-31 | [2016-07-01.md](./2016-07-01.md) |
 | 2015-05-02 | 2016-06-30 | [2015-05-02.md](./2015-05-02.md) |
-| 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2015-05-01 | [2015-01-01.md](./2015-01-01.md) |
 | 2013-07-01 | 2014-12-31 | [2013-07-01.md](./2013-07-01.md) |
 | 2010-10-01 | 2013-06-30 | [2010-10-01.md](./2010-10-01.md) |

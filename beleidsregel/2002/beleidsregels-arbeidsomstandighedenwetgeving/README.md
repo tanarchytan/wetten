@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2012-09-01"
-state_count: 30
+state_count: 27
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 30
 **Citeertitel:** Beleidsregels arbeidsomstandighedenwetgeving
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/beleidsregel/2002/beleidsregels-arbeidsomstandighedenwetgeving](https://wetten.ai/eli/nl/beleidsregel/2002/beleidsregels-arbeidsomstandighedenwetgeving)
+**ELI:** [/eli/nl/beleidsregel/2002/beleidsregels-arbeidsomstandighedenwetgeving](https://wettenbank.online/eli/nl/beleidsregel/2002/beleidsregels-arbeidsomstandighedenwetgeving)
 
 ## Versies
 
@@ -31,12 +31,9 @@ state_count: 30
 | 2011-04-01 | 2011-12-30 | [2011-04-01.md](./2011-04-01.md) |
 | 2011-03-05 | 2011-03-31 | [2011-03-05.md](./2011-03-05.md) |
 | 2011-01-01 | 2011-03-04 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-03-04 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-05-15 | 2010-12-31 | [2010-05-15.md](./2010-05-15.md) |
 | 2010-04-27 | 2010-05-14 | [2010-04-27.md](./2010-04-27.md) |
-| 2010-04-27 | 2010-05-14 | [2010-04-27.md](./2010-04-27.md) |
 | 2009-10-08 | 2010-04-26 | [2009-10-08.md](./2009-10-08.md) |
-| 2009-07-01 | 2009-10-07 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2009-10-07 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-01-01 | 2009-06-30 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-06-01 | 2008-12-31 | [2008-06-01.md](./2008-06-01.md) |

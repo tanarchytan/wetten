@@ -6,7 +6,7 @@ title: Beleidsregel huisartsendienstenstructuur, Nederlandse Zorgautoriteit
 ministry: Nederlandse Zorgautoriteit
 abbreviation: null
 latest_state: "2023-04-06"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Beleidsregel huisartsendienstenstructuur
 **Type:** zbo
 **Verantwoordelijk ministerie:** Nederlandse Zorgautoriteit
-**ELI:** [/eli/nl/zbo/2023/beleidsregel-huisartsendienstenstructuur-bwbr0047254](https://wetten.ai/eli/nl/zbo/2023/beleidsregel-huisartsendienstenstructuur-bwbr0047254)
+**ELI:** [/eli/nl/zbo/2023/beleidsregel-huisartsendienstenstructuur-bwbr0047254](https://wettenbank.online/eli/nl/zbo/2023/beleidsregel-huisartsendienstenstructuur-bwbr0047254)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2023-04-06 | 2023-12-31 | [2023-04-06.md](./2023-04-06.md) |
-| 2023-01-01 | 2023-04-05 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-04-05 | [2023-01-01.md](./2023-01-01.md) |

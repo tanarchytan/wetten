@@ -6,7 +6,7 @@ title: Besluit van het bestuur van het Productschap Tuinbouw, d.d. 25 april 2006
 ministry: Productschap Tuinbouw
 abbreviation: null
 latest_state: "2010-12-26"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Verordening PT vakheffing bloembollen plantgoed oogstjaar 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Tuinbouw
-**ELI:** [/eli/nl/pbo/2006/verordening-pt-vakheffing-bloembollen-plantgoed-oogstjaar-20](https://wetten.ai/eli/nl/pbo/2006/verordening-pt-vakheffing-bloembollen-plantgoed-oogstjaar-20)
+**ELI:** [/eli/nl/pbo/2006/verordening-pt-vakheffing-bloembollen-plantgoed-oogstjaar-20](https://wettenbank.online/eli/nl/pbo/2006/verordening-pt-vakheffing-bloembollen-plantgoed-oogstjaar-20)
 
 ## Versies
 
@@ -24,7 +24,5 @@ state_count: 6
 |---|---|---|
 | 2010-12-26 | heden | [2010-12-26.md](./2010-12-26.md) |
 | 2007-02-18 | 2010-12-25 | [2007-02-18.md](./2007-02-18.md) |
-| 2007-02-18 | 2010-12-25 | [2007-02-18.md](./2007-02-18.md) |
-| 2006-09-17 | 2007-02-17 | [2006-09-17.md](./2006-09-17.md) |
 | 2006-09-17 | 2007-02-17 | [2006-09-17.md](./2006-09-17.md) |
 | 2006-06-01 | 2006-09-16 | [2006-06-01.md](./2006-06-01.md) |

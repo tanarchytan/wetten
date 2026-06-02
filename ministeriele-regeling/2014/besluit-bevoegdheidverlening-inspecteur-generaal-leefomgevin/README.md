@@ -6,7 +6,7 @@ title: Besluit van de Staatssecretaris van Infrastructuur en Milieu, van 16 augu
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2018-02-09"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Besluit bevoegdheidverlening Inspecteur- Generaal Leefomgeving en Transport
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-bevoegdheidverlening-inspecteur-generaal-leefomgevin](https://wetten.ai/eli/nl/ministeriele-regeling/2014/besluit-bevoegdheidverlening-inspecteur-generaal-leefomgevin)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/besluit-bevoegdheidverlening-inspecteur-generaal-leefomgevin](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/besluit-bevoegdheidverlening-inspecteur-generaal-leefomgevin)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-02-09 | heden | [2018-02-09.md](./2018-02-09.md) |
-| 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2018-01-01 | 2018-02-08 | [2018-01-01.md](./2018-01-01.md) |
 | 2014-08-26 | 2017-12-31 | [2014-08-26.md](./2014-08-26.md) |

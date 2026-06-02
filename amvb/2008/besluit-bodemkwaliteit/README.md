@@ -6,7 +6,7 @@ title: Besluit van 22 november 2007, houdende regels inzake de kwaliteit van de 
 ministry: Infrastructuur en Milieu
 abbreviation: Bbk
 latest_state: "2025-07-01"
-state_count: 24
+state_count: 23
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 24
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** Bbk
-**ELI:** [/eli/nl/amvb/2008/besluit-bodemkwaliteit](https://wetten.ai/eli/nl/amvb/2008/besluit-bodemkwaliteit)
+**ELI:** [/eli/nl/amvb/2008/besluit-bodemkwaliteit](https://wettenbank.online/eli/nl/amvb/2008/besluit-bodemkwaliteit)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 24
 | 2021-01-01 | 2022-05-05 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-12-18 | 2020-12-31 | [2019-12-18.md](./2019-12-18.md) |
 | 2016-05-24 | 2019-12-17 | [2016-05-24.md](./2016-05-24.md) |
-| 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2016-05-01 | 2016-05-23 | [2016-05-01.md](./2016-05-01.md) |
 | 2015-07-01 | 2016-04-30 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-06-20 | 2015-06-30 | [2015-06-20.md](./2015-06-20.md) |

@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJ
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2021-09-14"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Instellingsbesluit Commissie bijzondere situaties
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-bijzondere-situaties](https://wetten.ai/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-bijzondere-situaties)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-bijzondere-situaties](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/instellingsbesluit-commissie-bijzondere-situaties)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2021-09-14 | heden | [2021-09-14.md](./2021-09-14.md) |
 | 2021-09-01 | 2021-09-13 | [2021-09-01.md](./2021-09-01.md) |
-| 2021-09-01 | 2021-09-13 | [2021-09-01.md](./2021-09-01.md) |
 | 2019-05-15 | 2021-08-31 | [2019-05-15.md](./2019-05-15.md) |
-| 2019-05-01 | 2019-05-14 | [2019-05-01.md](./2019-05-01.md) |
 | 2019-05-01 | 2019-05-14 | [2019-05-01.md](./2019-05-01.md) |
 | 2016-05-01 | 2019-04-30 | [2016-05-01.md](./2016-05-01.md) |

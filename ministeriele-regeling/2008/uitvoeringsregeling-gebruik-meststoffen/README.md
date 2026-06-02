@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 12Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2023-02-15"
-state_count: 16
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 16
 **Citeertitel:** Uitvoeringsregeling gebruik meststoffen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-gebruik-meststoffen](https://wetten.ai/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-gebruik-meststoffen)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-gebruik-meststoffen](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/uitvoeringsregeling-gebruik-meststoffen)
 
 ## Versies
 
@@ -24,14 +24,11 @@ state_count: 16
 |---|---|---|
 | 2023-02-15 | 2023-12-31 | [2023-02-15.md](./2023-02-15.md) |
 | 2023-01-01 | 2023-02-14 | [2023-01-01.md](./2023-01-01.md) |
-| 2023-01-01 | 2023-02-14 | [2023-01-01.md](./2023-01-01.md) |
 | 2020-08-01 | 2022-12-31 | [2020-08-01.md](./2020-08-01.md) |
 | 2019-07-23 | 2020-07-31 | [2019-07-23.md](./2019-07-23.md) |
 | 2019-01-01 | 2019-07-22 | [2019-01-01.md](./2019-01-01.md) |
 | 2016-01-01 | 2018-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-10-01 | 2015-12-31 | [2015-10-01.md](./2015-10-01.md) |
-| 2015-10-01 | 2015-12-31 | [2015-10-01.md](./2015-10-01.md) |
-| 2015-06-01 | 2015-09-30 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-06-01 | 2015-09-30 | [2015-06-01.md](./2015-06-01.md) |
 | 2015-01-01 | 2015-05-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-06-27 | 2014-12-31 | [2014-06-27.md](./2014-06-27.md) |

@@ -6,7 +6,7 @@ title: Besluit van 24 december 1986, houdende beperking kring verzekerden Zieken
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Bbkv ZFW
 latest_state: "2004-09-29"
-state_count: 10
+state_count: 6
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Bbkv ZFW
-**ELI:** [/eli/nl/amvb/1987/besluit-beperking-kring-verzekerden-ziekenfondswet](https://wetten.ai/eli/nl/amvb/1987/besluit-beperking-kring-verzekerden-ziekenfondswet)
+**ELI:** [/eli/nl/amvb/1987/besluit-beperking-kring-verzekerden-ziekenfondswet](https://wettenbank.online/eli/nl/amvb/1987/besluit-beperking-kring-verzekerden-ziekenfondswet)
 
 ## Versies
 
@@ -25,11 +25,7 @@ state_count: 10
 |---|---|---|
 | 2004-09-29 | 2005-12-31 | [2004-09-29.md](./2004-09-29.md) |
 | 2004-08-01 | 2004-09-28 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-08-01 | 2004-09-28 | [2004-08-01.md](./2004-08-01.md) |
-| 2004-07-01 | 2004-07-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2004-07-31 | [2004-07-01.md](./2004-07-01.md) |
 | 2003-11-19 | 2004-06-30 | [2003-11-19.md](./2003-11-19.md) |
 | 2003-01-01 | 2003-11-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-11-18 | [2003-01-01.md](./2003-01-01.md) |
-| 2000-01-01 | 2002-12-31 | [2000-01-01.md](./2000-01-01.md) |
 | 2000-01-01 | 2002-12-31 | [2000-01-01.md](./2000-01-01.md) |

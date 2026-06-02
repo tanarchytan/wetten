@@ -6,7 +6,7 @@ title: Regeling onderhoud luchtvaartuigen
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2018-04-01"
-state_count: 14
+state_count: 13
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 14
 **Citeertitel:** Regeling onderhoud luchtvaartuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-onderhoud-luchtvaartuigen](https://wetten.ai/eli/nl/ministeriele-regeling/2001/regeling-onderhoud-luchtvaartuigen)
+**ELI:** [/eli/nl/ministeriele-regeling/2001/regeling-onderhoud-luchtvaartuigen](https://wettenbank.online/eli/nl/ministeriele-regeling/2001/regeling-onderhoud-luchtvaartuigen)
 
 ## Versies
 
@@ -33,6 +33,5 @@ state_count: 14
 | 2005-07-01 | 2008-11-22 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-05-01 | 2005-06-30 | [2005-05-01.md](./2005-05-01.md) |
 | 2004-06-23 | 2005-04-30 | [2004-06-23.md](./2004-06-23.md) |
-| 2004-03-01 | 2004-06-22 | [2004-03-01.md](./2004-03-01.md) |
 | 2004-03-01 | 2004-06-22 | [2004-03-01.md](./2004-03-01.md) |
 | 2003-04-10 | 2004-02-29 | [2003-04-10.md](./2003-04-10.md) |

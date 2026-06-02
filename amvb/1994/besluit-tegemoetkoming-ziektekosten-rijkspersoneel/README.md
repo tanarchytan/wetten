@@ -6,7 +6,7 @@ title: Besluit van 3 augustus 1994, houdende vaststelling van het Besluit tegemo
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 8
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit tegemoetkoming ziektekosten rijkspersoneel
 **Type:** amvb
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb/1994/besluit-tegemoetkoming-ziektekosten-rijkspersoneel](https://wetten.ai/eli/nl/amvb/1994/besluit-tegemoetkoming-ziektekosten-rijkspersoneel)
+**ELI:** [/eli/nl/amvb/1994/besluit-tegemoetkoming-ziektekosten-rijkspersoneel](https://wettenbank.online/eli/nl/amvb/1994/besluit-tegemoetkoming-ziektekosten-rijkspersoneel)
 
 ## Versies
 
@@ -25,8 +25,6 @@ state_count: 8
 | 2006-01-01 | 2006-06-01 | [2006-01-01.md](./2006-01-01.md) |
 | 2003-11-01 | 2005-12-31 | [2003-11-01.md](./2003-11-01.md) |
 | 2003-01-01 | 2003-10-31 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2003-10-31 | [2003-01-01.md](./2003-01-01.md) |
 | 2002-06-01 | 2002-12-31 | [2002-06-01.md](./2002-06-01.md) |
-| 2002-04-01 | 2002-05-31 | [2002-04-01.md](./2002-04-01.md) |
 | 2002-04-01 | 2002-05-31 | [2002-04-01.md](./2002-04-01.md) |
 | 2002-01-01 | 2002-03-31 | [2002-01-01.md](./2002-01-01.md) |

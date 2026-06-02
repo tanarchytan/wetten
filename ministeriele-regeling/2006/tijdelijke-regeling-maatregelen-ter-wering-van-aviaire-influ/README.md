@@ -6,7 +6,7 @@ title: Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21Â
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2007-09-25"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Tijdelijke regeling maatregelen ter wering van Aviaire Influenza
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-maatregelen-ter-wering-van-aviaire-influ](https://wetten.ai/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-maatregelen-ter-wering-van-aviaire-influ)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-maatregelen-ter-wering-van-aviaire-influ](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/tijdelijke-regeling-maatregelen-ter-wering-van-aviaire-influ)
 
 ## Versies
 
@@ -30,8 +30,6 @@ state_count: 13
 | 2007-02-03 | 2007-02-18 | [2007-02-03.md](./2007-02-03.md) |
 | 2006-11-23 | 2007-02-02 | [2006-11-23.md](./2006-11-23.md) |
 | 2006-11-22 | 2006-11-22 | [2006-11-22.md](./2006-11-22.md) |
-| 2006-11-22 | 2006-11-22 | [2006-11-22.md](./2006-11-22.md) |
-| 2006-11-21 | 2006-11-21 | [2006-11-21.md](./2006-11-21.md) |
 | 2006-11-21 | 2006-11-21 | [2006-11-21.md](./2006-11-21.md) |
 | 2006-09-24 | 2006-11-20 | [2006-09-24.md](./2006-09-24.md) |
 | 2006-09-01 | 2006-09-23 | [2006-09-01.md](./2006-09-01.md) |

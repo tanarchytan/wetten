@@ -6,7 +6,7 @@ title: Besluit van 6 oktober 1994, houdende uitvoering van de Wegenverkeerswet 1
 ministry: Infrastructuur en Milieu
 abbreviation: KR
 latest_state: "2025-07-01"
-state_count: 36
+state_count: 34
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 36
 **Type:** amvb
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** KR
-**ELI:** [/eli/nl/amvb/1995/kentekenreglement](https://wetten.ai/eli/nl/amvb/1995/kentekenreglement)
+**ELI:** [/eli/nl/amvb/1995/kentekenreglement](https://wettenbank.online/eli/nl/amvb/1995/kentekenreglement)
 
 ## Versies
 
@@ -27,12 +27,10 @@ state_count: 36
 | 2022-01-01 | 2025-06-30 | [2022-01-01.md](./2022-01-01.md) |
 | 2021-05-21 | 2021-12-31 | [2021-05-21.md](./2021-05-21.md) |
 | 2021-04-01 | 2021-05-20 | [2021-04-01.md](./2021-04-01.md) |
-| 2021-04-01 | 2021-05-20 | [2021-04-01.md](./2021-04-01.md) |
 | 2021-01-01 | 2021-03-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2020-01-01 | 2020-12-31 | [2020-01-01.md](./2020-01-01.md) |
 | 2019-07-01 | 2019-12-31 | [2019-07-01.md](./2019-07-01.md) |
 | 2018-07-28 | 2019-06-30 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2014-01-06 | 2018-05-24 | [2014-01-06.md](./2014-01-06.md) |
 | 2014-01-01 | 2014-01-05 | [2014-01-01.md](./2014-01-01.md) |

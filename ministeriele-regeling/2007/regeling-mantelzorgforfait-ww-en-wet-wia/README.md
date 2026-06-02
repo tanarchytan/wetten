@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 30 juni
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: Rman WW WIA
 latest_state: "2013-06-06"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -17,13 +17,12 @@ state_count: 4
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** Rman WW WIA
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-mantelzorgforfait-ww-en-wet-wia](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-mantelzorgforfait-ww-en-wet-wia)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-mantelzorgforfait-ww-en-wet-wia](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-mantelzorgforfait-ww-en-wet-wia)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-06-06 | heden | [2013-06-06.md](./2013-06-06.md) |
-| 2013-01-01 | 2013-06-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-06-05 | [2013-01-01.md](./2013-01-01.md) |
 | 2007-01-01 | 2012-12-31 | [2007-01-01.md](./2007-01-01.md) |

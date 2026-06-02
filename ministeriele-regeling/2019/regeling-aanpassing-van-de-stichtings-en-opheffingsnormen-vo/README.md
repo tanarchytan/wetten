@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2019-09-10"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Regeling aanpassing van de stichtings- en opheffingsnormen voor basisscholen in verband met gebiedswijzigingen per 1 januari 2018
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo](https://wetten.ai/eli/nl/ministeriele-regeling/2019/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo)
+**ELI:** [/eli/nl/ministeriele-regeling/2019/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo](https://wettenbank.online/eli/nl/ministeriele-regeling/2019/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2019-09-10 | 2023-07-31 | [2019-09-10.md](./2019-09-10.md) |
 | 2019-08-01 | 2019-09-09 | [2019-08-01.md](./2019-08-01.md) |
-| 2019-08-01 | 2019-09-09 | [2019-08-01.md](./2019-08-01.md) |
 | 2019-06-12 | 2019-07-31 | [2019-06-12.md](./2019-06-12.md) |
 | 2019-02-20 | 2019-06-11 | [2019-02-20.md](./2019-02-20.md) |
-| 2019-02-20 | 2019-06-11 | [2019-02-20.md](./2019-02-20.md) |
-| 2019-01-01 | 2019-02-19 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-02-19 | [2019-01-01.md](./2019-01-01.md) |

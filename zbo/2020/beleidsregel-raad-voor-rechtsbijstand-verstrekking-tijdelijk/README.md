@@ -6,7 +6,7 @@ title: Beleidsregel van de raad voor rechtsbijstand over verstrekking van een ti
 ministry: Raad voor Rechtsbijstand
 abbreviation: null
 latest_state: "2024-12-31"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Beleidsregel raad voor rechtsbijstand verstrekking tijdelijke aanvullende vergoeding voor verleende rechtsbijstand en verrichte mediation 2020 en 2021
 **Type:** zbo
 **Verantwoordelijk ministerie:** Raad voor Rechtsbijstand
-**ELI:** [/eli/nl/zbo/2020/beleidsregel-raad-voor-rechtsbijstand-verstrekking-tijdelijk](https://wetten.ai/eli/nl/zbo/2020/beleidsregel-raad-voor-rechtsbijstand-verstrekking-tijdelijk)
+**ELI:** [/eli/nl/zbo/2020/beleidsregel-raad-voor-rechtsbijstand-verstrekking-tijdelijk](https://wettenbank.online/eli/nl/zbo/2020/beleidsregel-raad-voor-rechtsbijstand-verstrekking-tijdelijk)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-12-31 | heden | [2024-12-31.md](./2024-12-31.md) |
-| 2020-01-01 | 2024-12-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2020-01-01 | 2024-12-30 | [2020-01-01.md](./2020-01-01.md) |

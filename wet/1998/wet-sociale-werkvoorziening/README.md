@@ -6,7 +6,7 @@ title: Wet van 11 september 1997, houdende nieuwe regeling inzake de sociale wer
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: WSW
 latest_state: "2015-07-01"
-state_count: 18
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 18
 **Type:** wet
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
 **Afkorting:** WSW
-**ELI:** [/eli/nl/wet/1998/wet-sociale-werkvoorziening](https://wetten.ai/eli/nl/wet/1998/wet-sociale-werkvoorziening)
+**ELI:** [/eli/nl/wet/1998/wet-sociale-werkvoorziening](https://wettenbank.online/eli/nl/wet/1998/wet-sociale-werkvoorziening)
 
 ## Versies
 
@@ -38,6 +38,5 @@ state_count: 18
 | 2005-09-09 | 2006-03-07 | [2005-09-09.md](./2005-09-09.md) |
 | 2005-01-01 | 2005-09-08 | [2005-01-01.md](./2005-01-01.md) |
 | 2003-02-19 | 2004-12-31 | [2003-02-19.md](./2003-02-19.md) |
-| 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-03-07 | 2003-02-18 | [2002-03-07.md](./2002-03-07.md) |
 | 2002-01-01 | 2002-03-06 | [2002-01-01.md](./2002-01-01.md) |

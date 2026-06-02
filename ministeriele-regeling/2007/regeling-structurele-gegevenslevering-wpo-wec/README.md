@@ -6,7 +6,7 @@ title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2017-08-01"
-state_count: 20
+state_count: 18
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 20
 **Citeertitel:** Regeling structurele gegevenslevering WPO/WEC
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-structurele-gegevenslevering-wpo-wec](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-structurele-gegevenslevering-wpo-wec)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-structurele-gegevenslevering-wpo-wec](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-structurele-gegevenslevering-wpo-wec)
 
 ## Versies
 
@@ -26,10 +26,8 @@ state_count: 20
 | 2016-08-01 | 2017-07-31 | [2016-08-01.md](./2016-08-01.md) |
 | 2015-11-20 | 2016-07-31 | [2015-11-20.md](./2015-11-20.md) |
 | 2015-08-01 | 2015-11-19 | [2015-08-01.md](./2015-08-01.md) |
-| 2015-08-01 | 2015-11-19 | [2015-08-01.md](./2015-08-01.md) |
 | 2015-01-01 | 2015-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-12-02 | 2014-12-31 | [2014-12-02.md](./2014-12-02.md) |
-| 2014-08-01 | 2014-12-01 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-08-01 | 2014-12-01 | [2014-08-01.md](./2014-08-01.md) |
 | 2014-02-15 | 2014-07-31 | [2014-02-15.md](./2014-02-15.md) |
 | 2013-08-01 | 2014-02-14 | [2013-08-01.md](./2013-08-01.md) |

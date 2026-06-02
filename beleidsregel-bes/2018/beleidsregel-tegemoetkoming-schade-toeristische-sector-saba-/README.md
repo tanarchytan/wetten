@@ -6,7 +6,7 @@ title: Beleidsregel van de Staatssecretaris van Economische Zaken en Klimaat van
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2018-02-28"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Beleidsregel tegemoetkoming schade toeristische sector Saba en Sint Eustatius
 **Type:** beleidsregel-bes
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/beleidsregel-bes/2018/beleidsregel-tegemoetkoming-schade-toeristische-sector-saba-](https://wetten.ai/eli/nl/beleidsregel-bes/2018/beleidsregel-tegemoetkoming-schade-toeristische-sector-saba-)
+**ELI:** [/eli/nl/beleidsregel-bes/2018/beleidsregel-tegemoetkoming-schade-toeristische-sector-saba-](https://wettenbank.online/eli/nl/beleidsregel-bes/2018/beleidsregel-tegemoetkoming-schade-toeristische-sector-saba-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-02-28 | 2018-12-31 | [2018-02-28.md](./2018-02-28.md) |
-| 2018-01-31 | 2018-02-27 | [2018-01-31.md](./2018-01-31.md) |
 | 2018-01-31 | 2018-02-27 | [2018-01-31.md](./2018-01-31.md) |

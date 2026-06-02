@@ -6,7 +6,7 @@ title: Wet van 18 maart 2010, houdende regels met betrekking tot versnelde ontwi
 ministry: Algemene Zaken
 abbreviation: Chw
 latest_state: "2023-07-01"
-state_count: 37
+state_count: 36
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 37
 **Type:** wet
 **Verantwoordelijk ministerie:** Algemene Zaken
 **Afkorting:** Chw
-**ELI:** [/eli/nl/wet/2010/crisis-en-herstelwet](https://wetten.ai/eli/nl/wet/2010/crisis-en-herstelwet)
+**ELI:** [/eli/nl/wet/2010/crisis-en-herstelwet](https://wettenbank.online/eli/nl/wet/2010/crisis-en-herstelwet)
 
 ## Versies
 
@@ -40,7 +40,6 @@ state_count: 37
 | 2015-03-18 | 2015-09-08 | [2015-03-18.md](./2015-03-18.md) |
 | 2014-09-20 | 2015-03-17 | [2014-09-20.md](./2014-09-20.md) |
 | 2014-05-16 | 2014-09-19 | [2014-05-16.md](./2014-05-16.md) |
-| 2014-05-15 | 2014-05-15 | [2014-05-15.md](./2014-05-15.md) |
 | 2014-05-15 | 2014-05-15 | [2014-05-15.md](./2014-05-15.md) |
 | 2013-07-06 | 2014-05-14 | [2013-07-06.md](./2013-07-06.md) |
 | 2013-07-01 | 2013-07-05 | [2013-07-01.md](./2013-07-01.md) |

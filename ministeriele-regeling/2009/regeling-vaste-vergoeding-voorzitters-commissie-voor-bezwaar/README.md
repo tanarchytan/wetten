@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 jun
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-04-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling vaste vergoeding voorzitters Commissie voor bezwaarschriften OCW
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaste-vergoeding-voorzitters-commissie-voor-bezwaar](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-vaste-vergoeding-voorzitters-commissie-voor-bezwaar)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-vaste-vergoeding-voorzitters-commissie-voor-bezwaar](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-vaste-vergoeding-voorzitters-commissie-voor-bezwaar)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2011-04-01 | 2011-05-31 | [2011-04-01.md](./2011-04-01.md) |
 | 2010-04-01 | 2011-03-31 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-02-01 | 2010-03-31 | [2010-02-01.md](./2010-02-01.md) |
 | 2010-02-01 | 2010-03-31 | [2010-02-01.md](./2010-02-01.md) |
 | 2009-07-02 | 2010-01-31 | [2009-07-02.md](./2009-07-02.md) |
 | 2009-01-01 | 2009-07-01 | [2009-01-01.md](./2009-01-01.md) |

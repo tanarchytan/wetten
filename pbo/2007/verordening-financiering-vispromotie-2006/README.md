@@ -6,7 +6,7 @@ title: Verordening van het Productschap Vis van 13 oktober 2005, houdende regel
 ministry: Productschap Vis
 abbreviation: null
 latest_state: "2007-06-16"
-state_count: 7
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Verordening financiering vispromotie 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Vis
-**ELI:** [/eli/nl/pbo/2007/verordening-financiering-vispromotie-2006](https://wetten.ai/eli/nl/pbo/2007/verordening-financiering-vispromotie-2006)
+**ELI:** [/eli/nl/pbo/2007/verordening-financiering-vispromotie-2006](https://wettenbank.online/eli/nl/pbo/2007/verordening-financiering-vispromotie-2006)
 
 ## Versies
 
@@ -24,8 +24,5 @@ state_count: 7
 |---|---|---|
 | 2007-06-16 | 2007-08-24 | [2007-06-16.md](./2007-06-16.md) |
 | 2007-04-21 | 2007-06-15 | [2007-04-21.md](./2007-04-21.md) |
-| 2007-04-21 | 2007-06-15 | [2007-04-21.md](./2007-04-21.md) |
 | 2007-01-01 | 2007-04-20 | [2007-01-01.md](./2007-01-01.md) |
-| 2007-01-01 | 2007-04-20 | [2007-01-01.md](./2007-01-01.md) |
-| 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |

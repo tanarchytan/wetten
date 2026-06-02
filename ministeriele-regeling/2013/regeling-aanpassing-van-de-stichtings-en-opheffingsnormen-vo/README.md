@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, va
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2014-01-03"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2013
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-aanpassing-van-de-stichtings-en-opheffingsnormen-vo)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2014-01-03 | 2018-07-31 | [2014-01-03.md](./2014-01-03.md) |
-| 2013-08-01 | 2014-01-02 | [2013-08-01.md](./2013-08-01.md) |
 | 2013-08-01 | 2014-01-02 | [2013-08-01.md](./2013-08-01.md) |

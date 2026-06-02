@@ -6,7 +6,7 @@ title: Besluit van 26 oktober 2017 nr. 2017001809, houdende departementale herin
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2018-04-04"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Besluit departementale herindeling (klimaat)
 **Type:** kb
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/kb/2017/besluit-departementale-herindeling-klimaat](https://wetten.ai/eli/nl/kb/2017/besluit-departementale-herindeling-klimaat)
+**ELI:** [/eli/nl/kb/2017/besluit-departementale-herindeling-klimaat](https://wettenbank.online/eli/nl/kb/2017/besluit-departementale-herindeling-klimaat)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2018-04-04 | heden | [2018-04-04.md](./2018-04-04.md) |
 | 2017-11-05 | 2018-04-03 | [2017-11-05.md](./2017-11-05.md) |
-| 2017-11-05 | 2018-04-03 | [2017-11-05.md](./2017-11-05.md) |
-| 2017-10-26 | 2017-11-04 | [2017-10-26.md](./2017-10-26.md) |
 | 2017-10-26 | 2017-11-04 | [2017-10-26.md](./2017-10-26.md) |

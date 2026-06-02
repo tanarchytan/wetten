@@ -6,7 +6,7 @@ title: Wet van 25 november 2015 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2016-01-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 8
 **Citeertitel:** Fiscale verzamelwet 2015
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2015/fiscale-verzamelwet-2015](https://wetten.ai/eli/nl/wet/2015/fiscale-verzamelwet-2015)
+**ELI:** [/eli/nl/wet/2015/fiscale-verzamelwet-2015](https://wettenbank.online/eli/nl/wet/2015/fiscale-verzamelwet-2015)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-01-01 | heden | [2016-01-01.md](./2016-01-01.md) |
-| 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-07-01 | 2015-12-31 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-01-01 | 2015-06-30 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |

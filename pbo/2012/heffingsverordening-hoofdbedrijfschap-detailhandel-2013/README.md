@@ -6,7 +6,7 @@ title: Verordening van het Hoofdbedrijfschap Detailhandel van 31 oktober 2012, h
 ministry: Hoofdbedrijfschap Detailhandel
 abbreviation: null
 latest_state: "2013-02-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Heffingsverordening Hoofdbedrijfschap Detailhandel 2013
 **Type:** pbo
 **Verantwoordelijk ministerie:** Hoofdbedrijfschap Detailhandel
-**ELI:** [/eli/nl/pbo/2012/heffingsverordening-hoofdbedrijfschap-detailhandel-2013](https://wetten.ai/eli/nl/pbo/2012/heffingsverordening-hoofdbedrijfschap-detailhandel-2013)
+**ELI:** [/eli/nl/pbo/2012/heffingsverordening-hoofdbedrijfschap-detailhandel-2013](https://wettenbank.online/eli/nl/pbo/2012/heffingsverordening-hoofdbedrijfschap-detailhandel-2013)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2013-02-15 | 2019-10-18 | [2013-02-15.md](./2013-02-15.md) |
-| 2013-01-01 | 2013-02-14 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-02-14 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-12-07 | 2012-12-31 | [2012-12-07.md](./2012-12-07.md) |

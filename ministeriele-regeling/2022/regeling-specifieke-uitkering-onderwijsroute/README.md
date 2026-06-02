@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 novem
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2024-11-30"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling specifieke uitkering onderwijsroute
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-onderwijsroute](https://wetten.ai/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-onderwijsroute)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-onderwijsroute](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/regeling-specifieke-uitkering-onderwijsroute)
 
 ## Versies
 
@@ -25,7 +25,6 @@ state_count: 7
 | 2024-11-30 | heden | [2024-11-30.md](./2024-11-30.md) |
 | 2023-11-30 | 2024-11-29 | [2023-11-30.md](./2023-11-30.md) |
 | 2023-10-13 | 2023-11-29 | [2023-10-13.md](./2023-10-13.md) |
-| 2023-01-01 | 2023-10-12 | [2023-01-01.md](./2023-01-01.md) |
 | 2023-01-01 | 2023-10-12 | [2023-01-01.md](./2023-01-01.md) |
 | 2022-11-17 | 2022-12-31 | [2022-11-17.md](./2022-11-17.md) |
 | 2022-01-01 | 2022-11-16 | [2022-01-01.md](./2022-01-01.md) |

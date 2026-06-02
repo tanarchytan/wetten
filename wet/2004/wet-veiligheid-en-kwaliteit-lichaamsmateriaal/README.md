@@ -6,7 +6,7 @@ title: Wet van 6 februari 2003, houdende regels inzake de veiligheid en kwalitei
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Wvkl
 latest_state: "2022-01-01"
-state_count: 16
+state_count: 15
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Wvkl
-**ELI:** [/eli/nl/wet/2004/wet-veiligheid-en-kwaliteit-lichaamsmateriaal](https://wetten.ai/eli/nl/wet/2004/wet-veiligheid-en-kwaliteit-lichaamsmateriaal)
+**ELI:** [/eli/nl/wet/2004/wet-veiligheid-en-kwaliteit-lichaamsmateriaal](https://wettenbank.online/eli/nl/wet/2004/wet-veiligheid-en-kwaliteit-lichaamsmateriaal)
 
 ## Versies
 
@@ -31,7 +31,6 @@ state_count: 16
 | 2018-11-17 | 2019-04-01 | [2018-11-17.md](./2018-11-17.md) |
 | 2018-08-01 | 2018-11-16 | [2018-08-01.md](./2018-08-01.md) |
 | 2018-07-28 | 2018-07-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2016-08-01 | 2018-05-24 | [2016-08-01.md](./2016-08-01.md) |
 | 2015-01-01 | 2016-07-31 | [2015-01-01.md](./2015-01-01.md) |

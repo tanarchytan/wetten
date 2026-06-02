@@ -16,7 +16,7 @@ state_count: 3
 **Citeertitel:** Warenwetbesluit Smeerbare vetproducten
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1999/warenwetbesluit-smeerbare-vetproducten](https://wetten.ai/eli/nl/amvb/1999/warenwetbesluit-smeerbare-vetproducten)
+**ELI:** [/eli/nl/amvb/1999/warenwetbesluit-smeerbare-vetproducten](https://wettenbank.online/eli/nl/amvb/1999/warenwetbesluit-smeerbare-vetproducten)
 
 ## Versies
 

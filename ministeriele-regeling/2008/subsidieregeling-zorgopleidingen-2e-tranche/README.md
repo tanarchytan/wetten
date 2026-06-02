@@ -6,7 +6,7 @@ title: Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 6 decem
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2012-09-28"
-state_count: 15
+state_count: 10
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 15
 **Citeertitel:** Subsidieregeling zorgopleidingen 2e tranche
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-zorgopleidingen-2e-tranche](https://wetten.ai/eli/nl/ministeriele-regeling/2008/subsidieregeling-zorgopleidingen-2e-tranche)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/subsidieregeling-zorgopleidingen-2e-tranche](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/subsidieregeling-zorgopleidingen-2e-tranche)
 
 ## Versies
 
@@ -30,10 +30,5 @@ state_count: 15
 | 2009-07-25 | 2009-11-06 | [2009-07-25.md](./2009-07-25.md) |
 | 2009-01-24 | 2009-07-24 | [2009-01-24.md](./2009-01-24.md) |
 | 2008-12-05 | 2009-01-23 | [2008-12-05.md](./2008-12-05.md) |
-| 2008-12-05 | 2009-01-23 | [2008-12-05.md](./2008-12-05.md) |
 | 2008-08-07 | 2008-12-04 | [2008-08-07.md](./2008-08-07.md) |
-| 2008-08-07 | 2008-12-04 | [2008-08-07.md](./2008-08-07.md) |
-| 2008-08-07 | 2008-12-04 | [2008-08-07.md](./2008-08-07.md) |
-| 2008-01-01 | 2008-08-06 | [2008-01-01.md](./2008-01-01.md) |
-| 2008-01-01 | 2008-08-06 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-08-06 | [2008-01-01.md](./2008-01-01.md) |

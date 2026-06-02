@@ -6,7 +6,7 @@ title: Wet van 12 maart 1998, houdende regels inzake de verstrekking van subsidi
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Kaderwet VWS-subsidies
 **Type:** wet
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/wet/1998/kaderwet-vws-subsidies](https://wetten.ai/eli/nl/wet/1998/kaderwet-vws-subsidies)
+**ELI:** [/eli/nl/wet/1998/kaderwet-vws-subsidies](https://wettenbank.online/eli/nl/wet/1998/kaderwet-vws-subsidies)
 
 ## Versies
 
@@ -26,7 +26,6 @@ state_count: 9
 | 2024-01-01 | 2024-12-31 | [2024-01-01.md](./2024-01-01.md) |
 | 2020-03-19 | 2023-12-31 | [2020-03-19.md](./2020-03-19.md) |
 | 2016-08-01 | 2020-03-18 | [2016-08-01.md](./2016-08-01.md) |
-| 2015-01-01 | 2016-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2015-01-01 | 2016-07-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2009-07-01 | 2014-12-31 | [2009-07-01.md](./2009-07-01.md) |
 | 2007-01-01 | 2009-06-30 | [2007-01-01.md](./2007-01-01.md) |

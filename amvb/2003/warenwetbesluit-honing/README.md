@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Warenwetbesluit honing
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/2003/warenwetbesluit-honing](https://wetten.ai/eli/nl/amvb/2003/warenwetbesluit-honing)
+**ELI:** [/eli/nl/amvb/2003/warenwetbesluit-honing](https://wettenbank.online/eli/nl/amvb/2003/warenwetbesluit-honing)
 
 ## Versies
 

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Buitenlandse Zaken van 5 december 2008, nr. 
 ministry: Buitenlandse Zaken
 abbreviation: null
 latest_state: "2014-04-30"
-state_count: 7
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Regeling elektronische bekendmaking Tractatenblad
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Buitenlandse Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-elektronische-bekendmaking-tractatenblad](https://wetten.ai/eli/nl/ministeriele-regeling/2009/regeling-elektronische-bekendmaking-tractatenblad)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/regeling-elektronische-bekendmaking-tractatenblad](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/regeling-elektronische-bekendmaking-tractatenblad)
 
 ## Versies
 
@@ -24,8 +24,6 @@ state_count: 7
 |---|---|---|
 | 2014-04-30 | heden | [2014-04-30.md](./2014-04-30.md) |
 | 2014-04-10 | 2014-04-29 | [2014-04-10.md](./2014-04-10.md) |
-| 2014-04-10 | 2014-04-29 | [2014-04-10.md](./2014-04-10.md) |
 | 2012-01-19 | 2014-04-09 | [2012-01-19.md](./2012-01-19.md) |
-| 2012-01-01 | 2012-01-18 | [2012-01-01.md](./2012-01-01.md) |
 | 2012-01-01 | 2012-01-18 | [2012-01-01.md](./2012-01-01.md) |
 | 2009-07-01 | 2011-12-31 | [2009-07-01.md](./2009-07-01.md) |

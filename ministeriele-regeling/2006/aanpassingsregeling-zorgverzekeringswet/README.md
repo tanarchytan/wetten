@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 dec
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2008-02-16"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Aanpassingsregeling Zorgverzekeringswet
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2006/aanpassingsregeling-zorgverzekeringswet](https://wetten.ai/eli/nl/ministeriele-regeling/2006/aanpassingsregeling-zorgverzekeringswet)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/aanpassingsregeling-zorgverzekeringswet](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/aanpassingsregeling-zorgverzekeringswet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-02-16 | heden | [2008-02-16.md](./2008-02-16.md) |
-| 2007-01-01 | 2008-02-15 | [2007-01-01.md](./2007-01-01.md) |
 | 2007-01-01 | 2008-02-15 | [2007-01-01.md](./2007-01-01.md) |
 | 2006-01-01 | 2006-12-31 | [2006-01-01.md](./2006-01-01.md) |

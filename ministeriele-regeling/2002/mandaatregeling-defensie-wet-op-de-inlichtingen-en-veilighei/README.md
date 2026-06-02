@@ -6,7 +6,7 @@ title: Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2
 ministry: Defensie
 abbreviation: null
 latest_state: "2018-05-01"
-state_count: 8
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Mandaatregeling Defensie Wet op de inlichtingen- en veiligheidsdiensten 2002 en Wet veiligheidsonderzoeken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2002/mandaatregeling-defensie-wet-op-de-inlichtingen-en-veilighei](https://wetten.ai/eli/nl/ministeriele-regeling/2002/mandaatregeling-defensie-wet-op-de-inlichtingen-en-veilighei)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/mandaatregeling-defensie-wet-op-de-inlichtingen-en-veilighei](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/mandaatregeling-defensie-wet-op-de-inlichtingen-en-veilighei)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 8
 |---|---|---|
 | 2018-05-01 | 2018-06-11 | [2018-05-01.md](./2018-05-01.md) |
 | 2017-03-10 | 2018-04-30 | [2017-03-10.md](./2017-03-10.md) |
-| 2017-03-01 | 2017-03-09 | [2017-03-01.md](./2017-03-01.md) |
 | 2017-03-01 | 2017-03-09 | [2017-03-01.md](./2017-03-01.md) |
 | 2007-01-06 | 2017-02-28 | [2007-01-06.md](./2007-01-06.md) |
 | 2004-08-18 | 2007-01-05 | [2004-08-18.md](./2004-08-18.md) |

@@ -6,7 +6,7 @@ title: Besluit houdende mandaatverlening voor de afgifte, opschorting en intrekk
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2009-03-27"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 7
 **Citeertitel:** Besluit mandaat afgifte, opschorting en intrekking vaarbewijzen, Rijnpatenten en radarpatenten 2006
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2006/besluit-mandaat-afgifte-opschorting-en-intrekking-vaarbewijz](https://wetten.ai/eli/nl/ministeriele-regeling/2006/besluit-mandaat-afgifte-opschorting-en-intrekking-vaarbewijz)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/besluit-mandaat-afgifte-opschorting-en-intrekking-vaarbewijz](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/besluit-mandaat-afgifte-opschorting-en-intrekking-vaarbewijz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-03-27 | 2009-06-30 | [2009-03-27.md](./2009-03-27.md) |
-| 2009-01-02 | 2009-03-26 | [2009-01-02.md](./2009-01-02.md) |
 | 2009-01-02 | 2009-03-26 | [2009-01-02.md](./2009-01-02.md) |
 | 2008-07-01 | 2009-01-01 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-04-01 | 2008-06-30 | [2008-04-01.md](./2008-04-01.md) |

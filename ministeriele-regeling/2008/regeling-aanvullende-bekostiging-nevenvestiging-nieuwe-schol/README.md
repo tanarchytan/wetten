@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2021-01-01"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling aanvullende bekostiging nevenvestiging, nieuwe scholen en samenvoeging vo
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-aanvullende-bekostiging-nevenvestiging-nieuwe-schol](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-aanvullende-bekostiging-nevenvestiging-nieuwe-schol)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-aanvullende-bekostiging-nevenvestiging-nieuwe-schol](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-aanvullende-bekostiging-nevenvestiging-nieuwe-schol)
 
 ## Versies
 
@@ -25,9 +25,7 @@ state_count: 9
 | 2021-01-01 | 2021-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2018-08-25 | 2020-12-31 | [2018-08-25.md](./2018-08-25.md) |
 | 2018-08-01 | 2018-08-24 | [2018-08-01.md](./2018-08-01.md) |
-| 2018-08-01 | 2018-08-24 | [2018-08-01.md](./2018-08-01.md) |
 | 2015-09-17 | 2018-07-31 | [2015-09-17.md](./2015-09-17.md) |
-| 2013-08-01 | 2015-09-16 | [2013-08-01.md](./2013-08-01.md) |
 | 2013-08-01 | 2015-09-16 | [2013-08-01.md](./2013-08-01.md) |
 | 2010-01-01 | 2013-07-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2008-08-01 | 2009-12-31 | [2008-08-01.md](./2008-08-01.md) |

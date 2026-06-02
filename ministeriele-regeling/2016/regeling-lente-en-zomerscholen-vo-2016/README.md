@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2016-04-07"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling lente- en zomerscholen VO 2016
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-lente-en-zomerscholen-vo-2016](https://wetten.ai/eli/nl/ministeriele-regeling/2016/regeling-lente-en-zomerscholen-vo-2016)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/regeling-lente-en-zomerscholen-vo-2016](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/regeling-lente-en-zomerscholen-vo-2016)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2016-04-07 | 2016-04-30 | [2016-04-07.md](./2016-04-07.md) |
-| 2016-03-01 | 2016-04-06 | [2016-03-01.md](./2016-03-01.md) |
 | 2016-03-01 | 2016-04-06 | [2016-03-01.md](./2016-03-01.md) |
 | 2016-01-20 | 2016-02-29 | [2016-01-20.md](./2016-01-20.md) |
 | 2016-01-01 | 2016-01-19 | [2016-01-01.md](./2016-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 21 jun
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2015-03-14"
-state_count: 12
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-bezoldiging-en-beheerskosten-zelfstandige-bestuurso](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-bezoldiging-en-beheerskosten-zelfstandige-bestuurso)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-bezoldiging-en-beheerskosten-zelfstandige-bestuurso](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-bezoldiging-en-beheerskosten-zelfstandige-bestuurso)
 
 ## Versies
 
@@ -24,13 +24,8 @@ state_count: 12
 |---|---|---|
 | 2015-03-14 | 2018-08-31 | [2015-03-14.md](./2015-03-14.md) |
 | 2015-01-01 | 2015-03-13 | [2015-01-01.md](./2015-01-01.md) |
-| 2015-01-01 | 2015-03-13 | [2015-01-01.md](./2015-01-01.md) |
-| 2014-07-12 | 2014-12-31 | [2014-07-12.md](./2014-07-12.md) |
 | 2014-07-12 | 2014-12-31 | [2014-07-12.md](./2014-07-12.md) |
 | 2014-04-01 | 2014-07-11 | [2014-04-01.md](./2014-04-01.md) |
-| 2014-04-01 | 2014-07-11 | [2014-04-01.md](./2014-04-01.md) |
-| 2014-04-01 | 2014-07-11 | [2014-04-01.md](./2014-04-01.md) |
-| 2014-01-01 | 2014-03-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-03-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-07-01 | 2012-12-31 | [2011-07-01.md](./2011-07-01.md) |

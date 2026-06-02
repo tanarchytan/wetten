@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 15Â
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2022-08-01"
-state_count: 7
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 7
 **Citeertitel:** Beleidsregel ontheffing benoembaarheidsvereisten en bekwaamheidserkenning vo
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/beleidsregel/2016/beleidsregel-ontheffing-benoembaarheidsvereisten-en-bekwaamh](https://wetten.ai/eli/nl/beleidsregel/2016/beleidsregel-ontheffing-benoembaarheidsvereisten-en-bekwaamh)
+**ELI:** [/eli/nl/beleidsregel/2016/beleidsregel-ontheffing-benoembaarheidsvereisten-en-bekwaamh](https://wettenbank.online/eli/nl/beleidsregel/2016/beleidsregel-ontheffing-benoembaarheidsvereisten-en-bekwaamh)
 
 ## Versies
 
@@ -26,6 +26,5 @@ state_count: 7
 | 2019-02-21 | 2022-07-31 | [2019-02-21.md](./2019-02-21.md) |
 | 2017-05-18 | 2019-02-20 | [2017-05-18.md](./2017-05-18.md) |
 | 2016-11-23 | 2017-05-17 | [2016-11-23.md](./2016-11-23.md) |
-| 2016-11-01 | 2016-11-22 | [2016-11-01.md](./2016-11-01.md) |
 | 2016-11-01 | 2016-11-22 | [2016-11-01.md](./2016-11-01.md) |
 | 2016-10-01 | 2016-10-31 | [2016-10-01.md](./2016-10-01.md) |

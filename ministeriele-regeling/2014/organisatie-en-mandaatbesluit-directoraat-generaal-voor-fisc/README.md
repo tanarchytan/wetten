@@ -6,7 +6,7 @@ title: Regeling van de Minister van Financiën van 23 mei 2014, tot vaststelling
 ministry: Financiën
 abbreviation: null
 latest_state: "2018-07-14"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 6
 **Citeertitel:** Organisatie- en mandaatbesluit directoraat-generaal voor Fiscale Zaken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2014/organisatie-en-mandaatbesluit-directoraat-generaal-voor-fisc](https://wetten.ai/eli/nl/ministeriele-regeling/2014/organisatie-en-mandaatbesluit-directoraat-generaal-voor-fisc)
+**ELI:** [/eli/nl/ministeriele-regeling/2014/organisatie-en-mandaatbesluit-directoraat-generaal-voor-fisc](https://wettenbank.online/eli/nl/ministeriele-regeling/2014/organisatie-en-mandaatbesluit-directoraat-generaal-voor-fisc)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2018-07-14 | 2019-12-31 | [2018-07-14.md](./2018-07-14.md) |
-| 2018-07-01 | 2018-07-13 | [2018-07-01.md](./2018-07-01.md) |
 | 2018-07-01 | 2018-07-13 | [2018-07-01.md](./2018-07-01.md) |
 | 2016-11-01 | 2018-06-30 | [2016-11-01.md](./2016-11-01.md) |
 | 2014-11-23 | 2016-10-31 | [2014-11-23.md](./2014-11-23.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties va
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2022-11-05"
-state_count: 10
+state_count: 6
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Subsidieregeling versterking gebouwen Groningen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-versterking-gebouwen-groningen](https://wetten.ai/eli/nl/ministeriele-regeling/2020/subsidieregeling-versterking-gebouwen-groningen)
+**ELI:** [/eli/nl/ministeriele-regeling/2020/subsidieregeling-versterking-gebouwen-groningen](https://wettenbank.online/eli/nl/ministeriele-regeling/2020/subsidieregeling-versterking-gebouwen-groningen)
 
 ## Versies
 
@@ -25,10 +25,6 @@ state_count: 10
 | 2022-11-05 | 2023-06-30 | [2022-11-05.md](./2022-11-05.md) |
 | 2022-04-01 | 2022-11-04 | [2022-04-01.md](./2022-04-01.md) |
 | 2021-06-18 | 2022-03-31 | [2021-06-18.md](./2021-06-18.md) |
-| 2021-06-18 | 2022-03-31 | [2021-06-18.md](./2021-06-18.md) |
 | 2021-06-01 | 2021-06-17 | [2021-06-01.md](./2021-06-01.md) |
-| 2021-06-01 | 2021-06-17 | [2021-06-01.md](./2021-06-01.md) |
-| 2021-06-01 | 2021-06-17 | [2021-06-01.md](./2021-06-01.md) |
-| 2020-10-01 | 2021-05-31 | [2020-10-01.md](./2020-10-01.md) |
 | 2020-10-01 | 2021-05-31 | [2020-10-01.md](./2020-10-01.md) |
 | 2020-01-01 | 2020-09-30 | [2020-01-01.md](./2020-01-01.md) |

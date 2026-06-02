@@ -6,7 +6,7 @@ title: Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2016-12-17"
-state_count: 5
+state_count: 3
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Regeling vaststelling eenmalig bedrag landelijke commerciële radio-omroep 2011
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-eenmalig-bedrag-landelijke-commerci-le](https://wetten.ai/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-eenmalig-bedrag-landelijke-commerci-le)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-eenmalig-bedrag-landelijke-commerci-le](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/regeling-vaststelling-eenmalig-bedrag-landelijke-commerci-le)
 
 ## Versies
 
@@ -24,6 +24,4 @@ state_count: 5
 |---|---|---|
 | 2016-12-17 | heden | [2016-12-17.md](./2016-12-17.md) |
 | 2013-03-16 | 2016-12-16 | [2013-03-16.md](./2013-03-16.md) |
-| 2013-03-16 | 2016-12-16 | [2013-03-16.md](./2013-03-16.md) |
-| 2011-03-23 | 2013-03-15 | [2011-03-23.md](./2011-03-23.md) |
 | 2011-03-23 | 2013-03-15 | [2011-03-23.md](./2011-03-23.md) |

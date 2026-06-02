@@ -6,7 +6,7 @@ title: Besluit van de algemeen directeur Integrale Bedrijfsvoering IenM, van 12Â
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2020-09-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Ondermandaatbesluit directie Integrale Bedrijfsvoering IenM Infrastructuur en Milieu 2012
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-directie-integrale-bedrijfsvoering-ienm-](https://wetten.ai/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-directie-integrale-bedrijfsvoering-ienm-)
+**ELI:** [/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-directie-integrale-bedrijfsvoering-ienm-](https://wettenbank.online/eli/nl/ministeriele-regeling/2015/ondermandaatbesluit-directie-integrale-bedrijfsvoering-ienm-)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2020-09-01 | 2020-09-16 | [2020-09-01.md](./2020-09-01.md) |
 | 2015-07-02 | 2020-08-31 | [2015-07-02.md](./2015-07-02.md) |
-| 2015-07-01 | 2015-07-01 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-07-01 | 2015-07-01 | [2015-07-01.md](./2015-07-01.md) |
 | 2015-03-20 | 2015-06-30 | [2015-03-20.md](./2015-03-20.md) |
 | 2015-02-01 | 2015-03-19 | [2015-02-01.md](./2015-02-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie, houdende vaststelling van het mode
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2018-06-27"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling modellen en formulieren ten behoeve van de handhaving Justitie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-modellen-en-formulieren-ten-behoeve-van-de-handhavi](https://wetten.ai/eli/nl/ministeriele-regeling/2002/regeling-modellen-en-formulieren-ten-behoeve-van-de-handhavi)
+**ELI:** [/eli/nl/ministeriele-regeling/2002/regeling-modellen-en-formulieren-ten-behoeve-van-de-handhavi](https://wettenbank.online/eli/nl/ministeriele-regeling/2002/regeling-modellen-en-formulieren-ten-behoeve-van-de-handhavi)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 9
 | 2012-10-01 | 2015-03-27 | [2012-10-01.md](./2012-10-01.md) |
 | 2011-07-01 | 2012-09-30 | [2011-07-01.md](./2011-07-01.md) |
 | 2009-07-18 | 2011-06-30 | [2009-07-18.md](./2009-07-18.md) |
-| 2009-07-01 | 2009-07-17 | [2009-07-01.md](./2009-07-01.md) |
 | 2009-07-01 | 2009-07-17 | [2009-07-01.md](./2009-07-01.md) |
 | 2008-02-01 | 2009-06-30 | [2008-02-01.md](./2008-02-01.md) |
 | 2002-07-18 | 2008-01-31 | [2002-07-18.md](./2002-07-18.md) |

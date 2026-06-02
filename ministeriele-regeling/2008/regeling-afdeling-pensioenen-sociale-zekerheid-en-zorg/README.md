@@ -6,7 +6,7 @@ title: Ministeriële regeling van 27 juni 2008, Afdeling Pensioenen, Sociale Zek
 ministry: Defensie
 abbreviation: null
 latest_state: "2012-02-10"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling Afdeling Pensioenen, Sociale Zekerheid en Zorg
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-afdeling-pensioenen-sociale-zekerheid-en-zorg](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-afdeling-pensioenen-sociale-zekerheid-en-zorg)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-afdeling-pensioenen-sociale-zekerheid-en-zorg](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-afdeling-pensioenen-sociale-zekerheid-en-zorg)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2012-02-10 | heden | [2012-02-10.md](./2012-02-10.md) |
-| 2008-07-01 | 2012-02-09 | [2008-07-01.md](./2008-07-01.md) |
 | 2008-07-01 | 2012-02-09 | [2008-07-01.md](./2008-07-01.md) |

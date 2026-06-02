@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2008-09-11"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Regeling aanpassen en vaststellen bedragen landelijke gemiddelde personeelslast kalenderjaar 2007 en 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanpassen-en-vaststellen-bedragen-landelijke-gemidd](https://wetten.ai/eli/nl/ministeriele-regeling/2007/regeling-aanpassen-en-vaststellen-bedragen-landelijke-gemidd)
+**ELI:** [/eli/nl/ministeriele-regeling/2007/regeling-aanpassen-en-vaststellen-bedragen-landelijke-gemidd](https://wettenbank.online/eli/nl/ministeriele-regeling/2007/regeling-aanpassen-en-vaststellen-bedragen-landelijke-gemidd)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-09-11 | 2009-12-31 | [2008-09-11.md](./2008-09-11.md) |
-| 2008-01-01 | 2008-09-10 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-09-10 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-11-23 | 2007-12-31 | [2007-11-23.md](./2007-11-23.md) |
 | 2007-01-01 | 2007-11-22 | [2007-01-01.md](./2007-01-01.md) |

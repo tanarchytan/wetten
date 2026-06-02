@@ -6,7 +6,7 @@ title: Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordeni
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2005-07-02"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Subsidieregeling aanpak milieudrukvermindering 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-aanpak-milieudrukvermindering-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/subsidieregeling-aanpak-milieudrukvermindering-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/subsidieregeling-aanpak-milieudrukvermindering-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/subsidieregeling-aanpak-milieudrukvermindering-2005)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-07-02 | 2006-05-30 | [2005-07-02.md](./2005-07-02.md) |
-| 2005-07-01 | 2005-07-01 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-07-01 | 2005-07-01 | [2005-07-01.md](./2005-07-01.md) |
 | 2005-01-03 | 2005-06-30 | [2005-01-03.md](./2005-01-03.md) |

@@ -6,7 +6,7 @@ title: Regeling militair valschermspringen
 ministry: Defensie
 abbreviation: null
 latest_state: "2022-07-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling militair valschermspringen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Defensie
-**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-militair-valschermspringen](https://wetten.ai/eli/nl/ministeriele-regeling/2017/regeling-militair-valschermspringen)
+**ELI:** [/eli/nl/ministeriele-regeling/2017/regeling-militair-valschermspringen](https://wettenbank.online/eli/nl/ministeriele-regeling/2017/regeling-militair-valschermspringen)
 
 ## Versies
 
@@ -25,6 +25,5 @@ state_count: 6
 | 2022-07-01 | heden | [2022-07-01.md](./2022-07-01.md) |
 | 2018-04-25 | 2022-06-30 | [2018-04-25.md](./2018-04-25.md) |
 | 2017-04-14 | 2018-04-24 | [2017-04-14.md](./2017-04-14.md) |
-| 2017-03-02 | 2017-04-13 | [2017-03-02.md](./2017-03-02.md) |
 | 2017-03-02 | 2017-04-13 | [2017-03-02.md](./2017-03-02.md) |
 | 2017-03-01 | 2017-03-01 | [2017-03-01.md](./2017-03-01.md) |

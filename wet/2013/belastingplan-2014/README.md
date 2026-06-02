@@ -6,7 +6,7 @@ title: Wet van 18 december 2013 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 13
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 13
 **Citeertitel:** Belastingplan 2014
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2013/belastingplan-2014](https://wetten.ai/eli/nl/wet/2013/belastingplan-2014)
+**ELI:** [/eli/nl/wet/2013/belastingplan-2014](https://wettenbank.online/eli/nl/wet/2013/belastingplan-2014)
 
 ## Versies
 
@@ -26,11 +26,9 @@ state_count: 13
 | 2016-01-01 | 2016-12-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-01-01 | 2015-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
-| 2014-07-01 | 2014-12-31 | [2014-07-01.md](./2014-07-01.md) |
 | 2014-06-12 | 2014-06-30 | [2014-06-12.md](./2014-06-12.md) |
 | 2014-02-25 | 2014-06-11 | [2014-02-25.md](./2014-02-25.md) |
 | 2014-01-01 | 2014-02-24 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-12-24 | 2013-12-31 | [2013-12-24.md](./2013-12-24.md) |
 | 2013-12-24 | 2013-12-31 | [2013-12-24.md](./2013-12-24.md) |
 | 2013-10-01 | 2013-12-23 | [2013-10-01.md](./2013-10-01.md) |
 | 2013-01-01 | 2013-09-30 | [2013-01-01.md](./2013-01-01.md) |

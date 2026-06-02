@@ -6,7 +6,7 @@ title: Regeling van de Minister van Veiligheid en Justitie van 27 november 2012,
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2019-04-17"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling accountantscontrole IFV
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-accountantscontrole-ifv](https://wetten.ai/eli/nl/ministeriele-regeling/2013/regeling-accountantscontrole-ifv)
+**ELI:** [/eli/nl/ministeriele-regeling/2013/regeling-accountantscontrole-ifv](https://wettenbank.online/eli/nl/ministeriele-regeling/2013/regeling-accountantscontrole-ifv)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2019-04-17 | heden | [2019-04-17.md](./2019-04-17.md) |
-| 2019-01-01 | 2019-04-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2019-04-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2013-01-01 | 2018-12-31 | [2013-01-01.md](./2013-01-01.md) |

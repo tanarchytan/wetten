@@ -6,7 +6,7 @@ title: Wet van 24 juni 1939, houdende regelen teneinde in geval van oorlog, oorl
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2020-07-17"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 9
 **Citeertitel:** Distributiewet
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/wet/1939/distributiewet](https://wetten.ai/eli/nl/wet/1939/distributiewet)
+**ELI:** [/eli/nl/wet/1939/distributiewet](https://wettenbank.online/eli/nl/wet/1939/distributiewet)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2020-07-17 | heden | [2020-07-17.md](./2020-07-17.md) |
-| 2019-01-01 | 2020-07-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2019-01-01 | 2020-07-16 | [2019-01-01.md](./2019-01-01.md) |
 | 2014-01-25 | 2018-12-31 | [2014-01-25.md](./2014-01-25.md) |
 | 2012-02-08 | 2014-01-24 | [2012-02-08.md](./2012-02-08.md) |

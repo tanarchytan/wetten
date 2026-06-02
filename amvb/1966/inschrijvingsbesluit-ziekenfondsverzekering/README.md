@@ -6,7 +6,7 @@ title: Besluit van 28 december 1965, houdende vaststelling van een Algemene Maat
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: null
 latest_state: "2003-09-12"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Inschrijvingsbesluit ziekenfondsverzekering
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
-**ELI:** [/eli/nl/amvb/1966/inschrijvingsbesluit-ziekenfondsverzekering](https://wetten.ai/eli/nl/amvb/1966/inschrijvingsbesluit-ziekenfondsverzekering)
+**ELI:** [/eli/nl/amvb/1966/inschrijvingsbesluit-ziekenfondsverzekering](https://wettenbank.online/eli/nl/amvb/1966/inschrijvingsbesluit-ziekenfondsverzekering)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2003-09-12 | 2005-12-31 | [2003-09-12.md](./2003-09-12.md) |
-| 2003-09-01 | 2003-09-11 | [2003-09-01.md](./2003-09-01.md) |
 | 2003-09-01 | 2003-09-11 | [2003-09-01.md](./2003-09-01.md) |
 | 2002-01-01 | 2003-08-31 | [2002-01-01.md](./2002-01-01.md) |

@@ -6,7 +6,7 @@ title: Besluit van 11 september 1998, houdende uitzondering respectievelijk aanw
 ministry: Algemene Zaken
 abbreviation: BBWW
 latest_state: "2022-05-01"
-state_count: 16
+state_count: 14
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 16
 **Type:** amvb
 **Verantwoordelijk ministerie:** Algemene Zaken
 **Afkorting:** BBWW
-**ELI:** [/eli/nl/amvb/1998/besluit-bestuursorganen-wno](https://wetten.ai/eli/nl/amvb/1998/besluit-bestuursorganen-wno)
+**ELI:** [/eli/nl/amvb/1998/besluit-bestuursorganen-wno](https://wettenbank.online/eli/nl/amvb/1998/besluit-bestuursorganen-wno)
 
 ## Versies
 
@@ -35,7 +35,5 @@ state_count: 16
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |
 | 2004-02-25 | 2005-12-31 | [2004-02-25.md](./2004-02-25.md) |
 | 2003-06-30 | 2004-02-24 | [2003-06-30.md](./2003-06-30.md) |
-| 2003-06-30 | 2004-02-24 | [2003-06-30.md](./2003-06-30.md) |
-| 2002-09-01 | 2003-06-29 | [2002-09-01.md](./2002-09-01.md) |
 | 2002-09-01 | 2003-06-29 | [2002-09-01.md](./2002-09-01.md) |
 | 2001-01-01 | 2002-08-31 | [2001-01-01.md](./2001-01-01.md) |

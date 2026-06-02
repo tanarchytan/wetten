@@ -6,7 +6,7 @@ title: Besluit van 7 november 1994, houdende nadere regeling van goedkeurings- e
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2006-09-20"
-state_count: 8
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Besluit vervangingsfonds
 **Type:** amvb
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/amvb/1995/besluit-vervangingsfonds](https://wetten.ai/eli/nl/amvb/1995/besluit-vervangingsfonds)
+**ELI:** [/eli/nl/amvb/1995/besluit-vervangingsfonds](https://wettenbank.online/eli/nl/amvb/1995/besluit-vervangingsfonds)
 
 ## Versies
 
@@ -24,9 +24,6 @@ state_count: 8
 |---|---|---|
 | 2006-09-20 | 2011-12-31 | [2006-09-20.md](./2006-09-20.md) |
 | 2004-05-01 | 2006-09-19 | [2004-05-01.md](./2004-05-01.md) |
-| 2004-05-01 | 2006-09-19 | [2004-05-01.md](./2004-05-01.md) |
 | 2003-08-01 | 2004-04-30 | [2003-08-01.md](./2003-08-01.md) |
-| 2003-08-01 | 2004-04-30 | [2003-08-01.md](./2003-08-01.md) |
-| 2003-02-01 | 2003-07-31 | [2003-02-01.md](./2003-02-01.md) |
 | 2003-02-01 | 2003-07-31 | [2003-02-01.md](./2003-02-01.md) |
 | 2002-01-18 | 2003-01-31 | [2002-01-18.md](./2002-01-18.md) |

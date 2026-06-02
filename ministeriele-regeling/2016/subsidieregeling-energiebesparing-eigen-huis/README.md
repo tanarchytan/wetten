@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Wonen en Rijksdienst van 23 augustus 2016,
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2022-01-01"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Subsidieregeling energiebesparing eigen huis
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-energiebesparing-eigen-huis](https://wetten.ai/eli/nl/ministeriele-regeling/2016/subsidieregeling-energiebesparing-eigen-huis)
+**ELI:** [/eli/nl/ministeriele-regeling/2016/subsidieregeling-energiebesparing-eigen-huis](https://wettenbank.online/eli/nl/ministeriele-regeling/2016/subsidieregeling-energiebesparing-eigen-huis)
 
 ## Versies
 
@@ -30,7 +30,6 @@ state_count: 21
 | 2020-12-19 | 2021-02-01 | [2020-12-19.md](./2020-12-19.md) |
 | 2020-09-01 | 2020-12-18 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-08-22 | 2020-08-31 | [2020-08-22.md](./2020-08-22.md) |
-| 2020-06-01 | 2020-08-21 | [2020-06-01.md](./2020-06-01.md) |
 | 2020-06-01 | 2020-08-21 | [2020-06-01.md](./2020-06-01.md) |
 | 2019-09-02 | 2020-05-31 | [2019-09-02.md](./2019-09-02.md) |
 | 2018-12-19 | 2019-09-01 | [2018-12-19.md](./2018-12-19.md) |

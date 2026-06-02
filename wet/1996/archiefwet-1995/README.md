@@ -6,7 +6,7 @@ title: Wet van 28 april 1995, houdende vervanging van de Archiefwet 1962 (Stb. 3
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: Aw 1995
 latest_state: "2024-06-19"
-state_count: 17
+state_count: 16
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 17
 **Type:** wet
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
 **Afkorting:** Aw 1995
-**ELI:** [/eli/nl/wet/1996/archiefwet-1995](https://wetten.ai/eli/nl/wet/1996/archiefwet-1995)
+**ELI:** [/eli/nl/wet/1996/archiefwet-1995](https://wettenbank.online/eli/nl/wet/1996/archiefwet-1995)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 17
 | 2022-05-01 | 2024-06-18 | [2022-05-01.md](./2022-05-01.md) |
 | 2020-01-01 | 2022-04-30 | [2020-01-01.md](./2020-01-01.md) |
 | 2018-07-28 | 2019-12-31 | [2018-07-28.md](./2018-07-28.md) |
-| 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2018-05-25 | 2018-07-27 | [2018-05-25.md](./2018-05-25.md) |
 | 2015-07-18 | 2018-05-24 | [2015-07-18.md](./2015-07-18.md) |
 | 2013-07-01 | 2015-07-17 | [2013-07-01.md](./2013-07-01.md) |

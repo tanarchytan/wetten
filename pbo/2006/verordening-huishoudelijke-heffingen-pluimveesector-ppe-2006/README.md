@@ -6,7 +6,7 @@ title: Verordening van het Productschap Pluimvee en Eieren van 27 oktober 2005 h
 ministry: Productschap Pluimvee en Eieren
 abbreviation: null
 latest_state: "2006-12-17"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Verordening huishoudelijke heffingen pluimveesector (PPE) 2006
 **Type:** pbo
 **Verantwoordelijk ministerie:** Productschap Pluimvee en Eieren
-**ELI:** [/eli/nl/pbo/2006/verordening-huishoudelijke-heffingen-pluimveesector-ppe-2006](https://wetten.ai/eli/nl/pbo/2006/verordening-huishoudelijke-heffingen-pluimveesector-ppe-2006)
+**ELI:** [/eli/nl/pbo/2006/verordening-huishoudelijke-heffingen-pluimveesector-ppe-2006](https://wettenbank.online/eli/nl/pbo/2006/verordening-huishoudelijke-heffingen-pluimveesector-ppe-2006)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-12-17 | 2019-10-16 | [2006-12-17.md](./2006-12-17.md) |
-| 2006-10-01 | 2006-12-16 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-10-01 | 2006-12-16 | [2006-10-01.md](./2006-10-01.md) |
 | 2006-01-01 | 2006-09-30 | [2006-01-01.md](./2006-01-01.md) |

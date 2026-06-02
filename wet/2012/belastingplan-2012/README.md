@@ -6,7 +6,7 @@ title: Wet van 22 december 2011 houdende wijziging van enkele belastingwetten en
 ministry: Financiën
 abbreviation: null
 latest_state: "2017-01-01"
-state_count: 10
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 10
 **Citeertitel:** Belastingplan 2012
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2012/belastingplan-2012](https://wetten.ai/eli/nl/wet/2012/belastingplan-2012)
+**ELI:** [/eli/nl/wet/2012/belastingplan-2012](https://wettenbank.online/eli/nl/wet/2012/belastingplan-2012)
 
 ## Versies
 
@@ -25,9 +25,6 @@ state_count: 10
 | 2017-01-01 | heden | [2017-01-01.md](./2017-01-01.md) |
 | 2015-01-01 | 2016-12-31 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
-| 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
-| 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-12-31 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-07-18 | 2012-12-31 | [2012-07-18.md](./2012-07-18.md) |
 | 2012-01-01 | 2012-07-17 | [2012-01-01.md](./2012-01-01.md) |

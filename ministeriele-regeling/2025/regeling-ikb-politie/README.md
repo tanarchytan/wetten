@@ -6,7 +6,7 @@ title: Regeling van de Minister van Justitie en Veiligheid, van 19 november 2024
 ministry: Justitie en Veiligheid
 abbreviation: null
 latest_state: "2025-05-13"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling IKB politie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Justitie en Veiligheid
-**ELI:** [/eli/nl/ministeriele-regeling/2025/regeling-ikb-politie](https://wetten.ai/eli/nl/ministeriele-regeling/2025/regeling-ikb-politie)
+**ELI:** [/eli/nl/ministeriele-regeling/2025/regeling-ikb-politie](https://wettenbank.online/eli/nl/ministeriele-regeling/2025/regeling-ikb-politie)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2025-05-13 | heden | [2025-05-13.md](./2025-05-13.md) |
-| 2025-01-01 | 2025-05-12 | [2025-01-01.md](./2025-01-01.md) |
 | 2025-01-01 | 2025-05-12 | [2025-01-01.md](./2025-01-01.md) |
 | 2024-11-01 | 2024-12-31 | [2024-11-01.md](./2024-11-01.md) |

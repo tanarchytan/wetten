@@ -6,7 +6,7 @@ title: Besluit van 22 juni 2022 tot wijziging van het Besluit SUWI in verband me
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2022-12-17"
-state_count: 8
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 8
 **Citeertitel:** Wijzigingsbesluit Besluit SUWI (tijdelijke mogelijkheid van registratie als werkloze werkzoekende in verband met een massale toestroom van ontheemden uit Oekraïne en tot invoering van tijdelijke bescherming naar aanleiding daarvan)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/amvb/2022/wijzigingsbesluit-besluit-suwi-tijdelijke-mogelijkheid-van-r](https://wetten.ai/eli/nl/amvb/2022/wijzigingsbesluit-besluit-suwi-tijdelijke-mogelijkheid-van-r)
+**ELI:** [/eli/nl/amvb/2022/wijzigingsbesluit-besluit-suwi-tijdelijke-mogelijkheid-van-r](https://wettenbank.online/eli/nl/amvb/2022/wijzigingsbesluit-besluit-suwi-tijdelijke-mogelijkheid-van-r)
 
 ## Versies
 
@@ -24,9 +24,5 @@ state_count: 8
 |---|---|---|
 | 2022-12-17 | heden | [2022-12-17.md](./2022-12-17.md) |
 | 2022-09-10 | 2022-12-16 | [2022-09-10.md](./2022-09-10.md) |
-| 2022-09-10 | 2022-12-16 | [2022-09-10.md](./2022-09-10.md) |
 | 2022-09-01 | 2022-09-09 | [2022-09-01.md](./2022-09-01.md) |
-| 2022-09-01 | 2022-09-09 | [2022-09-01.md](./2022-09-01.md) |
-| 2022-09-01 | 2022-09-09 | [2022-09-01.md](./2022-09-01.md) |
-| 2022-07-01 | 2022-08-31 | [2022-07-01.md](./2022-07-01.md) |
 | 2022-07-01 | 2022-08-31 | [2022-07-01.md](./2022-07-01.md) |

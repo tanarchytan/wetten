@@ -6,7 +6,7 @@ title: Tijdelijke regeling van de Staatssecretaris van Sociale Zaken en Werkgele
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2006-01-01"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke regeling eenmalige tegemoetkoming AOW-ers 2005
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-eenmalige-tegemoetkoming-aow-ers-2005](https://wetten.ai/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-eenmalige-tegemoetkoming-aow-ers-2005)
+**ELI:** [/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-eenmalige-tegemoetkoming-aow-ers-2005](https://wettenbank.online/eli/nl/ministeriele-regeling/2005/tijdelijke-regeling-eenmalige-tegemoetkoming-aow-ers-2005)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-01-01 | 2008-09-24 | [2006-01-01.md](./2006-01-01.md) |
-| 2005-04-15 | 2005-12-31 | [2005-04-15.md](./2005-04-15.md) |
 | 2005-04-15 | 2005-12-31 | [2005-04-15.md](./2005-04-15.md) |
 | 2005-01-01 | 2005-04-14 | [2005-01-01.md](./2005-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling aquicultuur
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2006-12-15"
-state_count: 9
+state_count: 8
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Regeling aquicultuur
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/1993/regeling-aquicultuur](https://wetten.ai/eli/nl/ministeriele-regeling/1993/regeling-aquicultuur)
+**ELI:** [/eli/nl/ministeriele-regeling/1993/regeling-aquicultuur](https://wettenbank.online/eli/nl/ministeriele-regeling/1993/regeling-aquicultuur)
 
 ## Versies
 
@@ -28,6 +28,5 @@ state_count: 9
 | 2005-01-22 | 2005-06-04 | [2005-01-22.md](./2005-01-22.md) |
 | 2004-11-25 | 2005-01-21 | [2004-11-25.md](./2004-11-25.md) |
 | 2004-10-03 | 2004-11-24 | [2004-10-03.md](./2004-10-03.md) |
-| 2004-07-01 | 2004-10-02 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-07-01 | 2004-10-02 | [2004-07-01.md](./2004-07-01.md) |
 | 2003-01-01 | 2004-06-30 | [2003-01-01.md](./2003-01-01.md) |

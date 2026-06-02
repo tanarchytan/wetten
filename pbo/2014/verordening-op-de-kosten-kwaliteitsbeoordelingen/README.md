@@ -6,7 +6,7 @@ title: Verordening op de kosten kwaliteitsbeoordelingen
 ministry: Nederlandse beroepsorganisatie van accountants
 abbreviation: null
 latest_state: "2016-06-18"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 5
 **Citeertitel:** Verordening op de kosten kwaliteitsbeoordelingen
 **Type:** pbo
 **Verantwoordelijk ministerie:** Nederlandse beroepsorganisatie van accountants
-**ELI:** [/eli/nl/pbo/2014/verordening-op-de-kosten-kwaliteitsbeoordelingen](https://wetten.ai/eli/nl/pbo/2014/verordening-op-de-kosten-kwaliteitsbeoordelingen)
+**ELI:** [/eli/nl/pbo/2014/verordening-op-de-kosten-kwaliteitsbeoordelingen](https://wettenbank.online/eli/nl/pbo/2014/verordening-op-de-kosten-kwaliteitsbeoordelingen)
 
 ## Versies
 
@@ -25,5 +25,4 @@ state_count: 5
 | 2016-06-18 | 2017-12-31 | [2016-06-18.md](./2016-06-18.md) |
 | 2015-01-01 | 2016-06-17 | [2015-01-01.md](./2015-01-01.md) |
 | 2014-01-08 | 2014-12-31 | [2014-01-08.md](./2014-01-08.md) |
-| 2014-01-01 | 2014-01-07 | [2014-01-01.md](./2014-01-01.md) |
 | 2014-01-01 | 2014-01-07 | [2014-01-01.md](./2014-01-01.md) |

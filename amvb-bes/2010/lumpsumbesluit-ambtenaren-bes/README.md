@@ -6,7 +6,7 @@ title: Lumpsumbesluit ambtenaren BES
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2011-10-09"
-state_count: 6
+state_count: 4
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Lumpsumbesluit ambtenaren BES
 **Type:** amvb-bes
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/amvb-bes/2010/lumpsumbesluit-ambtenaren-bes](https://wetten.ai/eli/nl/amvb-bes/2010/lumpsumbesluit-ambtenaren-bes)
+**ELI:** [/eli/nl/amvb-bes/2010/lumpsumbesluit-ambtenaren-bes](https://wettenbank.online/eli/nl/amvb-bes/2010/lumpsumbesluit-ambtenaren-bes)
 
 ## Versies
 
@@ -25,6 +25,4 @@ state_count: 6
 | 2011-10-09 | heden | [2011-10-09.md](./2011-10-09.md) |
 | 2011-08-30 | 2011-10-08 | [2011-08-30.md](./2011-08-30.md) |
 | 2011-01-01 | 2011-08-29 | [2011-01-01.md](./2011-01-01.md) |
-| 2011-01-01 | 2011-08-29 | [2011-01-01.md](./2011-01-01.md) |
-| 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |
 | 2010-10-10 | 2010-12-31 | [2010-10-10.md](./2010-10-10.md) |

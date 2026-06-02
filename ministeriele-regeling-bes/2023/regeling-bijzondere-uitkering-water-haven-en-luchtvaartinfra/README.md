@@ -6,7 +6,7 @@ title: Regeling van de Minister van Infrastructuur en Waterstaat, van 2 oktober 
 ministry: Infrastructuur en Waterstaat
 abbreviation: null
 latest_state: "2024-06-26"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -16,12 +16,11 @@ state_count: 3
 **Citeertitel:** Regeling bijzondere uitkering water-, haven- en luchtvaartinfrastructuur BES
 **Type:** ministeriele-regeling-bes
 **Verantwoordelijk ministerie:** Infrastructuur en Waterstaat
-**ELI:** [/eli/nl/ministeriele-regeling-bes/2023/regeling-bijzondere-uitkering-water-haven-en-luchtvaartinfra](https://wetten.ai/eli/nl/ministeriele-regeling-bes/2023/regeling-bijzondere-uitkering-water-haven-en-luchtvaartinfra)
+**ELI:** [/eli/nl/ministeriele-regeling-bes/2023/regeling-bijzondere-uitkering-water-haven-en-luchtvaartinfra](https://wettenbank.online/eli/nl/ministeriele-regeling-bes/2023/regeling-bijzondere-uitkering-water-haven-en-luchtvaartinfra)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2024-06-26 | heden | [2024-06-26.md](./2024-06-26.md) |
-| 2023-10-06 | 2024-06-25 | [2023-10-06.md](./2023-10-06.md) |
 | 2023-10-06 | 2024-06-25 | [2023-10-06.md](./2023-10-06.md) |

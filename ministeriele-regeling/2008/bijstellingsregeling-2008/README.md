@@ -6,7 +6,7 @@ title: Bijstellingsregeling 2008
 ministry: Financiën
 abbreviation: null
 latest_state: "2008-02-15"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Bijstellingsregeling 2008
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/2008/bijstellingsregeling-2008](https://wetten.ai/eli/nl/ministeriele-regeling/2008/bijstellingsregeling-2008)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/bijstellingsregeling-2008](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/bijstellingsregeling-2008)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2008-02-15 | heden | [2008-02-15.md](./2008-02-15.md) |
-| 2008-01-01 | 2008-02-14 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2008-02-14 | [2008-01-01.md](./2008-01-01.md) |
 | 2007-12-31 | 2007-12-31 | [2007-12-31.md](./2007-12-31.md) |

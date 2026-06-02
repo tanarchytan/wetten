@@ -6,7 +6,7 @@ title: Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken en van en
 ministry: Financiën
 abbreviation: null
 latest_state: "2025-01-01"
-state_count: 21
+state_count: 20
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 21
 **Citeertitel:** Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/ministeriele-regeling/1993/uitvoeringsregeling-verbruiksbelasting-van-alcoholvrije-dran](https://wetten.ai/eli/nl/ministeriele-regeling/1993/uitvoeringsregeling-verbruiksbelasting-van-alcoholvrije-dran)
+**ELI:** [/eli/nl/ministeriele-regeling/1993/uitvoeringsregeling-verbruiksbelasting-van-alcoholvrije-dran](https://wettenbank.online/eli/nl/ministeriele-regeling/1993/uitvoeringsregeling-verbruiksbelasting-van-alcoholvrije-dran)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 21
 | 2021-01-01 | 2022-12-31 | [2021-01-01.md](./2021-01-01.md) |
 | 2019-01-01 | 2020-12-31 | [2019-01-01.md](./2019-01-01.md) |
 | 2018-07-01 | 2018-12-31 | [2018-07-01.md](./2018-07-01.md) |
-| 2018-04-01 | 2018-06-30 | [2018-04-01.md](./2018-04-01.md) |
 | 2018-04-01 | 2018-06-30 | [2018-04-01.md](./2018-04-01.md) |
 | 2016-01-01 | 2018-03-31 | [2016-01-01.md](./2016-01-01.md) |
 | 2015-04-01 | 2015-12-31 | [2015-04-01.md](./2015-04-01.md) |

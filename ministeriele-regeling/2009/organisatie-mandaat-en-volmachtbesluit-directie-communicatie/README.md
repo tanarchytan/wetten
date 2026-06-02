@@ -6,7 +6,7 @@ title: Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 sept
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Organisatie-, mandaat- en volmachtbesluit directie Communicatie 2009
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-communicatie](https://wetten.ai/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-communicatie)
+**ELI:** [/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-communicatie](https://wettenbank.online/eli/nl/ministeriele-regeling/2009/organisatie-mandaat-en-volmachtbesluit-directie-communicatie)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2011-01-01 | 2011-08-01 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-06-25 | 2010-12-31 | [2010-06-25.md](./2010-06-25.md) |
-| 2010-03-01 | 2010-06-24 | [2010-03-01.md](./2010-03-01.md) |
 | 2010-03-01 | 2010-06-24 | [2010-03-01.md](./2010-03-01.md) |
 | 2009-10-15 | 2010-02-28 | [2009-10-15.md](./2009-10-15.md) |
 | 2009-07-01 | 2009-10-14 | [2009-07-01.md](./2009-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties e
 ministry: Binnenlandse Zaken en Koninkrijksrelaties
 abbreviation: null
 latest_state: "2009-01-30"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Regeling opsporingsinformatie regionale politiekorpsen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Binnenlandse Zaken en Koninkrijksrelaties
-**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-opsporingsinformatie-regionale-politiekorpsen](https://wetten.ai/eli/nl/ministeriele-regeling/1998/regeling-opsporingsinformatie-regionale-politiekorpsen)
+**ELI:** [/eli/nl/ministeriele-regeling/1998/regeling-opsporingsinformatie-regionale-politiekorpsen](https://wettenbank.online/eli/nl/ministeriele-regeling/1998/regeling-opsporingsinformatie-regionale-politiekorpsen)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2009-01-30 | 2012-12-31 | [2009-01-30.md](./2009-01-30.md) |
-| 2008-01-01 | 2009-01-29 | [2008-01-01.md](./2008-01-01.md) |
 | 2008-01-01 | 2009-01-29 | [2008-01-01.md](./2008-01-01.md) |
 | 1998-10-25 | 2007-12-31 | [1998-10-25.md](./1998-10-25.md) |

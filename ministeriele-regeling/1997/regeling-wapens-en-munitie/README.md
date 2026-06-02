@@ -6,7 +6,7 @@ title: Regeling wapens en munitie
 ministry: Veiligheid en Justitie
 abbreviation: null
 latest_state: "2025-08-01"
-state_count: 36
+state_count: 33
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 36
 **Citeertitel:** Regeling wapens en munitie
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
-**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-wapens-en-munitie](https://wetten.ai/eli/nl/ministeriele-regeling/1997/regeling-wapens-en-munitie)
+**ELI:** [/eli/nl/ministeriele-regeling/1997/regeling-wapens-en-munitie](https://wettenbank.online/eli/nl/ministeriele-regeling/1997/regeling-wapens-en-munitie)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 36
 | 2024-01-01 | 2025-06-30 | [2024-01-01.md](./2024-01-01.md) |
 | 2022-09-23 | 2023-12-31 | [2022-09-23.md](./2022-09-23.md) |
 | 2019-10-11 | 2022-09-22 | [2019-10-11.md](./2019-10-11.md) |
-| 2019-10-01 | 2019-10-10 | [2019-10-01.md](./2019-10-01.md) |
 | 2019-10-01 | 2019-10-10 | [2019-10-01.md](./2019-10-01.md) |
 | 2019-07-23 | 2019-09-30 | [2019-07-23.md](./2019-07-23.md) |
 | 2019-06-28 | 2019-07-22 | [2019-06-28.md](./2019-06-28.md) |
@@ -47,10 +46,8 @@ state_count: 36
 | 2012-12-01 | 2012-12-31 | [2012-12-01.md](./2012-12-01.md) |
 | 2012-07-06 | 2012-11-30 | [2012-07-06.md](./2012-07-06.md) |
 | 2012-05-01 | 2012-07-05 | [2012-05-01.md](./2012-05-01.md) |
-| 2012-05-01 | 2012-07-05 | [2012-05-01.md](./2012-05-01.md) |
 | 2012-02-29 | 2012-04-30 | [2012-02-29.md](./2012-02-29.md) |
 | 2010-01-16 | 2012-02-28 | [2010-01-16.md](./2010-01-16.md) |
-| 2009-01-01 | 2010-01-15 | [2009-01-01.md](./2009-01-01.md) |
 | 2009-01-01 | 2010-01-15 | [2009-01-01.md](./2009-01-01.md) |
 | 2008-02-01 | 2008-12-31 | [2008-02-01.md](./2008-02-01.md) |
 | 2007-06-01 | 2008-01-31 | [2007-06-01.md](./2007-06-01.md) |

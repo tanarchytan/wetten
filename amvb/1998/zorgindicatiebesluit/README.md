@@ -6,7 +6,7 @@ title: Besluit van 2 oktober 1997, houdende regels met betrekking tot het werkte
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: ZIB
 latest_state: "2014-04-16"
-state_count: 21
+state_count: 18
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 21
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** ZIB
-**ELI:** [/eli/nl/amvb/1998/zorgindicatiebesluit](https://wetten.ai/eli/nl/amvb/1998/zorgindicatiebesluit)
+**ELI:** [/eli/nl/amvb/1998/zorgindicatiebesluit](https://wettenbank.online/eli/nl/amvb/1998/zorgindicatiebesluit)
 
 ## Versies
 
@@ -25,13 +25,10 @@ state_count: 21
 |---|---|---|
 | 2014-04-16 | 2014-12-31 | [2014-04-16.md](./2014-04-16.md) |
 | 2013-01-01 | 2014-04-15 | [2013-01-01.md](./2013-01-01.md) |
-| 2013-01-01 | 2014-04-15 | [2013-01-01.md](./2013-01-01.md) |
 | 2012-12-19 | 2012-12-31 | [2012-12-19.md](./2012-12-19.md) |
 | 2012-01-01 | 2012-12-18 | [2012-01-01.md](./2012-01-01.md) |
 | 2011-11-11 | 2011-12-31 | [2011-11-11.md](./2011-11-11.md) |
 | 2011-10-01 | 2011-11-10 | [2011-10-01.md](./2011-10-01.md) |
-| 2011-10-01 | 2011-11-10 | [2011-10-01.md](./2011-10-01.md) |
-| 2011-04-18 | 2011-09-30 | [2011-04-18.md](./2011-04-18.md) |
 | 2011-04-18 | 2011-09-30 | [2011-04-18.md](./2011-04-18.md) |
 | 2011-01-01 | 2011-04-17 | [2011-01-01.md](./2011-01-01.md) |
 | 2009-01-01 | 2010-12-31 | [2009-01-01.md](./2009-01-01.md) |

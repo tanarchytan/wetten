@@ -6,7 +6,7 @@ title: Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 17�
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2021-07-06"
-state_count: 5
+state_count: 4
 ---
 
 
@@ -16,14 +16,13 @@ state_count: 5
 **Citeertitel:** Beleidsregel ‘Buiteninvorderingstelling lesgeld asielzoekers en bepaalde categorieën vreemdelingen’ ex artikel 9b Les- en cursusgeldwet
 **Type:** beleidsregel
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/beleidsregel/2010/beleidsregel-buiteninvorderingstelling-lesgeld-asielzoekers-](https://wetten.ai/eli/nl/beleidsregel/2010/beleidsregel-buiteninvorderingstelling-lesgeld-asielzoekers-)
+**ELI:** [/eli/nl/beleidsregel/2010/beleidsregel-buiteninvorderingstelling-lesgeld-asielzoekers-](https://wettenbank.online/eli/nl/beleidsregel/2010/beleidsregel-buiteninvorderingstelling-lesgeld-asielzoekers-)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2021-07-06 | heden | [2021-07-06.md](./2021-07-06.md) |
-| 2020-09-01 | 2021-07-05 | [2020-09-01.md](./2020-09-01.md) |
 | 2020-09-01 | 2021-07-05 | [2020-09-01.md](./2020-09-01.md) |
 | 2013-12-24 | 2020-08-31 | [2013-12-24.md](./2013-12-24.md) |
 | 2010-01-01 | 2013-12-23 | [2010-01-01.md](./2010-01-01.md) |

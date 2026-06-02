@@ -6,7 +6,7 @@ title: Besluit van de Minister-President, Minister van Algemene Zaken van 12 jul
 ministry: Algemene Zaken
 abbreviation: null
 latest_state: "2017-12-11"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Besluit Organisatiestructuur Ministerie van Algemene Zaken
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Algemene Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2011/besluit-organisatiestructuur-ministerie-van-algemene-zaken](https://wetten.ai/eli/nl/ministeriele-regeling/2011/besluit-organisatiestructuur-ministerie-van-algemene-zaken)
+**ELI:** [/eli/nl/ministeriele-regeling/2011/besluit-organisatiestructuur-ministerie-van-algemene-zaken](https://wettenbank.online/eli/nl/ministeriele-regeling/2011/besluit-organisatiestructuur-ministerie-van-algemene-zaken)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2017-12-11 | 2018-01-26 | [2017-12-11.md](./2017-12-11.md) |
 | 2013-04-24 | 2017-12-10 | [2013-04-24.md](./2013-04-24.md) |
-| 2013-01-01 | 2013-04-23 | [2013-01-01.md](./2013-01-01.md) |
 | 2013-01-01 | 2013-04-23 | [2013-01-01.md](./2013-01-01.md) |
 | 2011-07-30 | 2012-12-31 | [2011-07-30.md](./2011-07-30.md) |
 | 2011-04-01 | 2011-07-29 | [2011-04-01.md](./2011-04-01.md) |

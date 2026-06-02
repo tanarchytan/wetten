@@ -6,7 +6,7 @@ title: Wet van 23 december 2009 tot wijziging van enkele belastingwetten en enig
 ministry: Financiën
 abbreviation: null
 latest_state: "2011-01-01"
-state_count: 12
+state_count: 9
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Overige fiscale maatregelen 2010
 **Type:** wet
 **Verantwoordelijk ministerie:** Financiën
-**ELI:** [/eli/nl/wet/2010/overige-fiscale-maatregelen-2010](https://wetten.ai/eli/nl/wet/2010/overige-fiscale-maatregelen-2010)
+**ELI:** [/eli/nl/wet/2010/overige-fiscale-maatregelen-2010](https://wettenbank.online/eli/nl/wet/2010/overige-fiscale-maatregelen-2010)
 
 ## Versies
 
@@ -24,10 +24,7 @@ state_count: 12
 |---|---|---|
 | 2011-01-01 | heden | [2011-01-01.md](./2011-01-01.md) |
 | 2010-07-04 | 2010-12-31 | [2010-07-04.md](./2010-07-04.md) |
-| 2010-07-04 | 2010-12-31 | [2010-07-04.md](./2010-07-04.md) |
 | 2010-04-01 | 2010-07-03 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-04-01 | 2010-07-03 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2009-12-31 | 2009-12-31 | [2009-12-31.md](./2009-12-31.md) |
 | 2009-09-15 | 2009-12-30 | [2009-09-15.md](./2009-09-15.md) |

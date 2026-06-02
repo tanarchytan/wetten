@@ -6,7 +6,7 @@ title: Wet van 13 november 1969, houdende regelen omtrent de verontreiniging van
 ministry: Infrastructuur en Milieu
 abbreviation: WVOW
 latest_state: "2009-12-03"
-state_count: 19
+state_count: 17
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 19
 **Type:** wet
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
 **Afkorting:** WVOW
-**ELI:** [/eli/nl/wet/1970/wet-verontreiniging-oppervlaktewateren](https://wetten.ai/eli/nl/wet/1970/wet-verontreiniging-oppervlaktewateren)
+**ELI:** [/eli/nl/wet/1970/wet-verontreiniging-oppervlaktewateren](https://wettenbank.online/eli/nl/wet/1970/wet-verontreiniging-oppervlaktewateren)
 
 ## Versies
 
@@ -39,6 +39,4 @@ state_count: 19
 | 2003-05-23 | 2005-03-15 | [2003-05-23.md](./2003-05-23.md) |
 | 2002-07-01 | 2003-05-22 | [2002-07-01.md](./2002-07-01.md) |
 | 2002-05-08 | 2002-06-30 | [2002-05-08.md](./2002-05-08.md) |
-| 2002-05-08 | 2002-06-30 | [2002-05-08.md](./2002-05-08.md) |
-| 2002-01-01 | 2002-05-07 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-05-07 | [2002-01-01.md](./2002-01-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 18 dece
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2011-06-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Regeling behandeling bezwaarschriften OCW
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-behandeling-bezwaarschriften-ocw](https://wetten.ai/eli/nl/ministeriele-regeling/2008/regeling-behandeling-bezwaarschriften-ocw)
+**ELI:** [/eli/nl/ministeriele-regeling/2008/regeling-behandeling-bezwaarschriften-ocw](https://wettenbank.online/eli/nl/ministeriele-regeling/2008/regeling-behandeling-bezwaarschriften-ocw)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2011-06-01 | heden | [2011-06-01.md](./2011-06-01.md) |
 | 2010-04-01 | 2011-05-31 | [2010-04-01.md](./2010-04-01.md) |
-| 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-03-31 | [2010-01-01.md](./2010-01-01.md) |
 | 2008-01-04 | 2009-12-31 | [2008-01-04.md](./2008-01-04.md) |
 | 2008-01-01 | 2008-01-03 | [2008-01-01.md](./2008-01-01.md) |

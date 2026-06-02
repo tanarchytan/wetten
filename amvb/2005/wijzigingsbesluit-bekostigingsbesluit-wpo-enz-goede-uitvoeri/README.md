@@ -6,7 +6,7 @@ title: Besluit van 29 augustus 2005, houdende wijziging van enkele besluiten op 
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2005-12-07"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Wijzigingsbesluit Bekostigingsbesluit WPO, enz. (goede uitvoering wettelijke bepalingen leerlinggebonden financiering)
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/2005/wijzigingsbesluit-bekostigingsbesluit-wpo-enz-goede-uitvoeri](https://wetten.ai/eli/nl/amvb/2005/wijzigingsbesluit-bekostigingsbesluit-wpo-enz-goede-uitvoeri)
+**ELI:** [/eli/nl/amvb/2005/wijzigingsbesluit-bekostigingsbesluit-wpo-enz-goede-uitvoeri](https://wettenbank.online/eli/nl/amvb/2005/wijzigingsbesluit-bekostigingsbesluit-wpo-enz-goede-uitvoeri)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2005-12-07 | 2022-03-31 | [2005-12-07.md](./2005-12-07.md) |
-| 2005-09-14 | 2005-12-06 | [2005-09-14.md](./2005-09-14.md) |
 | 2005-09-14 | 2005-12-06 | [2005-09-14.md](./2005-09-14.md) |
 | 2005-08-01 | 2005-09-13 | [2005-08-01.md](./2005-08-01.md) |

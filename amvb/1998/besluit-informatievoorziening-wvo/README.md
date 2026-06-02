@@ -6,7 +6,7 @@ title: Besluit van 3 oktober 1997, houdende bepalingen inzake de wijze van orden
 ministry: Onderwijs, Cultuur en Wetenschap
 abbreviation: null
 latest_state: "2019-03-15"
-state_count: 12
+state_count: 11
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 12
 **Citeertitel:** Besluit informatievoorziening WVO
 **Type:** amvb
 **Verantwoordelijk ministerie:** Onderwijs, Cultuur en Wetenschap
-**ELI:** [/eli/nl/amvb/1998/besluit-informatievoorziening-wvo](https://wetten.ai/eli/nl/amvb/1998/besluit-informatievoorziening-wvo)
+**ELI:** [/eli/nl/amvb/1998/besluit-informatievoorziening-wvo](https://wettenbank.online/eli/nl/amvb/1998/besluit-informatievoorziening-wvo)
 
 ## Versies
 
@@ -29,7 +29,6 @@ state_count: 12
 | 2014-01-01 | 2014-12-31 | [2014-01-01.md](./2014-01-01.md) |
 | 2011-01-01 | 2013-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-04-28 | 2010-12-31 | [2010-04-28.md](./2010-04-28.md) |
-| 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
 | 2010-01-01 | 2010-04-27 | [2010-01-01.md](./2010-01-01.md) |
 | 2008-08-01 | 2009-12-31 | [2008-08-01.md](./2008-08-01.md) |
 | 2005-06-24 | 2008-07-31 | [2005-06-24.md](./2005-06-24.md) |

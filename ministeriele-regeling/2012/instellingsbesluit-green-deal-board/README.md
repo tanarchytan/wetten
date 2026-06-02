@@ -6,7 +6,7 @@ title: Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 
 ministry: Economische Zaken
 abbreviation: null
 latest_state: "2017-05-01"
-state_count: 6
+state_count: 5
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 6
 **Citeertitel:** Instellingsbesluit Green Deal Board
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken
-**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-green-deal-board](https://wetten.ai/eli/nl/ministeriele-regeling/2012/instellingsbesluit-green-deal-board)
+**ELI:** [/eli/nl/ministeriele-regeling/2012/instellingsbesluit-green-deal-board](https://wettenbank.online/eli/nl/ministeriele-regeling/2012/instellingsbesluit-green-deal-board)
 
 ## Versies
 
@@ -24,7 +24,6 @@ state_count: 6
 |---|---|---|
 | 2017-05-01 | 2017-12-31 | [2017-05-01.md](./2017-05-01.md) |
 | 2014-11-12 | 2017-04-30 | [2014-11-12.md](./2014-11-12.md) |
-| 2014-11-01 | 2014-11-11 | [2014-11-01.md](./2014-11-01.md) |
 | 2014-11-01 | 2014-11-11 | [2014-11-01.md](./2014-11-01.md) |
 | 2012-04-21 | 2014-10-31 | [2012-04-21.md](./2012-04-21.md) |
 | 2012-01-01 | 2012-04-20 | [2012-01-01.md](./2012-01-01.md) |

@@ -6,7 +6,7 @@ title: "Micro Light Aeroplanes (Regeling MLA's)"
 ministry: Infrastructuur en Milieu
 abbreviation: null
 latest_state: "2019-10-11"
-state_count: 18
+state_count: 14
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 18
 **Citeertitel:** Regeling MLA’s, MLH’s en schermvliegtuigen
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Infrastructuur en Milieu
-**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-mla-s-mlh-s-en-schermvliegtuigen](https://wetten.ai/eli/nl/ministeriele-regeling/2003/regeling-mla-s-mlh-s-en-schermvliegtuigen)
+**ELI:** [/eli/nl/ministeriele-regeling/2003/regeling-mla-s-mlh-s-en-schermvliegtuigen](https://wettenbank.online/eli/nl/ministeriele-regeling/2003/regeling-mla-s-mlh-s-en-schermvliegtuigen)
 
 ## Versies
 
@@ -33,10 +33,6 @@ state_count: 18
 | 2005-03-26 | 2005-04-30 | [2005-03-26.md](./2005-03-26.md) |
 | 2004-06-23 | 2005-03-25 | [2004-06-23.md](./2004-06-23.md) |
 | 2004-03-06 | 2004-06-22 | [2004-03-06.md](./2004-03-06.md) |
-| 2004-03-06 | 2004-06-22 | [2004-03-06.md](./2004-03-06.md) |
 | 2004-03-01 | 2004-03-05 | [2004-03-01.md](./2004-03-01.md) |
-| 2004-03-01 | 2004-03-05 | [2004-03-01.md](./2004-03-01.md) |
-| 2004-03-01 | 2004-03-05 | [2004-03-01.md](./2004-03-01.md) |
-| 2004-01-03 | 2004-02-29 | [2004-01-03.md](./2004-01-03.md) |
 | 2004-01-03 | 2004-02-29 | [2004-01-03.md](./2004-01-03.md) |
 | 2003-07-03 | 2004-01-02 | [2003-07-03.md](./2003-07-03.md) |

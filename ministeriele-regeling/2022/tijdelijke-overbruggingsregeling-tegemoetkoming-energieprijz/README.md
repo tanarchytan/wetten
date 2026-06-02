@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Klimaat en Energie van 17 oktober 2022, nr.
 ministry: Economische Zaken en Klimaat
 abbreviation: null
 latest_state: "2022-12-03"
-state_count: 4
+state_count: 3
 ---
 
 
@@ -16,13 +16,12 @@ state_count: 4
 **Citeertitel:** Tijdelijke overbruggingsregeling tegemoetkoming energieprijzen kleinverbruikers 2022
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Economische Zaken en Klimaat
-**ELI:** [/eli/nl/ministeriele-regeling/2022/tijdelijke-overbruggingsregeling-tegemoetkoming-energieprijz](https://wetten.ai/eli/nl/ministeriele-regeling/2022/tijdelijke-overbruggingsregeling-tegemoetkoming-energieprijz)
+**ELI:** [/eli/nl/ministeriele-regeling/2022/tijdelijke-overbruggingsregeling-tegemoetkoming-energieprijz](https://wettenbank.online/eli/nl/ministeriele-regeling/2022/tijdelijke-overbruggingsregeling-tegemoetkoming-energieprijz)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2022-12-03 | 2024-12-31 | [2022-12-03.md](./2022-12-03.md) |
-| 2022-10-19 | 2022-12-02 | [2022-10-19.md](./2022-10-19.md) |
 | 2022-10-19 | 2022-12-02 | [2022-10-19.md](./2022-10-19.md) |
 | 2022-10-18 | 2022-10-18 | [2022-10-18.md](./2022-10-18.md) |

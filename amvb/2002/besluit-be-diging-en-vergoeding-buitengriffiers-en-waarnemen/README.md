@@ -6,7 +6,7 @@ title: Besluit van 10 december 2001, houdende bepalingen inzake het afleggen van
 ministry: Veiligheid en Justitie
 abbreviation: Bbvbwg
 latest_state: "2020-02-15"
-state_count: 10
+state_count: 9
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 10
 **Type:** amvb
 **Verantwoordelijk ministerie:** Veiligheid en Justitie
 **Afkorting:** Bbvbwg
-**ELI:** [/eli/nl/amvb/2002/besluit-be-diging-en-vergoeding-buitengriffiers-en-waarnemen](https://wetten.ai/eli/nl/amvb/2002/besluit-be-diging-en-vergoeding-buitengriffiers-en-waarnemen)
+**ELI:** [/eli/nl/amvb/2002/besluit-be-diging-en-vergoeding-buitengriffiers-en-waarnemen](https://wettenbank.online/eli/nl/amvb/2002/besluit-be-diging-en-vergoeding-buitengriffiers-en-waarnemen)
 
 ## Versies
 
@@ -27,7 +27,6 @@ state_count: 10
 | 2020-01-01 | 2020-02-14 | [2020-01-01.md](./2020-01-01.md) |
 | 2017-01-01 | 2019-12-31 | [2017-01-01.md](./2017-01-01.md) |
 | 2013-01-01 | 2016-12-31 | [2013-01-01.md](./2013-01-01.md) |
-| 2011-01-01 | 2012-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2011-01-01 | 2012-12-31 | [2011-01-01.md](./2011-01-01.md) |
 | 2010-07-01 | 2010-12-31 | [2010-07-01.md](./2010-07-01.md) |
 | 2004-07-01 | 2010-06-30 | [2004-07-01.md](./2004-07-01.md) |

@@ -6,7 +6,7 @@ title: Regeling van de Minister voor Vreemdelingenzaken en Integratie van 14 fe
 ministry: Sociale Zaken en Werkgelegenheid
 abbreviation: null
 latest_state: "2023-05-18"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -16,7 +16,7 @@ state_count: 9
 **Citeertitel:** Examenprogramma basisexamen inburgering
 **Type:** ministeriele-regeling
 **Verantwoordelijk ministerie:** Sociale Zaken en Werkgelegenheid
-**ELI:** [/eli/nl/ministeriele-regeling/2006/examenprogramma-basisexamen-inburgering](https://wetten.ai/eli/nl/ministeriele-regeling/2006/examenprogramma-basisexamen-inburgering)
+**ELI:** [/eli/nl/ministeriele-regeling/2006/examenprogramma-basisexamen-inburgering](https://wettenbank.online/eli/nl/ministeriele-regeling/2006/examenprogramma-basisexamen-inburgering)
 
 ## Versies
 
@@ -24,10 +24,8 @@ state_count: 9
 |---|---|---|
 | 2023-05-18 | heden | [2023-05-18.md](./2023-05-18.md) |
 | 2023-05-01 | 2023-05-17 | [2023-05-01.md](./2023-05-01.md) |
-| 2023-05-01 | 2023-05-17 | [2023-05-01.md](./2023-05-01.md) |
 | 2016-01-01 | 2023-04-30 | [2016-01-01.md](./2016-01-01.md) |
 | 2014-12-12 | 2015-12-31 | [2014-12-12.md](./2014-12-12.md) |
-| 2014-11-01 | 2014-12-11 | [2014-11-01.md](./2014-11-01.md) |
 | 2014-11-01 | 2014-12-11 | [2014-11-01.md](./2014-11-01.md) |
 | 2011-04-01 | 2014-10-31 | [2011-04-01.md](./2011-04-01.md) |
 | 2006-03-15 | 2011-03-31 | [2006-03-15.md](./2006-03-15.md) |

@@ -6,7 +6,7 @@ title: Wet van 9 mei 1985, houdende regelen met betrekking tot de inrichting van
 ministry: Economische Zaken
 abbreviation: LIW
 latest_state: "2006-03-08"
-state_count: 9
+state_count: 7
 ---
 
 
@@ -17,7 +17,7 @@ state_count: 9
 **Type:** wet
 **Verantwoordelijk ministerie:** Economische Zaken
 **Afkorting:** LIW
-**ELI:** [/eli/nl/wet/1985/landinrichtingswet](https://wetten.ai/eli/nl/wet/1985/landinrichtingswet)
+**ELI:** [/eli/nl/wet/1985/landinrichtingswet](https://wettenbank.online/eli/nl/wet/1985/landinrichtingswet)
 
 ## Versies
 
@@ -29,6 +29,4 @@ state_count: 9
 | 2004-07-01 | 2005-06-30 | [2004-07-01.md](./2004-07-01.md) |
 | 2004-05-28 | 2004-06-30 | [2004-05-28.md](./2004-05-28.md) |
 | 2003-01-01 | 2004-05-27 | [2003-01-01.md](./2003-01-01.md) |
-| 2003-01-01 | 2004-05-27 | [2003-01-01.md](./2003-01-01.md) |
-| 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |
 | 2002-01-01 | 2002-12-31 | [2002-01-01.md](./2002-01-01.md) |

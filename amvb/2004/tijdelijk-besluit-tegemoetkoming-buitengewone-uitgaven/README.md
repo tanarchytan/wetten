@@ -6,7 +6,7 @@ title: Besluit van 29 maart 2004, houdende tijdelijke regels inzake het verstrek
 ministry: Volksgezondheid, Welzijn en Sport
 abbreviation: Tbtbu
 latest_state: "2006-01-01"
-state_count: 3
+state_count: 2
 ---
 
 
@@ -17,12 +17,11 @@ state_count: 3
 **Type:** amvb
 **Verantwoordelijk ministerie:** Volksgezondheid, Welzijn en Sport
 **Afkorting:** Tbtbu
-**ELI:** [/eli/nl/amvb/2004/tijdelijk-besluit-tegemoetkoming-buitengewone-uitgaven](https://wetten.ai/eli/nl/amvb/2004/tijdelijk-besluit-tegemoetkoming-buitengewone-uitgaven)
+**ELI:** [/eli/nl/amvb/2004/tijdelijk-besluit-tegemoetkoming-buitengewone-uitgaven](https://wettenbank.online/eli/nl/amvb/2004/tijdelijk-besluit-tegemoetkoming-buitengewone-uitgaven)
 
 ## Versies
 
 | Geldend van | Geldend tot | Bestand |
 |---|---|---|
 | 2006-01-01 | 2008-12-31 | [2006-01-01.md](./2006-01-01.md) |
-| 2004-04-16 | 2005-12-31 | [2004-04-16.md](./2004-04-16.md) |
 | 2004-04-16 | 2005-12-31 | [2004-04-16.md](./2004-04-16.md) |
